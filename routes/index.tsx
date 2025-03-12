@@ -1,5 +1,3 @@
-import { Client } from "../islands/Client.tsx"
-
 export default function Home() {
-	return <Client />
+	return <h1>Hello World</h1>
 }
