@@ -1,0 +1,15 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:preact@*": "10.26.4",
+    "npm:react@*": "19.0.0"
+  },
+  "npm": {
+    "preact@10.26.4": {
+      "integrity": "sha512-KJhO7LBFTjP71d83trW+Ilnjbo+ySsaAgCfXOXUlmGzJ4ygYPWmysm77yg4emwfmoz3b22yvH5IsVFHbhUaH5w=="
+    },
+    "react@19.0.0": {
+      "integrity": "sha512-V8AVnmPIICiWpGfm6GLzCR/W5FXLchHop40W4nXBmdlEceh16rCN8O8LNWm5bh5XUX91fh7KpA+W0TgMKmgTpQ=="
+    }
+  }
+}
