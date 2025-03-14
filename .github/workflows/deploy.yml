@@ -29,8 +29,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "endy-minigame-38"
+          project: "mathgame"
           entrypoint: "main.ts"
           root: "."
           
-          exclude: *py,*.md,*.xlsx
+          
