@@ -35,7 +35,7 @@ export default function Home() {
 						Thách đấu với bạn bè!
 					</p>
 				</Mode>
-				<Mode accent="#000" href="/test">
+				<Mode accent="#000" href="/browser">
 					<strong class="text-2xl">
 						Kiểm tra câu hỏi
 					</strong>

@@ -12,6 +12,7 @@ interface Question {
 	d: string | number | null
 	answer: string | number
 	explanation: string | null
+	id: number
 }
 
 type QuestionBrowserProps = {
@@ -91,8 +92,11 @@ export default function QuestionBrowser(props: QuestionBrowserProps) {
 					)
 					: <div className="p-2 rounded bg-blue-300">Answer: {renderMathText(question.answer?.toString())}</div>}
 				{question.explanation?.split("\n").map((line, i) => (
-					<p key={i} class="text-gray-400 whitespace-pre-wrap leading-tight">{renderMathText(line)}</p>
+					<p key={i} class="text-gray-600 whitespace-pre-wrap leading-tight">{renderMathText(line)}</p>
 				))}
+				<span className="text-sm text-gray-400">
+					#{index.value + 1}/{question.id}
+				</span>
 			</div>
 		</div>
 	)

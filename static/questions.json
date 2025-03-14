@@ -8,7 +8,8 @@
 		"c": null,
 		"d": null,
 		"answer": 10,
-		"explanation": "Đường đi 1 → 3 → 2 → 5 hoặc 1 → 3 → 4 → 5"
+		"explanation": "Đường đi 1 → 3 → 2 → 5 hoặc 1 → 3 → 4 → 5",
+		"id": 1
 	},
 	{
 		"difficulty": 2.0,
@@ -19,7 +20,8 @@
 		"c": null,
 		"d": null,
 		"answer": 50,
-		"explanation": "Trong mỗi giỏ số lê gấp đôi số táo vì vậy cửa hàng sẽ có $25 * 2 = 50$ quả lê"
+		"explanation": "Trong mỗi giỏ số lê gấp đôi số táo vì vậy cửa hàng sẽ có $25 * 2 = 50$ quả lê",
+		"id": 7
 	},
 	{
 		"difficulty": 3.0,
@@ -30,7 +32,8 @@
 		"c": 69,
 		"d": 72,
 		"answer": "C",
-		"explanation": "Quy luật:\n$7 + 2^1 = 9$\n$9 + 2^2 = 13$\n$13 + 2^3 = 21$\n$21 + 2^4 = 37$\nSuy ra, số cần tìm là $37 + 2^5 = 69$"
+		"explanation": "Quy luật:\n$7 + 2^1 = 9$\n$9 + 2^2 = 13$\n$13 + 2^3 = 21$\n$21 + 2^4 = 37$\nSuy ra, số cần tìm là $37 + 2^5 = 69$",
+		"id": 12
 	},
 	{
 		"difficulty": 3.0,
@@ -41,7 +44,8 @@
 		"c": 35,
 		"d": 37,
 		"answer": "A",
-		"explanation": "Quy luật:\n$1 + (2 x 1) = 3$\n$3 + (2 x 2) = 7$\n$7 + (2 x 3) = 13$\n$13 + (2 x 4) = 21$\nSuy ra, số cần tìm là $21 + (2 x 5) = 31$"
+		"explanation": "Quy luật:\n$1 + (2 x 1) = 3$\n$3 + (2 x 2) = 7$\n$7 + (2 x 3) = 13$\n$13 + (2 x 4) = 21$\nSuy ra, số cần tìm là $21 + (2 x 5) = 31$",
+		"id": 14
 	},
 	{
 		"difficulty": 3.0,
@@ -52,7 +56,8 @@
 		"c": 67,
 		"d": 72,
 		"answer": "C",
-		"explanation": "Quy luật:\n$2 + (4 x 1 + 1) = 7$\n$7 + (4 x 2 + 1) = 16$\n$16 + (4 x 3 + 1) = 29$\n$29 + (4 x 4 + 1) = 46$\nSuy ra, số cần tìm là $46 + (4 x 5 + 1) = 67$"
+		"explanation": "Quy luật:\n$2 + (4 x 1 + 1) = 7$\n$7 + (4 x 2 + 1) = 16$\n$16 + (4 x 3 + 1) = 29$\n$29 + (4 x 4 + 1) = 46$\nSuy ra, số cần tìm là $46 + (4 x 5 + 1) = 67$",
+		"id": 15
 	},
 	{
 		"difficulty": 4.0,
@@ -63,7 +68,8 @@
 		"c": 38,
 		"d": 39,
 		"answer": "C",
-		"explanation": "Quy luật:\n$1^2 + 2 = 3$\n$2^2 + 2 = 6$\n$3^2 + 2 = 11$\n$4^2 + 2 + 18$\n$5^2 + 2 = 27$\nSuy ra, số cần tìm là $6^2 + 2 = 38$"
+		"explanation": "Quy luật:\n$1^2 + 2 = 3$\n$2^2 + 2 = 6$\n$3^2 + 2 = 11$\n$4^2 + 2 + 18$\n$5^2 + 2 = 27$\nSuy ra, số cần tìm là $6^2 + 2 = 38$",
+		"id": 16
 	},
 	{
 		"difficulty": 5.0,
@@ -74,7 +80,8 @@
 		"c": "062",
 		"d": 102,
 		"answer": "A",
-		"explanation": "Đáp án là A. Vì:\n• số 682 có 1 số đúng và được dặt đúng chỗ, nhưng số 614 có 1 số đúng nhưng đặt sai chỗ, và số 6 giữ nguyên vị trí → loại số 6\n• số 780 có một số đúng nhưng sai vị trí, nhưng số 738 lại không có sỗ nào đúng → đáp án có số 0 nằm ở vị trí đầu tiên hoặc ở giữa\n• số 206 đã có số 6 bị loại → đáp án có số 0 và 2, đồng thời ta biết được số 0 cũng không ở giữa → 0 là số đầu tiên của mật mã\n• số 682 có một số đúng và được đặt đúng chỗ. Ta biết có số 2 trong mật mã → số 2 là số thứ 3\n• Ta biết mật khẩu còn thiếu số ở giữa, và số 614 có một số đúng nhưng được đặt sai vị trí. Ta đã loại được số 6, Nếu đáp án là số 1 thì không hợp lí, vì vị trí của nó đang ở giữa → số còn lại là số 4\nVậy, đáp án là 042"
+		"explanation": "Đáp án là A. Vì:\n• số 682 có 1 số đúng và được dặt đúng chỗ, nhưng số 614 có 1 số đúng nhưng đặt sai chỗ, và số 6 giữ nguyên vị trí → loại số 6\n• số 780 có một số đúng nhưng sai vị trí, nhưng số 738 lại không có sỗ nào đúng → đáp án có số 0 nằm ở vị trí đầu tiên hoặc ở giữa\n• số 206 đã có số 6 bị loại → đáp án có số 0 và 2, đồng thời ta biết được số 0 cũng không ở giữa → 0 là số đầu tiên của mật mã\n• số 682 có một số đúng và được đặt đúng chỗ. Ta biết có số 2 trong mật mã → số 2 là số thứ 3\n• Ta biết mật khẩu còn thiếu số ở giữa, và số 614 có một số đúng nhưng được đặt sai vị trí. Ta đã loại được số 6, Nếu đáp án là số 1 thì không hợp lí, vì vị trí của nó đang ở giữa → số còn lại là số 4\nVậy, đáp án là 042",
+		"id": 19
 	},
 	{
 		"difficulty": 2.0,
@@ -85,7 +92,8 @@
 		"c": 3,
 		"d": 4,
 		"answer": "C",
-		"explanation": null
+		"explanation": null,
+		"id": 20
 	},
 	{
 		"difficulty": 3.0,
@@ -96,7 +104,8 @@
 		"c": 4,
 		"d": 5,
 		"answer": "A",
-		"explanation": "Lần cân thứ nhất: Bạn lấy 9 đồng vàng, chia làm 3 phần, mỗi phần 3 đồng vàng. Sau đó, đưa 2 phần bất kỳ lên bàn cân. Phần nào nhẹ hơn chứng tỏ có chứa tiền giả. Nếu cả 2 phần vàng đều có trọng lượng bằng nhau thì phần không cân là phần chứa đồng vàng giả.\nLần cân thứ hai: Trong lần cân đầu tiên, đã xác định được phần có chứa 1 đồng vàng giả. Tương tự như trên, ta cân 2 đồng vàng bất kỳ, nếu đồng vàng nào nhẹ hơn là đồng giả. Nếu 2 đồng cân đối, thì đồng còn lại không cân là giả."
+		"explanation": "Lần cân thứ nhất: Bạn lấy 9 đồng vàng, chia làm 3 phần, mỗi phần 3 đồng vàng. Sau đó, đưa 2 phần bất kỳ lên bàn cân. Phần nào nhẹ hơn chứng tỏ có chứa tiền giả. Nếu cả 2 phần vàng đều có trọng lượng bằng nhau thì phần không cân là phần chứa đồng vàng giả.\nLần cân thứ hai: Trong lần cân đầu tiên, đã xác định được phần có chứa 1 đồng vàng giả. Tương tự như trên, ta cân 2 đồng vàng bất kỳ, nếu đồng vàng nào nhẹ hơn là đồng giả. Nếu 2 đồng cân đối, thì đồng còn lại không cân là giả.",
+		"id": 21
 	},
 	{
 		"difficulty": 2.0,
@@ -107,7 +116,8 @@
 		"c": "thứ sáu",
 		"d": "thứ năm",
 		"answer": "A",
-		"explanation": "6 ngày đầu tiên ốc sên sẽ leo được 6m, đến ngày chủ nhật leo thêm được 4m, vậy chiều hôm chủ nhật ốc sẽ leo lên được tới đỉnh."
+		"explanation": "6 ngày đầu tiên ốc sên sẽ leo được 6m, đến ngày chủ nhật leo thêm được 4m, vậy chiều hôm chủ nhật ốc sẽ leo lên được tới đỉnh.",
+		"id": 24
 	},
 	{
 		"difficulty": 2.0,
@@ -118,7 +128,8 @@
 		"c": 30,
 		"d": 35,
 		"answer": "B",
-		"explanation": "29 phút. Anh ta cần cưa 4 lần, nhưng anh ta chỉ cần nghỉ 3 lần vì sau khi cưa xong lần thứ 4, anh ấy đã hoàn thành mà không cần nghỉ thêm. Vậy đáp án là $4*5 + 3*3$"
+		"explanation": "29 phút. Anh ta cần cưa 4 lần, nhưng anh ta chỉ cần nghỉ 3 lần vì sau khi cưa xong lần thứ 4, anh ấy đã hoàn thành mà không cần nghỉ thêm. Vậy đáp án là $4*5 + 3*3$",
+		"id": 25
 	},
 	{
 		"difficulty": 3.0,
@@ -129,7 +140,8 @@
 		"c": 42,
 		"d": 35,
 		"answer": "A",
-		"explanation": "Ta lấy số trước nhân 2 rồi trừ 1 sẽ ra số sau liền kề.\n$4 x 2 – 1 = 7$\n$7 x 2 – 1 = 13$\n$13 x 2 – 1 = 25$\n$25 x 2 – 1 = 49$"
+		"explanation": "Ta lấy số trước nhân 2 rồi trừ 1 sẽ ra số sau liền kề.\n$4 x 2 – 1 = 7$\n$7 x 2 – 1 = 13$\n$13 x 2 – 1 = 25$\n$25 x 2 – 1 = 49$",
+		"id": 27
 	},
 	{
 		"difficulty": 3.0,
@@ -140,7 +152,8 @@
 		"c": 1735948800000,
 		"d": 1736035200000,
 		"answer": "B",
-		"explanation": "Hoàng không có, vậy khả năng 1 trong ba người còn lại có là 1\/3"
+		"explanation": "Hoàng không có, vậy khả năng 1 trong ba người còn lại có là 1\/3",
+		"id": 30
 	},
 	{
 		"difficulty": 1.0,
@@ -151,7 +164,8 @@
 		"c": "6\/6-15",
 		"d": "-6\/6+15",
 		"answer": "-6\/6+15",
-		"explanation": null
+		"explanation": null,
+		"id": 31
 	},
 	{
 		"difficulty": 1.0,
@@ -162,7 +176,8 @@
 		"c": null,
 		"d": null,
 		"answer": 2,
-		"explanation": null
+		"explanation": null,
+		"id": 34
 	},
 	{
 		"difficulty": 3.0,
@@ -173,7 +188,8 @@
 		"c": 15,
 		"d": 17,
 		"answer": "A",
-		"explanation": "Gọi số tuổi Mai là a, tuổi bố là b.\n4 năm trước tuổi bố gấp 5 lần tuổi Mai nên ta có:\n$5(a - 4) = b - 4 \\Lrarr 5a = b + 16$ (*)\n3 năm sau tuổi bố gấp 3 lần tuổi Mai nên ta có: \n$3(a + 3) = b + 3 \\Lrarr 3a = b - 6$ (**)\nTừ (*) và (**) $\\Rarr 5a - 3a = b + 16 - b + 6 \\Lrarr 2a=22$\n=> $a = 22 \/ 2 = 11$"
+		"explanation": "Gọi số tuổi Mai là a, tuổi bố là b.\n4 năm trước tuổi bố gấp 5 lần tuổi Mai nên ta có:\n$5(a - 4) = b - 4 \\Lrarr 5a = b + 16$ (*)\n3 năm sau tuổi bố gấp 3 lần tuổi Mai nên ta có: \n$3(a + 3) = b + 3 \\Lrarr 3a = b - 6$ (**)\nTừ (*) và (**) $\\Rarr 5a - 3a = b + 16 - b + 6 \\Lrarr 2a=22$\n=> $a = 22 \/ 2 = 11$",
+		"id": 36
 	},
 	{
 		"difficulty": 1.0,
@@ -184,7 +200,8 @@
 		"c": null,
 		"d": null,
 		"answer": 16,
-		"explanation": "Các số chia hết cho 10 đều có 1 số 0, riêng số 100 có 2 số 0 nên có 16 số 0 tổng"
+		"explanation": "Các số chia hết cho 10 đều có 1 số 0, riêng số 100 có 2 số 0 nên có 16 số 0 tổng",
+		"id": 37
 	},
 	{
 		"difficulty": 1.0,
@@ -195,7 +212,8 @@
 		"c": "Thứ sáu",
 		"d": "Thứ 7",
 		"answer": "C",
-		"explanation": "Mỗi năm, thứ của một ngày tăng lên 1 (vì 365 \/ 7 dư 1), riêng năm 2028 là năm nhuận nên tăng 2 → ngày 22\/3\/2030 là T6"
+		"explanation": "Mỗi năm, thứ của một ngày tăng lên 1 (vì 365 \/ 7 dư 1), riêng năm 2028 là năm nhuận nên tăng 2 → ngày 22\/3\/2030 là T6",
+		"id": 38
 	},
 	{
 		"difficulty": 1.0,
@@ -206,7 +224,8 @@
 		"c": null,
 		"d": null,
 		"answer": 0,
-		"explanation": "Tuy tỉ lệ xảy ra thấp, nhưng với đủ may mắn thì Long có thể quay ra được nhân vật chỉ với 50 vé có sẵn"
+		"explanation": "Tuy tỉ lệ xảy ra thấp, nhưng với đủ may mắn thì Long có thể quay ra được nhân vật chỉ với 50 vé có sẵn",
+		"id": 39
 	},
 	{
 		"difficulty": 3.0,
@@ -217,7 +236,8 @@
 		"c": 50,
 		"d": 49,
 		"answer": "A",
-		"explanation": "$a^2+b^2=(a+b)^2−2ab = 10^2−2*21 = 100−42 = 58$"
+		"explanation": "$a^2+b^2=(a+b)^2−2ab = 10^2−2*21 = 100−42 = 58$",
+		"id": 43
 	},
 	{
 		"difficulty": 1.0,
@@ -228,7 +248,8 @@
 		"c": 12,
 		"d": 8,
 		"answer": "B",
-		"explanation": "FORTY - đây là số duy nhất được viết theo thứ tự bảng chữ cái trong tiếng Anh."
+		"explanation": "FORTY - đây là số duy nhất được viết theo thứ tự bảng chữ cái trong tiếng Anh.",
+		"id": 44
 	},
 	{
 		"difficulty": 1.0,
@@ -239,7 +260,8 @@
 		"c": null,
 		"d": null,
 		"answer": 60,
-		"explanation": "Hoàng 1 tháng tuổi, ông lớn hơn 720 lần → ông 720 tháng tuổi = 60 tuổi"
+		"explanation": "Hoàng 1 tháng tuổi, ông lớn hơn 720 lần → ông 720 tháng tuổi = 60 tuổi",
+		"id": 45
 	},
 	{
 		"difficulty": 2.0,
@@ -250,7 +272,8 @@
 		"c": -40,
 		"d": -32,
 		"answer": "C",
-		"explanation": "$F=C*1.8+32$\nTa có: $(-40)*1.8+32=(-40)$"
+		"explanation": "$F=C*1.8+32$\nTa có: $(-40)*1.8+32=(-40)$",
+		"id": 46
 	},
 	{
 		"difficulty": 2.0,
@@ -261,7 +284,8 @@
 		"c": "51, 53, 57, 59, 61",
 		"d": "67, 71, 73, 75, 77",
 		"answer": "C",
-		"explanation": "Số nguyên tố là số chỉ có hai ước duy nhất là 1 và chính nó.\nCâu A: 1 không phải là số nguyên tố (vì nó chỉ có 1 ước là 1)\nCâu B: 21 không phải là số nguyên tố (vì nó có 4 ước là 1, 3, 7, 21)\nCâu D: 77 không phải là số nguyên tố (vì nó có 4 ước là 1, 7, 11, 77)"
+		"explanation": "Số nguyên tố là số chỉ có hai ước duy nhất là 1 và chính nó.\nCâu A: 1 không phải là số nguyên tố (vì nó chỉ có 1 ước là 1)\nCâu B: 21 không phải là số nguyên tố (vì nó có 4 ước là 1, 3, 7, 21)\nCâu D: 77 không phải là số nguyên tố (vì nó có 4 ước là 1, 7, 11, 77)",
+		"id": 48
 	},
 	{
 		"difficulty": 4.0,
@@ -272,7 +296,8 @@
 		"c": null,
 		"d": null,
 		"answer": 29,
-		"explanation": "Tích 2 số lớn trừ số bé nhất bình phương: 9*5 - 4*4"
+		"explanation": "Tích 2 số lớn trừ số bé nhất bình phương: 9*5 - 4*4",
+		"id": 49
 	},
 	{
 		"difficulty": 2.0,
@@ -283,7 +308,8 @@
 		"c": 101,
 		"d": 100,
 		"answer": "B",
-		"explanation": "Có 49 học sinh chạy nhanh hơn Evo, 49 học sinh chạy chậm hơn Evo, và chính Evo. Tổng số học sinh là 49+49+1=99. "
+		"explanation": "Có 49 học sinh chạy nhanh hơn Evo, 49 học sinh chạy chậm hơn Evo, và chính Evo. Tổng số học sinh là 49+49+1=99. ",
+		"id": 50
 	},
 	{
 		"difficulty": 3.0,
@@ -294,7 +320,8 @@
 		"c": 100,
 		"d": 4,
 		"answer": "A",
-		"explanation": "1 con mèo bắt được 1 con chuột trong 5 phút => 1 con mèo bắt được 100 con chuột trong 500 phút => 5 con mèo bắt được 100 con chuột trong 100 phút. "
+		"explanation": "1 con mèo bắt được 1 con chuột trong 5 phút => 1 con mèo bắt được 100 con chuột trong 500 phút => 5 con mèo bắt được 100 con chuột trong 100 phút. ",
+		"id": 51
 	},
 	{
 		"difficulty": 4.0,
@@ -305,7 +332,8 @@
 		"c": null,
 		"d": null,
 		"answer": 9861,
-		"explanation": "19*519"
+		"explanation": "19*519",
+		"id": 52
 	},
 	{
 		"difficulty": 1.0,
@@ -316,7 +344,8 @@
 		"c": "3,15",
 		"d": "3,16",
 		"answer": "A",
-		"explanation": "3 que diêm sẽ xếp ra được ký tự π là 3.14"
+		"explanation": "3 que diêm sẽ xếp ra được ký tự π là 3.14",
+		"id": 53
 	},
 	{
 		"difficulty": 1.0,
@@ -327,7 +356,8 @@
 		"c": 64,
 		"d": 100,
 		"answer": "D",
-		"explanation": "Dãy số trên tạo thành cấp số nhân với công bội bằng 2, ngoại trừ số 100"
+		"explanation": "Dãy số trên tạo thành cấp số nhân với công bội bằng 2, ngoại trừ số 100",
+		"id": 54
 	},
 	{
 		"difficulty": 3.0,
@@ -338,7 +368,8 @@
 		"c": null,
 		"d": null,
 		"answer": 4.5,
-		"explanation": "$(4+5) \/ 2 = 4.5$"
+		"explanation": "$(4+5) \/ 2 = 4.5$",
+		"id": 55
 	},
 	{
 		"difficulty": 4.0,
@@ -349,7 +380,8 @@
 		"c": 1000,
 		"d": 50,
 		"answer": "D",
-		"explanation": null
+		"explanation": null,
+		"id": 57
 	},
 	{
 		"difficulty": 2.0,
@@ -360,7 +392,8 @@
 		"c": null,
 		"d": null,
 		"answer": 2,
-		"explanation": "Vượt 2 thì lên được 2 chứ chẳng lẽ lại lên 1"
+		"explanation": "Vượt 2 thì lên được 2 chứ chẳng lẽ lại lên 1",
+		"id": 58
 	},
 	{
 		"difficulty": 4.0,
@@ -371,7 +404,8 @@
 		"c": null,
 		"d": null,
 		"answer": "A",
-		"explanation": "Hai số bên phải cộng lại = Số bên trái nhân 5:\nVí dụ: 27*5 = 56 + 79\n\n=> ? = 16*5 - 56 => ? = 24"
+		"explanation": "Hai số bên phải cộng lại = Số bên trái nhân 5:\nVí dụ: 27*5 = 56 + 79\n\n=> ? = 16*5 - 56 => ? = 24",
+		"id": 59
 	},
 	{
 		"difficulty": 2.0,
@@ -382,7 +416,8 @@
 		"c": "$1÷9 - 1÷10 = 1÷90$",
 		"d": "Không xác định",
 		"answer": "C",
-		"explanation": null
+		"explanation": null,
+		"id": 60
 	},
 	{
 		"difficulty": 2.0,
@@ -393,7 +428,8 @@
 		"c": "6 561",
 		"d": 6321,
 		"answer": "C",
-		"explanation": null
+		"explanation": null,
+		"id": 61
 	},
 	{
 		"difficulty": 3.0,
@@ -404,7 +440,8 @@
 		"c": null,
 		"d": null,
 		"answer": 179,
-		"explanation": null
+		"explanation": null,
+		"id": 62
 	},
 	{
 		"difficulty": 1.0,
@@ -415,7 +452,8 @@
 		"c": "Hộp xanh",
 		"d": "Không có phương án tối ưu",
 		"answer": "A",
-		"explanation": "Chọn hộp vàng, vì nó có cả quả táo và quả lê."
+		"explanation": "Chọn hộp vàng, vì nó có cả quả táo và quả lê.",
+		"id": 63
 	},
 	{
 		"difficulty": 1.0,
@@ -426,7 +464,8 @@
 		"c": 6,
 		"d": 7,
 		"answer": "A",
-		"explanation": "Chỉ cần 4 ngày anh ta đã cắt hết 10 mét vải thành 5 mảnh vải rồi."
+		"explanation": "Chỉ cần 4 ngày anh ta đã cắt hết 10 mét vải thành 5 mảnh vải rồi.",
+		"id": 64
 	},
 	{
 		"difficulty": 1.0,
@@ -437,7 +476,8 @@
 		"c": 4,
 		"d": 10,
 		"answer": "C",
-		"explanation": "Xếp 4 con vịt theo hàng dọc là ra"
+		"explanation": "Xếp 4 con vịt theo hàng dọc là ra",
+		"id": 65
 	},
 	{
 		"difficulty": 2.0,
@@ -448,7 +488,8 @@
 		"c": null,
 		"d": null,
 		"answer": 28,
-		"explanation": "$56 + x = 2 * (14 + x) \\Lrarr 56 + x = 28 + 2x \\Lrarr x = 28$"
+		"explanation": "$56 + x = 2 * (14 + x) \\Lrarr 56 + x = 28 + 2x \\Lrarr x = 28$",
+		"id": 66
 	},
 	{
 		"difficulty": 2.0,
@@ -459,7 +500,8 @@
 		"c": 200,
 		"d": 250,
 		"answer": "B",
-		"explanation": "Tổng số táo mà bà đã hái: $10 * 2 * 2 * 2 * 2 = 160$ quả.\nSố táo những lính canh đã giữ lại: $160 – 10 = 150$ quả"
+		"explanation": "Tổng số táo mà bà đã hái: $10 * 2 * 2 * 2 * 2 = 160$ quả.\nSố táo những lính canh đã giữ lại: $160 – 10 = 150$ quả",
+		"id": 67
 	},
 	{
 		"difficulty": 3.0,
@@ -470,7 +512,8 @@
 		"c": "3 con thỏ",
 		"d": "4 con thỏ",
 		"answer": "C",
-		"explanation": "Gọi số con thỏ là x và số con mèo là y. Ta có hệ phương trình:\n$\\begin{cases} x + y = 5 \\\\ 2x + 4y = 14 \\end{cases}$\n$\\Rarr x = 3$"
+		"explanation": "Gọi số con thỏ là x và số con mèo là y. Ta có hệ phương trình:\n$\\begin{cases} x + y = 5 \\\\ 2x + 4y = 14 \\end{cases}$\n$\\Rarr x = 3$",
+		"id": 69
 	},
 	{
 		"difficulty": 4.0,
@@ -481,7 +524,8 @@
 		"c": "7 học sinh",
 		"d": "9 học sinh",
 		"answer": "C",
-		"explanation": "Số học sinh thích ít nhất một trong hai môn = $18 + 15 – 10 = 23$\nSố học sinh không thích cả hai môn = $30 – 23 = 7$"
+		"explanation": "Số học sinh thích ít nhất một trong hai môn = $18 + 15 – 10 = 23$\nSố học sinh không thích cả hai môn = $30 – 23 = 7$",
+		"id": 70
 	},
 	{
 		"difficulty": 3.0,
@@ -492,7 +536,8 @@
 		"c": "14 viên",
 		"d": "12 viên",
 		"answer": "C",
-		"explanation": "Số viên kẹo màu hồng: $\\frac13 * 30 = 10$ viên.\nSố viên kẹo màu xanh: $\\frac15 * 30 = 6$ viên.\nTổng số viên kẹo màu hồng và xanh: $10 + 6 = 16$ viên.\nSố viên kẹo còn lại: $30 – 16 = 14$ viên."
+		"explanation": "Số viên kẹo màu hồng: $\\frac13 * 30 = 10$ viên.\nSố viên kẹo màu xanh: $\\frac15 * 30 = 6$ viên.\nTổng số viên kẹo màu hồng và xanh: $10 + 6 = 16$ viên.\nSố viên kẹo còn lại: $30 – 16 = 14$ viên.",
+		"id": 72
 	},
 	{
 		"difficulty": 2.0,
@@ -503,7 +548,8 @@
 		"c": 6,
 		"d": 8,
 		"answer": "C",
-		"explanation": "Gọi số thứ hai là x nên số thứ nhất là 2x. Theo bài toán:\n$x + 2x = 18 → 3x = 18 → x = 6$"
+		"explanation": "Gọi số thứ hai là x nên số thứ nhất là 2x. Theo bài toán:\n$x + 2x = 18 → 3x = 18 → x = 6$",
+		"id": 73
 	},
 	{
 		"difficulty": 2.0,
@@ -514,7 +560,8 @@
 		"c": "±8",
 		"d": "±4",
 		"answer": "C",
-		"explanation": "Căn bậc hai của số a là x sao cho $x^2=a$. Còn căn bậc hai SỐ HỌC của a là x sao cho $x^2=a$ và $x > 0$"
+		"explanation": "Căn bậc hai của số a là x sao cho $x^2=a$. Còn căn bậc hai SỐ HỌC của a là x sao cho $x^2=a$ và $x > 0$",
+		"id": 74
 	},
 	{
 		"difficulty": 2.0,
@@ -525,7 +572,8 @@
 		"c": 12,
 		"d": 10,
 		"answer": "C",
-		"explanation": "Gọi chiều rộng là w nên chiều dài là 3w. Chu vi hình chữ nhật là:\n$2(w + 3w) = 8w = 32$\n$\\Rarr w = 4 cm$, do đó chiều dài = $3 * 4 = 12 cm$"
+		"explanation": "Gọi chiều rộng là w nên chiều dài là 3w. Chu vi hình chữ nhật là:\n$2(w + 3w) = 8w = 32$\n$\\Rarr w = 4 cm$, do đó chiều dài = $3 * 4 = 12 cm$",
+		"id": 75
 	},
 	{
 		"difficulty": 2.0,
@@ -536,7 +584,8 @@
 		"c": 10,
 		"d": 5,
 		"answer": "C",
-		"explanation": "Giả sử sau t năm nữa, ta có:\nTuổi cha = $50 + t$\nTuổi con = $20 + t$\nYêu cầu: $50 + t = 2(20 + t)$\n→ t = 10 năm."
+		"explanation": "Giả sử sau t năm nữa, ta có:\nTuổi cha = $50 + t$\nTuổi con = $20 + t$\nYêu cầu: $50 + t = 2(20 + t)$\n→ t = 10 năm.",
+		"id": 76
 	},
 	{
 		"difficulty": 3.0,
@@ -547,7 +596,8 @@
 		"c": "8 ngày",
 		"d": "7 ngày",
 		"answer": "C",
-		"explanation": "Mỗi ngày ốc sên tiến lên được $3−2=1m$, nhưng đến ngày thứ 7 nó đã leo được 7m. Ngày thứ 8 leo thêm 3m nữa và chạm đỉnh mà không cần tụt xuống."
+		"explanation": "Mỗi ngày ốc sên tiến lên được $3−2=1m$, nhưng đến ngày thứ 7 nó đã leo được 7m. Ngày thứ 8 leo thêm 3m nữa và chạm đỉnh mà không cần tụt xuống.",
+		"id": 79
 	},
 	{
 		"difficulty": 4.0,
@@ -558,7 +608,8 @@
 		"c": -50,
 		"d": -100,
 		"answer": "C",
-		"explanation": "Nhóm các cặp số liên tiếp:\n(1 - 2), (3 - 4), …, (99 - 100).\nMỗi cặp có tổng là -1.\nSố cặp = 100 \/ 2 = 50.\n=> S = 50 * (-1) = -50."
+		"explanation": "Nhóm các cặp số liên tiếp:\n(1 - 2), (3 - 4), …, (99 - 100).\nMỗi cặp có tổng là -1.\nSố cặp = 100 \/ 2 = 50.\n=> S = 50 * (-1) = -50.",
+		"id": 81
 	},
 	{
 		"difficulty": 1.0,
@@ -569,7 +620,8 @@
 		"c": 27,
 		"d": 9,
 		"answer": "C",
-		"explanation": "Theo đề bài, 3 con gà đẻ 3 quả trứng trong 3 ngày, nghĩa là 1 con gà đẻ được 1 quả trứng trong 3 ngày.\nTrong 9 ngày, 1 con gà đẻ được 3 quả trứng (vì 9\/3 = 3).\n9 con gà sẽ đẻ được: 9 * 3 = 27 quả trứng."
+		"explanation": "Theo đề bài, 3 con gà đẻ 3 quả trứng trong 3 ngày, nghĩa là 1 con gà đẻ được 1 quả trứng trong 3 ngày.\nTrong 9 ngày, 1 con gà đẻ được 3 quả trứng (vì 9\/3 = 3).\n9 con gà sẽ đẻ được: 9 * 3 = 27 quả trứng.",
+		"id": 85
 	},
 	{
 		"difficulty": 2.0,
@@ -580,7 +632,8 @@
 		"c": 21,
 		"d": 22,
 		"answer": "C",
-		"explanation": "Đây là dãy số tam giác, mỗi số là tổng của các số tự nhiên liên tiếp.\nHiệu giữa các số: $3–1 = 2$, $6–3 = 3$, $10–6 = 4$, $15–10 = 5$\nSố tiếp theo sẽ tăng thêm 6, do đó: $15 + 6 = 21$"
+		"explanation": "Đây là dãy số tam giác, mỗi số là tổng của các số tự nhiên liên tiếp.\nHiệu giữa các số: $3–1 = 2$, $6–3 = 3$, $10–6 = 4$, $15–10 = 5$\nSố tiếp theo sẽ tăng thêm 6, do đó: $15 + 6 = 21$",
+		"id": 87
 	},
 	{
 		"difficulty": 5.0,
@@ -591,7 +644,8 @@
 		"c": 1666,
 		"d": 1356,
 		"answer": "C",
-		"explanation": "M = 1000; D = 500; C = 100; L = 50; X = 10; V = 5; I = 1"
+		"explanation": "M = 1000; D = 500; C = 100; L = 50; X = 10; V = 5; I = 1",
+		"id": 88
 	},
 	{
 		"difficulty": 3.0,
@@ -602,7 +656,8 @@
 		"c": 7,
 		"d": 5,
 		"answer": "C",
-		"explanation": "Trường hợp tệ nhất: 6 con trong 3 chuồng, mỗi chuồng 2 con."
+		"explanation": "Trường hợp tệ nhất: 6 con trong 3 chuồng, mỗi chuồng 2 con.",
+		"id": 89
 	},
 	{
 		"difficulty": 3.0,
@@ -613,7 +668,8 @@
 		"c": "Đốt dây 1 từ hai đầu và đốt một đầu dây 2. Khi dây 1 cháy xong, đốt đầu còn lại của dây 2.",
 		"d": "Đốt 2 đầu dây 2. Sau đó đốt hay đầu dây 1",
 		"answer": "C",
-		"explanation": "Đốt dây 1 từ hai đầu và đốt một đầu dây 2. Khi dây 1 cháy xong (hết 30p), đốt đầu còn lại của dây 2. Vì dây 2 đã cháy hết một nửa nên lúc này dây 2 sẽ cháy thêm 15p."
+		"explanation": "Đốt dây 1 từ hai đầu và đốt một đầu dây 2. Khi dây 1 cháy xong (hết 30p), đốt đầu còn lại của dây 2. Vì dây 2 đã cháy hết một nửa nên lúc này dây 2 sẽ cháy thêm 15p.",
+		"id": 90
 	},
 	{
 		"difficulty": 4.0,
@@ -624,7 +680,8 @@
 		"c": 5,
 		"d": 6,
 		"answer": "A",
-		"explanation": "Quy luật: Ở mỗi cụm hình, tổng hai số bên trái chia tổng hai số bên phải thì ra số ở trung tâm.\n\n$(5 + 11) \/ (4 + 4) = 2$\n$(7 + 13) \/ (1 + 3) = 5$\n\nVậy nên: $(12 + 20) \/ (4 + 4) = 4$"
+		"explanation": "Quy luật: Ở mỗi cụm hình, tổng hai số bên trái chia tổng hai số bên phải thì ra số ở trung tâm.\n\n$(5 + 11) \/ (4 + 4) = 2$\n$(7 + 13) \/ (1 + 3) = 5$\n\nVậy nên: $(12 + 20) \/ (4 + 4) = 4$",
+		"id": 93
 	},
 	{
 		"difficulty": 3.0,
@@ -635,7 +692,8 @@
 		"c": 42,
 		"d": 52,
 		"answer": "D",
-		"explanation": "Quy luật: Tổng các số ở góc tương ứng của mỗi tam giác bằng 100.\n\n$45 + 15 + 40 = 100$\n$28 + 64 + 8 = 100$\n\nVậy nên: $16 + 32 + 52 = 100$"
+		"explanation": "Quy luật: Tổng các số ở góc tương ứng của mỗi tam giác bằng 100.\n\n$45 + 15 + 40 = 100$\n$28 + 64 + 8 = 100$\n\nVậy nên: $16 + 32 + 52 = 100$",
+		"id": 94
 	},
 	{
 		"difficulty": 3.0,
@@ -646,7 +704,8 @@
 		"c": 10,
 		"d": 3,
 		"answer": "C",
-		"explanation": "Quy luật: Tổng hai số ở hàng trên bằng số bên trái của hàng dưới liền kề.\n\n$1 + 1 = 2$\n$2 + 1 = 3$\n$3 + 2 = 5$\n$5 + 1 = 6$\n\nVậy nên: $6 + 4 = 10$"
+		"explanation": "Quy luật: Tổng hai số ở hàng trên bằng số bên trái của hàng dưới liền kề.\n\n$1 + 1 = 2$\n$2 + 1 = 3$\n$3 + 2 = 5$\n$5 + 1 = 6$\n\nVậy nên: $6 + 4 = 10$",
+		"id": 95
 	},
 	{
 		"difficulty": 1.0,
@@ -657,7 +716,8 @@
 		"c": 17,
 		"d": 5,
 		"answer": "B",
-		"explanation": "Donate số táo mà không donate cam"
+		"explanation": "Donate số táo mà không donate cam",
+		"id": 98
 	},
 	{
 		"difficulty": 3.0,
@@ -668,7 +728,8 @@
 		"c": 6,
 		"d": 8,
 		"answer": "C",
-		"explanation": "Quy luật: Ở mỗi hàng, hiệu hai số đầu (tính từ trái sang) nhân hai thì được số thứ ba.\n\n$(11 - 2) * 2 = 18$\n$(5 - 2) * 2 = 6$\n$(12 - 5) x 2 = 14$"
+		"explanation": "Quy luật: Ở mỗi hàng, hiệu hai số đầu (tính từ trái sang) nhân hai thì được số thứ ba.\n\n$(11 - 2) * 2 = 18$\n$(5 - 2) * 2 = 6$\n$(12 - 5) x 2 = 14$",
+		"id": 99
 	},
 	{
 		"difficulty": 1.0,
@@ -679,7 +740,8 @@
 		"c": 10,
 		"d": 12,
 		"answer": "C",
-		"explanation": "Ta gọi phương trình tương quan giữa số tiền còn lại của sinh viên Bách Khoa này là $y = 3000000 - 300000x$\nTa sẽ tìm được $y = 0$ nếu $x = 10$\n=> 10 tháng"
+		"explanation": "Ta gọi phương trình tương quan giữa số tiền còn lại của sinh viên Bách Khoa này là $y = 3000000 - 300000x$\nTa sẽ tìm được $y = 0$ nếu $x = 10$\n=> 10 tháng",
+		"id": 102
 	},
 	{
 		"difficulty": null,
@@ -690,7 +752,8 @@
 		"c": "Ất Dậu",
 		"d": "Đinh Dậu",
 		"answer": "A",
-		"explanation": null
+		"explanation": null,
+		"id": 104
 	},
 	{
 		"difficulty": 2.0,
@@ -701,7 +764,8 @@
 		"c": null,
 		"d": null,
 		"answer": 5,
-		"explanation": null
+		"explanation": null,
+		"id": 105
 	},
 	{
 		"difficulty": 3.0,
@@ -712,7 +776,8 @@
 		"c": "(0;5)",
 		"d": "(2;12)",
 		"answer": "A",
-		"explanation": "Với phương trình $y = ax^2 + bx + c$\nTa có thể tìm được hoành độ của parabol $x = -b\/2a$\nTa thế lại vào phương trình để tìm tung độ"
+		"explanation": "Với phương trình $y = ax^2 + bx + c$\nTa có thể tìm được hoành độ của parabol $x = -b\/2a$\nTa thế lại vào phương trình để tìm tung độ",
+		"id": 106
 	},
 	{
 		"difficulty": 1.0,
@@ -723,7 +788,8 @@
 		"c": 5,
 		"d": 2,
 		"answer": "D",
-		"explanation": "Thì bốc 2 quả bóng vàng"
+		"explanation": "Thì bốc 2 quả bóng vàng",
+		"id": 112
 	},
 	{
 		"difficulty": 2.0,
@@ -734,7 +800,8 @@
 		"c": 8.87,
 		"d": 8.88,
 		"answer": "B",
-		"explanation": "$6*2-\\pi$"
+		"explanation": "$6*2-\\pi$",
+		"id": 113
 	},
 	{
 		"difficulty": 2.0,
@@ -745,7 +812,8 @@
 		"c": 2,
 		"d": 6,
 		"answer": "D",
-		"explanation": "b = a + 3\nc = b + 3\n=> c - a = b + 3 - b + 3 = 6"
+		"explanation": "b = a + 3\nc = b + 3\n=> c - a = b + 3 - b + 3 = 6",
+		"id": 115
 	},
 	{
 		"difficulty": 3.0,
@@ -756,7 +824,8 @@
 		"c": null,
 		"d": null,
 		"answer": 5050,
-		"explanation": "$S = (100 + 1) * 100 \/ 2 = 101 * 50 = 5050$"
+		"explanation": "$S = (100 + 1) * 100 \/ 2 = 101 * 50 = 5050$",
+		"id": 116
 	},
 	{
 		"difficulty": 4.0,
@@ -767,7 +836,8 @@
 		"c": "14 gà 22 chó",
 		"d": "14 gà 10 chó",
 		"answer": "B",
-		"explanation": null
+		"explanation": null,
+		"id": 118
 	},
 	{
 		"difficulty": 3.0,
@@ -778,7 +848,8 @@
 		"c": null,
 		"d": null,
 		"answer": 5,
-		"explanation": "Theo dữ kiện, trong 4 đứa trẻ đi giày có 3 đứa đi cả hai, tức là có 1 đứa chỉ đi giày mà không đi tất. Tương tự, có 3 đứa chỉ đi tất mà không đi giày. Vậy số đứa trẻ đi chân trần là 12 – (3 + 1 + 3) = 5"
+		"explanation": "Theo dữ kiện, trong 4 đứa trẻ đi giày có 3 đứa đi cả hai, tức là có 1 đứa chỉ đi giày mà không đi tất. Tương tự, có 3 đứa chỉ đi tất mà không đi giày. Vậy số đứa trẻ đi chân trần là 12 – (3 + 1 + 3) = 5",
+		"id": 123
 	},
 	{
 		"difficulty": 2.0,
@@ -789,7 +860,8 @@
 		"c": null,
 		"d": null,
 		"answer": 48,
-		"explanation": "Nếu chọn tối đa 47 bi thì có thể cùng màu xanh, do đó phải chọn ít nhất 48 bi để có 2 màu khác nhau."
+		"explanation": "Nếu chọn tối đa 47 bi thì có thể cùng màu xanh, do đó phải chọn ít nhất 48 bi để có 2 màu khác nhau.",
+		"id": 124
 	},
 	{
 		"difficulty": 2.0,
@@ -800,7 +872,8 @@
 		"c": "22, 11, 11",
 		"d": "9, 6, 12",
 		"answer": "D",
-		"explanation": "Điều kiện để 3 cạnh có thể tạo thành 1 tam giác là bất đẳng thức tam giác a + b > c với c là cạnh có độ dài lớn nhất trong 3 cạnh."
+		"explanation": "Điều kiện để 3 cạnh có thể tạo thành 1 tam giác là bất đẳng thức tam giác a + b > c với c là cạnh có độ dài lớn nhất trong 3 cạnh.",
+		"id": 125
 	},
 	{
 		"difficulty": 5.0,
@@ -811,7 +884,8 @@
 		"c": 250,
 		"d": 300,
 		"answer": "B",
-		"explanation": "\n$(1+2+3+4+5)^2 =225$"
+		"explanation": "\n$(1+2+3+4+5)^2 =225$",
+		"id": 129
 	},
 	{
 		"difficulty": 2.0,
@@ -822,7 +896,8 @@
 		"c": null,
 		"d": null,
 		"answer": 100,
-		"explanation": null
+		"explanation": null,
+		"id": 140
 	},
 	{
 		"difficulty": 1.0,
@@ -833,7 +908,8 @@
 		"c": 6,
 		"d": 8,
 		"answer": "B",
-		"explanation": "2 người đi trước 2 người => có tổng cộng 4 người\ncmtt: hai người đi sau và hai người đi giữa"
+		"explanation": "2 người đi trước 2 người => có tổng cộng 4 người\ncmtt: hai người đi sau và hai người đi giữa",
+		"id": 141
 	},
 	{
 		"difficulty": 1.0,
@@ -844,7 +920,8 @@
 		"c": 21,
 		"d": 30,
 		"answer": "A",
-		"explanation": "3 cầu vồng vẫn chỉ có 7 màu như 1 cầu vồng"
+		"explanation": "3 cầu vồng vẫn chỉ có 7 màu như 1 cầu vồng",
+		"id": 142
 	},
 	{
 		"difficulty": 1.0,
@@ -855,7 +932,8 @@
 		"c": 100,
 		"d": 500,
 		"answer": "C",
-		"explanation": "$10\/\\frac15 = 50$; $50+50 = 100$"
+		"explanation": "$10\/\\frac15 = 50$; $50+50 = 100$",
+		"id": 143
 	},
 	{
 		"difficulty": 1.0,
@@ -866,7 +944,8 @@
 		"c": 21,
 		"d": 22,
 		"answer": "C",
-		"explanation": "Fibonacci"
+		"explanation": "Fibonacci",
+		"id": 145
 	},
 	{
 		"difficulty": 1.0,
@@ -877,7 +956,8 @@
 		"c": 10,
 		"d": 11,
 		"answer": "B",
-		"explanation": "sau khi làm phép cộng thì áp dụng quy tắc “nhân chia trước cộng trừ sau”"
+		"explanation": "sau khi làm phép cộng thì áp dụng quy tắc “nhân chia trước cộng trừ sau”",
+		"id": 155
 	},
 	{
 		"difficulty": 1.0,
@@ -888,7 +968,8 @@
 		"c": 1000000000000000000,
 		"d": 10000000000000000000,
 		"answer": "C",
-		"explanation": "1 tỷ có 9 số 0 => 1 tỷ tỷ có 18 số 0 "
+		"explanation": "1 tỷ có 9 số 0 => 1 tỷ tỷ có 18 số 0 ",
+		"id": 157
 	},
 	{
 		"difficulty": 3.0,
@@ -899,7 +980,8 @@
 		"c": 12,
 		"d": 15,
 		"answer": "B",
-		"explanation": "Bài toán bắt tay: Gọi 5 điểm lần lượt là A, B, C, D, E:\n\nTa có:\n4 cách đoạn từ điểm A (AB, AC, AD, AE)\n3 đoạn từ điểm B, không tính BA (BC, BD, BE)\n2 đoạn từ điểm C, không tính CA và CB (CD, CE)\n1 đoạn DE\n\nVậy có 4+3+2+1=10 cách để tạo đoạn thẳng"
+		"explanation": "Bài toán bắt tay: Gọi 5 điểm lần lượt là A, B, C, D, E:\n\nTa có:\n4 cách đoạn từ điểm A (AB, AC, AD, AE)\n3 đoạn từ điểm B, không tính BA (BC, BD, BE)\n2 đoạn từ điểm C, không tính CA và CB (CD, CE)\n1 đoạn DE\n\nVậy có 4+3+2+1=10 cách để tạo đoạn thẳng",
+		"id": 170
 	},
 	{
 		"difficulty": 3.0,
@@ -910,7 +992,8 @@
 		"c": 122,
 		"d": 93,
 		"answer": "A",
-		"explanation": "x° + 62° = 180°"
+		"explanation": "x° + 62° = 180°",
+		"id": 173
 	},
 	{
 		"difficulty": 2.0,
@@ -921,7 +1004,8 @@
 		"c": 0.25,
 		"d": 1,
 		"answer": "D",
-		"explanation": "Trong hộp chỉ có hai màu đen và trắng, cho nên ta luôn lấy được một trong hai màu trên"
+		"explanation": "Trong hộp chỉ có hai màu đen và trắng, cho nên ta luôn lấy được một trong hai màu trên",
+		"id": 174
 	},
 	{
 		"difficulty": 4.0,
@@ -932,7 +1016,8 @@
 		"c": 0,
 		"d": -61.5,
 		"answer": "C",
-		"explanation": "Giữa phương trình có $(5-\\frac{15}3) = 0$"
+		"explanation": "Giữa phương trình có $(5-\\frac{15}3) = 0$",
+		"id": 175
 	},
 	{
 		"difficulty": 2.0,
@@ -943,7 +1028,8 @@
 		"c": 90,
 		"d": 120,
 		"answer": "B",
-		"explanation": "Bội chung nhỏ nhất của 4 số trên là 60, hoặc có thể loại trừ đáp án:\nA không được vì 40 không chia hết cho 6\nB chia hết cho 4 số trên -> chọn B vì 2 lựa chọn sau lớn hơn 60"
+		"explanation": "Bội chung nhỏ nhất của 4 số trên là 60, hoặc có thể loại trừ đáp án:\nA không được vì 40 không chia hết cho 6\nB chia hết cho 4 số trên -> chọn B vì 2 lựa chọn sau lớn hơn 60",
+		"id": 176
 	},
 	{
 		"difficulty": 3.0,
@@ -954,7 +1040,8 @@
 		"c": null,
 		"d": null,
 		"answer": 28,
-		"explanation": "2 + 3 + 5 + 7 + 11 = 28"
+		"explanation": "2 + 3 + 5 + 7 + 11 = 28",
+		"id": 178
 	},
 	{
 		"difficulty": 3.0,
@@ -965,7 +1052,8 @@
 		"c": 0,
 		"d": 1,
 		"answer": "B",
-		"explanation": "$\\frac12 * \\frac12$"
+		"explanation": "$\\frac12 * \\frac12$",
+		"id": 180
 	},
 	{
 		"difficulty": 3.0,
@@ -976,7 +1064,8 @@
 		"c": 18,
 		"d": 21,
 		"answer": "A",
-		"explanation": "$\\frac{90}5=18$. sau đó \\frac{18}5 = 3$ dư 3 và $3+3=6\/5 =1$ dư 1 => đáp án = 18+3+1 =22"
+		"explanation": "$\\frac{90}5=18$. sau đó \\frac{18}5 = 3$ dư 3 và $3+3=6\/5 =1$ dư 1 => đáp án = 18+3+1 =22",
+		"id": 181
 	},
 	{
 		"difficulty": 3.0,
@@ -987,7 +1076,8 @@
 		"c": null,
 		"d": null,
 		"answer": 2,
-		"explanation": "Hình tròn ở giữa bằng tổng các hình tròn bên trên. Và ngược lại, hình tròn ở giữa bằng tổng các hình tròn bên dưới."
+		"explanation": "Hình tròn ở giữa bằng tổng các hình tròn bên trên. Và ngược lại, hình tròn ở giữa bằng tổng các hình tròn bên dưới.",
+		"id": 189
 	},
 	{
 		"difficulty": 5.0,
@@ -998,7 +1088,8 @@
 		"c": 10,
 		"d": 21,
 		"answer": 10,
-		"explanation": "Trong mỗi sơ đồ sao, số ở tâm bằng tổng của ba số trên cùng, trừ tổng của hai số dưới cùng."
+		"explanation": "Trong mỗi sơ đồ sao, số ở tâm bằng tổng của ba số trên cùng, trừ tổng của hai số dưới cùng.",
+		"id": 190
 	},
 	{
 		"difficulty": 5.0,
@@ -1009,7 +1100,8 @@
 		"c": 4311,
 		"d": 1143,
 		"answer": 1143,
-		"explanation": "Bắt đầu với số có 3 chữ số đầu tiên, chữ số đầu tiên tăng thêm 2 ở số tiếp theo, chữ số ở giữa giảm đi 1 và chữ số bên tay phải xen kẽ giữa 5 và 3."
+		"explanation": "Bắt đầu với số có 3 chữ số đầu tiên, chữ số đầu tiên tăng thêm 2 ở số tiếp theo, chữ số ở giữa giảm đi 1 và chữ số bên tay phải xen kẽ giữa 5 và 3.",
+		"id": 191
 	},
 	{
 		"difficulty": 3.0,
@@ -1020,7 +1112,8 @@
 		"c": 2,
 		"d": 3,
 		"answer": "C",
-		"explanation": "x = y = 1"
+		"explanation": "x = y = 1",
+		"id": 192
 	},
 	{
 		"difficulty": 2.0,
@@ -1031,7 +1124,8 @@
 		"c": 4,
 		"d": 2,
 		"answer": "D",
-		"explanation": "Có:\ndoanh thu t1 = 2\/5 doanh thu t12\ndoanh thu t2 = 1\/4 doanh thu t1\n=> doanh thu t2 = 1\/4 . 2\/5 doanh thu t12 = 1\/10 doanh thu t12\n\ndoanh thu t1 + t2:\n2\/5 + 1\/10 = 1\/2 doanh thu t12\n=> doanh thu t12 = 2 (doanh thu t1 + t2)"
+		"explanation": "Có:\ndoanh thu t1 = 2\/5 doanh thu t12\ndoanh thu t2 = 1\/4 doanh thu t1\n=> doanh thu t2 = 1\/4 . 2\/5 doanh thu t12 = 1\/10 doanh thu t12\n\ndoanh thu t1 + t2:\n2\/5 + 1\/10 = 1\/2 doanh thu t12\n=> doanh thu t12 = 2 (doanh thu t1 + t2)",
+		"id": 193
 	},
 	{
 		"difficulty": 2.0,
@@ -1042,7 +1136,8 @@
 		"c": "2,1g",
 		"d": "2,3g",
 		"answer": "C",
-		"explanation": "$1.2*175\/100 = 2.1$"
+		"explanation": "$1.2*175\/100 = 2.1$",
+		"id": 194
 	},
 	{
 		"difficulty": 3.0,
@@ -1053,7 +1148,8 @@
 		"c": null,
 		"d": null,
 		"answer": 1029,
-		"explanation": "Quy tắc:\n*2, +3, *2, +3, *2, +3"
+		"explanation": "Quy tắc:\n*2, +3, *2, +3, *2, +3",
+		"id": 195
 	},
 	{
 		"difficulty": 3.0,
@@ -1064,7 +1160,8 @@
 		"c": null,
 		"d": null,
 		"answer": -3,
-		"explanation": "Quy tắc: +3, -1, +3, -1, +3, -1"
+		"explanation": "Quy tắc: +3, -1, +3, -1, +3, -1",
+		"id": 196
 	},
 	{
 		"difficulty": 3.0,
@@ -1075,7 +1172,8 @@
 		"c": null,
 		"d": null,
 		"answer": -156,
-		"explanation": "Quy tắc: +2, *2, +2, *2, +2, *2"
+		"explanation": "Quy tắc: +2, *2, +2, *2, +2, *2",
+		"id": 197
 	},
 	{
 		"difficulty": 4.0,
@@ -1086,7 +1184,8 @@
 		"c": null,
 		"d": null,
 		"answer": 630,
-		"explanation": "Quy tắc: +1, *2, +3, *4, +5, *6"
+		"explanation": "Quy tắc: +1, *2, +3, *4, +5, *6",
+		"id": 198
 	},
 	{
 		"difficulty": 4.0,
@@ -1097,7 +1196,8 @@
 		"c": null,
 		"d": null,
 		"answer": 76,
-		"explanation": "Quy tắc: +5, +(2+7*0), +5, +(2+7*1), +5, +(2+7*2)"
+		"explanation": "Quy tắc: +5, +(2+7*0), +5, +(2+7*1), +5, +(2+7*2)",
+		"id": 199
 	},
 	{
 		"difficulty": 4.0,
@@ -1108,7 +1208,8 @@
 		"c": null,
 		"d": null,
 		"answer": 128,
-		"explanation": "Quy tắc: +7, +9, +11, +13, +15, +17"
+		"explanation": "Quy tắc: +7, +9, +11, +13, +15, +17",
+		"id": 200
 	},
 	{
 		"difficulty": 3.0,
@@ -1119,7 +1220,8 @@
 		"c": "C",
 		"d": "D",
 		"answer": "D",
-		"explanation": "Từ trái sang phải: mũi tên quay ngược chiều kim đồng hồ 45 độ, rồi quay theo chiều kim đồng hồ 90 độ"
+		"explanation": "Từ trái sang phải: mũi tên quay ngược chiều kim đồng hồ 45 độ, rồi quay theo chiều kim đồng hồ 90 độ",
+		"id": 202
 	},
 	{
 		"difficulty": 3.0,
@@ -1130,7 +1232,8 @@
 		"c": "C",
 		"d": "D",
 		"answer": "C",
-		"explanation": "Từ trái sang phải: đường cong xoay theo chiều kim đồng hồ góc 45 độ. Đường có hai dấu chấm giữ nguyên vị trí\nTừ trên xuống dưới: đường mũi tên xoay theo chiều kim đồng hồ góc 45 độ."
+		"explanation": "Từ trái sang phải: đường cong xoay theo chiều kim đồng hồ góc 45 độ. Đường có hai dấu chấm giữ nguyên vị trí\nTừ trên xuống dưới: đường mũi tên xoay theo chiều kim đồng hồ góc 45 độ.",
+		"id": 203
 	},
 	{
 		"difficulty": 4.0,
@@ -1141,7 +1244,8 @@
 		"c": null,
 		"d": null,
 		"answer": 36,
-		"explanation": "Hiệu ba số trong mỗi cột bằng 8.\n\nTa có: 16 - 4 - 4 = 8.\n\n24 - 8 - 8 = 8.\n\n36 - 22 - 6 = 8.\n\nVậy nên: 49 - 36 - 5 = 8."
+		"explanation": "Hiệu ba số trong mỗi cột bằng 8.\n\nTa có: 16 - 4 - 4 = 8.\n\n24 - 8 - 8 = 8.\n\n36 - 22 - 6 = 8.\n\nVậy nên: 49 - 36 - 5 = 8.",
+		"id": 204
 	},
 	{
 		"difficulty": 3.0,
@@ -1152,7 +1256,8 @@
 		"c": null,
 		"d": null,
 		"answer": 6,
-		"explanation": "Trong mỗi cột, số dưới gấp hai lần số trên liền kề.\n\n9 * 2 = 18; 18 * 2 = 36.\n5 * 2 = 10; 10 * 2 = 20.\n\nVậy nên: 3 * 2 = 6; 6 * 2 =12."
+		"explanation": "Trong mỗi cột, số dưới gấp hai lần số trên liền kề.\n\n9 * 2 = 18; 18 * 2 = 36.\n5 * 2 = 10; 10 * 2 = 20.\n\nVậy nên: 3 * 2 = 6; 6 * 2 =12.",
+		"id": 205
 	},
 	{
 		"difficulty": 4.0,
@@ -1163,7 +1268,8 @@
 		"c": null,
 		"d": null,
 		"answer": 52,
-		"explanation": "Số sau là tổng của số trước liền kề và các số cấu tạo nên số đó.\n\n19 + (1 + 9) = 29.\n29 + (2 + 9) = 40.\n40 + (4 + 0) = 44.\n\nVậy nên: 44 + (4 + 4) = 52."
+		"explanation": "Số sau là tổng của số trước liền kề và các số cấu tạo nên số đó.\n\n19 + (1 + 9) = 29.\n29 + (2 + 9) = 40.\n40 + (4 + 0) = 44.\n\nVậy nên: 44 + (4 + 4) = 52.",
+		"id": 206
 	},
 	{
 		"difficulty": 4.0,
@@ -1174,7 +1280,8 @@
 		"c": null,
 		"d": null,
 		"answer": 12,
-		"explanation": "Ở mỗi hình, tích hai số ở dưới chia số ở trên thì bằng 3.\n\n6 * 2 \/ 4 = 3.\n2 * 12 \/ 8 = 3.\n5 * 6 \/ 10 = 3.\n\nVậy nên: 4 x 9 \/ 12 = 3."
+		"explanation": "Ở mỗi hình, tích hai số ở dưới chia số ở trên thì bằng 3.\n\n6 * 2 \/ 4 = 3.\n2 * 12 \/ 8 = 3.\n5 * 6 \/ 10 = 3.\n\nVậy nên: 4 x 9 \/ 12 = 3.",
+		"id": 207
 	},
 	{
 		"difficulty": 3.0,
@@ -1185,7 +1292,8 @@
 		"c": 12,
 		"d": 14,
 		"answer": "B",
-		"explanation": "Ở khóa thứ nhất, ta cần thử nhiều nhất 4 lần. Nếu cả 4 chìa đều không mở được thì chìa còn lại chính là chìa để mở khóa đó. Tương tự, ở khóa thứ hai, thứ ba, thứ tư ta cần nhiều nhất số lần thử tương ứng là: 3, 2, 1. Khóa thứ năm không cần thử vì ta đã biết chìa đúng của 4 khóa nên chìa còn lại chính là của ổ thứ năm. $4 + 3 + 2 + 1 = 10.$"
+		"explanation": "Ở khóa thứ nhất, ta cần thử nhiều nhất 4 lần. Nếu cả 4 chìa đều không mở được thì chìa còn lại chính là chìa để mở khóa đó. Tương tự, ở khóa thứ hai, thứ ba, thứ tư ta cần nhiều nhất số lần thử tương ứng là: 3, 2, 1. Khóa thứ năm không cần thử vì ta đã biết chìa đúng của 4 khóa nên chìa còn lại chính là của ổ thứ năm. $4 + 3 + 2 + 1 = 10.$",
+		"id": 209
 	},
 	{
 		"difficulty": 3.0,
@@ -1196,6 +1304,7 @@
 		"c": 16,
 		"d": 17,
 		"answer": "B",
-		"explanation": "Tổng của 14 số tự nhiên đầu tiên lớn hơn 0 là $1 + 2 + ... + 14 = (14 + 1) * 14 \/ 2 = 105$\n$106 - 1 = 105 \\Rarr$ số lớn nhất là 15\n"
+		"explanation": "Tổng của 14 số tự nhiên đầu tiên lớn hơn 0 là $1 + 2 + ... + 14 = (14 + 1) * 14 \/ 2 = 105$\n$106 - 1 = 105 \\Rarr$ số lớn nhất là 15\n",
+		"id": 210
 	}
 ]

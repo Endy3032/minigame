@@ -3,6 +3,7 @@ import pandas as pd
 FILE = "questions.xlsx"
 
 df = pd.read_excel(FILE)
+df["id"] = df.index + 1
 df = df[df["Rating"] == "Nhận"]
 df = df.drop(columns=["Timestamp", "Email Address", "Rating", "Note"])
 df.columns = df.columns.str.lower()
