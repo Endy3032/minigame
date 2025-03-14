@@ -1,23 +1,7 @@
 import { useSignal } from "@preact/signals"
 import katex from "katex"
 import { useEffect } from "preact/hooks"
-
-interface Question {
-	difficulty: number | null
-	question: string
-	image: string | null
-	a: string | number | null
-	b: string | number | null
-	c: string | number | null
-	d: string | number | null
-	answer: string | number
-	explanation: string | null
-	id: number
-}
-
-type QuestionBrowserProps = {
-	data: Question[]
-}
+import { Question } from "../types.ts"
 
 const difficultyColorMap = [
 	"bg-gray-200",
@@ -28,7 +12,7 @@ const difficultyColorMap = [
 	"bg-red-300",
 ]
 
-export default function QuestionBrowser(props: QuestionBrowserProps) {
+export default function QuestionBrowser(props: { data: Question[] }) {
 	const index = useSignal(0)
 
 	useEffect(() => {
@@ -61,6 +45,7 @@ export default function QuestionBrowser(props: QuestionBrowserProps) {
 	return (
 		<div class="flex-1 w-full text-lg flex flex-col gap-6 items-center">
 			<div class="flex gap-4">
+				<a href="/" class="px-4 py-2 bg-gray-400 text-white rounded">🏠 Home</a>
 				<button type="button" onClick={() => navigate(-1)} disabled={index.value === 0}
 					class="px-4 py-2 bg-blue-400 text-white rounded disabled:opacity-50"
 				>
