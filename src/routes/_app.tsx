@@ -18,7 +18,7 @@ export default function App({ Component }: PageProps) {
 					integrity="sha384-zh0CIslj+VczCZtlzBcjt5ppRcsAmDnRem7ESsYwWwg3m/OaJ2l4x7YBZl9Kxxib" crossorigin="anonymous" />
 				<link rel="stylesheet" href="/styles.css" />
 			</head>
-			<body class="font-[Itim]">
+			<body class="font-[Itim] bg-gray-300/50">
 				<Component />
 			</body>
 		</html>
