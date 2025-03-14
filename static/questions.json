@@ -2,7 +2,7 @@
   {
     "difficulty":3.0,
     "question":"Tìm đường đi ngắn nhất từ đỉnh 1 đến đỉnh 5",
-    "image":"image - Lê Minh Khải.png",
+    "image":"1 - Lê Minh Khải.png",
     "a":null,
     "b":null,
     "c":null,
@@ -242,7 +242,7 @@
   {
     "difficulty":5.0,
     "question":"Giả sử 1 người cần đi từ làng A đến con sông BC lấy nước, sau đó đến làng D, hỏi đường đi ngắn nhất người đó phải đi là bao nhiêu mét ",
-    "image":"temp - Lê Phú Trọng.png",
+    "image":"1 - Lê Phú Trọng.png",
     "a":null,
     "b":null,
     "c":null,
@@ -830,7 +830,7 @@
   {
     "difficulty":2.0,
     "question":"Một khu vườn hình chữ nhật có tổng chiều rộng và chiều dài là 8cm, trong đó chiều dài gấp 3 lần chiều rộng. Giữa khu vườn có một hồ nước hình tròn nằm trọn trong khu vườn có bán kính là 1cm, hỏi diện tích đất của khu vườn là bao nhiêu?",
-    "image":"temp - Lê Phú Trọng.png",
+    "image":"3 - Lê Phú Trọng.png",
     "a":8.85,
     "b":8.86,
     "c":8.87,
@@ -996,6 +996,18 @@
     "id":137
   },
   {
+    "difficulty":3.0,
+    "question":"Tính diện tích tam giác được cho trên hình",
+    "image":"2 - Lê Minh Khải.png",
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":6,
+    "explanation":"Áp dụng công thức heron: sqrt(p*(p-a)*(p-b)*(p-c)) = sqrt(6*3*2*1) = 6",
+    "id":138
+  },
+  {
     "difficulty":2.0,
     "question":"Số tự nhiên nhỏ nhất chia hết cho tất cả các số: 1, 2, 4, 5, 10, 20, 25 là số nào?",
     "image":null,
@@ -1054,6 +1066,54 @@
     "answer":"C",
     "explanation":"Fibonacci",
     "id":145
+  },
+  {
+    "difficulty":2.0,
+    "question":"Khi nào nhìn 2 mà lại nói 10?",
+    "image":null,
+    "a":"Chữ số la mã",
+    "b":"Mã số Ascii",
+    "c":"Nhị phân",
+    "d":"Trên mặt đồng hồ",
+    "answer":"D",
+    "explanation":null,
+    "id":148
+  },
+  {
+    "difficulty":2.0,
+    "question":"Cái gì có dưới, có trên. Nếu thêm vào dưới thì liền bé đi?",
+    "image":null,
+    "a":"Phân số",
+    "b":"Số mũ",
+    "c":"Số thập phân",
+    "d":"Số nguyên tố",
+    "answer":"A",
+    "explanation":null,
+    "id":149
+  },
+  {
+    "difficulty":2.0,
+    "question":"Số lớn nhất có 3 chữ số liên tiếp là bao nhiêu",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":987,
+    "explanation":null,
+    "id":152
+  },
+  {
+    "difficulty":3.0,
+    "question":"Cho a = 6, b = 10, c = ?. Tìm c là số nguyên dương nhỏ nhất để bộ số (a, b, c) tạo thành 1 tam giác",
+    "image":null,
+    "a":3,
+    "b":4,
+    "c":5,
+    "d":6,
+    "answer":"C",
+    "explanation":"Để 1 bộ 3 số (x, y, z) tạo thành 1 tam giác thì cần thỏa điều kiện x + y > z với z là độ dài cạnh lớn nhất trong tam giác => c = b - a + 1 = 10 - 6 + 1 = 5",
+    "id":154
   },
   {
     "difficulty":1.0,
@@ -1233,7 +1293,7 @@
     "d":null,
     "answer":2,
     "explanation":"Hình tròn ở giữa bằng tổng các hình tròn bên trên. Và ngược lại, hình tròn ở giữa bằng tổng các hình tròn bên dưới.",
-    "id":197
+    "id":198
   },
   {
     "difficulty":5.0,
@@ -1245,7 +1305,7 @@
     "d":21,
     "answer":10,
     "explanation":"Trong mỗi sơ đồ sao, số ở tâm bằng tổng của ba số trên cùng, trừ tổng của hai số dưới cùng.",
-    "id":198
+    "id":199
   },
   {
     "difficulty":5.0,
@@ -1257,7 +1317,7 @@
     "d":1143,
     "answer":1143,
     "explanation":"Bắt đầu với số có 3 chữ số đầu tiên, chữ số đầu tiên tăng thêm 2 ở số tiếp theo, chữ số ở giữa giảm đi 1 và chữ số bên tay phải xen kẽ giữa 5 và 3.",
-    "id":199
+    "id":200
   },
   {
     "difficulty":3.0,
@@ -1269,7 +1329,7 @@
     "d":3,
     "answer":"C",
     "explanation":"x = y = 1",
-    "id":200
+    "id":201
   },
   {
     "difficulty":2.0,
@@ -1281,7 +1341,7 @@
     "d":2,
     "answer":"D",
     "explanation":"Có:\ndoanh thu t1 = 2\/5 doanh thu t12\ndoanh thu t2 = 1\/4 doanh thu t1\n=> doanh thu t2 = 1\/4 . 2\/5 doanh thu t12 = 1\/10 doanh thu t12\n\ndoanh thu t1 + t2:\n2\/5 + 1\/10 = 1\/2 doanh thu t12\n=> doanh thu t12 = 2 (doanh thu t1 + t2)",
-    "id":201
+    "id":202
   },
   {
     "difficulty":2.0,
@@ -1293,7 +1353,7 @@
     "d":"2,3g",
     "answer":"C",
     "explanation":"$1.2*175\/100 = 2.1$",
-    "id":202
+    "id":203
   },
   {
     "difficulty":3.0,
@@ -1305,7 +1365,7 @@
     "d":null,
     "answer":1029,
     "explanation":"Quy tắc:\n*2, +3, *2, +3, *2, +3",
-    "id":203
+    "id":204
   },
   {
     "difficulty":3.0,
@@ -1317,7 +1377,7 @@
     "d":null,
     "answer":-3,
     "explanation":"Quy tắc: +3, -1, +3, -1, +3, -1",
-    "id":204
+    "id":205
   },
   {
     "difficulty":3.0,
@@ -1329,7 +1389,7 @@
     "d":null,
     "answer":-156,
     "explanation":"Quy tắc: +2, *2, +2, *2, +2, *2",
-    "id":205
+    "id":206
   },
   {
     "difficulty":4.0,
@@ -1341,7 +1401,7 @@
     "d":null,
     "answer":630,
     "explanation":"Quy tắc: +1, *2, +3, *4, +5, *6",
-    "id":206
+    "id":207
   },
   {
     "difficulty":4.0,
@@ -1353,7 +1413,7 @@
     "d":null,
     "answer":76,
     "explanation":"Quy tắc: +5, +(2+7*0), +5, +(2+7*1), +5, +(2+7*2)",
-    "id":207
+    "id":208
   },
   {
     "difficulty":4.0,
@@ -1365,7 +1425,7 @@
     "d":null,
     "answer":128,
     "explanation":"Quy tắc: +7, +9, +11, +13, +15, +17",
-    "id":208
+    "id":209
   },
   {
     "difficulty":3.0,
@@ -1377,7 +1437,7 @@
     "d":"D",
     "answer":"D",
     "explanation":"Từ trái sang phải: mũi tên quay ngược chiều kim đồng hồ 45 độ, rồi quay theo chiều kim đồng hồ 90 độ",
-    "id":210
+    "id":211
   },
   {
     "difficulty":3.0,
@@ -1389,7 +1449,7 @@
     "d":"D",
     "answer":"C",
     "explanation":"Từ trái sang phải: đường cong xoay theo chiều kim đồng hồ góc 45 độ. Đường có hai dấu chấm giữ nguyên vị trí\nTừ trên xuống dưới: đường mũi tên xoay theo chiều kim đồng hồ góc 45 độ.",
-    "id":211
+    "id":212
   },
   {
     "difficulty":4.0,
@@ -1401,7 +1461,7 @@
     "d":null,
     "answer":36,
     "explanation":"Hiệu ba số trong mỗi cột bằng 8.\n\nTa có: 16 - 4 - 4 = 8.\n\n24 - 8 - 8 = 8.\n\n36 - 22 - 6 = 8.\n\nVậy nên: 49 - 36 - 5 = 8.",
-    "id":212
+    "id":213
   },
   {
     "difficulty":3.0,
@@ -1413,7 +1473,7 @@
     "d":null,
     "answer":6,
     "explanation":"Trong mỗi cột, số dưới gấp hai lần số trên liền kề.\n\n9 * 2 = 18; 18 * 2 = 36.\n5 * 2 = 10; 10 * 2 = 20.\n\nVậy nên: 3 * 2 = 6; 6 * 2 =12.",
-    "id":213
+    "id":214
   },
   {
     "difficulty":4.0,
@@ -1425,7 +1485,7 @@
     "d":null,
     "answer":52,
     "explanation":"Số sau là tổng của số trước liền kề và các số cấu tạo nên số đó.\n\n19 + (1 + 9) = 29.\n29 + (2 + 9) = 40.\n40 + (4 + 0) = 44.\n\nVậy nên: 44 + (4 + 4) = 52.",
-    "id":214
+    "id":215
   },
   {
     "difficulty":4.0,
@@ -1437,7 +1497,7 @@
     "d":null,
     "answer":12,
     "explanation":"Ở mỗi hình, tích hai số ở dưới chia số ở trên thì bằng 3.\n\n6 * 2 \/ 4 = 3.\n2 * 12 \/ 8 = 3.\n5 * 6 \/ 10 = 3.\n\nVậy nên: 4 * 9 \/ 12 = 3.",
-    "id":215
+    "id":216
   },
   {
     "difficulty":3.0,
@@ -1449,7 +1509,7 @@
     "d":14,
     "answer":"B",
     "explanation":"Ở khóa thứ nhất, ta cần thử nhiều nhất 4 lần. Nếu cả 4 chìa đều không mở được thì chìa còn lại chính là chìa để mở khóa đó. Tương tự, ở khóa thứ hai, thứ ba, thứ tư ta cần nhiều nhất số lần thử tương ứng là: 3, 2, 1. Khóa thứ năm không cần thử vì ta đã biết chìa đúng của 4 khóa nên chìa còn lại chính là của ổ thứ năm. $4 + 3 + 2 + 1 = 10.$",
-    "id":217
+    "id":218
   },
   {
     "difficulty":3.0,
@@ -1461,6 +1521,6 @@
     "d":17,
     "answer":"B",
     "explanation":"Tổng của 14 số tự nhiên đầu tiên lớn hơn 0 là $1 + 2 + ... + 14 = (14 + 1) * 14 \/ 2 = 105$\n$106 - 1 = 105 \\Rarr$ số lớn nhất là 15\n",
-    "id":218
+    "id":219
   }
 ]

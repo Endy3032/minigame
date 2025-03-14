@@ -32,7 +32,7 @@ export default function QuestionBrowser(props: QuestionBrowserProps) {
 	const navigate = (next: number) => {
 		const newIndex = Math.max(0, Math.min(index.value + next, props.data.length - 1))
 		index.value = newIndex
-		history.pushState(null, "", `/test?${newIndex + 1}`)
+		history.pushState(null, "", `/browser?${newIndex + 1}`)
 	}
 
 	const question: Question = props.data[index.value]

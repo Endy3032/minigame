@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Timestamp	Email Address	Rating	Difficulty	Question	Image	A	B	C	D	Answer	Explanation	Note
 FILE = "questions.xlsx"
 
 df = pd.read_excel(FILE)
