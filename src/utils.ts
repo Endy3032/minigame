@@ -13,3 +13,7 @@ export const pickRandom = <T>(arr: T[], count: number = 10) => {
 
 	return [...set.values()]
 }
+
+export const cn = (...classes: (string | boolean | undefined)[]) => {
+	return classes.filter(Boolean).join(" ")
+}

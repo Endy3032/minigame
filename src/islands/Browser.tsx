@@ -58,13 +58,13 @@ export default function QuestionBrowser(props: { data: Question[] }) {
 				</button>
 			</div>
 			<div key={index.value} class="flex flex-col gap-3 bg-white p-6 rounded-lg shadow-lg w-full max-w-xl">
-				<div className="flex flex-col gap-1 mb-2">
+				<div class="flex flex-col gap-1 mb-2">
 					<span>Độ khó {question.difficulty}</span>
-					<div className="flex gap-1">
+					<div class="flex gap-1">
 						{/* difficulty color bars */}
 						{[...Array(5)].map((_, i) => (
 							<div key={i}
-								className={`w-full h-2 rounded-full ${
+								class={`w-full h-2 rounded-full ${
 									question.difficulty && i < question.difficulty ? difficultyColorMap[i + 1] : "bg-gray-200"
 								}`} />
 						))}
@@ -96,13 +96,13 @@ export default function QuestionBrowser(props: { data: Question[] }) {
 							)}
 						</ul>
 					)
-					: <div className="p-2 rounded bg-blue-300">Đáp án: {renderMathText(question.answer?.toString())}</div>}
-				<div className="flex flex-col gap-2">
+					: <div class="p-2 rounded bg-blue-300">Đáp án: {renderMathText(question.answer?.toString())}</div>}
+				<div class="flex flex-col gap-2">
 					{question.explanation?.split("\n").map((line, i) => (
 						<p key={i} class="text-gray-600 whitespace-pre-wrap leading-tight">{renderMathText(line)}</p>
 					))}
 				</div>
-				<span className="text-sm text-gray-400">
+				<span class="text-sm text-gray-400">
 					#{index.value + 1}/{question.id}
 				</span>
 			</div>

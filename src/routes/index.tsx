@@ -15,7 +15,7 @@ export default function Home() {
 	return (
 		<div class="flex-1 flex flex-col gap-6 items-center justify-center px-4 py-8">
 			<img src="/logo.svg" class="w-full max-w-64" alt="Logo trường THPT Chuyên Trần Đại Nghĩa" />
-			<div className="flex flex-col items-center gap-4">
+			<div class="flex flex-col items-center gap-4">
 				<h1 class="text-4xl font-bold text-center text-balance">
 					Chào bạn đến với Minigame Toán Học
 				</h1>

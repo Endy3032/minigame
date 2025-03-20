@@ -152,7 +152,7 @@
     "c":"42",
     "d":"35",
     "answer":"A",
-    "explanation":"Ta lấy số trước nhân 2 rồi trừ 1 sẽ ra số sau liền kề.\n$4 * 2 – 1 = 7$\n$7 * 2 – 1 = 13$\n$13 * 2 – 1 = 25$\n$25 * 2 – 1 = 49$",
+    "explanation":"Ta lấy số trước nhân 2 rồi trừ 1 sẽ ra số sau liền kề.\n$4 * 2 - 1 = 7$\n$7 * 2 - 1 = 13$\n$13 * 2 - 1 = 25$\n$25 * 2 - 1 = 49$",
     "id":27
   },
   {
@@ -385,7 +385,7 @@
   },
   {
     "difficulty":3.0,
-    "question":"Hãy tìm một số thập phân có 2 chữ số và bé hơn 10 (ví dụ: 3.2) sao cho không có chữ số nào là 0 và trung bình cộng hai chữ số bằng chính số đó ",
+    "question":"3",
     "image":null,
     "a":null,
     "b":null,
@@ -457,7 +457,7 @@
   },
   {
     "difficulty":2.0,
-    "question":"Tính $(–3)^8$, biết $(–3)^7 = –2187$",
+    "question":"Tính $(-3)^8$, biết $(-3)^7 = -2187$",
     "image":null,
     "a":"-6 561",
     "b":"-6 321",
@@ -536,7 +536,7 @@
     "c":"200",
     "d":"250",
     "answer":"B",
-    "explanation":"Tổng số táo mà bà đã hái: $10 * 2 * 2 * 2 * 2 = 160$ quả.\nSố táo những lính canh đã giữ lại: $160 – 10 = 150$ quả",
+    "explanation":"Tổng số táo mà bà đã hái: $10 * 2 * 2 * 2 * 2 = 160$ quả.\nSố táo những lính canh đã giữ lại: $160 - 10 = 150$ quả",
     "id":67
   },
   {
@@ -560,7 +560,7 @@
     "c":"7 học sinh",
     "d":"9 học sinh",
     "answer":"C",
-    "explanation":"Số học sinh thích ít nhất một trong hai môn = $18 + 15 – 10 = 23$\nSố học sinh không thích cả hai môn = $30 – 23 = 7$",
+    "explanation":"Số học sinh thích ít nhất một trong hai môn = $18 + 15 - 10 = 23$\nSố học sinh không thích cả hai môn = $30 - 23 = 7$",
     "id":70
   },
   {
@@ -572,7 +572,7 @@
     "c":"14 viên",
     "d":"12 viên",
     "answer":"C",
-    "explanation":"Số viên kẹo màu hồng: $\\frac13 * 30 = 10$ viên.\nSố viên kẹo màu xanh: $\\frac15 * 30 = 6$ viên.\nTổng số viên kẹo màu hồng và xanh: $10 + 6 = 16$ viên.\nSố viên kẹo còn lại: $30 – 16 = 14$ viên.",
+    "explanation":"Số viên kẹo màu hồng: $\\frac13 * 30 = 10$ viên.\nSố viên kẹo màu xanh: $\\frac15 * 30 = 6$ viên.\nTổng số viên kẹo màu hồng và xanh: $10 + 6 = 16$ viên.\nSố viên kẹo còn lại: $30 - 16 = 14$ viên.",
     "id":72
   },
   {
@@ -648,6 +648,18 @@
     "id":81
   },
   {
+    "difficulty":3.0,
+    "question":"Nếu hôm nay là Chủ Nhật, thì 100 ngày nữa sẽ là thứ mấy?",
+    "image":null,
+    "a":"Thứ 2",
+    "b":"Thứ 3",
+    "c":"Thứ 4",
+    "d":"Chủ Nhật",
+    "answer":"B",
+    "explanation":"Vì 100÷7=14 dư 2, tức là 2 ngày sau Chủ Nhật, nên là Thứ Ba.",
+    "id":84
+  },
+  {
     "difficulty":1.0,
     "question":"Nếu 3 con gà trong 3 ngày đẻ được 3 quả trứng, thì trong 9 ngày, 9 con gà sẽ đẻ được bao nhiêu quả trứng?",
     "image":null,
@@ -660,6 +672,18 @@
     "id":85
   },
   {
+    "difficulty":5.0,
+    "question":"Có 1000 bình thuốc chuẩn bị xuất khẩu nhưng 1 bình thuốc trong đó đã nhiễm độc. Người ta quyết định dùng 10 tên tử tù để thử thuốc. Quản ngục có 1 ngày để tìm ra bình thuốc đó. Độc dược sẽ phát huy sau 24h, do vậy ông ta chỉ có một cơ hội duy nhất để làm điều đó. Biết rằng quản ngục được quyền ép bất cứ tử tù nào uống bất cứ bình thuốc nào. Ông ta cần ít nhất bao nhiêu tử tù để chắc chắn tìm ra được bình thuốc bị nhiễm độc?",
+    "image":null,
+    "a":"10",
+    "b":"100",
+    "c":"250",
+    "d":"500",
+    "answer":"A",
+    "explanation":"Mỗi chai rượu từ 1 đến 1000 đều có thể quy đổi ra nhị phân với 10 bit (2^10 > 1000). Ở mỗi bit trong chai rượu, cho tử tù thứ n uống nếu bit đó là số 1. Khi k người tử tù nhiễm độc, sử dụng vị trí của người tử tù để truy lại vị trí bình rượu. Vậy, cần ít nhất 10 tử tù.",
+    "id":86
+  },
+  {
     "difficulty":2.0,
     "question":"Tìm số tiếp theo trong dãy số sau:\n1, 3, 6, 10, 15, ?",
     "image":null,
@@ -668,7 +692,7 @@
     "c":"21",
     "d":"22",
     "answer":"C",
-    "explanation":"Đây là dãy số tam giác, mỗi số là tổng của các số tự nhiên liên tiếp.\nHiệu giữa các số: $3–1 = 2$, $6–3 = 3$, $10–6 = 4$, $15–10 = 5$\nSố tiếp theo sẽ tăng thêm 6, do đó: $15 + 6 = 21$",
+    "explanation":"Đây là dãy số tam giác, mỗi số là tổng của các số tự nhiên liên tiếp.\nHiệu giữa các số: $3-1 = 2$, $6-3 = 3$, $10-6 = 4$, $15-10 = 5$\nSố tiếp theo sẽ tăng thêm 6, do đó: $15 + 6 = 21$",
     "id":87
   },
   {
@@ -780,7 +804,7 @@
     "id":102
   },
   {
-    "difficulty":null,
+    "difficulty":2.0,
     "question":"Năm 2007 là Đinh Hợi, vậy năm 2027 là năm gì",
     "image":"can-chi - Trần Anh Khôi.png",
     "a":"Đinh Mùi",
@@ -876,7 +900,7 @@
     "id":116
   },
   {
-    "difficulty":4.0,
+    "difficulty":3.0,
     "question":"Vừa gà vừa chó\nBó lại cho tròn\nBa mươi sáu con\nMột trăm chân chẵn\nHỏi có bao nhiêu gà bao nhiêu chó ?",
     "image":null,
     "a":"10 gà 14 chó",
@@ -889,6 +913,30 @@
   },
   {
     "difficulty":3.0,
+    "question":" Có 3 anh em với số tuổi hiện tại đều là các số nguyên tố, và khoảng cách tuổi của họ cũng là số nguyên tố. Vậy tuổi của người thứ 2 là bao nhiêu?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"5",
+    "explanation":"Số tuổi của 3 anh em là 2, 5 và 7",
+    "id":121
+  },
+  {
+    "difficulty":3.0,
+    "question":"Hai người A và B có một số quả bóng. A nói rằng B có số bóng nhiều gấp 3 lần của mình nên B đã tặng 10 quả cho A, nhưng khi đó B vẫn có số bóng gấp đôi A. Vậy B phải cho A thêm mấy quả nữa để số bóng của 2 người bằng nhau?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"20",
+    "explanation":"Ban đầu B có 90 bóng và A có 30 bóng, do đó bây giờ B phải cho thêm A 20 bóng để bằng nhau.",
+    "id":122
+  },
+  {
+    "difficulty":3.0,
     "question":"Có 12 đứa trẻ trong một lớp học, trong đó 6 đứa trẻ đang đi tất và 4 đứa đang đi giày, có 3 đứa trẻ mang cả hai thứ đó. Vậy có bao nhiêu đứa trẻ đi chân trần?",
     "image":null,
     "a":null,
@@ -896,7 +944,7 @@
     "c":null,
     "d":null,
     "answer":"5",
-    "explanation":"Theo dữ kiện, trong 4 đứa trẻ đi giày có 3 đứa đi cả hai, tức là có 1 đứa chỉ đi giày mà không đi tất. Tương tự, có 3 đứa chỉ đi tất mà không đi giày. Vậy số đứa trẻ đi chân trần là 12 – (3 + 1 + 3) = 5",
+    "explanation":"Theo dữ kiện, trong 4 đứa trẻ đi giày có 3 đứa đi cả hai, tức là có 1 đứa chỉ đi giày mà không đi tất. Tương tự, có 3 đứa chỉ đi tất mà không đi giày. Vậy số đứa trẻ đi chân trần là 12 - (3 + 1 + 3) = 5",
     "id":123
   },
   {
@@ -922,6 +970,18 @@
     "answer":"D",
     "explanation":"Điều kiện để 3 cạnh có thể tạo thành 1 tam giác là bất đẳng thức tam giác a + b > c với c là cạnh có độ dài lớn nhất trong 3 cạnh.",
     "id":125
+  },
+  {
+    "difficulty":2.0,
+    "question":"Lớp 9A20 có 69 bạn thích chơi Minecraft, 40 bạn thích chơi Roblox và 29 bạn thích chơi cả 2 trò chơi. Hỏi có bao nhiêu bạn chỉ thích chơi Minecraft?",
+    "image":null,
+    "a":"20",
+    "b":"40",
+    "c":"50",
+    "d":"30",
+    "answer":"B",
+    "explanation":"Cách 1: \nSố bạn chỉ thích chơi Minecraft = số bạn thích chơi Minecraft - số bạn thích chơi cả 2 trò chơi = 69 - 29 = 40\n\nCách 2 (mở rộng kiến thức, tuy cách làm này dài dòng hơn nhưng tổng quát hơn): Vì mỗi bạn đều thích ít nhất một trò chơi nênv\nSố học sinh của lớp = số bạn thích chơi Minecraft + số bạn thích chơi Roblox - số bạn thích chơi cả 2 trò chơi = 69 + 40 - 29 = 80\nSố bạn chỉ thích chơi Minecraft = số học sinh của lớp - số bạn thích chơi Roblox = 80 - 40 = 40",
+    "id":126
   },
   {
     "difficulty":2.0,
@@ -958,6 +1018,18 @@
     "answer":"C",
     "explanation":"2 số ở 2 bên sẽ có tổng là số nằm giữa",
     "id":130
+  },
+  {
+    "difficulty":3.0,
+    "question":"Có 10 người trong một phòng họp. Tất cả mọi người đều bắt tay với những người còn lại mỗi người 1 lần. Hỏi có tất cả bao nhiêu cái bắt tay?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"45",
+    "explanation":"n*(n-1)\/2",
+    "id":131
   },
   {
     "difficulty":2.0,
@@ -1128,6 +1200,18 @@
     "id":152
   },
   {
+    "difficulty":1.0,
+    "question":"Chuột Mickey có 2 chân. Vịt nào có 2 chân?",
+    "image":null,
+    "a":"Vịt Donald",
+    "b":"Vịt Trời",
+    "c":"Vịt xám lông đen",
+    "d":"Vịt nào chẳng có 2 chân",
+    "answer":"D",
+    "explanation":null,
+    "id":153
+  },
+  {
     "difficulty":3.0,
     "question":"Cho a = 6, b = 10, c = ?. Tìm c là số nguyên dương nhỏ nhất để bộ số (a, b, c) tạo thành 1 tam giác",
     "image":null,
@@ -1153,6 +1237,18 @@
   },
   {
     "difficulty":1.0,
+    "question":"Một lớp học có 35 học sinh thích học toán, 24 học sinh thích học tin và 10 học sinh thích học cả toán và tin. Hỏi lớp đó có bao nhiêu học sinh?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"49",
+    "explanation":"35 + 24 - 10 = 49 ",
+    "id":156
+  },
+  {
+    "difficulty":1.0,
     "question":"Sơn có 1 tỷ tỷ việt nam đồng. Với một số tiền lớn như vậy, khi đi gửi tiết kiệm ngân hàng, thu ngân yêu cầu Sơn ghi số tiền ra ở dạng số vào phiếu để xác nhận thông tin. \n\nVậy con số Sơn cần ghi là bao nhiêu?",
     "image":"1-ty - Jack Pham.jpeg",
     "a":"1E+16",
@@ -1162,6 +1258,102 @@
     "answer":"C",
     "explanation":"1 tỷ có 9 số 0 => 1 tỷ tỷ có 18 số 0 ",
     "id":157
+  },
+  {
+    "difficulty":2.0,
+    "question":"Một người có 10 trái táo, 5 trái lê và 3 trái mận. Giá của táo, lê và mận lần lượt là 3x, 2y và 5z biết x,y,z là số trái còn lại. Tổng tiền anh ấy thu được sau khi bán hết là:",
+    "image":null,
+    "a":"225",
+    "b":"0",
+    "c":"55",
+    "d":"160",
+    "answer":"A",
+    "explanation":null,
+    "id":158
+  },
+  {
+    "difficulty":2.0,
+    "question":"Búa ăn kéo, kéo ăn bao, bao ăn búa, làm sao để thắng lần lượt sau: búa, bao, búa, kéo, bao, kéo, bao, kéo, búa.",
+    "image":null,
+    "a":"bao, kéo, bao, búa, kéo, búa, kéo, búa, bao",
+    "b":"bao, kéo, bao, búa, bao, búa, kéo, búa, bao",
+    "c":"bao, kéo, bao, bao, kéo, bao, kéo, búa, bao",
+    "d":"bao, kéo, bao, kéo, bao, búa, kéo, kéo, bao",
+    "answer":"A",
+    "explanation":null,
+    "id":160
+  },
+  {
+    "difficulty":2.0,
+    "question":"Cho một đường tròn có bán kính là 1, diện tích của hình vuông nội tiếp đường tròn đó là bao nhiêu ?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"2",
+    "explanation":"Xét 1 tam giác vuông được tạo thành từ tâm và 2 đỉnh kề nhau trên hình vuông. Ta có S tam giác = 1\/2*1*1 = 1\/2. Mà S hình vuông = 4*S tam giác = 4*1\/2 = 2",
+    "id":161
+  },
+  {
+    "difficulty":2.0,
+    "question":"Một người sinh vào ngày 1\/1\/899 và mất vào thế kỉ 11. Hỏi người đó đã sống được ít nhất bao nhiêu năm?",
+    "image":null,
+    "a":"2",
+    "b":"101",
+    "c":"201",
+    "d":"102",
+    "answer":"D",
+    "explanation":"Năm 899 là thế kỉ 9, năm đầu tiên của thế kỉ 11 là 1001. Người đó sinh ngày 1\/1 nên có thể tính tuổi theo năm. Vậy ta có 1001 - 899 = 102",
+    "id":163
+  },
+  {
+    "difficulty":2.0,
+    "question":"Cho tam giác ABC có AB = 5, AC = 12, BC = 13. Góc có số đo lớn nhất trong tam giác ABC có số đo là bao nhiêu độ ?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"90",
+    "explanation":"5^2 + 12^2 = 13^2 => Tam giác ABC vuông tại A",
+    "id":164
+  },
+  {
+    "difficulty":2.0,
+    "question":"Trong các tháng 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 có bao nhiêu tháng có 31 ngày và nằm ngay sau một tháng cũng có 31 ngày?",
+    "image":null,
+    "a":"1",
+    "b":"2",
+    "c":"4",
+    "d":"8",
+    "answer":"B",
+    "explanation":"Tháng 8 (đi sau tháng 7) và tháng 1 (đi sau tháng 12)",
+    "id":166
+  },
+  {
+    "difficulty":3.0,
+    "question":"Vào cuối buổi hòa nhạc, 10 người chào nhau sao cho mỗi người đều chào nhau chỉ 1 lần. Hỏi họ sẽ chào nhau tổng cộng bao nhiêu lần?",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"45",
+    "explanation":"Người 1 chào với 9 người còn lại\nNgười 2 đã chào với người 1 nên chào 8 người còn lại\nCứ vậy $\\Rarr 9+8+7+6+5+4+3+2+1 = 45$",
+    "id":168
+  },
+  {
+    "difficulty":4.0,
+    "question":"Ôi không, chiếc balo siu quý giá của Mohammed vừa bị đánh cắp và anh ta cần kích hoạt chế độ “chống trộm” của nó trước khi tên trộm ra khỏi sân bay. Hãy giúp Mohammed tìm ra mã kích hoạt biết nó thoả các điều kiện:\n1 Gồm 3 chữ số\n2 Là một số nguyên tố có tổng 2 số cuối bằng 2\n3 Tích các chữ số là một số chính phương",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"911",
+    "explanation":"Hehe",
+    "id":169
   },
   {
     "difficulty":3.0,
@@ -1174,6 +1366,18 @@
     "answer":"B",
     "explanation":"Bài toán bắt tay: Gọi 5 điểm lần lượt là A, B, C, D, E:\n\nTa có:\n4 cách đoạn từ điểm A (AB, AC, AD, AE)\n3 đoạn từ điểm B, không tính BA (BC, BD, BE)\n2 đoạn từ điểm C, không tính CA và CB (CD, CE)\n1 đoạn DE\n\nVậy có 4+3+2+1=10 cách để tạo đoạn thẳng",
     "id":170
+  },
+  {
+    "difficulty":4.0,
+    "question":"Điền vào ô có dấu hỏi:",
+    "image":"2 - Long.png",
+    "a":"15",
+    "b":"20",
+    "c":"21",
+    "d":"35",
+    "answer":"A",
+    "explanation":"Tam giác pascal",
+    "id":171
   },
   {
     "difficulty":3.0,
@@ -1260,6 +1464,18 @@
     "id":181
   },
   {
+    "difficulty":2.0,
+    "question":"Bạn An sau khi đánh sicbo hết tiền thì quyết định ăn rau thay cơm. Bà 7 bán 7 ngàn một bó nhưng mua 2 bó còn 12 ngàn. Bà 8 bán 8 ngàn một bó nhưng 3 bó thì còn 20 ngàn. Biết bạn An muốn mua 4 bó, vậy tốn hết bao nhiêu tiền.",
+    "image":null,
+    "a":null,
+    "b":null,
+    "c":null,
+    "d":null,
+    "answer":"24 ngàn",
+    "explanation":"12*2<20+8 ",
+    "id":183
+  },
+  {
     "difficulty":1.0,
     "question":"Điền số thích hợp vào ô trống",
     "image":"IMG_1058 - Uyên Phương.jpeg",
@@ -1296,6 +1512,18 @@
     "id":186
   },
   {
+    "difficulty":5.0,
+    "question":"Hãy tìm ra số tiếp theo của dãy số: 5, 16, 49, 104, ?.",
+    "image":null,
+    "a":"90",
+    "b":"150",
+    "c":"171",
+    "d":"181",
+    "answer":"D",
+    "explanation":"16 = 5 + 11\n49 = 16 + 33\n104 = 49 + 55\n=> ans = 104 + 77",
+    "id":187
+  },
+  {
     "difficulty":3.0,
     "question":"Tìm số tiếp theo của dãy số: 1, 4, 10, 22, 46, ?.",
     "image":null,
@@ -1320,6 +1548,78 @@
     "id":190
   },
   {
+    "difficulty":2.0,
+    "question":"Một miếng vải dài 30m. Mỗi ngày, người thợ may cắt miếng vải này 1 lần. Hỏi sau mấy ngày thì miếng vải này được cắt thành các mảnh vải dài 5m?",
+    "image":null,
+    "a":"1",
+    "b":"5",
+    "c":"6",
+    "d":"2",
+    "answer":"B",
+    "explanation":"Chỉ cần cắt 5 lần thì miếng vải đã thành 6 mảnh vải, mỗi mảnh vải dài 5m.",
+    "id":191
+  },
+  {
+    "difficulty":3.0,
+    "question":"Hãy điền số tiếp theo: 3, 4, 7, 11, 18, 29",
+    "image":null,
+    "a":"47",
+    "b":"57",
+    "c":"37",
+    "d":"67",
+    "answer":"A",
+    "explanation":"Tổng 2 số liền trước bằng số tiếp theo",
+    "id":193
+  },
+  {
+    "difficulty":3.0,
+    "question":"Tập hợp số vô tỉ được kí hiệu là:",
+    "image":null,
+    "a":"Z",
+    "b":"Q",
+    "c":"R",
+    "d":"I",
+    "answer":"D",
+    "explanation":"Z là số nguyên, Q là số hữu tỉ, R là số thực, I là số vô tỉ",
+    "id":194
+  },
+  {
+    "difficulty":2.0,
+    "question":"Có bao nhiêu số chẵn là số nguyên tố",
+    "image":null,
+    "a":"0",
+    "b":"1",
+    "c":"2",
+    "d":"Vô số",
+    "answer":"B",
+    "explanation":"Chỉ có một số chẵn là số nguyên tố, đó là số 2.",
+    "id":196
+  },
+  {
+    "difficulty":3.0,
+    "question":"Có bao nhiêu số vô tỉ sau đây: π, e, √2, √4, 3,(3241)",
+    "image":null,
+    "a":"2",
+    "b":"4",
+    "c":"1",
+    "d":"3",
+    "answer":"D",
+    "explanation":"π, e, √2 là các số vô tỉ; √4 là số tự nhiên; 3,(3241) là số hữu tỉ (số thập phân vô hạn tuần hoàn)",
+    "id":197
+  },
+  {
+    "difficulty":2.0,
+    "question":"Số chính phương là:",
+    "image":null,
+    "a":"Số chỉ có 2 nghiệm là 1 và chính nó",
+    "b":"Bình phương của một số khác",
+    "c":"Lập phương của một số khác",
+    "d":"Số mà căn bậc 2 của nó cũng là số nguyên",
+    "answer":"D",
+    "explanation":"A sai vì đó là số nguyên tố. B sai vì: số chính phương phải là số nguyên dương trong khi bình phương của \"một số khác\" thì không đảm bảo rằng \"một số khác\" cũng là số nguyên dương. C sai vì lý do tương tự. D đúng theo định nghĩa.",
+    "id":198
+  },
+  {
     "difficulty":3.0,
     "question":"Hãy điền số tiếp theo vào dấu hỏi chấm trong hình dưới đây.",
     "image":"https:\/\/r73troypb4obj.vcdn.cloud\/website02\/uploads\/pictures\/620b12b91a1b851bec304033\/content_nhung-bai-toan-tu-duy-logic.jpg",
@@ -1329,7 +1629,7 @@
     "d":null,
     "answer":"30",
     "explanation":"Áp dụng quy luật toán học suy luận theo kết quả từng cột ta có các phép tính:\n\n32 + 2 = 34\n\n25 + 5 = 32\n\n48 + 8 = 56\n\n19 + 11 = 30",
-    "id":199
+    "id":209
   },
   {
     "difficulty":3.0,
@@ -1341,7 +1641,7 @@
     "d":null,
     "answer":"2",
     "explanation":"Hình tròn ở giữa bằng tổng các hình tròn bên trên. Và ngược lại, hình tròn ở giữa bằng tổng các hình tròn bên dưới.",
-    "id":203
+    "id":213
   },
   {
     "difficulty":5.0,
@@ -1351,9 +1651,9 @@
     "b":"45",
     "c":"10",
     "d":"21",
-    "answer":"10",
+    "answer":"C",
     "explanation":"Trong mỗi sơ đồ sao, số ở tâm bằng tổng của ba số trên cùng, trừ tổng của hai số dưới cùng.",
-    "id":204
+    "id":214
   },
   {
     "difficulty":5.0,
@@ -1363,9 +1663,9 @@
     "b":"2222",
     "c":"4311",
     "d":"1143",
-    "answer":"1143",
+    "answer":"D",
     "explanation":"Bắt đầu với số có 3 chữ số đầu tiên, chữ số đầu tiên tăng thêm 2 ở số tiếp theo, chữ số ở giữa giảm đi 1 và chữ số bên tay phải xen kẽ giữa 5 và 3.",
-    "id":205
+    "id":215
   },
   {
     "difficulty":3.0,
@@ -1377,7 +1677,7 @@
     "d":"3",
     "answer":"C",
     "explanation":"x = y = 1",
-    "id":206
+    "id":216
   },
   {
     "difficulty":2.0,
@@ -1389,7 +1689,7 @@
     "d":"2",
     "answer":"D",
     "explanation":"Có:\ndoanh thu t1 = 2\/5 doanh thu t12\ndoanh thu t2 = 1\/4 doanh thu t1\n=> doanh thu t2 = 1\/4 . 2\/5 doanh thu t12 = 1\/10 doanh thu t12\n\ndoanh thu t1 + t2:\n2\/5 + 1\/10 = 1\/2 doanh thu t12\n=> doanh thu t12 = 2 (doanh thu t1 + t2)",
-    "id":207
+    "id":217
   },
   {
     "difficulty":2.0,
@@ -1401,7 +1701,7 @@
     "d":"2,3g",
     "answer":"C",
     "explanation":"$1.2*175\/100 = 2.1$",
-    "id":208
+    "id":218
   },
   {
     "difficulty":3.0,
@@ -1413,7 +1713,7 @@
     "d":null,
     "answer":"1029",
     "explanation":"Quy tắc:\n*2, +3, *2, +3, *2, +3",
-    "id":209
+    "id":219
   },
   {
     "difficulty":3.0,
@@ -1425,7 +1725,7 @@
     "d":null,
     "answer":"-3",
     "explanation":"Quy tắc: +3, -1, +3, -1, +3, -1",
-    "id":210
+    "id":220
   },
   {
     "difficulty":3.0,
@@ -1437,7 +1737,7 @@
     "d":null,
     "answer":"-156",
     "explanation":"Quy tắc: +2, *2, +2, *2, +2, *2",
-    "id":211
+    "id":221
   },
   {
     "difficulty":4.0,
@@ -1449,7 +1749,7 @@
     "d":null,
     "answer":"630",
     "explanation":"Quy tắc: +1, *2, +3, *4, +5, *6",
-    "id":212
+    "id":222
   },
   {
     "difficulty":4.0,
@@ -1461,7 +1761,7 @@
     "d":null,
     "answer":"76",
     "explanation":"Quy tắc: +5, +(2+7*0), +5, +(2+7*1), +5, +(2+7*2)",
-    "id":213
+    "id":223
   },
   {
     "difficulty":4.0,
@@ -1473,7 +1773,7 @@
     "d":null,
     "answer":"128",
     "explanation":"Quy tắc: +7, +9, +11, +13, +15, +17",
-    "id":214
+    "id":224
   },
   {
     "difficulty":3.0,
@@ -1485,7 +1785,7 @@
     "d":"D",
     "answer":"D",
     "explanation":"Từ trái sang phải: mũi tên quay ngược chiều kim đồng hồ 45 độ, rồi quay theo chiều kim đồng hồ 90 độ",
-    "id":216
+    "id":226
   },
   {
     "difficulty":3.0,
@@ -1497,7 +1797,7 @@
     "d":"D",
     "answer":"C",
     "explanation":"Từ trái sang phải: đường cong xoay theo chiều kim đồng hồ góc 45 độ. Đường có hai dấu chấm giữ nguyên vị trí\nTừ trên xuống dưới: đường mũi tên xoay theo chiều kim đồng hồ góc 45 độ.",
-    "id":217
+    "id":227
   },
   {
     "difficulty":4.0,
@@ -1509,7 +1809,7 @@
     "d":null,
     "answer":"36",
     "explanation":"Hiệu ba số trong mỗi cột bằng 8.\n\nTa có: 16 - 4 - 4 = 8.\n\n24 - 8 - 8 = 8.\n\n36 - 22 - 6 = 8.\n\nVậy nên: 49 - 36 - 5 = 8.",
-    "id":218
+    "id":228
   },
   {
     "difficulty":3.0,
@@ -1521,7 +1821,7 @@
     "d":null,
     "answer":"6",
     "explanation":"Trong mỗi cột, số dưới gấp hai lần số trên liền kề.\n\n9 * 2 = 18; 18 * 2 = 36.\n5 * 2 = 10; 10 * 2 = 20.\n\nVậy nên: 3 * 2 = 6; 6 * 2 =12.",
-    "id":219
+    "id":229
   },
   {
     "difficulty":4.0,
@@ -1533,7 +1833,7 @@
     "d":null,
     "answer":"52",
     "explanation":"Số sau là tổng của số trước liền kề và các số cấu tạo nên số đó.\n\n19 + (1 + 9) = 29.\n29 + (2 + 9) = 40.\n40 + (4 + 0) = 44.\n\nVậy nên: 44 + (4 + 4) = 52.",
-    "id":220
+    "id":230
   },
   {
     "difficulty":4.0,
@@ -1545,7 +1845,7 @@
     "d":null,
     "answer":"12",
     "explanation":"Ở mỗi hình, tích hai số ở dưới chia số ở trên thì bằng 3.\n\n6 * 2 \/ 4 = 3.\n2 * 12 \/ 8 = 3.\n5 * 6 \/ 10 = 3.\n\nVậy nên: 4 * 9 \/ 12 = 3.",
-    "id":221
+    "id":231
   },
   {
     "difficulty":3.0,
@@ -1557,7 +1857,7 @@
     "d":"14",
     "answer":"B",
     "explanation":"Ở khóa thứ nhất, ta cần thử nhiều nhất 4 lần. Nếu cả 4 chìa đều không mở được thì chìa còn lại chính là chìa để mở khóa đó. Tương tự, ở khóa thứ hai, thứ ba, thứ tư ta cần nhiều nhất số lần thử tương ứng là: 3, 2, 1. Khóa thứ năm không cần thử vì ta đã biết chìa đúng của 4 khóa nên chìa còn lại chính là của ổ thứ năm. $4 + 3 + 2 + 1 = 10.$",
-    "id":223
+    "id":233
   },
   {
     "difficulty":3.0,
@@ -1569,6 +1869,6 @@
     "d":"17",
     "answer":"B",
     "explanation":"Tổng của 14 số tự nhiên đầu tiên lớn hơn 0 là $1 + 2 + ... + 14 = (14 + 1) * 14 \/ 2 = 105$\n$106 - 1 = 105 \\Rarr$ số lớn nhất là 15\n",
-    "id":224
+    "id":234
   }
 ]
