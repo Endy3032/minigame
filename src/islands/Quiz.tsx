@@ -3,6 +3,7 @@ import { useEffect, useRef } from "preact/hooks"
 import { cn, Question } from "../utils.ts"
 
 export function Quiz(props: { questions: Question[] }) {
+	const autoAdvance = useSignal(true)
 	const questions = props.questions
 	const currentQuestion = useSignal(0)
 	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
@@ -29,23 +30,37 @@ export function Quiz(props: { questions: Question[] }) {
 	const proceed = (mode: "skip" | "submit" | "choose" = "choose") => {
 		clearTimeout(timeout.current)
 
-		if (q.type === "Multiple Choice" || mode !== "choose") {
-			if (mode !== "skip") showAnswer.value = true
-			if (answer.value.length) answers.value[qi] = answer.value
-			answers.value = [...answers.value]
+		if (autoAdvance.value) {
+			if (q.type === "Multiple Choice" || mode !== "choose") {
+				if (mode !== "skip") showAnswer.value = true
+				if (answer.value.length) answers.value[qi] = answer.value
+				answers.value = [...answers.value]
 
-			timeout.current = setTimeout(() => {
+				timeout.current = setTimeout(() => {
+					currentQuestion.value = Math.min(qi + 1, questions.length)
+					answer.value = []
+					showAnswer.value = false
+
+					if (!skipButton.current) return
+					skipButton.current.disabled = true
+					setTimeout(() => {
+						if (!skipButton.current) return
+						skipButton.current.disabled = false
+					}, 1000)
+				}, mode === "skip" ? 0 : 2000)
+			}
+		} else {
+			if (mode === "submit") {
+				if (q.type === "Multiple Choice" || answer.value.length) {
+					showAnswer.value = true
+					if (answer.value.length) answers.value[qi] = answer.value
+					answers.value = [...answers.value]
+				}
+			} else if (mode === "skip") {
 				currentQuestion.value = Math.min(qi + 1, questions.length)
 				answer.value = []
 				showAnswer.value = false
-
-				if (!skipButton.current) return
-				skipButton.current.disabled = true
-				setTimeout(() => {
-					if (!skipButton.current) return
-					skipButton.current.disabled = false
-				}, 1000)
-			}, mode === "skip" ? 0 : 2000)
+			}
 		}
 	}
 
@@ -163,7 +178,16 @@ export function Quiz(props: { questions: Question[] }) {
 							</button>
 						)}
 					</div>
-					<div className="flex w-full justify-end">
+					<div className="flex gap-3 w-full justify-end">
+						<button
+							type="button"
+							class={cn("px-4 py-2 transition-all rounded-md outline-none", autoAdvance.value
+								? "bg-emerald-700 shadow-emerald-800 translate-y-1 shadow-none"
+								: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
+							onClick={() => autoAdvance.value = !autoAdvance.value}
+						>
+							Tự chuyển câu {autoAdvance.value ? "✓" : "✗"}
+						</button>
 						<button
 							type="button"
 							ref={skipButton}
@@ -172,6 +196,7 @@ export function Quiz(props: { questions: Question[] }) {
 								proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
 								// disable skip button for 500ms after skipping
 								if (!skipButton.current) return
+								if (!autoAdvance.value && showAnswer.value) return
 								skipButton.current.disabled = true
 								setTimeout(() => {
 									if (!skipButton.current) return
