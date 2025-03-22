@@ -4,13 +4,12 @@ import { cn, Question } from "../utils.ts"
 
 export function Quiz(props: { questions: Question[] }) {
 	const questions = props.questions
-
 	const currentQuestion = useSignal(0)
 	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
-
 	const answer = useSignal<number[]>([])
 	const showAnswer = useSignal(false)
 	const timeout = useRef<number>()
+	const skipButton = useRef<HTMLButtonElement>(null)
 
 	const qi = currentQuestion.value
 	const q = questions[Math.min(qi, questions.length - 1)]
@@ -39,39 +38,45 @@ export function Quiz(props: { questions: Question[] }) {
 				currentQuestion.value = Math.min(qi + 1, questions.length)
 				answer.value = []
 				showAnswer.value = false
+
+				if (!skipButton.current) return
+				skipButton.current.disabled = true
+				setTimeout(() => {
+					if (!skipButton.current) return
+					skipButton.current.disabled = false
+				}, 1000)
 			}, mode === "skip" ? 0 : 2000)
 		}
 	}
 
-	// keyboard handler for pressing 1 2 3 4
-
 	useEffect(() => {
 		const handler = (e: KeyboardEvent) => {
+			if (e.key === "Right" || e.key === "ArrowRight") skipButton.current?.click()
 			if (!["1", "2", "3", "4"].includes(e.key)) return
 			choose(parseInt(e.key))
 			proceed()
 		}
 
-		document.addEventListener("keypress", handler)
-		return () => document.removeEventListener("keypress", handler)
+		document.addEventListener("keyup", handler)
+		return () => document.removeEventListener("keyup", handler)
 	}, [qi])
 
 	return (
 		currentQuestion.value < questions.length
 			? (
 				<div class="relative flex flex-col w-full gap-4">
-					<div className="flex gap-1">
+					<div className="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 						{Array.from({ length: questions.length },
 							(_, i) => (
-								<div key={i} class={cn("flex-1 h-1 rounded-full", answers.value[i].length === 0
-									? "bg-gray-500"
+								<div key={i} class={cn("w-full h-1 rounded-full transition-all", answers.value[i].length === 0
+									? "bg-zinc-500"
 									: answers.value[i].join(",") === questions[i].answer.toString().split(",").toSorted().join(",")
 									? "bg-teal-500"
-									: "bg-rose-500")} />
+									: "bg-rose-500", currentQuestion.value === i ? "ring-1 ring-zinc-300" : "")} />
 							))}
 					</div>
 					<div className="flex flex-1 gap-4">
-						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-3xl leading-tight whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
+						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-2xl md:text-3xl leading-tight whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
 							{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
 							{q.image && (
 								<img src={q.image} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
@@ -83,15 +88,15 @@ export function Quiz(props: { questions: Question[] }) {
 							</div>
 						))}
 					</div>
-					<div class="grid grid-cols-1 md:grid-cols-2 gap-x-3 gap-y-4 text-2xl" id="choices">
+					<div class="grid grid-cols-1 md:grid-cols-2 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
 						{q.a?.toString().length && (
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-24",
-									check(1) ? "translate-y-1 shadow-none ring-4 ring-gray-300" : "",
+									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
+									check(1) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("1") ? "bg-green-700 shadow-green-800" : "bg-red-700 shadow-red-800"
+										? q.answer.toString().includes("1") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
 										: "bg-red-700 shadow-red-800 active:bg-red-800",
 								)}
 								onClick={() => {
@@ -106,10 +111,10 @@ export function Quiz(props: { questions: Question[] }) {
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-24",
-									check(2) ? "translate-y-1 shadow-none ring-4 ring-gray-300" : "",
+									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
+									check(2) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("2") ? "bg-green-700 shadow-green-800" : "bg-red-700 shadow-red-800"
+										? q.answer.toString().includes("2") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
 										: "bg-green-700 shadow-green-800 active:bg-green-800",
 								)}
 								onClick={() => {
@@ -124,10 +129,10 @@ export function Quiz(props: { questions: Question[] }) {
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-24",
-									check(3) ? "translate-y-1 shadow-none ring-4 ring-gray-300" : "",
+									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
+									check(3) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("3") ? "bg-green-700 shadow-green-800" : "bg-red-700 shadow-red-800"
+										? q.answer.toString().includes("3") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
 										: "bg-blue-700 shadow-blue-800 active:bg-blue-800",
 								)}
 								onClick={() => {
@@ -142,10 +147,10 @@ export function Quiz(props: { questions: Question[] }) {
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-24",
-									check(4) ? "translate-y-1 shadow-none ring-4 ring-gray-300" : "",
+									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
+									check(4) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("4") ? "bg-green-700 shadow-green-800" : "bg-red-700 shadow-red-800"
+										? q.answer.toString().includes("4") ? "bg-emerald-700 shadow-emerald-800" : "bg-rose-700 shadow-rose-800"
 										: "bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
 								)}
 								onClick={() => {
@@ -160,8 +165,18 @@ export function Quiz(props: { questions: Question[] }) {
 					<div className="flex w-full justify-end">
 						<button
 							type="button"
-							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700"
-							onClick={() => proceed(answer.value.length ? "submit" : "skip")}
+							ref={skipButton}
+							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50"
+							onClick={() => {
+								proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
+								// disable skip button for 500ms after skipping
+								if (!skipButton.current) return
+								skipButton.current.disabled = true
+								setTimeout(() => {
+									if (!skipButton.current) return
+									skipButton.current.disabled = false
+								}, 1000)
+							}}
 						>
 							{showAnswer.value ? "Tiếp" : answer.value.length ? "Gửi" : "Bỏ qua"}
 						</button>
@@ -169,7 +184,7 @@ export function Quiz(props: { questions: Question[] }) {
 				</div>
 			)
 			: (
-				<div className="flex flex-col gap-4">
+				<div className="flex flex-col gap-4 max-w-screen-xl mx-auto">
 					{questions.map((question, i) => (
 						<div key={i} class="flex flex-col gap-3 p-6 rounded-lg shadow-md w-full">
 							<h2 class="text-xl whitespace-pre-wrap font-semibold leading-tight">
@@ -181,20 +196,44 @@ export function Quiz(props: { questions: Question[] }) {
 							{question.a && question.b
 								? (
 									<ul class="flex flex-col gap-2 py-1">
-										<li class={`p-2 rounded ${question.answer?.toString().toLowerCase() === "a" ? "bg-green-400" : "bg-blue-100"}`}>
-											A: {question.a?.toString()}
+										<li class={`p-2 rounded ${
+											question.answer?.toString().includes("1")
+												? "bg-emerald-700"
+												: answers.value[i].includes(1)
+												? "bg-rose-700"
+												: "bg-zinc-500"
+										}`}>
+											{question.a?.toString()}
 										</li>
-										<li class={`p-2 rounded ${question.answer?.toString().toLowerCase() === "b" ? "bg-green-400" : "bg-blue-100"}`}>
-											B: {question.b?.toString()}
+										<li class={`p-2 rounded ${
+											question.answer?.toString().includes("2")
+												? "bg-emerald-700"
+												: answers.value[i].includes(2)
+												? "bg-rose-700"
+												: "bg-zinc-500"
+										}`}>
+											{question.b?.toString()}
 										</li>
 										{question.c && (
-											<li class={`p-2 rounded ${question.answer?.toString().toLowerCase() === "c" ? "bg-green-400" : "bg-blue-100"}`}>
-												C: {question.c?.toString()}
+											<li class={`p-2 rounded ${
+												question.answer?.toString().includes("3")
+													? "bg-emerald-700"
+													: answers.value[i].includes(3)
+													? "bg-rose-700"
+													: "bg-zinc-500"
+											}`}>
+												{question.c?.toString()}
 											</li>
 										)}
 										{question.d && (
-											<li class={`p-2 rounded ${question.answer?.toString().toLowerCase() === "d" ? "bg-green-400" : "bg-blue-100"}`}>
-												D: {question.d?.toString()}
+											<li class={`p-2 rounded ${
+												question.answer?.toString().includes("4")
+													? "bg-emerald-700"
+													: answers.value[i].includes(4)
+													? "bg-rose-700"
+													: "bg-zinc-500"
+											}`}>
+												{question.d?.toString()}
 											</li>
 										)}
 									</ul>
