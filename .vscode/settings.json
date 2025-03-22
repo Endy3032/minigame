@@ -15,6 +15,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "dprint.dprint"
   },
+  "[python]": {
+    "editor.formatOnSave": false
+  },
   "css.customData": [
     ".vscode/tailwind.json"
   ],
