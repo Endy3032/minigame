@@ -52,6 +52,7 @@ export function Quiz(props: { questions: Question[] }) {
 	useEffect(() => {
 		const handler = (e: KeyboardEvent) => {
 			if (e.key === "Right" || e.key === "ArrowRight") skipButton.current?.click()
+			if (e.key === "Enter" && q.type === "Checkbox" && answer.value.length) skipButton.current?.click()
 			if (!["1", "2", "3", "4"].includes(e.key)) return
 			choose(parseInt(e.key))
 			proceed()
