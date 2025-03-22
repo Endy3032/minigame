@@ -47,7 +47,7 @@ export function Quiz(props: { questions: Question[] }) {
 						if (!skipButton.current) return
 						skipButton.current.disabled = false
 					}, 1000)
-				}, mode === "skip" ? 0 : 2000)
+				}, mode === "skip" ? 0 : q.type === "Checkbox" ? 3000 : 1500)
 			}
 		} else {
 			if (mode === "submit") {
