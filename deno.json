@@ -4,9 +4,9 @@
 		"check": "deno fmt --check && deno lint && deno check **/*.ts && deno check **/*.tsx",
 		"cli": "echo \"import '\\$fresh/src/dev/cli.ts'\" | deno run --unstable -A -",
 		"manifest": "deno task cli manifest $(pwd)",
-		"start": "deno run --unstable-kv -A --watch=static/,routes/ dev.ts",
-		"build": "deno run --unstable-kv -A dev.ts build",
-		"preview": "deno run --unstable-kv -A main.ts",
+		"start": "deno run --unstable-kv -A --watch=src/static/,src/routes/ src/dev.ts",
+		"build": "deno run --unstable-kv -A src/dev.ts build",
+		"preview": "deno run --unstable-kv -A src/main.ts",
 		"update": "deno run --unstable-kv -A -r https://fresh.deno.dev/update ."
 	},
 	"lint": {
@@ -22,6 +22,7 @@
 	],
 	"imports": {
 		"$fresh/": "https://deno.land/x/fresh@1.7.3/",
+		"@std/path": "jsr:@std/path@^1.0.8",
 		"preact": "https://esm.sh/preact@10.22.0",
 		"preact/": "https://esm.sh/preact@10.22.0/",
 		"@preact/signals": "https://esm.sh/*@preact/signals@1.2.2",
