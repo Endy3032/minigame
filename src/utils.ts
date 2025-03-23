@@ -30,12 +30,8 @@ export type Question = {
 	id: number
 	question: string
 	type: "Multiple Choice" | "Checkbox"
-	a: string | number | null
-	b: string | number | null
-	c: string | number | null
-	d: string | number | null
-	e: string | number | null
-	answer: string | number
+	choices: (string | number)[] | null
+	answer: (string | number)[] | null
 	time: number | null
 	image: string | null
 	explanation: string | null

@@ -2,1527 +2,1866 @@
   {
     "question":"Câu 1. Từ 1954 đến 1956, miền Bắc thực hiện cải cách ruộng đất với mục tiêu nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Người cày có ruộng.",
-    "b":"B. Đánh đuổi đế quốc.",
-    "c":"C. Công bằng và dân chủ.",
-    "d":"D. Thống nhất đất nước.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":1
+    "id":1,
+    "choices":[
+      "A. Người cày có ruộng.",
+      "B. Đánh đuổi đế quốc.",
+      "C. Công bằng và dân chủ.",
+      "D. Thống nhất đất nước."
+    ]
   },
   {
     "question":"Câu 2. Trong giai đoạn từ 1954 đến 1959, mục tiêu đấu tranh chủ yếu của nhân dân miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. đòi Mỹ - Diệm thi hành Hiệp định Giơ-ne-vơ.",
-    "b":"B. xây dựng và phát triển các lực lượng vũ trang.",
-    "c":"C. chuẩn bị tổ chức các cuộc phản công quân sự.",
-    "d":"D. xây dựng các căn cứ địa ở nông thôn, rừng núi.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":2
+    "id":2,
+    "choices":[
+      "A. đòi Mỹ - Diệm thi hành Hiệp định Giơ-ne-vơ.",
+      "B. xây dựng và phát triển các lực lượng vũ trang.",
+      "C. chuẩn bị tổ chức các cuộc phản công quân sự.",
+      "D. xây dựng các căn cứ địa ở nông thôn, rừng núi."
+    ]
   },
   {
     "question":"Câu 3. Nghị quyết 15 của Đảng Lao động Việt Nam (1959) đã quyết định",
     "type":"Multiple Choice",
-    "a":"A. tiến hành chiến tranh du kích, xây dựng các căn cứ địa.",
-    "b":"B. phát lệnh tổng khởi nghĩa tiến công trên toàn miền Nam.",
-    "c":"C. để nhân dân nhân miền Nam sử dụng bạo lực khởi nghĩa.",
-    "d":"D. phái lực lượng ra miền Bắc chở vũ khí vào Nam đánh Mỹ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":3
+    "id":3,
+    "choices":[
+      "A. tiến hành chiến tranh du kích, xây dựng các căn cứ địa.",
+      "B. phát lệnh tổng khởi nghĩa tiến công trên toàn miền Nam.",
+      "C. để nhân dân nhân miền Nam sử dụng bạo lực khởi nghĩa.",
+      "D. phái lực lượng ra miền Bắc chở vũ khí vào Nam đánh Mỹ."
+    ]
   },
   {
     "question":"Câu 4. Nghị quyết 15 của Đảng Lao động Việt Nam (1959) ra đời trong hoàn cảnh",
     "type":"Multiple Choice",
-    "a":"A. Liên Xô, Trung Quốc ủng hộ mạnh mẽ.",
-    "b":"B. thời cơ để tiến công cách mạng đã đến.",
-    "c":"C. lực lượng vũ trang ba thứ quân phát triển.",
-    "d":"D. cách mạng miền Nam bị tổn thất nặng nề.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":4
+    "id":4,
+    "choices":[
+      "A. Liên Xô, Trung Quốc ủng hộ mạnh mẽ.",
+      "B. thời cơ để tiến công cách mạng đã đến.",
+      "C. lực lượng vũ trang ba thứ quân phát triển.",
+      "D. cách mạng miền Nam bị tổn thất nặng nề."
+    ]
   },
   {
     "question":"Câu 5. Nội dung nào sau đây không phải là ý nghĩa của phong trào \"Đồng khởi\" (1959 - 1960) ở miền Nam Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Lung lay tận gốc chính quyền Ngô Đình Diệm.",
-    "b":"B. Đánh bại \"chiến tranh cục bộ\" của đế quốc Mỹ.",
-    "c":"C. Bước phát triển mới của cách mạng miền Nam.",
-    "d":"D. Cách mạng miền Nam chuyển sang thế phản công.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":5
+    "id":5,
+    "choices":[
+      "A. Lung lay tận gốc chính quyền Ngô Đình Diệm.",
+      "B. Đánh bại \"chiến tranh cục bộ\" của đế quốc Mỹ.",
+      "C. Bước phát triển mới của cách mạng miền Nam.",
+      "D. Cách mạng miền Nam chuyển sang thế phản công."
+    ]
   },
   {
     "question":"Câu 6. Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9\/1960) đã xác định nhiệm vụ của cách mạng miền Bắc là",
     "type":"Multiple Choice",
-    "a":"A. tiến lên chủ nghĩa xã hội.",
-    "b":"B. cải tạo xã hội chủ nghĩa",
-    "c":"C. trực tiếp chống Mỹ - Diệm.",
-    "d":"D. chống chiến tranh phá hoại.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":6
+    "id":6,
+    "choices":[
+      "A. tiến lên chủ nghĩa xã hội.",
+      "B. cải tạo xã hội chủ nghĩa",
+      "C. trực tiếp chống Mỹ - Diệm.",
+      "D. chống chiến tranh phá hoại."
+    ]
   },
   {
     "question":"Câu 7. Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9\/1960) đã xác định nhiệm vụ của cách mạng miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. vừa kháng chiến vừa kiến quốc, xây dựng căn cứ địa.",
-    "b":"B. đấu tranh đòi Mỹ - Diệm thi hành Hiệp định Giơ-ne-vơ.",
-    "c":"C. hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân.",
-    "d":"D. khôi phục kinh tế, hàn gắn vết thương của chiến tranh.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":7
+    "id":7,
+    "choices":[
+      "A. vừa kháng chiến vừa kiến quốc, xây dựng căn cứ địa.",
+      "B. đấu tranh đòi Mỹ - Diệm thi hành Hiệp định Giơ-ne-vơ.",
+      "C. hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân.",
+      "D. khôi phục kinh tế, hàn gắn vết thương của chiến tranh."
+    ]
   },
   {
     "question":"Câu 8. Đại hội đại biêu toàn quốc lân thứ III của Đảng Lao động Việt Nam (9\/1960) xác định cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò",
     "type":"Multiple Choice",
-    "a":"A. quyết định nhất đối với sự phát triển của cách mạng cả nước.",
-    "b":"B. quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam.",
-    "c":"C. quyết định thành công của cách mạng xã hội chủ nghĩa trên cả nước.",
-    "d":"D. quyết định với sự nghiệp giải phóng miền Nam, thống nhất đất nước.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":8
+    "id":8,
+    "choices":[
+      "A. quyết định nhất đối với sự phát triển của cách mạng cả nước.",
+      "B. quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam.",
+      "C. quyết định thành công của cách mạng xã hội chủ nghĩa trên cả nước.",
+      "D. quyết định với sự nghiệp giải phóng miền Nam, thống nhất đất nước."
+    ]
   },
   {
     "question":"Câu 9. Từ năm 1961 - 1965, Mỹ thực hiện chiến lược chiến tranh nào ở miền Nam Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Chiến tranh đặc biệt.",
-    "b":"B. Chiến tranh cục bộ.",
-    "c":"C. Chiến tranh đơn phương.",
-    "d":"D. Việt Nam hóa chiến tranh.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":9
+    "id":9,
+    "choices":[
+      "A. Chiến tranh đặc biệt.",
+      "B. Chiến tranh cục bộ.",
+      "C. Chiến tranh đơn phương.",
+      "D. Việt Nam hóa chiến tranh."
+    ]
   },
   {
     "question":"Câu 10. Âm mưu cơ bản của Mỹ trong chiến lược \"chiến tranh đặc biệt\" là",
     "type":"Multiple Choice",
-    "a":"A. dùng người Việt đánh người Việt.",
-    "b":"B. dùng chiến tranh nuôi chiến tranh.",
-    "c":"C. giành lại quyền chủ động đã bị mất.",
-    "d":"D. ngăn chặn sự chi viện của miền Bắc.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":10
+    "id":10,
+    "choices":[
+      "A. dùng người Việt đánh người Việt.",
+      "B. dùng chiến tranh nuôi chiến tranh.",
+      "C. giành lại quyền chủ động đã bị mất.",
+      "D. ngăn chặn sự chi viện của miền Bắc."
+    ]
   },
   {
     "question":"Câu 11. Một trong những thắng lợi của quân dàn miền Nam trong cuộc chiến đấu chống chiến lược \"chiến tranh đặc biệt\" của Mỹ (1961 - 1965) là",
     "type":"Multiple Choice",
-    "a":"A. Núi Thành.",
-    "b":"B. Đồng Xoài.",
-    "c":"C. Vạn Tường.",
-    "d":"D. Đồng Khởi.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":11
+    "id":11,
+    "choices":[
+      "A. Núi Thành.",
+      "B. Đồng Xoài.",
+      "C. Vạn Tường.",
+      "D. Đồng Khởi."
+    ]
   },
   {
     "question":"Câu 12. Một trong những thắng lợi của quân dân miền Nam trong cuộc chiến đấu chống chiến lược \"chiến tranh cục bộ\" của Mỹ (1965 - 1968) là",
     "type":"Multiple Choice",
-    "a":"A. Đồng Xoài.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Trung Lào.",
-    "d":"D. Bình Giã.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":12
+    "id":12,
+    "choices":[
+      "A. Đồng Xoài.",
+      "B. Vạn Tường.",
+      "C. Trung Lào.",
+      "D. Bình Giã."
+    ]
   },
   {
     "question":"Câu 13. Chiến thuật nào sau đây được Mỷ sử dụng trong chiến lược \"chiến tranh cục bộ\" ở miền Nam Việt Nam (1965 - 1968)?",
     "type":"Multiple Choice",
-    "a":"A. Tìm diệt và bình định.",
-    "b":"B. Đánh chắc tiến chắc.",
-    "c":"C. Chiến tranh tổng lực.",
-    "d":"D. Bình định lấn chiếm",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":13
+    "id":13,
+    "choices":[
+      "A. Tìm diệt và bình định.",
+      "B. Đánh chắc tiến chắc.",
+      "C. Chiến tranh tổng lực.",
+      "D. Bình định lấn chiếm"
+    ]
   },
   {
     "question":"Câu 14. Trong cuộc chiến đấu chống chiến tranh đặc biệt (1961-1965) của quân dân miền Nam, ba mũi giáp công là",
     "type":"Multiple Choice",
-    "a":"A, quân sự, chính trị, ngoại giao.",
-    "b":"B. quân sự, chính trị và binh vận.",
-    "c":"C. quân sự, văn hóa và giáo dục.",
-    "d":"D. tư tưởng, văn hóa và kinh tế.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":14
+    "id":14,
+    "choices":[
+      "A, quân sự, chính trị, ngoại giao.",
+      "B. quân sự, chính trị và binh vận.",
+      "C. quân sự, văn hóa và giáo dục.",
+      "D. tư tưởng, văn hóa và kinh tế."
+    ]
   },
   {
     "question":"Câu 15. Sau thất bại của chiến lược chiến tranh cục bộ (1965 - 1968), Mỹ đã làm gì để tiếp tục thực hiện âm mưu biến miền Nam thành căn cứ quân sự, thuộc địa kiểu mới?",
     "type":"Multiple Choice",
-    "a":"A. Gây cuộc chiến tranh phá hoại miền Bắc lần ba.",
-    "b":"B. Tuyên bố \"Mỹ hóa trở lại\" chiến tranh xâm lược.",
-    "c":"C. Thực hiện chiến lược Việt Nam hóa chiến tranh.",
-    "d":"D. Thực hiện chiến lược chiến tranh đặc biệt mới.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":15
+    "id":15,
+    "choices":[
+      "A. Gây cuộc chiến tranh phá hoại miền Bắc lần ba.",
+      "B. Tuyên bố \"Mỹ hóa trở lại\" chiến tranh xâm lược.",
+      "C. Thực hiện chiến lược Việt Nam hóa chiến tranh.",
+      "D. Thực hiện chiến lược chiến tranh đặc biệt mới."
+    ]
   },
   {
     "question":"Câu 16. Sau năm 1954, nguyên nhân nảo sau đây khiến cho cách mạng miên Nam tôn thất nặng nề?",
     "type":"Multiple Choice",
-    "a":"A. Miền Bắc đã không chi viện về vũ khí.",
-    "b":"B. Mỹ - Diệm khủng bố, đàn áp cách mạng.",
-    "c":"C. Sự chống phá của các thế lực bên ngoài.",
-    "d":"D. Trung Quốc, Liên Xô cô lập cách mạng.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":16
+    "id":16,
+    "choices":[
+      "A. Miền Bắc đã không chi viện về vũ khí.",
+      "B. Mỹ - Diệm khủng bố, đàn áp cách mạng.",
+      "C. Sự chống phá của các thế lực bên ngoài.",
+      "D. Trung Quốc, Liên Xô cô lập cách mạng."
+    ]
   },
   {
     "question":"Câu 17. Thực chất của các \"ấp chiến lược\" mà Mỹ và tay sai lập ra ở miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. chiến thuật mới của Mỹ.",
-    "b":"B. trại tập trung trá hình.",
-    "c":"C. vùng căn cứ biệt kích.",
-    "d":"D. hậu phương kháng chiến.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":17
+    "id":17,
+    "choices":[
+      "A. chiến thuật mới của Mỹ.",
+      "B. trại tập trung trá hình.",
+      "C. vùng căn cứ biệt kích.",
+      "D. hậu phương kháng chiến."
+    ]
   },
   {
     "question":"Câu 18. Thắng lợi nào của quân dân miền Nam đã đánh bại chiến thuật \"trực thăng vận. thiết xa vận\" của Mỹ và tay sai?",
     "type":"Multiple Choice",
-    "a":"A. Bình Giã.",
-    "b":"B. Đông Khê.",
-    "c":"C. Cao Bằng.",
-    "d":"D. Phước Long.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":18
+    "id":18,
+    "choices":[
+      "A. Bình Giã.",
+      "B. Đông Khê.",
+      "C. Cao Bằng.",
+      "D. Phước Long."
+    ]
   },
   {
     "question":"Câu 19. Thắng lợi nào sau đây chứng tỏ khả năng đánh bại chiến tranh cục bộ (1965- 1968) của quân và dân miền Nam?",
     "type":"Multiple Choice",
-    "a":"A. Đồng Xoài.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Trung Lào.",
-    "d":"D. Bình Giã.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":19
+    "id":19,
+    "choices":[
+      "A. Đồng Xoài.",
+      "B. Vạn Tường.",
+      "C. Trung Lào.",
+      "D. Bình Giã."
+    ]
   },
   {
     "question":"Câu 20. Sau thất bại trong cuộc Tiến công chiến lược năm 1972 của quân dân miền Nam, Mỹ phải \"Mỹ hóa trở lại\" chiến tranh có nghĩa là",
     "type":"Multiple Choice",
-    "a":"A. chống phá kế hoạch lập Liên bang Đông Dương.",
-    "b":"B. đã thể hiện quyết tâm đánh bại quân giải phóng.",
-    "c":"C. sẽ sử dụng quân đội Sài Gòn như lực lượng chính.",
-    "d":"D. thừa nhận sự thất bại của Việt Nam hóa chiến tranh.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":20
+    "id":20,
+    "choices":[
+      "A. chống phá kế hoạch lập Liên bang Đông Dương.",
+      "B. đã thể hiện quyết tâm đánh bại quân giải phóng.",
+      "C. sẽ sử dụng quân đội Sài Gòn như lực lượng chính.",
+      "D. thừa nhận sự thất bại của Việt Nam hóa chiến tranh."
+    ]
   },
   {
     "question":"Câu 21. Thắng lợi nào của quân và dân Việt Nam đã buộc Mỹ phải đến đàm phán tại hội nghị Pa-ri?",
     "type":"Multiple Choice",
-    "a":"A. Mậu Thân.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Núi Thành.",
-    "d":"D. Phước Long.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":21
+    "id":21,
+    "choices":[
+      "A. Mậu Thân.",
+      "B. Vạn Tường.",
+      "C. Núi Thành.",
+      "D. Phước Long."
+    ]
   },
   {
     "question":"Câu 22. Một trong những âm mưu của Mỹ khi sử dụng B52 đánh phá Hà Nội và các thành phố lớn ở Việt Nam từ 18-12-1972 đến 29-12-1972 là",
     "type":"Multiple Choice",
-    "a":"A. buộc ký Hiệp định Pa-ris theo hướng có lợi cho Mỹ.",
-    "b":"B. đem được tất cả các phi công bị bắt trở về nước Mỹ.",
-    "c":"C. chi viện và cứu nguy cho mặt trận B3 -Tây Nguyên.",
-    "d":"D. khống chế, hủy diệt đường Hồ Chí Minh trên biển.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":22
+    "id":22,
+    "choices":[
+      "A. buộc ký Hiệp định Pa-ris theo hướng có lợi cho Mỹ.",
+      "B. đem được tất cả các phi công bị bắt trở về nước Mỹ.",
+      "C. chi viện và cứu nguy cho mặt trận B3 -Tây Nguyên.",
+      "D. khống chế, hủy diệt đường Hồ Chí Minh trên biển."
+    ]
   },
   {
     "question":"Câu 23. Thăng lợi nào sau đây của quân và dân miền Nam là cơ sở để Đảng Lao động Viêt Nam đề ra chủ trương giải phóng miền Nam?",
     "type":"Multiple Choice",
-    "a":"A. Mậu Thân.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Núi Thành.",
-    "d":"D. Phước Long.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":23
+    "id":23,
+    "choices":[
+      "A. Mậu Thân.",
+      "B. Vạn Tường.",
+      "C. Núi Thành.",
+      "D. Phước Long."
+    ]
   },
   {
     "question":"Câu 24. Mỹ giữ lại hai vạn cố vấn ở miền Nam, tăng cường viện trợ cho chính quyền Sải Gòn, thực chất của các hành động này là",
     "type":"Multiple Choice",
-    "a":"A. tiếp tục Việt Nam hóa chiến tranh.",
-    "b":"B. đã góp phần xây dựng miền Nam.",
-    "c":"C. thừa nhận sự thất bại ở Việt Nam.",
-    "d":"D. từ bỏ chiến tranh ở Đông Dương.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":24
+    "id":24,
+    "choices":[
+      "A. tiếp tục Việt Nam hóa chiến tranh.",
+      "B. đã góp phần xây dựng miền Nam.",
+      "C. thừa nhận sự thất bại ở Việt Nam.",
+      "D. từ bỏ chiến tranh ở Đông Dương."
+    ]
   },
   {
     "question":"Câu 25. Thủ đoạn mới được Mỹ sử dụng trong chiên lược Việt Nam hóa chiến tranh (1969- 1973) là",
     "type":"Multiple Choice",
-    "a":"A. trực thăng vận và thiết xa vận.",
-    "b":"B. tiến hành thỏa hiệp với Liên Xô.",
-    "c":"C. xây dựng nhiều \"ấp chiến lược\".",
-    "d":"D. đã đưa quân Mỹ vào chiến đấu.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":25
+    "id":25,
+    "choices":[
+      "A. trực thăng vận và thiết xa vận.",
+      "B. tiến hành thỏa hiệp với Liên Xô.",
+      "C. xây dựng nhiều \"ấp chiến lược\".",
+      "D. đã đưa quân Mỹ vào chiến đấu."
+    ]
   },
   {
     "question":"Câu 26. Một trong những âm mưu của Mỹ khi tiến hành chiến tranh phá miền Bắc lần thứ nhất từ 1965-1968 là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân miền Bắc đầu hàng không điều kiện.",
-    "b":"B. không chê, hủy diệt đường Hồ Chí Minh trên biển.",
-    "c":"C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":26
+    "id":26,
+    "choices":[
+      "A. buộc quân dân miền Bắc đầu hàng không điều kiện.",
+      "B. không chê, hủy diệt đường Hồ Chí Minh trên biển.",
+      "C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
+      "D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ."
+    ]
   },
   {
     "question":"Câu 27. Một trong những âm mưu của Mỹ khi tiến hành chiến tranh phá miền Bắc lần thứ hai (1972) là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
-    "b":"B. khống chế và hủy diệt đường Hồ Chí Minh trên bộ.",
-    "c":"C. cứu nguy cho quân đội Sài Gòn đang sắp bị tiêu diệt.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":27
+    "id":27,
+    "choices":[
+      "A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
+      "B. khống chế và hủy diệt đường Hồ Chí Minh trên bộ.",
+      "C. cứu nguy cho quân đội Sài Gòn đang sắp bị tiêu diệt.",
+      "D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ."
+    ]
   },
   {
     "question":"Câu 28. Một trong những nguyên nhân thúc đây quân dân miền Nam phải tập trung lực lượng binh khí kỹ thuật để giải phóng miền Nam trước mùa mưa năm 1975 là",
     "type":"Multiple Choice",
-    "a":"A. Trung Quốc đã ép phải đánh nhanh.",
-    "b":"B. nhằm tận dụng thời cơ chiến lược mới.",
-    "c":"C. lo ngại Mỹ về việc sẽ can thiệp trở lại.",
-    "d":"D. nhận được viện trợ to lớn từ Liên Xô.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":28
+    "id":28,
+    "choices":[
+      "A. Trung Quốc đã ép phải đánh nhanh.",
+      "B. nhằm tận dụng thời cơ chiến lược mới.",
+      "C. lo ngại Mỹ về việc sẽ can thiệp trở lại.",
+      "D. nhận được viện trợ to lớn từ Liên Xô."
+    ]
   },
   {
     "question":"Câu 29. Một trong những điểm tương đồng của chiến thăng Điện Biên Phủ (1954) và \"Điện Biên Phủ trên không\" (1972) về tác động đến mặt trận ngoại giao là",
     "type":"Multiple Choice",
-    "a":"A. góp phần quyết định thắng lợi trên bàn đàm phán.",
-    "b":"B. buộc kè thù phải thừa nhận xâm lược và rút quân.",
-    "c":"C. giành ưu thế ngoại giao cho phe xã hội chủ nghĩa.",
-    "d":"D. buộc Mỹ rút hết quân xâm lược và tay sai về nước.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":29
+    "id":29,
+    "choices":[
+      "A. góp phần quyết định thắng lợi trên bàn đàm phán.",
+      "B. buộc kè thù phải thừa nhận xâm lược và rút quân.",
+      "C. giành ưu thế ngoại giao cho phe xã hội chủ nghĩa.",
+      "D. buộc Mỹ rút hết quân xâm lược và tay sai về nước."
+    ]
   },
   {
     "question":"Câu 30. Một trong những điểm giống nhau của chiến lược Việt Nam hóa chiến tranh (1969- 1973) và chiến lược chiến tranh cục bộ (1965-1968) mà Mỹ đã thực hiện ở miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. lực lượng chiến đấu chủ yều.",
-    "b":"B. phạm vi thực hiện chiên tranh.",
-    "c":"C. mục đích tiến hành chiến tranh.",
-    "d":"D. thủ đoạn mới được thực hiện,",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":30
+    "id":30,
+    "choices":[
+      "A. lực lượng chiến đấu chủ yều.",
+      "B. phạm vi thực hiện chiên tranh.",
+      "C. mục đích tiến hành chiến tranh.",
+      "D. thủ đoạn mới được thực hiện,"
+    ]
   },
   {
     "question":"Câu 31. Một trong những điểm tương đồng về mục đích của Mỹ khi tiến hành hai cuộc chiến tranh phá hoại miền Bắc từ 1965 - 1968 và 1972 là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
-    "b":"B. khống chế, hủy diệt đường Hồ Chí Minh trên biền.",
-    "c":"C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":31
+    "id":31,
+    "choices":[
+      "A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
+      "B. khống chế, hủy diệt đường Hồ Chí Minh trên biền.",
+      "C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
+      "D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ."
+    ]
   },
   {
     "question":"Câu 32. Một trong những điểm giống nhau của chiến dịch Điện Biên Phủ (1954) và chiến dịch Hồ Chí Minh (1975) là",
     "type":"Multiple Choice",
-    "a":"A. huy động tối đa lực lượng.",
-    "b":"B. phương châm chiến dịch.",
-    "c":"C. phương thức để chiến đấu.",
-    "d":"D. sự phối hợp của không quân.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":32
+    "id":32,
+    "choices":[
+      "A. huy động tối đa lực lượng.",
+      "B. phương châm chiến dịch.",
+      "C. phương thức để chiến đấu.",
+      "D. sự phối hợp của không quân."
+    ]
   },
   {
     "question":"Câu 33. Bài học kinh nghiệm nào sau đây được rút ra trong cuộc kháng chiến chống Mỹ cứu nước (1954-1975) vẫn còn nguyên giá trị đối với hôm nay",
     "type":"Multiple Choice",
-    "a":"A. kiên quyết sử dụng bạo lực giải quyết tranh chấp.",
-    "b":"B. kiên trì sự lãnh đạo của Đảng Cộng sản Việt Nam.",
-    "c":"C. thực hiện cùng lúc nhiều nhiệm vụ cách mạng mới.",
-    "d":"D. tranh thủ tối đa sự viện trợ từ các nước đồng minh.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":33
+    "id":33,
+    "choices":[
+      "A. kiên quyết sử dụng bạo lực giải quyết tranh chấp.",
+      "B. kiên trì sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "C. thực hiện cùng lúc nhiều nhiệm vụ cách mạng mới.",
+      "D. tranh thủ tối đa sự viện trợ từ các nước đồng minh."
+    ]
   },
   {
     "question":"Câu 34. Bài học kinh nghiệm nào sau đây được rút ra trong cuộc kháng chiến chống Mỹ cứu nước (1954-1975) vẫn còn nguyên giá trị đối với hôm nay",
     "type":"Multiple Choice",
-    "a":"A. thực hiện thế trận chiến tranh nhân dân.",
-    "b":"B. xây dựng liên minh quân sự với Ấn Độ.",
-    "c":"C. gia nhập vào các khối liên minh quân sự.",
-    "d":"D. liên kết chật chẽ với các nước Đông Âu.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":34
+    "id":34,
+    "choices":[
+      "A. thực hiện thế trận chiến tranh nhân dân.",
+      "B. xây dựng liên minh quân sự với Ấn Độ.",
+      "C. gia nhập vào các khối liên minh quân sự.",
+      "D. liên kết chật chẽ với các nước Đông Âu."
+    ]
   },
   {
     "question":"Câu 35. Dựa vào bảng thông tin, hãy nối cột A với cột B để thấy được những thắng lợi đã góp phần đánh bài các chiến lược chiến tranh mà Mỹ đã áp dụng ở miền Nam.\nA1. Chiến tranh Đơn Phương\nA2. Chiến trang đặc biệt\nA3. Chiến tranh cục bộ\nA4. Việt Nam hóa chiến tranh\nB1. Bình Giã\nB2. Đồng Khởi\nB3. Tiến công chiến lược 1972\nB4. Mậu Thân",
     "type":"Multiple Choice",
-    "a":"A. 1B 2A 3D 4C",
-    "b":"B. 1B 2D 3A 4C",
-    "c":"C. 1B 2C 3D 4A",
-    "d":"D. 1B 2C 3D 4B",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":35
+    "id":35,
+    "choices":[
+      "A. 1B 2A 3D 4C",
+      "B. 1B 2D 3A 4C",
+      "C. 1B 2C 3D 4A",
+      "D. 1B 2C 3D 4B"
+    ]
   },
   {
     "question":"Câu 1. Một trong những nội dung của tình hình thế giới khi cuộc kháng chiến chống Pháp (1945 - 1954) của nhân dân Việt Nam nổ ra là",
     "type":"Multiple Choice",
-    "a":"A. hệ thống xã hội chủ nghĩa đang hình thành.",
-    "b":"B. cách mạng Cuba đã giành được thắng lợi.",
-    "c":"C. xu thế hòa hoãn Đông - Tây đã xuất hiện.",
-    "d":"D. chiến lược toàn cầu cua Mỹ đang thất bại.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":36
+    "id":36,
+    "choices":[
+      "A. hệ thống xã hội chủ nghĩa đang hình thành.",
+      "B. cách mạng Cuba đã giành được thắng lợi.",
+      "C. xu thế hòa hoãn Đông - Tây đã xuất hiện.",
+      "D. chiến lược toàn cầu cua Mỹ đang thất bại."
+    ]
   },
   {
     "question":"Câu 2. Một trong những nội dung của tình hình Việt Nam khi cuộc kháng chiến chống Pháp (1945 - 1954) nổ ra là",
     "type":"Multiple Choice",
-    "a":"A. nhân dân đã giành quyền làm chủ đất nước.",
-    "b":"B. nạn đói chưa được đẩy lùi gây khó khăn lớn.",
-    "c":"C. phải đối phó với cả Tưởng, Anh, Mỹ. Pháp.",
-    "d":"D. Mỹ thiết lập quan hệ ngoại giao với Việt Nam.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":37
+    "id":37,
+    "choices":[
+      "A. nhân dân đã giành quyền làm chủ đất nước.",
+      "B. nạn đói chưa được đẩy lùi gây khó khăn lớn.",
+      "C. phải đối phó với cả Tưởng, Anh, Mỹ. Pháp.",
+      "D. Mỹ thiết lập quan hệ ngoại giao với Việt Nam."
+    ]
   },
   {
     "question":"Câu 3. Một trong những khó khăn thử thách mà cách mạng Việt Nam phải đương đầu sau thắng lợi của Cách mạng tháng Tám (1945) là",
     "type":"Multiple Choice",
-    "a":"A. các nước đế quốc bao vây, cấm vận kinh tế.",
-    "b":"B. những hậu quả nặng nề của chiến tranh để lại.",
-    "c":"C. quân đội các nước Đồng minh lũ lượt kéo vào.",
-    "d":"D. quân Tưởng hỗ trợ cho Pháp đánh Nam Bộ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":38
+    "id":38,
+    "choices":[
+      "A. các nước đế quốc bao vây, cấm vận kinh tế.",
+      "B. những hậu quả nặng nề của chiến tranh để lại.",
+      "C. quân đội các nước Đồng minh lũ lượt kéo vào.",
+      "D. quân Tưởng hỗ trợ cho Pháp đánh Nam Bộ."
+    ]
   },
   {
     "question":"Câu 4. Để mở đầu cho cuộc chiến tranh xâm lược Việt Nam lần thứ hai, Pháp đã tấn công",
     "type":"Multiple Choice",
-    "a":"A. trụ sở Ủy ban hành chính Nam Bộ.",
-    "b":"B. cơ quan Trung ương cục miền Nam.",
-    "c":"C. căn cứ Củ Chi và địa đạo Vĩnh Mốc.",
-    "d":"D. cửa biến Thuận An và kinh đô Huế.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":39
+    "id":39,
+    "choices":[
+      "A. trụ sở Ủy ban hành chính Nam Bộ.",
+      "B. cơ quan Trung ương cục miền Nam.",
+      "C. căn cứ Củ Chi và địa đạo Vĩnh Mốc.",
+      "D. cửa biến Thuận An và kinh đô Huế."
+    ]
   },
   {
     "question":"Câu 5. Khi Pháp xâm lược Nam Bộ, Đảng và Chính phủ Việt Nam đã có hành động nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Đã tiến hành đàm phán khẩn cấp với Pháp.",
-    "b":"B. Tố cáo hành vi của Pháp đến Liên hợp quốc.",
-    "c":"C. Đưa toàn bộ quân đội vào Nam chiến đầu.",
-    "d":"D. Huy động cả nước để chi viện cho Nam Bộ.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":40
+    "id":40,
+    "choices":[
+      "A. Đã tiến hành đàm phán khẩn cấp với Pháp.",
+      "B. Tố cáo hành vi của Pháp đến Liên hợp quốc.",
+      "C. Đưa toàn bộ quân đội vào Nam chiến đầu.",
+      "D. Huy động cả nước để chi viện cho Nam Bộ."
+    ]
   },
   {
     "question":"Câu 6. Một trong những nội dung của đường lối kháng chiến chống Pháp (194 - 1954) là",
     "type":"Multiple Choice",
-    "a":"A. đoàn kết kháng chiến.",
-    "b":"B. vườn không nhà trống.",
-    "c":"C. toàn dân kháng chiến.",
-    "d":"D. đánh nhanh thang nhanh.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":41
+    "id":41,
+    "choices":[
+      "A. đoàn kết kháng chiến.",
+      "B. vườn không nhà trống.",
+      "C. toàn dân kháng chiến.",
+      "D. đánh nhanh thang nhanh."
+    ]
   },
   {
     "question":"Câu 7. Đâu là một trong những thắng lợi mà nhân dân Việt Nam đã giành được trong cuộc kháng chiến chống Pháp (1945 - 1954)?",
     "type":"Multiple Choice",
-    "a":"A. Chiến thắng An Lão.",
-    "b":"C. Chiến thắng Cửa Việt.",
-    "c":"B. Chiến thẳng Việt Bắc.",
-    "d":"D. Chiến thắng Vạn Tường.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":42
+    "id":42,
+    "choices":[
+      "A. Chiến thắng An Lão.",
+      "C. Chiến thắng Cửa Việt.",
+      "B. Chiến thẳng Việt Bắc.",
+      "D. Chiến thắng Vạn Tường."
+    ]
   },
   {
     "question":"Câu 8. Hoàn cảnh ra đời của kế hoạch quân sự Nava (1953) là",
     "type":"Multiple Choice",
-    "a":"A. Việt Nam đang gặp nhiều khó khăn.",
-    "b":"B. cuộc chiến tranh Triều Tiên bùng nỏ.",
-    "c":"C. quân Pháp thiệt hại hết sức nặng nề.",
-    "d":"D. Mỹ ép Pháp kết thúc nhanh chiến tranh.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":43
+    "id":43,
+    "choices":[
+      "A. Việt Nam đang gặp nhiều khó khăn.",
+      "B. cuộc chiến tranh Triều Tiên bùng nỏ.",
+      "C. quân Pháp thiệt hại hết sức nặng nề.",
+      "D. Mỹ ép Pháp kết thúc nhanh chiến tranh."
+    ]
   },
   {
     "question":"Câu 9. Trong giai đoạn một của kế hoạch Nava, Pháp tiến hành phòng ngự ở",
     "type":"Multiple Choice",
-    "a":"A. Bắc Bộ.",
-    "b":"B. Nam Bộ.",
-    "c":"C. Đà Nẵng.",
-    "d":"D. Trung Bộ.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":44
+    "id":44,
+    "choices":[
+      "A. Bắc Bộ.",
+      "B. Nam Bộ.",
+      "C. Đà Nẵng.",
+      "D. Trung Bộ."
+    ]
   },
   {
     "question":"Câu 10. Một trong nhưng nội dung của phương hướng tiến công chiến lược trong Đông Xuân 1953 - 1954 buộc Pháp phải",
     "type":"Multiple Choice",
-    "a":"A. tập trung lực lượng.",
-    "b":"C. chiêm đất giành dân.",
-    "c":"B. phân tán lực lượng.",
-    "d":"D. đánh nhanh rút gọn.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":45
+    "id":45,
+    "choices":[
+      "A. tập trung lực lượng.",
+      "C. chiêm đất giành dân.",
+      "B. phân tán lực lượng.",
+      "D. đánh nhanh rút gọn."
+    ]
   },
   {
     "question":"Câu 11. Tháng 11-1953, khi phát hiện bộ đội Việt Nam tiến lên Tây Bắc, Nava đã điều quân chiếm giữ",
     "type":"Multiple Choice",
-    "a":"A. Bắc Tây Nguyên.",
-    "b":"C. Điện Biên Phủ.",
-    "c":"3. Đông Nam Bộ.",
-    "d":"D. Tây Trường Sơn.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":46
+    "id":46,
+    "choices":[
+      "A. Bắc Tây Nguyên.",
+      "C. Điện Biên Phủ.",
+      "3. Đông Nam Bộ.",
+      "D. Tây Trường Sơn."
+    ]
   },
   {
     "question":"Câu 12. Một trong những mục tiêu của Việt Nam khi mở chiến dịch Điện Biên Phủ (1954) là",
     "type":"Multiple Choice",
-    "a":"A. tiêu diệt sinh lực địch.",
-    "b":"C. mở rộng căn cứ địa.",
-    "c":"B. kết thúc chiến tranh.",
-    "d":"D. liên lạc với bên ngoài.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":47
+    "id":47,
+    "choices":[
+      "A. tiêu diệt sinh lực địch.",
+      "C. mở rộng căn cứ địa.",
+      "B. kết thúc chiến tranh.",
+      "D. liên lạc với bên ngoài."
+    ]
   },
   {
     "question":"Câu 13. Sau Đại hội đại biểu lần thứ II (2-1951), Đảng Cộng sản Đông Dương có tên gọi là",
     "type":"Multiple Choice",
-    "a":"A. Đảng Lao động Việt Nam.",
-    "b":"C. An Nam Cộng sản đảng.",
-    "c":"B. Việt Nam quốc dân đảng",
-    "d":"D. Đông Dương Cộng sản đảng.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":48
+    "id":48,
+    "choices":[
+      "A. Đảng Lao động Việt Nam.",
+      "C. An Nam Cộng sản đảng.",
+      "B. Việt Nam quốc dân đảng",
+      "D. Đông Dương Cộng sản đảng."
+    ]
   },
   {
     "question":"Câu 14. Chiến dịch tấn công tập đoàn cứ điểm Điện Biên Phủ diễn ra trong bao nhiêu đợt?",
     "type":"Multiple Choice",
-    "a":"A. 2.",
-    "b":"B. 3.",
-    "c":"C. 4.",
-    "d":"D. 5.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":49
+    "id":49,
+    "choices":[
+      "A. 2.",
+      "B. 3.",
+      "C. 4.",
+      "D. 5."
+    ]
   },
   {
     "question":"Câu 15. Một trong những nguyên nhân chủ quan dẫn đến thắng lợi của cuộc kháng chiến chống Pháp (1945 - 1954) là",
     "type":"Multiple Choice",
-    "a":"A. sự lãnh đạo đúng đắn của Đảng.",
-    "b":"B. viện trợ to lớn của Trung Quốc.",
-    "c":"C. ba nước Đông Dương đoàn kết.",
-    "d":"D. phong trào phản đối chiến tranh.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":50
+    "id":50,
+    "choices":[
+      "A. sự lãnh đạo đúng đắn của Đảng.",
+      "B. viện trợ to lớn của Trung Quốc.",
+      "C. ba nước Đông Dương đoàn kết.",
+      "D. phong trào phản đối chiến tranh."
+    ]
   },
   {
     "question":"Câu 16. Một trong những nguyên nhân bùng nổ cua cuộc kháng chiến toàn quốc chống thực dân Pháp (12-1946) là do",
     "type":"Multiple Choice",
-    "a":"A. Pháp bội ước, buộc Việt Nam đầu hàng.",
-    "b":"B. nhân dân Việt Nam quyết tâm chiến đấu.",
-    "c":"C. Việt Nam có được giúp đỡ của Liên Xô.",
-    "d":"D. Pháp không chấp nhận ký hiệp định mới.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":51
+    "id":51,
+    "choices":[
+      "A. Pháp bội ước, buộc Việt Nam đầu hàng.",
+      "B. nhân dân Việt Nam quyết tâm chiến đấu.",
+      "C. Việt Nam có được giúp đỡ của Liên Xô.",
+      "D. Pháp không chấp nhận ký hiệp định mới."
+    ]
   },
   {
     "question":"Câu 17. Một trong những cơ sở để Đảng Cộng sản Đông Dương đề ra đường lối kháng chiến toàn dân là do",
     "type":"Multiple Choice",
-    "a":"A. Pháp đã suy yếu, tổn thất.",
-    "b":"B. truyền thống của dân tộc.",
-    "c":"C. Mỹ đã hỗ trợ cho Pháp.",
-    "d":"D. tình hình thế giới yêu cầu.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":52
+    "id":52,
+    "choices":[
+      "A. Pháp đã suy yếu, tổn thất.",
+      "B. truyền thống của dân tộc.",
+      "C. Mỹ đã hỗ trợ cho Pháp.",
+      "D. tình hình thế giới yêu cầu."
+    ]
   },
   {
     "question":"Câu 18. Thắng lợi nào của quân và dân Việt Nam đã đánh bại chiến thuật đánh nhanh thắng nhanh của Pháp, buộc chúng phải chuyển sang đánh lâu dài?",
     "type":"Multiple Choice",
-    "a":"A. Tầm Vu (1948).",
-    "b":"B. Biên Giới (1950).",
-    "c":"C. Việt Bắc (1947).",
-    "d":"D. Hòa Bình (1951)",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":53
+    "id":53,
+    "choices":[
+      "A. Tầm Vu (1948).",
+      "B. Biên Giới (1950).",
+      "C. Việt Bắc (1947).",
+      "D. Hòa Bình (1951)"
+    ]
   },
   {
     "question":"Câu 19. Quân dân Việt Nam đã giành quyền chủ động trên chiến trường chính Bắc Bộ sau thắng lợi của chiến dịch nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Tầm Vu (1948).",
-    "b":"B. Biên Giới (1950).",
-    "c":"C. Việt Bắc (1947).",
-    "d":"D. Hòa Bình (1951)",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":54
+    "id":54,
+    "choices":[
+      "A. Tầm Vu (1948).",
+      "B. Biên Giới (1950).",
+      "C. Việt Bắc (1947).",
+      "D. Hòa Bình (1951)"
+    ]
   },
   {
     "question":"Câu 20. Pháp đề ra kế hoạch Nava (1953) với mục đích chính là",
     "type":"Multiple Choice",
-    "a":"A. kết thúc chiến tranh trong danh dự.",
-    "b":"B. đưa được tù binh Pháp trở về nước.",
-    "c":"C. tiêu diệt hoàn toàn bộ đội Việt Nam.",
-    "d":"D. thành lập Liên bang Đông Dương.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":55
+    "id":55,
+    "choices":[
+      "A. kết thúc chiến tranh trong danh dự.",
+      "B. đưa được tù binh Pháp trở về nước.",
+      "C. tiêu diệt hoàn toàn bộ đội Việt Nam.",
+      "D. thành lập Liên bang Đông Dương."
+    ]
   },
   {
     "question":"Câu 21. Một trong những mục đích của Pháp khi đưa quân tấn công lên Việt Bắc (1947) là",
     "type":"Multiple Choice",
-    "a":"A. kết thúc chiến tranh trong danh dự.",
-    "b":"B. đưa được tù binh Pháp trở về nước.",
-    "c":"C. tiêu diệt cơ quan đầu não kháng chiến.",
-    "d":"D. thành lập Liên bang Đông Dương.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":56
+    "id":56,
+    "choices":[
+      "A. kết thúc chiến tranh trong danh dự.",
+      "B. đưa được tù binh Pháp trở về nước.",
+      "C. tiêu diệt cơ quan đầu não kháng chiến.",
+      "D. thành lập Liên bang Đông Dương."
+    ]
   },
   {
     "question":"Câu 22. Tập đoàn cứ điểm Điện Biên Phủ có hạn chế nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Chỉ có thể tiếp tế bằng đường không.",
-    "b":"B. Quá đông quân trên một địa bàn nhỏ.",
-    "c":"C. Các cứ điểm không bố trí vững chắc.",
-    "d":"D. Hỏa lực chi viện của Pháp rất yếu.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":57
+    "id":57,
+    "choices":[
+      "A. Chỉ có thể tiếp tế bằng đường không.",
+      "B. Quá đông quân trên một địa bàn nhỏ.",
+      "C. Các cứ điểm không bố trí vững chắc.",
+      "D. Hỏa lực chi viện của Pháp rất yếu."
+    ]
   },
   {
     "question":"Câu 23. Vì sao các tướng lĩnh Pháp, Mỹ nói \"Điện Biên Phủ là bất khả xâm phạm\"?",
     "type":"Multiple Choice",
-    "a":"A. Đây là một căn cứ quân sự lớn nhất ở châu Á.",
-    "b":"B. Có lực lượng đặc nhiệm Mỹ đóng chốt, chi viện.",
-    "c":"C. Quân đông, vũ khí hiện đại, cứ điểm kiên cố.",
-    "d":"D. Mỹ sẵn sàng dùng bom nguyên tử hỗ trợ Pháp.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":58
+    "id":58,
+    "choices":[
+      "A. Đây là một căn cứ quân sự lớn nhất ở châu Á.",
+      "B. Có lực lượng đặc nhiệm Mỹ đóng chốt, chi viện.",
+      "C. Quân đông, vũ khí hiện đại, cứ điểm kiên cố.",
+      "D. Mỹ sẵn sàng dùng bom nguyên tử hỗ trợ Pháp."
+    ]
   },
   {
     "question":"Câu 24. Hai nhiệm vụ chiến lược của cách mạng Việt Nam giai đoạn 1945 - 1954 là",
     "type":"Multiple Choice",
-    "a":"A. kháng chiến và kiến quốc.",
-    "b":"B. kháng chiến và lao động.",
-    "c":"C. chiến đấu và sản xuất.",
-    "d":"D. kháng chiến và cải cách.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":59
+    "id":59,
+    "choices":[
+      "A. kháng chiến và kiến quốc.",
+      "B. kháng chiến và lao động.",
+      "C. chiến đấu và sản xuất.",
+      "D. kháng chiến và cải cách."
+    ]
   },
   {
     "question":"Câu 25. Âm mưu chính của Pháp - Mỹ khi xây dựng tập đoàn cứ điểm Điện Biên Phủ là nhằm",
     "type":"Multiple Choice",
-    "a":"A. thu hút và tiêu diệt bộ đội chủ lực Việt Nam.",
-    "b":"B. bảo vệ vùng Tây Bắc, khóa chặt biên giới.",
-    "c":"C. giành lại thế chủ động trên chiến trường.",
-    "d":"D. chỉ có thể tiếp tế bằng đường không.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":60
+    "id":60,
+    "choices":[
+      "A. thu hút và tiêu diệt bộ đội chủ lực Việt Nam.",
+      "B. bảo vệ vùng Tây Bắc, khóa chặt biên giới.",
+      "C. giành lại thế chủ động trên chiến trường.",
+      "D. chỉ có thể tiếp tế bằng đường không."
+    ]
   },
   {
     "question":"Câu 26. Một trong những diêm chung của kế hoạch Rơ ve (1949), kế hoạch Đờ Lát Đơ Tatxinhi (1950) và kể hoạch Nava (1953) là đều nhằm",
     "type":"Multiple Choice",
-    "a":"A. khóa chặt biên giới Việt - Trung.",
-    "b":"C. thành lập chính phủ tay sai bù nhìn.",
-    "c":"B. kết thúc cuộc chiến tranh xâm lược.",
-    "d":"D. giành thế chủ động trên chiến trường.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":61
+    "id":61,
+    "choices":[
+      "A. khóa chặt biên giới Việt - Trung.",
+      "C. thành lập chính phủ tay sai bù nhìn.",
+      "B. kết thúc cuộc chiến tranh xâm lược.",
+      "D. giành thế chủ động trên chiến trường."
+    ]
   },
   {
     "question":"Câu 27. Một trong những điểm tương đồng về mục tiêu mơ các chiến dịch trong kháng chiến chống Pháp (1945 - 1954) của quân và dân Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. củng cố căn cứ địa Việt Bắc.",
-    "b":"B. tiêu diệt bộ phận sinh lực địch.",
-    "c":"C. giải phóng Tây Bắc, Trung Lào.",
-    "d":"D. để đánh bại kế hoạch bình định.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":62
+    "id":62,
+    "choices":[
+      "A. củng cố căn cứ địa Việt Bắc.",
+      "B. tiêu diệt bộ phận sinh lực địch.",
+      "C. giải phóng Tây Bắc, Trung Lào.",
+      "D. để đánh bại kế hoạch bình định."
+    ]
   },
   {
     "question":"Câu 28. Một trong những điểm mới trong Đại hội đại biểu lần thứ II của Đàng Cộng sản Đông Dương (2 - 1951) là",
     "type":"Multiple Choice",
-    "a":"A. đã nghe và thông qua Báo cáo chính trị.",
-    "b":"B. xác định nhiệm cách mạng từng miền.",
-    "c":"C. đã đưa Đảng ra hoạt động công khai.",
-    "d":"D. tổng kết kinh nghiệm đấu tranh của Đảng.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":63
+    "id":63,
+    "choices":[
+      "A. đã nghe và thông qua Báo cáo chính trị.",
+      "B. xác định nhiệm cách mạng từng miền.",
+      "C. đã đưa Đảng ra hoạt động công khai.",
+      "D. tổng kết kinh nghiệm đấu tranh của Đảng."
+    ]
   },
   {
     "question":"Câu 29. Đâu là bài học kinh nghiệm trong cuộc kháng chiến chống Pháp (1945 - 1954) được tiếp tục vận dụng trong kháng chiến chống Mỹ cứu nước (1954 - 1975)?",
     "type":"Multiple Choice",
-    "a":"A. Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
-    "b":"B. Kiên trì nguyên tắc \"Dĩ bất biến ứng vạn biến\".",
-    "c":"C. Thực hiện cùng lúc nhiều nhiệm vụ chiến lược.",
-    "d":"D. Tham gia khối liên minh quân sự của Liên Xô.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":64
+    "id":64,
+    "choices":[
+      "A. Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+      "B. Kiên trì nguyên tắc \"Dĩ bất biến ứng vạn biến\".",
+      "C. Thực hiện cùng lúc nhiều nhiệm vụ chiến lược.",
+      "D. Tham gia khối liên minh quân sự của Liên Xô."
+    ]
   },
   {
     "question":"Câu 30. Bài học kinh nghiệm nào sau đây được rút ra từ cuộc khảng chiến chống Pháp (1945 - 1954) vẫn còn nguyên giá trị đến ngày nay?",
     "type":"Multiple Choice",
-    "a":"A. Phát huy tinh thần yêu nước của nhân dân.",
-    "b":"B. Xây dựng nhiều tập đoàn quân chiến đấu.",
-    "c":"C. Thực hiện cùng lúc bốn nhiệm vụ chiến lược.",
-    "d":"D. Tham gia khối liên minh quân sự của Liên Xô.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":65
+    "id":65,
+    "choices":[
+      "A. Phát huy tinh thần yêu nước của nhân dân.",
+      "B. Xây dựng nhiều tập đoàn quân chiến đấu.",
+      "C. Thực hiện cùng lúc bốn nhiệm vụ chiến lược.",
+      "D. Tham gia khối liên minh quân sự của Liên Xô."
+    ]
   },
   {
     "question":"Câu 1. Một trong những nội dung thuận lợi của cách mạng Việt Nam từ sau tháng 4- 1975 là",
     "type":"Multiple Choice",
-    "a":"A. được sự lãnh đạo của Đảng.",
-    "b":"B. Mỹ dỡ bỏ những cấm kinh tế.",
-    "c":"C. Khơ-me đỏ lên nắm quyền.",
-    "d":"D. Trung Quốc cải cách, mở cửa.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":66
+    "id":66,
+    "choices":[
+      "A. được sự lãnh đạo của Đảng.",
+      "B. Mỹ dỡ bỏ những cấm kinh tế.",
+      "C. Khơ-me đỏ lên nắm quyền.",
+      "D. Trung Quốc cải cách, mở cửa."
+    ]
   },
   {
     "question":"Câu 2. Một trong những nội dung khó khăn của cách mạng Việt Nam từ sau tháng 4\/1975 là",
     "type":"Multiple Choice",
-    "a":"A. có được sự lãnh đạo của Đảng.",
-    "b":"B. hậu quả chiến tranh nặng nề.",
-    "c":"C. Khơ-me đỏ lên nắm quyền.",
-    "d":"D. Trung Quốc cải cách, mở cửa.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":67
+    "id":67,
+    "choices":[
+      "A. có được sự lãnh đạo của Đảng.",
+      "B. hậu quả chiến tranh nặng nề.",
+      "C. Khơ-me đỏ lên nắm quyền.",
+      "D. Trung Quốc cải cách, mở cửa."
+    ]
   },
   {
     "question":"Câu 3. Sau khi lên nắm quyền (4\/1975) chính quyền Pôn-Pốt đã có hành động nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Đi thăm Mỹ để mở rộng quan hệ đối ngoại cho Cam-pu-chia.",
-    "b":"B. Ung hộ hết lòng cho công cuộc xây dựng đất nước Việt Nam.",
-    "c":"C. Phát động chiến tranh xâm lược biên giới Tây Nam Việt Nam.",
-    "d":"D. Liên kết với các nước Đông Nam Á để chống lại Trung Quốc.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":68
+    "id":68,
+    "choices":[
+      "A. Đi thăm Mỹ để mở rộng quan hệ đối ngoại cho Cam-pu-chia.",
+      "B. Ung hộ hết lòng cho công cuộc xây dựng đất nước Việt Nam.",
+      "C. Phát động chiến tranh xâm lược biên giới Tây Nam Việt Nam.",
+      "D. Liên kết với các nước Đông Nam Á để chống lại Trung Quốc."
+    ]
   },
   {
     "question":"Câu 4. Một trong những hành động khiêu khích, xâm phạm lãnh thổ của chính quyền Pôn-pốt đối với Việt Nam sau ngày 30\/4\/1975 là",
     "type":"Multiple Choice",
-    "a":"A. tổ chức cho người Khơ-me ở Việt Nam biểu tình.",
-    "b":"B. phái biệt kích để xâm nhập vào Hà Nội phá hoại.",
-    "c":"C. cho máy bay thả bom để phong tỏa cửa sông lớn.",
-    "d":"D. xâm nhập vào vùng biên giới trên đất liền Việt Nam.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":69
+    "id":69,
+    "choices":[
+      "A. tổ chức cho người Khơ-me ở Việt Nam biểu tình.",
+      "B. phái biệt kích để xâm nhập vào Hà Nội phá hoại.",
+      "C. cho máy bay thả bom để phong tỏa cửa sông lớn.",
+      "D. xâm nhập vào vùng biên giới trên đất liền Việt Nam."
+    ]
   },
   {
     "question":"Câu 5. Một trong những nơi ghi dấu tội ác của tập đoàn Khơ-mc đò đối với nhân dàn Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. An Giang.",
-    "b":"B. Cà Mau.",
-    "c":"C. Bạc Liêu.",
-    "d":"D. Cần Thơ.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":70
+    "id":70,
+    "choices":[
+      "A. An Giang.",
+      "B. Cà Mau.",
+      "C. Bạc Liêu.",
+      "D. Cần Thơ."
+    ]
   },
   {
     "question":"Câu 6. Nội dung nào sau đây phản ánh đúng tình hình quan hệ Việt - Trung từ giữa năm 1975?",
     "type":"Multiple Choice",
-    "a":"A. Vẫn duy trì rất tốt đẹp.",
-    "b":"C. Chuyển sang đối đầu.",
-    "c":"B. Dần trở nên căng thẳng.",
-    "d":"D. Trung Quốc xâm lược.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":71
+    "id":71,
+    "choices":[
+      "A. Vẫn duy trì rất tốt đẹp.",
+      "C. Chuyển sang đối đầu.",
+      "B. Dần trở nên căng thẳng.",
+      "D. Trung Quốc xâm lược."
+    ]
   },
   {
     "question":"Câu 7. Nội dung phản ánh không đúng tình hình của mối quan hệ Việt-Trung từ giữa năm 1975 là Trung Quốc",
     "type":"Multiple Choice",
-    "a":"A. chấm dứt viện trợ kinh tế.",
-    "b":"B. rút các chuyên gia về nước.",
-    "c":"C. xâm phạm khu vực biên giới.",
-    "d":"D. ủng hộ Việt Nam toàn diện.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":72
+    "id":72,
+    "choices":[
+      "A. chấm dứt viện trợ kinh tế.",
+      "B. rút các chuyên gia về nước.",
+      "C. xâm phạm khu vực biên giới.",
+      "D. ủng hộ Việt Nam toàn diện."
+    ]
   },
   {
     "question":"Câu 8. Một trong những nơi diễn ra các trận đánh quyết liệt của quân và dân Việt Nam chống lại sự xâm lược của quân Trung Quốc (1979) là",
     "type":"Multiple Choice",
-    "a":"A. Cao Bằng.",
-    "b":"B. Thái Nguyên.",
-    "c":"C. Nam Định.",
-    "d":"D. Phú Thọ.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":73
+    "id":73,
+    "choices":[
+      "A. Cao Bằng.",
+      "B. Thái Nguyên.",
+      "C. Nam Định.",
+      "D. Phú Thọ."
+    ]
   },
   {
     "question":"Câu 9. Âm mưu của Trung Quốc khi tấn công Việt Nam năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. thần tốc, táo bạo, bất ngờ.",
-    "b":"C. đánh ăn chắc, tiến ăn chắc.",
-    "c":"B. đánh nhanh thắng nhanh.",
-    "d":"D. chinh phục từng gói nhỏ.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":74
+    "id":74,
+    "choices":[
+      "A. thần tốc, táo bạo, bất ngờ.",
+      "C. đánh ăn chắc, tiến ăn chắc.",
+      "B. đánh nhanh thắng nhanh.",
+      "D. chinh phục từng gói nhỏ."
+    ]
   },
   {
     "question":"Câu 10. Sau khi Trung Quốc tuyên bố rút quân (5\/3\/1979), tình hình biên giới Việt Trung như thế nào?",
     "type":"Multiple Choice",
-    "a":"A. Trở lại bình thường.",
-    "b":"B. Đã yên bình trở lại",
-    "c":"C. Tiếp tục căng thẳng.",
-    "d":"D. Liên Xô can thiệp.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":75
+    "id":75,
+    "choices":[
+      "A. Trở lại bình thường.",
+      "B. Đã yên bình trở lại",
+      "C. Tiếp tục căng thẳng.",
+      "D. Liên Xô can thiệp."
+    ]
   },
   {
     "question":"Câu 11. Sau Đại thắng mùa xuân 1975, Hoàng Sa và Trường Sa do quốc gia nào sau đây quản lý?",
     "type":"Multiple Choice",
-    "a":"A. Việt Nam.",
-    "b":"B. Trung Quốc.",
-    "c":"C. Liên Xô.",
-    "d":"D. Triều Tiên.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":76
+    "id":76,
+    "choices":[
+      "A. Việt Nam.",
+      "B. Trung Quốc.",
+      "C. Liên Xô.",
+      "D. Triều Tiên."
+    ]
   },
   {
     "question":"Câu 12. Một trong những hành động thực thi chủ quyền của Chính phủ Việt Nam đối với quần đảo Trường Sa và Hoàng Sa là",
     "type":"Multiple Choice",
-    "a":"A. đưa lực lượng ra thực thi chủ quyền.",
-    "b":"B. xây dựng các sân bay quốc tế lớn.",
-    "c":"C. đã xây dựng nhiều căn cứ quân sự.",
-    "d":"D. cho Mỹ thuê lại các bến cảng ở đảo.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":77
+    "id":77,
+    "choices":[
+      "A. đưa lực lượng ra thực thi chủ quyền.",
+      "B. xây dựng các sân bay quốc tế lớn.",
+      "C. đã xây dựng nhiều căn cứ quân sự.",
+      "D. cho Mỹ thuê lại các bến cảng ở đảo."
+    ]
   },
   {
     "question":"Câu 13. Tháng 3 năm 1988, Trung Quốc đã sử dụng lực lượng lớn tấn công vào đảo",
     "type":"Multiple Choice",
-    "a":"A. Phú Lâm.",
-    "b":"B. Gạc Ma.",
-    "c":"C. Đá Bắc.",
-    "d":"D. Hữu Nhật.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":78
+    "id":78,
+    "choices":[
+      "A. Phú Lâm.",
+      "B. Gạc Ma.",
+      "C. Đá Bắc.",
+      "D. Hữu Nhật."
+    ]
   },
   {
     "question":"Câu 14. Ngay khi Trung Quốc tấn công vào các đảo thuộc quần đảo Trường Sa, Chính phủ Việt Nam đã có một trong những hành động nào sau dây?",
     "type":"Multiple Choice",
-    "a":"A. Tổ chức hạm đội để chiếm lại.",
-    "b":"B. Thông báo cho Liên Hợp quốc.",
-    "c":"C. Ra lệnh Tổng động viên cả nước.",
-    "d":"D. Xin viện trợ khẩn cấp từ Liên Xô.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":79
+    "id":79,
+    "choices":[
+      "A. Tổ chức hạm đội để chiếm lại.",
+      "B. Thông báo cho Liên Hợp quốc.",
+      "C. Ra lệnh Tổng động viên cả nước.",
+      "D. Xin viện trợ khẩn cấp từ Liên Xô."
+    ]
   },
   {
     "question":"Câu 15. Cơ sở pháp lý để Việt Nam bảo vệ chủ quyền biền đảo và phát triên kinh tế biển là",
     "type":"Multiple Choice",
-    "a":"A. Luật biển Việt Nam.",
-    "b":"B. Tuyên bố Băng-Cốc.",
-    "c":"C. Hiến chương ASEAN.",
-    "d":"D. Tầm nhìn ASEAN 2025.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":80
+    "id":80,
+    "choices":[
+      "A. Luật biển Việt Nam.",
+      "B. Tuyên bố Băng-Cốc.",
+      "C. Hiến chương ASEAN.",
+      "D. Tầm nhìn ASEAN 2025."
+    ]
   },
   {
     "question":"Câu 16. Chin thắng biên giới Tây Nam của quân dân Việt Nam có ý nghĩa như thể nào đối với cách mạng Cam-pu-chia?",
     "type":"Multiple Choice",
-    "a":"A. Tạo thời cơ thuận lợi cho cách mạng thắng lợi.",
-    "b":"B. Tiêu diệt hoàn toàn chế độ Pôn-pốt - Iêng-xê-ri.",
-    "c":"C. Tăng cường tình đoàn kết các nước Đông Nam Á.",
-    "d":"D. Tạo nên sức mạnh của Việt Nam và Cam-pu-chia.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":81
+    "id":81,
+    "choices":[
+      "A. Tạo thời cơ thuận lợi cho cách mạng thắng lợi.",
+      "B. Tiêu diệt hoàn toàn chế độ Pôn-pốt - Iêng-xê-ri.",
+      "C. Tăng cường tình đoàn kết các nước Đông Nam Á.",
+      "D. Tạo nên sức mạnh của Việt Nam và Cam-pu-chia."
+    ]
   },
   {
     "question":"Câu 17. Âm mưu của Khơ-me đỏ khi xâm phạm các vùng lãnh thổ của Việt Nam là",
     "type":"Multiple Choice",
-    "a":"B. bắt các ngư dân của Việt Nam.",
-    "b":"A. xâm lược, chống phá Việt Nam.",
-    "c":"C. nhằm gây tiếng vang với quốc tế.",
-    "d":"D. tranh chấp lãnh thổ đang nổ ra.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":82
+    "id":82,
+    "choices":[
+      "B. bắt các ngư dân của Việt Nam.",
+      "A. xâm lược, chống phá Việt Nam.",
+      "C. nhằm gây tiếng vang với quốc tế.",
+      "D. tranh chấp lãnh thổ đang nổ ra."
+    ]
   },
   {
     "question":"Câu 18. Hành động nào sau đây thể hiện rõ ràng nhất âm mưu chống phá Việt Nam của bọn bành trướng Trung Quốc năm 1979?",
     "type":"Multiple Choice",
-    "a":"A. Can thiệp vào cuộc kháng chiến của Việt Nam.",
-    "b":"B. Hợp tác với Mỹ cấm vận Việt Nam trên mọi mặt.",
-    "c":"C. Dùng 60 vạn quân tấn công toàn tuyến biên giới.",
-    "d":"D. Ký với Anh và Pháp ban thông cáo Thượng Hải.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":83
+    "id":83,
+    "choices":[
+      "A. Can thiệp vào cuộc kháng chiến của Việt Nam.",
+      "B. Hợp tác với Mỹ cấm vận Việt Nam trên mọi mặt.",
+      "C. Dùng 60 vạn quân tấn công toàn tuyến biên giới.",
+      "D. Ký với Anh và Pháp ban thông cáo Thượng Hải."
+    ]
   },
   {
     "question":"Câu 19. Bản chất hai cuộc chiến tranh biên giới Tây Nam và biên giới phia Bắc của nhân dân Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. cuộc chiến tranh bảo vệ Tổ quốc.",
-    "b":"B. xung đột, tranh chấp biên giới.",
-    "c":"C. để xác lập địa vị số một châu Á.",
-    "d":"D. chiến tranh thống nhất đất nước.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":84
+    "id":84,
+    "choices":[
+      "A. cuộc chiến tranh bảo vệ Tổ quốc.",
+      "B. xung đột, tranh chấp biên giới.",
+      "C. để xác lập địa vị số một châu Á.",
+      "D. chiến tranh thống nhất đất nước."
+    ]
   },
   {
     "question":"Câu 20. Nguyên chủ quan quyết định thắng lợi của hai cuộc chiến tranh bảo vệ biên giới năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. quân đội Trung Quốc còn yếu.",
-    "b":"B. truyền thống dân tộc, yêu nước.",
-    "c":"C. sự ủng hộ giúp đỡ của quốc tế.",
-    "d":"D. đoàn kết ba nước Đông Đương.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":85
+    "id":85,
+    "choices":[
+      "A. quân đội Trung Quốc còn yếu.",
+      "B. truyền thống dân tộc, yêu nước.",
+      "C. sự ủng hộ giúp đỡ của quốc tế.",
+      "D. đoàn kết ba nước Đông Đương."
+    ]
   },
   {
     "question":"Câu 21. Nguyên tắc giải quyết các tranh chấp trên Biển Đông của Chính phủ Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. giải quyết bằng biện pháp hòa bình.",
-    "b":"B. sẵn sàng sử dụng vũ lực để tự vệ.",
-    "c":"C. liên minh quân sự với Mỹ, Anh.",
-    "d":"D. xây dựng đặc khu tại Trường Sa.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":86
+    "id":86,
+    "choices":[
+      "A. giải quyết bằng biện pháp hòa bình.",
+      "B. sẵn sàng sử dụng vũ lực để tự vệ.",
+      "C. liên minh quân sự với Mỹ, Anh.",
+      "D. xây dựng đặc khu tại Trường Sa."
+    ]
   },
   {
     "question":"Câu 22. Tổ chức nào sau đây có vai trò đoàn kết toàn dân tộc Việt Nam trong việc bảo vệ chủ quyền đất nước",
     "type":"Multiple Choice",
-    "a":"A. Ban Chấp hành Trung ương.",
-    "b":"B. Mặt trận Tổ quốc Việt Nam.",
-    "c":"C. Ban Tuyên giáo Trung ương.",
-    "d":"D. Ban Dân vận Trung ương.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":87
+    "id":87,
+    "choices":[
+      "A. Ban Chấp hành Trung ương.",
+      "B. Mặt trận Tổ quốc Việt Nam.",
+      "C. Ban Tuyên giáo Trung ương.",
+      "D. Ban Dân vận Trung ương."
+    ]
   },
   {
     "question":"Câu 23. Nguyên nhân mang tính truyền thống dẫn đến thắng lợi của cuộc chiến tranh bảo vệ biên giới phía Tây Nam và biên giới phía Bắc là",
     "type":"Multiple Choice",
-    "a":"A. quân đội Trung Quốc yếu, lạc hậu",
-    "b":"B. truyền thống yêu nước của dân tộc.",
-    "c":"C. có sự ủng hộ giúp đỡ của quốc tế.",
-    "d":"D. đoàn kết ba nước Đông Dương từ lâu.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":88
+    "id":88,
+    "choices":[
+      "A. quân đội Trung Quốc yếu, lạc hậu",
+      "B. truyền thống yêu nước của dân tộc.",
+      "C. có sự ủng hộ giúp đỡ của quốc tế.",
+      "D. đoàn kết ba nước Đông Dương từ lâu."
+    ]
   },
   {
     "question":"Câu 24. Trong cuộc chiến tranh xâm lược biên giới phía Bắc Việt Nam (1979), Trung Quốc đã đạt được mục tiêu nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Dạy cho Việt Nam một bài học.",
-    "b":"B. Tiêu diệt bộ đội chủ lực Việt Nam.",
-    "c":"C. Phá hủy cơ sở vật chất, đường xá.",
-    "d":"D. Việt Nam đã thay đổi chính sách.",
-    "e":null,
-    "answer":3,
+    "answer":[
+      3
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":89
+    "id":89,
+    "choices":[
+      "A. Dạy cho Việt Nam một bài học.",
+      "B. Tiêu diệt bộ đội chủ lực Việt Nam.",
+      "C. Phá hủy cơ sở vật chất, đường xá.",
+      "D. Việt Nam đã thay đổi chính sách."
+    ]
   },
   {
     "question":"Câu 25. Một trong những điều kiện cơ bản để phát huy sức mạnh toàn diện của đất nước nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc là",
     "type":"Multiple Choice",
-    "a":"A. độc lập, tự do, dân chủ.",
-    "b":"B. hòa bình và hạnh phúc.",
-    "c":"C. dân quyền và dân sinh.",
-    "d":"D. độc lập và thống nhất.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":90
+    "id":90,
+    "choices":[
+      "A. độc lập, tự do, dân chủ.",
+      "B. hòa bình và hạnh phúc.",
+      "C. dân quyền và dân sinh.",
+      "D. độc lập và thống nhất."
+    ]
   },
   {
     "question":"Câu 26. Một trong những điểm giống về nguyên nhân thắng lợi của cuộc chiến tranh bảo vệ biên giới phía Bắc (1979) và cuộc kháng chiến chống Mỹ (1954-1975) là",
     "type":"Multiple Choice",
-    "a":"A. đoàn kết của ba nước Đông Dương.",
-    "b":"B. tinh thần yêu nước của nhân dân.",
-    "c":"C. phong trào phản chiến của dân Mỹ.",
-    "d":"D. viện trợ to lớn của Liên Hợp quốc.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":91
+    "id":91,
+    "choices":[
+      "A. đoàn kết của ba nước Đông Dương.",
+      "B. tinh thần yêu nước của nhân dân.",
+      "C. phong trào phản chiến của dân Mỹ.",
+      "D. viện trợ to lớn của Liên Hợp quốc."
+    ]
   },
   {
     "question":"Câu 27. Bài học được rút ra từ các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay vẫn có giá trị to lớn đối với công cuộc xây dựng đất nước hiện nay là",
     "type":"Multiple Choice",
-    "a":"A. tăng cường khối đại đoàn kết toàn dân.",
-    "b":"B. liên minh chặt chẽ với Liên Xô, Trung Quốc.",
-    "c":"C. gia nhập vào các khối liên minh quân sự.",
-    "d":"D. thiết lập quan hệ chiến lược với các nước.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":92
+    "id":92,
+    "choices":[
+      "A. tăng cường khối đại đoàn kết toàn dân.",
+      "B. liên minh chặt chẽ với Liên Xô, Trung Quốc.",
+      "C. gia nhập vào các khối liên minh quân sự.",
+      "D. thiết lập quan hệ chiến lược với các nước."
+    ]
   },
   {
     "question":"Câu 28. Nội dung nào sau đây là đường lối đối ngoại phù hợp mà Việt Nam nên thực hiện đối với Trung Quốc hiện nay?",
     "type":"Multiple Choice",
-    "a":"A. Khép lại quá khứ, hợp tác kinh tế nhưng cảnh giác đề phòng.",
-    "b":"B. Tuyên truyền cổ động chống lại Trung Quốc trên mọi mặt.",
-    "c":"C. Chuẩn bị sức mạnh quân sự để tấn công quân Trung Quốc.",
-    "d":"D. Hợp tác với Nhật, Mỹ, Nga để cô lập toàn diện Trung Quốc.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":93
+    "id":93,
+    "choices":[
+      "A. Khép lại quá khứ, hợp tác kinh tế nhưng cảnh giác đề phòng.",
+      "B. Tuyên truyền cổ động chống lại Trung Quốc trên mọi mặt.",
+      "C. Chuẩn bị sức mạnh quân sự để tấn công quân Trung Quốc.",
+      "D. Hợp tác với Nhật, Mỹ, Nga để cô lập toàn diện Trung Quốc."
+    ]
   },
   {
     "question":"Câu 29. Trong cuộc chiến tranh bảo vệ biên giới phía Bắc (1979), điểm chung của Tướng Sùng Làm, Hoàng Đan là",
     "type":"Multiple Choice",
-    "a":"A. nỗi khiếp sợ của quân Trung Quốc.",
-    "b":"B. đều xuất thân từ vùng đất Nghệ An.",
-    "c":"C. từng là chỉ huy trưởng Quân đoàn 2.",
-    "d":"D. đều là Anh hùng Lực lượng vũ trang.",
-    "e":null,
-    "answer":1,
+    "answer":[
+      1
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":94
+    "id":94,
+    "choices":[
+      "A. nỗi khiếp sợ của quân Trung Quốc.",
+      "B. đều xuất thân từ vùng đất Nghệ An.",
+      "C. từng là chỉ huy trưởng Quân đoàn 2.",
+      "D. đều là Anh hùng Lực lượng vũ trang."
+    ]
   },
   {
     "question":"Câu 30. Một trong những nguyên nhân thất bại của quân Trung Quốc năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. số quân Trung Quốc tham chiến còn ít.",
-    "b":"B. tinh thần chiến đấu của quân và dân ta.",
-    "c":"C. đe dọa tấn công hạt nhân của Liên Xô.",
-    "d":"D. sức mạnh các quân đoàn chủ lực của ta.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":30,
     "image":null,
     "explanation":null,
-    "id":95
+    "id":95,
+    "choices":[
+      "A. số quân Trung Quốc tham chiến còn ít.",
+      "B. tinh thần chiến đấu của quân và dân ta.",
+      "C. đe dọa tấn công hạt nhân của Liên Xô.",
+      "D. sức mạnh các quân đoàn chủ lực của ta."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Ở Đông Dương ai sẽ tranh thủ được diễn biến tình hình mới sau sự đầu hàng của Nhật hoàng trước quân Đồng minh đây? Đảng Cộng sản Đông Dương là tổ chức duy nhất có chiến lược rành mạch và chiến thuật cụ thể. Nhờ vào máy liên lạc vô tuyến mà Hồ Chí Minh và các đồng chí của ông đã biết tin quân Nhật đầu hàng. Do đó họ đã nắm lấy thời cơ,... \". ",
     "type":"Checkbox",
-    "a":"A. Đảng Cộng sản Đông Dương đã chuẩn bị đầy đủ cho Tổng khởi nghĩa.",
-    "b":"B. Đảng Cộng sản Đông Dương là tổ chức xã hội duy nhất dự đoán đúng thời cơ cách mạng.",
-    "c":"C. Đảng Cộng sản Đông Dương đã tranh thủ thời cơ thuận lợi để tiến hành lãnh đạo khởi nghĩa.",
-    "d":"D. Đảng Cộng sản Đông Dương đã có sự chuẩn bị về chiến lược và chiến thuật cách mạng",
-    "e":null,
-    "answer":"3,4",
+    "answer":[
+      3,
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":96
+    "id":96,
+    "choices":[
+      "A. Đảng Cộng sản Đông Dương đã chuẩn bị đầy đủ cho Tổng khởi nghĩa.",
+      "B. Đảng Cộng sản Đông Dương là tổ chức xã hội duy nhất dự đoán đúng thời cơ cách mạng.",
+      "C. Đảng Cộng sản Đông Dương đã tranh thủ thời cơ thuận lợi để tiến hành lãnh đạo khởi nghĩa.",
+      "D. Đảng Cộng sản Đông Dương đã có sự chuẩn bị về chiến lược và chiến thuật cách mạng"
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Tình thế vô cùng khẩn cấp. Tất cả mọi việc đều phải nhằm vào ba nguyên tắc: a) Tập trung - tập trung lực lượng vào những việc chính, b) Thống nhất -- thống nhất về mọi phương diện quân sự, chính trị, hành động và chỉ huy. c) Kịp thời - kịp thời hành động, không bỏ lỡ cơ hội\".",
     "type":"Checkbox",
-    "a":"A. Nội dung của nghị quyết yêu cầu cần kịp thời chớp thời cơ để tiến hành Tổng khởi nghĩa.",
-    "b":"B. Đảng Cộng sản Đông Dương và Chính phủ Việt Nam đã chuẩn bị đầy đủ cho Tổng khởi nghĩa.",
-    "c":"C. Thời cơ của Cách mạng tháng Tám và cuộc kháng chiến chống Pháp sắp xuất hiện.",
-    "d":"D. Nghị quyết nhấn mạnh: sự lãnh đạo của Đảng cần tập trung, thống nhất, kịp thời. ",
-    "e":null,
-    "answer":"1,4",
+    "answer":[
+      1,
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":97
+    "id":97,
+    "choices":[
+      "A. Nội dung của nghị quyết yêu cầu cần kịp thời chớp thời cơ để tiến hành Tổng khởi nghĩa.",
+      "B. Đảng Cộng sản Đông Dương và Chính phủ Việt Nam đã chuẩn bị đầy đủ cho Tổng khởi nghĩa.",
+      "C. Thời cơ của Cách mạng tháng Tám và cuộc kháng chiến chống Pháp sắp xuất hiện.",
+      "D. Nghị quyết nhấn mạnh: sự lãnh đạo của Đảng cần tập trung, thống nhất, kịp thời. "
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Pháp chạy, Nhật hàng, vua Bảo Đại thoải vị. Dân ta đã đánh đổ các xiềng xích thực dân gần 100 năm nay để gây nên nước Việt Nam độc lập. Dân ta lại đánh đổ chế độ quân chủ mấy mươi thế kỉ mà lập nên chế độ dân chủ cộng hoà\"",
     "type":"Checkbox",
-    "a":"A. Đoạn tư liệu cho thấy sự suy yếu, lạc hậu của chế độ thực dân và phong kiến ở Việt Nam.",
-    "b":"B. Đoạn tư liệu phản ánh đóng góp của Cách mạng tháng Tám năm 1945 đối với thế giới.",
-    "c":"C. Đoạn tư liệu cho thấy nhân dân Việt Nam đã đánh đổ chế độ thực dân và quân chủ.",
-    "d":"D. Đoạn tư liệu phản ánh những kết quả to lớn của cuộc Cách mạng tháng Tám năm 1945.",
-    "e":null,
-    "answer":"3,4",
+    "answer":[
+      3,
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":98
+    "id":98,
+    "choices":[
+      "A. Đoạn tư liệu cho thấy sự suy yếu, lạc hậu của chế độ thực dân và phong kiến ở Việt Nam.",
+      "B. Đoạn tư liệu phản ánh đóng góp của Cách mạng tháng Tám năm 1945 đối với thế giới.",
+      "C. Đoạn tư liệu cho thấy nhân dân Việt Nam đã đánh đổ chế độ thực dân và quân chủ.",
+      "D. Đoạn tư liệu phản ánh những kết quả to lớn của cuộc Cách mạng tháng Tám năm 1945."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Chẳng những giai cấp lao động và nhân dân Việt Nam ta có thể tự hào, mà giai cấp lao động và những dân tộc bị áp bức nơi khác cùng có thể tự hào rằng: Lần này là lần đầu tiên trong lịch sử cách mạng của các dân tộc thuộc địa và nửa thuộc địa, một Đảng mới 15 tuổi đã lãnh đạo cách mạng thành công, đã nắm chính quyền toàn quốc\".",
     "type":"Checkbox",
-    "a":"A. Với thành công của Cách mạng tháng Tám năm 1945, Đảng Cộng sản Đông DƯơng đã trở thành đảng cầm quyền.",
-    "b":"B. Giai cấp lao động là lực lượng lãnh đạo của cách mạng giải phóng dân tộc và giải phóng giai cấp.",
-    "c":"C. Cách mạng tháng Tám năm 1945 gắn liền với vai trò lãnh đạo của Đảng Cộng sạn Đông Dương.",
-    "d":"D. Đảng Cộng sản Đông Dương là chính đảng trẻ nhất giành được chính quyền trên cả nước.",
-    "e":null,
-    "answer":"1,3",
+    "answer":[
+      1,
+      3
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":99
+    "id":99,
+    "choices":[
+      "A. Với thành công của Cách mạng tháng Tám năm 1945, Đảng Cộng sản Đông DƯơng đã trở thành đảng cầm quyền.",
+      "B. Giai cấp lao động là lực lượng lãnh đạo của cách mạng giải phóng dân tộc và giải phóng giai cấp.",
+      "C. Cách mạng tháng Tám năm 1945 gắn liền với vai trò lãnh đạo của Đảng Cộng sạn Đông Dương.",
+      "D. Đảng Cộng sản Đông Dương là chính đảng trẻ nhất giành được chính quyền trên cả nước."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Bất kì đàn ông, đàn bà, bất kì người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc, Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc,... Ai cũng phải ra sức chống thực dân Pháp cứu nước \".",
     "type":"Checkbox",
-    "a":"A. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh toàn dân.",
-    "b":"B. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh toàn diện.",
-    "c":"C. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh trường kì.",
-    "d":"D. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh tự lực cánh sinh.",
-    "e":null,
-    "answer":"1,2",
+    "answer":[
+      1,
+      2
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":100
+    "id":100,
+    "choices":[
+      "A. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh toàn dân.",
+      "B. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh toàn diện.",
+      "C. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh trường kì.",
+      "D. Đoạn tư liệu thể hiện cuộc kháng chiến chống thực dân Pháp là cuộc chiến tranh tự lực cánh sinh."
+    ]
   },
   {
     "question":"Cho dữ liệu thống kê sau đây về viện trợ quân sự của Mỹ đối với Pháp: Năm 1951, viện trợ của Mỹ đã lên 340 triệu đô la, được tính bằng số lượng 50 xe tăng, 24 xe thiết giáp, 300 xe vận tải, 70 khẩu pháo, 30 máy bay chiến đấu, 70 xuồng và một số tàu vận tải, vũ khí bộ binh đủ trang bị cho 12 tiểu đoàn bộ binh; đồng thời, cố vấn quân sự được đưa sang nằm ngay trong Bộ Tổng chỉ huy Đông DƯơng của quân Pháp. Đến tháng 5-1952, chuyến hàng thứ 150 của Mỹ đã được chuyển sang Đông Dương, Chính phỉ Mỹ đã chịu tới 40% tổng chi phí ngân sách cho cuộc chiến tranh Đông Dương của Pháp.",
     "type":"Checkbox",
-    "a":"A. Mỹ tăng cường viện trợ cho Pháp trong chiến tranh xâm lược Đông Dương.",
-    "b":"B. Mỹ đã hất cẳng Pháp, trực tiếp tiến hành chiến tranh xâm lược Đông Dương.",
-    "c":"C. Chính phủ Mỹ ngày càng lộ rõ ý định tái chiếm Đông Dương bằng mọi giá.",
-    "d":"D. Mỹ phải chịu trách nhiệm cho thất bại của thực dân Pháp ở Đông Dương",
-    "e":null,
-    "answer":"1,2,4",
+    "answer":[
+      1,
+      2,
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":101
+    "id":101,
+    "choices":[
+      "A. Mỹ tăng cường viện trợ cho Pháp trong chiến tranh xâm lược Đông Dương.",
+      "B. Mỹ đã hất cẳng Pháp, trực tiếp tiến hành chiến tranh xâm lược Đông Dương.",
+      "C. Chính phủ Mỹ ngày càng lộ rõ ý định tái chiếm Đông Dương bằng mọi giá.",
+      "D. Mỹ phải chịu trách nhiệm cho thất bại của thực dân Pháp ở Đông Dương"
+    ]
   },
   {
     "question":"Cho dữ liệu thống kê sau đây về viện trợ quân sự của Mỹ đối với Pháp: Viện trợ của Mỹ cho Pháp trong hai năm 1953, 1954 tăng đột biến: năm 1953 gấp ba lần năm 1952, năm 1954 tăng gấp đôi năm 1953, giá trị chương trình viện trợ quân sự Mỹ trong tổng ngân sách của Pháp chi cho cuộc chính tranh ở Đông Dương tăng từ 43% (1953) lên 78% (1954) với khoảng 2 tỉ đô la. Có 37 phi công Mỹ đã tham gia lực lượng viễn chinh của Pháp trong chiến dịch Điện Biên Phủ.",
     "type":"Checkbox",
-    "a":"A. Mỹ chịu trách nhiệm chính cho những tội ác mà quân Pháp gây ra trong chiến tranh ở Việt Nam.",
-    "b":"B. Đến năm 1954, Mỹ đã gánh chịu phần lớn chi phí chiến tranh của Pháp ở Đông Dương.",
-    "c":"C. Từ năm 1953, viện trợ của Mỹ cho Pháp tăng đột biến do lo ngại quân Phpas ở miền Nam Việt Nam bị tiêu diệt.",
-    "d":"D. Từ năm 1954, quân đội Mỹ hất cẳng quân đội Pháp, trực tiếp tiến hành chiến tranh xâm lược ở Đông Dương.",
-    "e":null,
-    "answer":2,
+    "answer":[
+      2
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":102
+    "id":102,
+    "choices":[
+      "A. Mỹ chịu trách nhiệm chính cho những tội ác mà quân Pháp gây ra trong chiến tranh ở Việt Nam.",
+      "B. Đến năm 1954, Mỹ đã gánh chịu phần lớn chi phí chiến tranh của Pháp ở Đông Dương.",
+      "C. Từ năm 1953, viện trợ của Mỹ cho Pháp tăng đột biến do lo ngại quân Phpas ở miền Nam Việt Nam bị tiêu diệt.",
+      "D. Từ năm 1954, quân đội Mỹ hất cẳng quân đội Pháp, trực tiếp tiến hành chiến tranh xâm lược ở Đông Dương."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Tôi đã hiểu vì sao mọi người đều lựa chọn phương án đánh nhanh,... Lí do chính là e thời gian chuẩn bị kéo dài, địch sẽ tăng thêm quân, tập đoàn cứ điểm ngày càng mạnh, sẽ làm ta mất cơ hội tiêu diệt địch! Nhiều người cho rằng sự  xuất hiện lần đầu của lự pháo và cao xạ sẽ làm quân địch choáng váng. Nhưng chúng ta chỉ có vài ngàn viên đạn! Đặc biệt, mọi người đều tin vào khí thế của bộ đội khi xuất quân, tin vào sức mạnh tin thần. Nhưng sức mạnh tinh thần cùng có những giới hạn \",",
     "type":"Checkbox",
-    "a":"A. Phương án \"đánh nhanhm, thắng nhanh\" được nhiều người ủng hộ và tin tưởng sẽ thắng lợi.",
-    "b":"B. Đa số mọi người cho rằng lựu pháo và cao xạ sẽ khiến cho quân Pháp bị bất ngờ.",
-    "c":"C. Phương án \"đánh nhanh, thắng nahnh\" đã bị một số người phản đối.",
-    "d":"D. Một số người muốn chuyển sang phương án \"đánh chắc, tiến chắc\".",
-    "e":null,
-    "answer":"1,2",
+    "answer":[
+      1,
+      2
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":103
+    "id":103,
+    "choices":[
+      "A. Phương án \"đánh nhanhm, thắng nhanh\" được nhiều người ủng hộ và tin tưởng sẽ thắng lợi.",
+      "B. Đa số mọi người cho rằng lựu pháo và cao xạ sẽ khiến cho quân Pháp bị bất ngờ.",
+      "C. Phương án \"đánh nhanh, thắng nahnh\" đã bị một số người phản đối.",
+      "D. Một số người muốn chuyển sang phương án \"đánh chắc, tiến chắc\"."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Để đảm bảo nguyên tắc cao nhất là \"đánh chắc thắng\", cần chuyển phương châm tiêu diệt địch từ \"đánh nhanh thắng nhanh\" sang \"đánh chắc tiến chắc\". Nay quyết định hoãn cuộc tiếng công. Ra lệnh cho bộ đội trên toàn tuyến luy về địa điểm tập kết, và kéo pháo ra. Công tác chính trị bảo đảm triệt để chấp  hành mệnh lệnh lui quân như mệnh lệnh chiến đấu. Hậu cần chuyển sang chuẩn bị theo phương châm mới\".",
     "type":"Checkbox",
-    "a":"A. Sĩ quanh chính trị cần bảo đảm triệt để chấp hành mệnh lệnh rút lui như mệnh lệnh quân sự.",
-    "b":"B. Cần chuyển từ \"đánh nhanh, thắng nhanh\" sang \"đánh chắc, tiến chắc\" để bảo đảm đánh chắc thắng.",
-    "c":"C. Theo phương châm mới, cần kéo pháo ra khỏi trận địa để bố trí lại lực lượng, bảo đảm thành công của chiến chiến dịch.",
-    "d":"D. Cần lui toàn bộ quân đội về hậu phương, thay đổi lực lượng để phục vụ phương chấm mới của chiến dịch.",
-    "e":null,
-    "answer":"2,3",
+    "answer":[
+      2,
+      3
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":104
+    "id":104,
+    "choices":[
+      "A. Sĩ quanh chính trị cần bảo đảm triệt để chấp hành mệnh lệnh rút lui như mệnh lệnh quân sự.",
+      "B. Cần chuyển từ \"đánh nhanh, thắng nhanh\" sang \"đánh chắc, tiến chắc\" để bảo đảm đánh chắc thắng.",
+      "C. Theo phương châm mới, cần kéo pháo ra khỏi trận địa để bố trí lại lực lượng, bảo đảm thành công của chiến chiến dịch.",
+      "D. Cần lui toàn bộ quân đội về hậu phương, thay đổi lực lượng để phục vụ phương chấm mới của chiến dịch."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Lần đâu tiên trong lịch sử, một nước thuộc địa nhỏ yếu đã đánh thắng một nước thực dân hùng mạnh. Đó là một thắng lợi vẻ vang của nhân dân Việt Nam, đồng thời cũng là một thắng lợi vẻ vang của các lực lượng hoà bình, dân chủ và xã hội chủ nghĩa trên thế giới\".",
     "type":"Checkbox",
-    "a":"A. Thắng lợi của cuộc kháng chiến chống thực dân Pháp của nhân dân Việt Nam có ỹ nghĩa to lớn.",
-    "b":"B. Lần đầu tiên trong lịch sử, một nước thuộc địa đã tiêu diệt toàn bộ quân đội thực dân.",
-    "c":"C. Thắng lợi của cuộc kháng chiến chống thực dân Pháp của nhân dân Việt Nam cho thấy sức mạnh của một nước thuộc địa.",
-    "d":"D. Thắng lợi của nhân dân Việt Nam trong cuộc kháng chiến chống thực dân Pháp chính thức đánh đổ chủ nghĩa thực dân trên thế giới.",
-    "e":null,
-    "answer":"1,3",
+    "answer":[
+      1,
+      3
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":105
+    "id":105,
+    "choices":[
+      "A. Thắng lợi của cuộc kháng chiến chống thực dân Pháp của nhân dân Việt Nam có ỹ nghĩa to lớn.",
+      "B. Lần đầu tiên trong lịch sử, một nước thuộc địa đã tiêu diệt toàn bộ quân đội thực dân.",
+      "C. Thắng lợi của cuộc kháng chiến chống thực dân Pháp của nhân dân Việt Nam cho thấy sức mạnh của một nước thuộc địa.",
+      "D. Thắng lợi của nhân dân Việt Nam trong cuộc kháng chiến chống thực dân Pháp chính thức đánh đổ chủ nghĩa thực dân trên thế giới."
+    ]
   },
   {
     "question":"Câu 38 trang 149",
     "type":"Checkbox",
-    "a":"A. Miền Bắc đạt nhiều thành tựu trong khôi phục kinh tế, hàn gắn vết thương chiến tranh (1954 - 1957)",
-    "b":"B. Lĩnh vực kinh tế của miền Bắc có những biến đổi mạnh mẽ trong giai đoạn 1954 - 1957.",
-    "c":"C. Trong giai đoạn 1954 - 1957, miền Bắc đã hoàn thành công cuộc xây dựng CNXH.",
-    "d":"D. Miền Bắc đã hoàn thành công nghiệp hoá và xây dựng chủ nghĩa xã hội trong giai đoạn 1954 - 1957.",
-    "e":null,
-    "answer":"1,2",
+    "answer":[
+      1,
+      2
+    ],
     "time":60,
     "image":"\/quizzes\/Sử GK2\/106.png",
     "explanation":null,
-    "id":106
+    "id":106,
+    "choices":[
+      "A. Miền Bắc đạt nhiều thành tựu trong khôi phục kinh tế, hàn gắn vết thương chiến tranh (1954 - 1957)",
+      "B. Lĩnh vực kinh tế của miền Bắc có những biến đổi mạnh mẽ trong giai đoạn 1954 - 1957.",
+      "C. Trong giai đoạn 1954 - 1957, miền Bắc đã hoàn thành công cuộc xây dựng CNXH.",
+      "D. Miền Bắc đã hoàn thành công nghiệp hoá và xây dựng chủ nghĩa xã hội trong giai đoạn 1954 - 1957."
+    ]
   },
   {
     "question":"Câu 48 trang 152",
     "type":"Checkbox",
-    "a":"A. Bằng dữ kiện cho thấy miền Bắc trở thành hậu phương của miền Nam, Lào và Cam-pu-chia.",
-    "b":"B. Bảng dữ kiện cho thấy miền Bắc đạt được những thành tựu to lớn trong xây dựng chủ nghĩa xã hội.",
-    "c":"C. Bảng dữ kiện cho thấy miền Bắc đã chi viện đầy đủ và đóng vai trò quyết định trực tiếp đối với mọi thắng lợi trên chiến trường miền Nam.",
-    "d":"D. Bằng dữ kiện cho thấy miền Bắc chi viện to lớn cho chiến trường, đồng thời đạt được nhiều kết quả trong chống chiến tranh phá hoại của Mỹ.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":60,
     "image":"\/quizzes\/Sử GK2\/107.png",
     "explanation":null,
-    "id":107
+    "id":107,
+    "choices":[
+      "A. Bằng dữ kiện cho thấy miền Bắc trở thành hậu phương của miền Nam, Lào và Cam-pu-chia.",
+      "B. Bảng dữ kiện cho thấy miền Bắc đạt được những thành tựu to lớn trong xây dựng chủ nghĩa xã hội.",
+      "C. Bảng dữ kiện cho thấy miền Bắc đã chi viện đầy đủ và đóng vai trò quyết định trực tiếp đối với mọi thắng lợi trên chiến trường miền Nam.",
+      "D. Bằng dữ kiện cho thấy miền Bắc chi viện to lớn cho chiến trường, đồng thời đạt được nhiều kết quả trong chống chiến tranh phá hoại của Mỹ."
+    ]
   },
   {
     "question":"Cho đoạn thông tin thống kê sau đây: Trong cuộc tấn công của quân đội Trung Quốc vào các tỉnh phía Bắc Việt Nam năm 1979, các thị xã Cao Bằng, Lạng Sơn, Cam Đường, Lào Cai gần như bị huỷ diện hoàn toàn. Tổng cộng có 320 xã, 735 trường học, 41 nông trường, 81 xí nghiệp, hầm mỏ và 38 lâm trường bị tàn phá; 400 nghìn gia xúc bị giết, bị cướp. Khoảng 50% trong tổng số 3,5 triệu người ở 6 tỉnh biên giới bị mất nhà cửa, tàn sản và phương tiện sinh sống.",
     "type":"Checkbox",
-    "a":"A. Quân đội Trung Quốc đã phá huỷ toàn bộ công trình kinh tế, văn hoá ở miền Bắc Việt Nam.",
-    "b":"B. Quân đội Trung Quốc đã gây ra tình trạng hỗn loạn quy mô lớn trên toàn bộ miền Bắc Việt Nam.",
-    "c":"C. Nhiều đô thị ở các tỉnh biên giới phía bắc Việt Nam gần như bị huỷ diện hoàn toàn trong cuộc tấn công của quân đội Trung Quốc.",
-    "d":"D. Quân đội Trung Quốc đã gây ra những thiệt hại nặng nề đối với các tỉnh biên giới phía bắc Việt Nam.",
-    "e":null,
-    "answer":"3,4",
+    "answer":[
+      3,
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":108
+    "id":108,
+    "choices":[
+      "A. Quân đội Trung Quốc đã phá huỷ toàn bộ công trình kinh tế, văn hoá ở miền Bắc Việt Nam.",
+      "B. Quân đội Trung Quốc đã gây ra tình trạng hỗn loạn quy mô lớn trên toàn bộ miền Bắc Việt Nam.",
+      "C. Nhiều đô thị ở các tỉnh biên giới phía bắc Việt Nam gần như bị huỷ diện hoàn toàn trong cuộc tấn công của quân đội Trung Quốc.",
+      "D. Quân đội Trung Quốc đã gây ra những thiệt hại nặng nề đối với các tỉnh biên giới phía bắc Việt Nam."
+    ]
   },
   {
     "question":"Đọc đoạn tư liệu sau đây: \"Ngày nay, trước cuộc đấu tranh của nhân dân thế giới vì hoà bình, độc lập dân tộc, dân chủ và tiến bộ xã hội, trước sự phát triển vũ bão của cuộc cách mạng khoa học và công nghệ hiện đại và quá trình quốc tế hoá mạnh mẽ nền kinh tế thế giới, càng cần phải kết hợp chặt chẽ yếu tố dân tộc với yếu tố quốc tế, yếu tố truyền thống với yếu tố hiện đại để đưa đất nước tiến lên",
     "type":"Checkbox",
-    "a":"A. Quá trình toàn cầu hoá đang diễn ra trên mọi lĩnh vực của đời sống xã hội.",
-    "b":"B. Cần kết hợp kinh tế trong nước với kinh tế thế giới trong quá trình phát triển.",
-    "c":"C. Yếu tố dân tộc và yếu tố quốc tế sẽ đóng vai trò quyết định sự phát triển của đất nước.",
-    "d":"D. Trong thời đại ngày nay, càng cần phải kết hợp giữa yếu tố dân tộc với yếu tố quốc tế.",
-    "e":null,
-    "answer":4,
+    "answer":[
+      4
+    ],
     "time":60,
     "image":null,
     "explanation":null,
-    "id":109
+    "id":109,
+    "choices":[
+      "A. Quá trình toàn cầu hoá đang diễn ra trên mọi lĩnh vực của đời sống xã hội.",
+      "B. Cần kết hợp kinh tế trong nước với kinh tế thế giới trong quá trình phát triển.",
+      "C. Yếu tố dân tộc và yếu tố quốc tế sẽ đóng vai trò quyết định sự phát triển của đất nước.",
+      "D. Trong thời đại ngày nay, càng cần phải kết hợp giữa yếu tố dân tộc với yếu tố quốc tế."
+    ]
   }
 ]

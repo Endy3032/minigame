@@ -31,6 +31,9 @@ for root, dirs, files in os.walk(base_dir):
 			df = df.rename(columns=keymap)
 			df["id"] = df.index + 1
 			df["image"] = df["image"].apply(lambda x: f"/quizzes/{root.split('/')[-1]}/{x}" if pd.notnull(x) else None)
+			df["choices"] = df[["a", "b", "c", "d", "e"]].apply(lambda x: [i for i in x if pd.notnull(i)], axis=1)
+			df = df.drop(columns=["a", "b", "c", "d", "e"])
+			df["answer"] = df["answer"].apply(lambda x: sorted([int(i) for i in str(x).split(",")]) if pd.notnull(x) else None)
 
 			output_path = os.path.join(root, "data.json")
 

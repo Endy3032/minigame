@@ -2,6 +2,13 @@ import { useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
 import { cn, Question } from "../utils.ts"
 
+const colorMap = [
+	"bg-red-700 shadow-red-800 active:bg-red-800",
+	"bg-green-700 shadow-green-800 active:bg-green-800",
+	"bg-blue-700 shadow-blue-800 active:bg-blue-800",
+	"bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
+]
+
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
 	const questions = props.questions
@@ -21,7 +28,7 @@ export function Quiz(props: { questions: Question[] }) {
 			const set = new Set(answer.value)
 			if (set.has(choice)) set.delete(choice)
 			else set.add(choice)
-			answer.value = [...set]
+			answer.value = [...set].toSorted()
 		}
 	}
 
@@ -75,7 +82,7 @@ export function Quiz(props: { questions: Question[] }) {
 
 		document.addEventListener("keyup", handler)
 		return () => document.removeEventListener("keyup", handler)
-	}, [qi])
+	}, [q])
 
 	return (
 		currentQuestion.value < questions.length
@@ -86,13 +93,13 @@ export function Quiz(props: { questions: Question[] }) {
 							(_, i) => (
 								<div key={i} class={cn("w-full h-1 rounded-full transition-all", answers.value[i].length === 0
 									? "bg-zinc-500"
-									: answers.value[i].join(",") === questions[i].answer.toString().split(",").toSorted().join(",")
+									: answers.value[i].toSorted().join(",") === questions[i].answer?.toSorted().join(",")
 									? "bg-teal-500"
 									: "bg-rose-500", currentQuestion.value === i ? "ring-1 ring-zinc-300" : "")} />
 							))}
 					</div>
 					<div className="flex flex-1 gap-4">
-						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-2xl md:text-3xl leading-tight whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
+						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
 							{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
 							{q.image && (
 								<img src={q.image} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
@@ -100,83 +107,31 @@ export function Quiz(props: { questions: Question[] }) {
 						</div>
 						{q.explanation?.split("\n").map((line, i) => (
 							<div class="flex flex-col gap-2">
-								<p key={i} class="text-zinc-600 whitespace-pre-wrap leading-tight">{line}</p>
+								<p key={i} class="text-zinc-600 whitespace-pre-wrap leading-snug">{line}</p>
 							</div>
 						))}
 					</div>
-					<div class="grid grid-cols-1 md:grid-cols-2 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
-						{q.a?.toString().length && (
+					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
+						{q.choices?.map((choice, i) => (
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
-									check(1) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
+									"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48",
+									check(i + 1) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("1") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
-										: "bg-red-700 shadow-red-800 active:bg-red-800",
+										? q.answer?.includes(i + 1)
+											? "bg-emerald-700 shadow-teal-800"
+											: "bg-rose-700 shadow-rose-800"
+										: colorMap[i],
 								)}
 								onClick={() => {
-									choose(1)
+									choose(i + 1)
 									proceed()
 								}}
 							>
-								{q.a.toString()}
+								{choice}
 							</button>
-						)}
-						{q.b?.toString().length && (
-							<button
-								type="button"
-								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
-									check(2) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
-									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("2") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
-										: "bg-green-700 shadow-green-800 active:bg-green-800",
-								)}
-								onClick={() => {
-									choose(2)
-									proceed()
-								}}
-							>
-								{q.b.toString()}
-							</button>
-						)}
-						{q.c?.toString().length && (
-							<button
-								type="button"
-								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
-									check(3) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
-									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("3") ? "bg-emerald-700 shadow-teal-800" : "bg-rose-700 shadow-rose-800"
-										: "bg-blue-700 shadow-blue-800 active:bg-blue-800",
-								)}
-								onClick={() => {
-									choose(3)
-									proceed()
-								}}
-							>
-								{q.c.toString()}
-							</button>
-						)}
-						{q.d?.toString().length && (
-							<button
-								type="button"
-								class={cn(
-									"text-balance px-4 py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-16 md:min-h-24",
-									check(4) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
-									showAnswer.value && answer.value.length
-										? q.answer.toString().includes("4") ? "bg-emerald-700 shadow-emerald-800" : "bg-rose-700 shadow-rose-800"
-										: "bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
-								)}
-								onClick={() => {
-									choose(4)
-									proceed()
-								}}
-							>
-								{q.d.toString()}
-							</button>
-						)}
+						))}
 					</div>
 					<div className="flex gap-3 w-full justify-end">
 						<button
@@ -194,7 +149,6 @@ export function Quiz(props: { questions: Question[] }) {
 							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50"
 							onClick={() => {
 								proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
-								// disable skip button for 500ms after skipping
 								if (!skipButton.current) return
 								if (!autoAdvance.value && showAnswer.value) return
 								skipButton.current.disabled = true
@@ -210,69 +164,37 @@ export function Quiz(props: { questions: Question[] }) {
 				</div>
 			)
 			: (
-				<div className="flex flex-col gap-4 max-w-screen-xl mx-auto">
-					{questions.map((question, i) => (
-						<div key={i} class="flex flex-col gap-3 p-6 rounded-lg shadow-md w-full">
-							<h2 class="text-xl whitespace-pre-wrap font-semibold leading-tight">
-								{question.question}
+				<div className="flex flex-col gap-4 max-w-screen-lg mx-auto">
+					{questions.map((q, i) => (
+						<div key={i} class="flex flex-col gap-3 p-4 rounded-lg border border-zinc-700 shadow-md w-full">
+							<h2 class="text-xl whitespace-pre-wrap font-semibold leading-snug">
+								<span class="float-right ms-2 mb-2 text-sm text-zinc-400">#{q.id}</span>
+								<span>{q.question}</span>
 							</h2>
-							{question.image && (
-								<img src={question.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />
-							)}
-							{question.a && question.b
-								? (
-									<ul class="flex flex-col gap-2 py-1">
-										<li class={`p-2 rounded ${
-											question.answer?.toString().includes("1")
-												? "bg-emerald-700"
-												: answers.value[i].includes(1)
-												? "bg-rose-700"
-												: "bg-zinc-500"
-										}`}>
-											{question.a?.toString()}
-										</li>
-										<li class={`p-2 rounded ${
-											question.answer?.toString().includes("2")
-												? "bg-emerald-700"
-												: answers.value[i].includes(2)
-												? "bg-rose-700"
-												: "bg-zinc-500"
-										}`}>
-											{question.b?.toString()}
-										</li>
-										{question.c && (
-											<li class={`p-2 rounded ${
-												question.answer?.toString().includes("3")
-													? "bg-emerald-700"
-													: answers.value[i].includes(3)
-													? "bg-rose-700"
-													: "bg-zinc-500"
-											}`}>
-												{question.c?.toString()}
-											</li>
-										)}
-										{question.d && (
-											<li class={`p-2 rounded ${
-												question.answer?.toString().includes("4")
-													? "bg-emerald-700"
-													: answers.value[i].includes(4)
-													? "bg-rose-700"
-													: "bg-zinc-500"
-											}`}>
-												{question.d?.toString()}
-											</li>
-										)}
-									</ul>
-								)
-								: <div class="p-2 rounded bg-blue-300">Đáp án: {question.answer?.toString()}</div>}
-							<div class="flex flex-col gap-2">
-								{question.explanation?.split("\n").map((line, i) => (
-									<p key={i} class="text-zinc-600 whitespace-pre-wrap leading-tight">{line}</p>
+							{q.image && <img src={q.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />}
+							<ul className="flex flex-col gap-2">
+								{q.choices?.map((choice, ci) => (
+									<li key={ci} class={cn(
+										"p-2 rounded",
+										questions[i].type === "Checkbox" && !answers.value[i].includes(ci + 1) && q.answer?.includes(ci + 1)
+											? "bg-yellow-700"
+											: q.answer?.includes(ci + 1)
+											? "bg-emerald-700"
+											: answers.value[i].includes(ci + 1)
+											? "bg-rose-700"
+											: "bg-zinc-700",
+									)}>
+										{choice}
+									</li>
 								))}
-							</div>
-							<span class="text-sm text-zinc-400">
-								#{question.id}
-							</span>
+							</ul>
+							{q.explanation && (
+								<div class="flex flex-col gap-2">
+									{q.explanation.split("\n").map((line, i) => (
+										<p key={i} class="text-zinc-400 whitespace-pre-wrap leading-snug">{line}</p>
+									))}
+								</div>
+							)}
 						</div>
 					))}
 				</div>
