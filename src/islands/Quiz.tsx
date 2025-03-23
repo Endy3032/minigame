@@ -11,7 +11,7 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions
+	const questions = props.questions.slice(0, 2)
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const answer = useSignal<number[]>([])
@@ -116,7 +116,7 @@ export function Quiz(props: { questions: Question[] }) {
 		}
 		document.addEventListener("keyup", handler)
 		return () => document.removeEventListener("keyup", handler)
-	}, [q])
+	}, [q, remainingQuestions.value])
 
 	return (
 		remainingQuestions.value.length
