@@ -5,6 +5,7 @@
 import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
 import * as $_layout from "./routes/_layout.tsx";
+import * as $browse_quiz_ from "./routes/browse/[quiz].tsx";
 import * as $index from "./routes/index.tsx";
 import * as $quiz_quiz_ from "./routes/quiz/[quiz].tsx";
 import * as $Quiz from "./islands/Quiz.tsx";
@@ -15,6 +16,7 @@ const manifest = {
     "./routes/_404.tsx": $_404,
     "./routes/_app.tsx": $_app,
     "./routes/_layout.tsx": $_layout,
+    "./routes/browse/[quiz].tsx": $browse_quiz_,
     "./routes/index.tsx": $index,
     "./routes/quiz/[quiz].tsx": $quiz_quiz_,
   },

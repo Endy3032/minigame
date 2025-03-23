@@ -14,7 +14,7 @@ export default function App({ Component }: PageProps) {
 					rel="stylesheet" />
 				<link rel="stylesheet" href="/styles.css" />
 			</head>
-			<body class="font-[Inter]">
+			<body class="font-[Inter] bg-zinc-900 text-zinc-100">
 				<Component />
 			</body>
 		</html>

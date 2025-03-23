@@ -205,7 +205,7 @@ export function Quiz(props: { questions: Question[] }) {
 								<span>{q.question}</span>
 							</h2>
 							{q.image && <img src={q.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />}
-							<ul className="flex flex-col gap-2">
+							<ul className="grid grid-cols-1 md:grid-cols-2 gap-2">
 								{q.choices?.map((choice, ci) => (
 									<li key={ci} class={cn(
 										"p-2 rounded",
