@@ -11,7 +11,7 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions
+	const { questions } = props
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const answer = useSignal<number[]>([])
@@ -79,7 +79,7 @@ export function Quiz(props: { questions: Question[] }) {
 					skipButton.current.disabled = true
 					setTimeout(() => {
 						if (!skipButton.current) return
-						skipButton.current.disabled = !showAnswer.value && !answer.value.length && remainingQuestions.value.length === 1
+						skipButton.current.disabled = false
 					}, 1000)
 				}, mode === "skip" ? 0 : q.type === "Checkbox" ? 3000 : 1500)
 			}
@@ -136,7 +136,10 @@ export function Quiz(props: { questions: Question[] }) {
 						))}
 					</div>
 					<div className="flex flex-1 gap-4">
-						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
+						<div class="text-center flex flex-col flex-1 justify-center items-center gap-2 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
+							<div className="rounded-full bg-zinc-800 border border-zinc-600/50 py-1 px-2 text-sm">
+								{remainingQuestions.value[0] + 1}/{questions.length}
+							</div>
 							{questions[remainingQuestions.value[0]].question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
 							{questions[remainingQuestions.value[0]].image && (
 								<img src={questions[remainingQuestions.value[0]].image!} alt="Question Image"
@@ -187,7 +190,7 @@ export function Quiz(props: { questions: Question[] }) {
 								skipButton.current.disabled = true
 								setTimeout(() => {
 									if (!skipButton.current) return
-									skipButton.current.disabled = !showAnswer.value && !answer.value.length && remainingQuestions.value.length === 1
+									skipButton.current.disabled = false
 								}, 1000)
 							}}
 						>
