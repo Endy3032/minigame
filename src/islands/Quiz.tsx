@@ -11,7 +11,7 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions.slice(0, 2)
+	const questions = props.questions
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const answer = useSignal<number[]>([])
@@ -122,7 +122,6 @@ export function Quiz(props: { questions: Question[] }) {
 		remainingQuestions.value.length
 			? (
 				<div class="relative flex flex-col w-full gap-4">
-					{JSON.stringify(optionCounts)}
 					<div className="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 						{questions.map((_, i) => (
 							<div key={i} class={cn(
