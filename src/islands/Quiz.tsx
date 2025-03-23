@@ -1,6 +1,6 @@
 import { useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
-import { cn, Question } from "../utils.ts"
+import { cn, fisherYatesShuffle, Question } from "../utils.ts"
 
 const colorMap = [
 	"bg-red-700 shadow-red-800 active:bg-red-800",
@@ -18,6 +18,7 @@ export function Quiz(props: { questions: Question[] }) {
 	const showAnswer = useSignal(false)
 	const timeout = useRef<number>()
 	const skipButton = useRef<HTMLButtonElement>(null)
+	const shuffledChoices = useSignal<{ text: string | number; index: number }[]>([])
 
 	const qi = currentQuestion.value
 	const q = questions[Math.min(qi, questions.length - 1)]
@@ -72,12 +73,20 @@ export function Quiz(props: { questions: Question[] }) {
 	}
 
 	useEffect(() => {
+		shuffledChoices.value = fisherYatesShuffle(q.choices?.map((text, index) => ({ text, index: index + 1 })) ?? [])
+	}, [q])
+
+	useEffect(() => {
 		const handler = (e: KeyboardEvent) => {
 			if (e.key === "Right" || e.key === "ArrowRight") skipButton.current?.click()
 			if (e.key === "Enter" && q.type === "Checkbox" && answer.value.length) skipButton.current?.click()
-			if (!["1", "2", "3", "4"].includes(e.key)) return
-			choose(parseInt(e.key))
-			proceed()
+			if (["1", "2", "3", "4"].includes(e.key)) {
+				const index = parseInt(e.key) - 1
+				if (index < shuffledChoices.value.length) {
+					choose(shuffledChoices.value[index].index)
+					proceed()
+				}
+			}
 		}
 
 		document.addEventListener("keyup", handler)
@@ -112,24 +121,24 @@ export function Quiz(props: { questions: Question[] }) {
 						))}
 					</div>
 					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
-						{q.choices?.map((choice, i) => (
+						{shuffledChoices.value.map((choice, i) => (
 							<button
 								type="button"
 								class={cn(
 									"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48",
-									check(i + 1) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
+									check(choice.index) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer?.includes(i + 1)
+										? q.answer?.includes(choice.index)
 											? "bg-emerald-700 shadow-teal-800"
 											: "bg-rose-700 shadow-rose-800"
 										: colorMap[i],
 								)}
 								onClick={() => {
-									choose(i + 1)
+									choose(choice.index)
 									proceed()
 								}}
 							>
-								{choice}
+								{choice.text}
 							</button>
 						))}
 					</div>
