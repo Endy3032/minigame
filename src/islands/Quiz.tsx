@@ -11,17 +11,44 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions
-	const currentQuestion = useSignal(0)
-	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
+	const questions = props.questions.slice(0, 3)
+	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
+
 	const answer = useSignal<number[]>([])
+	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
+	const optionCounts = useSignal<number[][]>(questions.map(q => Array(q.choices?.length ?? 0).fill(0)))
+
 	const showAnswer = useSignal(false)
 	const timeout = useRef<number>()
 	const skipButton = useRef<HTMLButtonElement>(null)
 	const shuffledChoices = useSignal<{ text: string | number; index: number }[]>([])
 
-	const qi = currentQuestion.value
+	const qi = remainingQuestions.value[0]
 	const q = questions[Math.min(qi, questions.length - 1)]
+
+	const isCorrect = (qi: number, ans: number[]) => {
+		const q = questions[qi]
+		if (!q.answer) return false
+		return ans.toSorted().join(",") === q.answer.toSorted().join(",")
+	}
+
+	const nextQuestion = () => {
+		if (remainingQuestions.value.length === 0) return
+		const currentQi = remainingQuestions.value[0]
+		const submittedAnswer = answers.value[currentQi]
+		const correct = submittedAnswer.length > 0 && isCorrect(currentQi, submittedAnswer)
+		const newRemaining = remainingQuestions.value.slice(1)
+		if (submittedAnswer.length > 0 && !correct) {
+			if (newRemaining.length >= 10) {
+				newRemaining.splice(10, 0, currentQi)
+			} else {
+				newRemaining.push(currentQi)
+			}
+		}
+		remainingQuestions.value = newRemaining
+		answer.value = []
+		showAnswer.value = false
+	}
 
 	const choose = (choice: number) => {
 		if (q.type === "Multiple Choice") answer.value = showAnswer.value ? answer.value : [choice]
@@ -40,15 +67,17 @@ export function Quiz(props: { questions: Question[] }) {
 
 		if (autoAdvance.value) {
 			if (q.type === "Multiple Choice" || mode !== "choose") {
-				if (mode !== "skip") showAnswer.value = true
-				if (answer.value.length) answers.value[qi] = answer.value
+				if (mode !== "skip") {
+					showAnswer.value = true
+					if (answer.value.length) {
+						answers.value[qi] = answer.value
+						for (const selected of answer.value) optionCounts.value[qi][selected - 1]++
+						optionCounts.value = [...optionCounts.value]
+					}
+				}
 				answers.value = [...answers.value]
-
 				timeout.current = setTimeout(() => {
-					currentQuestion.value = Math.min(qi + 1, questions.length)
-					answer.value = []
-					showAnswer.value = false
-
+					nextQuestion()
 					if (!skipButton.current) return
 					skipButton.current.disabled = true
 					setTimeout(() => {
@@ -61,22 +90,22 @@ export function Quiz(props: { questions: Question[] }) {
 			if (mode === "submit") {
 				if (q.type === "Multiple Choice" || answer.value.length) {
 					showAnswer.value = true
-					if (answer.value.length) answers.value[qi] = answer.value
+					if (answer.value.length) {
+						answers.value[qi] = answer.value
+						for (const selected of answer.value) optionCounts.value[qi][selected - 1]++
+						optionCounts.value = [...optionCounts.value]
+					}
 					answers.value = [...answers.value]
 				}
 			} else if (mode === "skip") {
-				currentQuestion.value = Math.min(qi + 1, questions.length)
-				answer.value = []
-				showAnswer.value = false
+				nextQuestion()
 			}
 		}
 	}
 
 	useEffect(() => {
-		shuffledChoices.value = fisherYatesShuffle(q.choices?.map((text, index) => ({ text, index: index + 1 })) ?? [])
-	}, [q])
+		shuffledChoices.value = fisherYatesShuffle(q?.choices?.map((text, index) => ({ text, index: index + 1 })) ?? [])
 
-	useEffect(() => {
 		const handler = (e: KeyboardEvent) => {
 			if (e.key === "Right" || e.key === "ArrowRight") skipButton.current?.click()
 			if (e.key === "Enter" && q.type === "Checkbox" && answer.value.length) skipButton.current?.click()
@@ -88,37 +117,36 @@ export function Quiz(props: { questions: Question[] }) {
 				}
 			}
 		}
-
 		document.addEventListener("keyup", handler)
 		return () => document.removeEventListener("keyup", handler)
 	}, [q])
 
 	return (
-		currentQuestion.value < questions.length
+		remainingQuestions.value.length
 			? (
 				<div class="relative flex flex-col w-full gap-4">
+					{JSON.stringify(optionCounts)}
 					<div className="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
-						{Array.from({ length: questions.length },
-							(_, i) => (
-								<div key={i} class={cn("w-full h-1 rounded-full transition-all", answers.value[i].length === 0
+						{questions.map((_, i) => (
+							<div key={i} class={cn(
+								"w-full h-1 rounded-full transition-all",
+								answers.value[i].length === 0
 									? "bg-zinc-500"
-									: answers.value[i].toSorted().join(",") === questions[i].answer?.toSorted().join(",")
-									? "bg-teal-500"
-									: "bg-rose-500", currentQuestion.value === i ? "ring-1 ring-zinc-300" : "")} />
-							))}
+									: isCorrect(i, answers.value[i])
+									? "bg-emerald-500"
+									: "bg-rose-500",
+								i === remainingQuestions.value[0] ? "ring-1 ring-zinc-300" : "",
+							)} />
+						))}
 					</div>
 					<div className="flex flex-1 gap-4">
 						<div class="text-center flex flex-col flex-1 justify-center items-center gap-1 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
-							{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
-							{q.image && (
-								<img src={q.image} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
+							{questions[remainingQuestions.value[0]].question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
+							{questions[remainingQuestions.value[0]].image && (
+								<img src={questions[remainingQuestions.value[0]].image!} alt="Question Image"
+									class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
 							)}
 						</div>
-						{q.explanation?.split("\n").map((line, i) => (
-							<div class="flex flex-col gap-2">
-								<p key={i} class="text-zinc-600 whitespace-pre-wrap leading-snug">{line}</p>
-							</div>
-						))}
 					</div>
 					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
 						{shuffledChoices.value.map((choice, i) => (
@@ -128,8 +156,8 @@ export function Quiz(props: { questions: Question[] }) {
 									"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48",
 									check(choice.index) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
-										? q.answer?.includes(choice.index)
-											? "bg-emerald-700 shadow-teal-800"
+										? questions[remainingQuestions.value[0]].answer?.includes(choice.index)
+											? "bg-emerald-700 shadow-emerald-800"
 											: "bg-rose-700 shadow-rose-800"
 										: colorMap[i],
 								)}
@@ -185,15 +213,14 @@ export function Quiz(props: { questions: Question[] }) {
 								{q.choices?.map((choice, ci) => (
 									<li key={ci} class={cn(
 										"p-2 rounded",
-										questions[i].type === "Checkbox" && !answers.value[i].includes(ci + 1) && q.answer?.includes(ci + 1)
-											? "bg-yellow-700"
-											: q.answer?.includes(ci + 1)
+										q.answer?.includes(ci + 1)
 											? "bg-emerald-700"
-											: answers.value[i].includes(ci + 1)
-											? "bg-rose-700"
+											: optionCounts.value[i][ci]
+											? "bg-yellow-700"
 											: "bg-zinc-700",
 									)}>
-										{choice}
+										<span>{choice}</span>
+										<span className="float-right text-zinc-400 font-medium">x{optionCounts.value[i][ci]}</span>
 									</li>
 								))}
 							</ul>
