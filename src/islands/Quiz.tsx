@@ -11,7 +11,7 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions
+	const questions = props.questions.slice(0, 2)
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const answer = useSignal<number[]>([])
@@ -36,14 +36,11 @@ export function Quiz(props: { questions: Question[] }) {
 		if (remainingQuestions.value.length === 0) return
 		const currentQi = remainingQuestions.value[0]
 		const submittedAnswer = answers.value[currentQi]
-		const correct = submittedAnswer.length > 0 && isCorrect(currentQi, submittedAnswer)
+		const correct = isCorrect(currentQi, submittedAnswer)
 		const newRemaining = remainingQuestions.value.slice(1)
-		if (submittedAnswer.length > 0 && !correct) {
-			if (newRemaining.length >= 10) {
-				newRemaining.splice(10, 0, currentQi)
-			} else {
-				newRemaining.push(currentQi)
-			}
+		if (!correct) {
+			if (newRemaining.length >= 10) newRemaining.splice(10, 0, currentQi)
+			else newRemaining.push(currentQi)
 		}
 		remainingQuestions.value = newRemaining
 		answer.value = []
@@ -82,7 +79,7 @@ export function Quiz(props: { questions: Question[] }) {
 					skipButton.current.disabled = true
 					setTimeout(() => {
 						if (!skipButton.current) return
-						skipButton.current.disabled = false
+						skipButton.current.disabled = !showAnswer.value && !answer.value.length && remainingQuestions.value.length === 1
 					}, 1000)
 				}, mode === "skip" ? 0 : q.type === "Checkbox" ? 3000 : 1500)
 			}
@@ -125,6 +122,7 @@ export function Quiz(props: { questions: Question[] }) {
 		remainingQuestions.value.length
 			? (
 				<div class="relative flex flex-col w-full gap-4">
+					{JSON.stringify(optionCounts)}
 					<div className="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 						{questions.map((_, i) => (
 							<div key={i} class={cn(
@@ -190,7 +188,7 @@ export function Quiz(props: { questions: Question[] }) {
 								skipButton.current.disabled = true
 								setTimeout(() => {
 									if (!skipButton.current) return
-									skipButton.current.disabled = false
+									skipButton.current.disabled = !showAnswer.value && !answer.value.length && remainingQuestions.value.length === 1
 								}, 1000)
 							}}
 						>
