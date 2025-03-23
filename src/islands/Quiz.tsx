@@ -11,7 +11,7 @@ const colorMap = [
 
 export function Quiz(props: { questions: Question[] }) {
 	const autoAdvance = useSignal(true)
-	const questions = props.questions.slice(0, 2)
+	const questions = props.questions
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const answer = useSignal<number[]>([])
