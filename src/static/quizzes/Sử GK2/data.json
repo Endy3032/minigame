@@ -578,13 +578,13 @@
     ]
   },
   {
-    "question":"Câu 35. Dựa vào bảng thông tin, hãy nối cột A với cột B để thấy được những thắng lợi đã góp phần đánh bài các chiến lược chiến tranh mà Mỹ đã áp dụng ở miền Nam.\nA1. Chiến tranh Đơn Phương\nA2. Chiến trang đặc biệt\nA3. Chiến tranh cục bộ\nA4. Việt Nam hóa chiến tranh\nB1. Bình Giã\nB2. Đồng Khởi\nB3. Tiến công chiến lược 1972\nB4. Mậu Thân",
+    "question":"Câu 35. Dựa vào bảng thông tin, hãy nối cột A với cột B để thấy được những thắng lợi đã góp phần đánh bài các chiến lược chiến tranh mà Mỹ đã áp dụng ở miền Nam.",
     "type":"Multiple Choice",
     "answer":[
       1
     ],
     "time":30,
-    "image":null,
+    "image":"\/quizzes\/Sử GK2\/35.png",
     "explanation":null,
     "id":35,
     "choices":[
