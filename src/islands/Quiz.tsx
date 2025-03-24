@@ -23,6 +23,8 @@ export function Quiz(props: { questions: Question[] }) {
 	const skipButton = useRef<HTMLButtonElement>(null)
 	const shuffledChoices = useSignal<{ text: string | number; index: number }[]>([])
 
+	const colorblind = useSignal(false)
+
 	const qi = remainingQuestions.value[0]
 	const q = questions[Math.min(qi, questions.length - 1)]
 
@@ -129,7 +131,7 @@ export function Quiz(props: { questions: Question[] }) {
 								answers.value[i].length === 0
 									? "bg-zinc-500"
 									: isCorrect(i, answers.value[i])
-									? "bg-emerald-500"
+									? colorblind.value ? "bg-cyan-500" : "bg-emerald-500"
 									: "bg-rose-500",
 								i === remainingQuestions.value[0] ? "ring-1 ring-zinc-300" : "",
 							)} />
@@ -152,11 +154,11 @@ export function Quiz(props: { questions: Question[] }) {
 							<button
 								type="button"
 								class={cn(
-									"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48",
+									"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48 focus:brightness-125 focus:ring-1 ring-zinc-300",
 									check(choice.index) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 									showAnswer.value && answer.value.length
 										? questions[remainingQuestions.value[0]].answer?.includes(choice.index)
-											? "bg-emerald-700 shadow-emerald-800"
+											? colorblind.value ? "bg-cyan-700 shadow-cyan-800" : "bg-emerald-700 shadow-emerald-800"
 											: "bg-rose-700 shadow-rose-800"
 										: colorMap[i],
 								)}
@@ -172,9 +174,23 @@ export function Quiz(props: { questions: Question[] }) {
 					<div className="flex gap-3 w-full justify-end">
 						<button
 							type="button"
-							class={cn("px-4 py-2 transition-all rounded-md outline-none", autoAdvance.value
-								? "bg-emerald-700 shadow-emerald-800 translate-y-1 shadow-none"
-								: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
+							class={cn("px-4 py-2 transition-all rounded-md outline-none focus:brightness-125 focus:ring-1 ring-zinc-300",
+								colorblind.value
+									? "bg-cyan-700 shadow-cyan-800 translate-y-1 shadow-none"
+									: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
+							onClick={() => colorblind.value = !colorblind.value}
+						>
+							Colorblind {colorblind.value ? "✓" : "✗"}
+						</button>
+						<button
+							type="button"
+							class={cn("px-4 py-2 transition-all rounded-md outline-none focus:brightness-125 focus:ring-1 ring-zinc-300",
+								autoAdvance.value
+									? cn(
+										"translate-y-1 shadow-none",
+										colorblind.value ? "bg-cyan-700 shadow-cyan-800" : "bg-emerald-700 shadow-emerald-800",
+									)
+									: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
 							onClick={() => autoAdvance.value = !autoAdvance.value}
 						>
 							Tự chuyển câu {autoAdvance.value ? "✓" : "✗"}
@@ -182,7 +198,7 @@ export function Quiz(props: { questions: Question[] }) {
 						<button
 							type="button"
 							ref={skipButton}
-							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50"
+							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50 focus:brightness-125 focus:ring-1 ring-zinc-300 outline-none"
 							onClick={() => {
 								proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
 								if (!skipButton.current) return
@@ -213,7 +229,7 @@ export function Quiz(props: { questions: Question[] }) {
 									<li key={ci} class={cn(
 										"p-2 rounded",
 										q.answer?.includes(ci + 1)
-											? "bg-emerald-700"
+											? colorblind.value ? "bg-cyan-700" : "bg-emerald-700"
 											: optionCounts.value[i][ci]
 											? "bg-yellow-700"
 											: "bg-zinc-700",

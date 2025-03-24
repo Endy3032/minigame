@@ -33,7 +33,7 @@ export default function QuizPage(props: PageProps) {
 								"p-2 rounded",
 								q.answer?.includes(ci + 1)
 									? "bg-emerald-700"
-									: "bg-zinc-700",
+									: "bg-zinc-700/50",
 							)}>
 								<span>{choice}</span>
 							</li>
