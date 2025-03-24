@@ -1,4 +1,4 @@
-import { useSignal } from "@preact/signals"
+import { Signal, useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
 import { cn, fisherYatesShuffle, Question } from "../utils.ts"
 
@@ -9,21 +9,53 @@ const colorMap = [
 	"bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
 ]
 
+const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean>; autoAdvance: Signal<boolean>; class?: string }) => {
+	const { colorblind, autoSubmit, autoAdvance } = props
+
+	const btns = [
+		{ label: "Mù màu", state: colorblind },
+		{ label: "Tự gửi TN", state: autoSubmit },
+		{ label: "Tự chuyển câu", state: autoAdvance },
+	]
+
+	return (
+		<div class={props.class}>
+			{btns.map(btn => (
+				<button
+					type="button"
+					class={cn(
+						"px-3 py-2 transition-all rounded-md outline-none focus:brightness-125 focus:ring-1 ring-zinc-300",
+						btn.state.value
+							? cn(
+								"translate-y-1 shadow-none",
+								colorblind.value ? "bg-cyan-700 shadow-cyan-800" : "bg-emerald-700 shadow-emerald-800",
+							)
+							: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]",
+					)}
+					onClick={() => btn.state.value = !btn.state.value}
+				>
+					{btn.label} {btn.state.value ? "✓" : "✗"}
+				</button>
+			))}
+		</div>
+	)
+}
+
 export function Quiz(props: { questions: Question[] }) {
-	const autoAdvance = useSignal(true)
 	const { questions } = props
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
+	const autoSubmit = useSignal(true)
+	const autoAdvance = useSignal(true)
 	const answer = useSignal<number[]>([])
 	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
 	const optionCounts = useSignal<number[][]>(questions.map(q => Array(q.choices?.length ?? 0).fill(0)))
 
+	const colorblind = useSignal(false)
 	const showAnswer = useSignal(false)
 	const timeout = useRef<number>()
 	const skipButton = useRef<HTMLButtonElement>(null)
 	const shuffledChoices = useSignal<{ text: string | number; index: number }[]>([])
-
-	const colorblind = useSignal(false)
 
 	const qi = remainingQuestions.value[0]
 	const q = questions[Math.min(qi, questions.length - 1)]
@@ -37,8 +69,7 @@ export function Quiz(props: { questions: Question[] }) {
 	const nextQuestion = () => {
 		if (remainingQuestions.value.length === 0) return
 		const currentQi = remainingQuestions.value[0]
-		const submittedAnswer = answers.value[currentQi]
-		const correct = isCorrect(currentQi, submittedAnswer)
+		const correct = isCorrect(currentQi, answers.value[currentQi])
 		const newRemaining = remainingQuestions.value.slice(1)
 		if (!correct) {
 			if (newRemaining.length >= 10) newRemaining.splice(10, 0, currentQi)
@@ -63,41 +94,32 @@ export function Quiz(props: { questions: Question[] }) {
 
 	const proceed = (mode: "skip" | "submit" | "choose" = "choose") => {
 		clearTimeout(timeout.current)
+		const { current } = skipButton
 
-		if (autoAdvance.value) {
-			if (q.type === "Multiple Choice" || mode !== "choose") {
-				if (mode !== "skip") {
-					showAnswer.value = true
-					if (answer.value.length) {
-						answers.value[qi] = answer.value
-						for (const selected of answer.value) optionCounts.value[qi][selected - 1]++
-						optionCounts.value = [...optionCounts.value]
-					}
-				}
-				answers.value = [...answers.value]
+		if (mode === "skip") {
+			nextQuestion()
+			if (!current) return
+			current.disabled = true
+			setTimeout(() => current.disabled = false, 1000)
+			return
+		}
+
+		if ((autoSubmit.value && q.type === "Multiple Choice" && mode === "choose") || mode === "submit") {
+			showAnswer.value = true
+			if (answer.value.length) {
+				answers.value[qi] = answer.value
+				for (const selected of answer.value) optionCounts.value[qi][selected - 1]++
+				optionCounts.value = [...optionCounts.value]
+			}
+			answers.value = [...answers.value]
+
+			if (autoAdvance.value) {
 				timeout.current = setTimeout(() => {
 					nextQuestion()
-					if (!skipButton.current) return
-					skipButton.current.disabled = true
-					setTimeout(() => {
-						if (!skipButton.current) return
-						skipButton.current.disabled = false
-					}, 1000)
-				}, mode === "skip" ? 0 : q.type === "Checkbox" ? 3000 : 1500)
-			}
-		} else {
-			if (mode === "submit") {
-				if (q.type === "Multiple Choice" || answer.value.length) {
-					showAnswer.value = true
-					if (answer.value.length) {
-						answers.value[qi] = answer.value
-						for (const selected of answer.value) optionCounts.value[qi][selected - 1]++
-						optionCounts.value = [...optionCounts.value]
-					}
-					answers.value = [...answers.value]
-				}
-			} else if (mode === "skip") {
-				nextQuestion()
+					if (!current) return
+					current.disabled = true
+					setTimeout(() => current.disabled = false, 1000)
+				}, q.type === "Checkbox" ? 3000 : 1500)
 			}
 		}
 	}
@@ -149,6 +171,9 @@ export function Quiz(props: { questions: Question[] }) {
 							)}
 						</div>
 					</div>
+					<div className="flex md:hidden gap-3 w-full justify-end">
+						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} class="contents" />
+					</div>
 					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
 						{shuffledChoices.value.map((choice, i) => (
 							<button
@@ -176,42 +201,22 @@ export function Quiz(props: { questions: Question[] }) {
 						))}
 					</div>
 					<div className="flex gap-3 w-full justify-end">
-						<button
-							type="button"
-							class={cn("px-4 py-2 transition-all rounded-md outline-none focus:brightness-125 focus:ring-1 ring-zinc-300",
-								colorblind.value
-									? "bg-cyan-700 shadow-cyan-800 translate-y-1 shadow-none"
-									: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
-							onClick={() => colorblind.value = !colorblind.value}
-						>
-							Colorblind {colorblind.value ? "✓" : "✗"}
-						</button>
-						<button
-							type="button"
-							class={cn("px-4 py-2 transition-all rounded-md outline-none focus:brightness-125 focus:ring-1 ring-zinc-300",
-								autoAdvance.value
-									? cn(
-										"translate-y-1 shadow-none",
-										colorblind.value ? "bg-cyan-700 shadow-cyan-800" : "bg-emerald-700 shadow-emerald-800",
-									)
-									: "bg-rose-700 shadow-rose-800 shadow-[0_4px_0_0]")}
-							onClick={() => autoAdvance.value = !autoAdvance.value}
-						>
-							Tự chuyển câu {autoAdvance.value ? "✓" : "✗"}
-						</button>
+						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} class="hidden md:contents" />
 						<button
 							type="button"
 							ref={skipButton}
 							class="px-4 py-2 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50 focus:brightness-125 focus:ring-1 ring-zinc-300 outline-none"
 							onClick={() => {
 								proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
-								if (!skipButton.current) return
-								if (!autoAdvance.value && showAnswer.value) return
-								skipButton.current.disabled = true
-								setTimeout(() => {
-									if (!skipButton.current) return
-									skipButton.current.disabled = false
-								}, 1000)
+								const { current } = skipButton
+								if (!current) return
+								if (q.type === "Checkbox" && answer.value.length && showAnswer.value) {
+									current.disabled = true
+									return setTimeout(() => current.disabled = false, 500)
+								}
+								if ((!autoAdvance.value || !autoSubmit.value) && showAnswer.value) return
+								current.disabled = true
+								setTimeout(() => current.disabled = false, 1000)
 							}}
 						>
 							{showAnswer.value ? "Tiếp" : answer.value.length ? "Gửi" : "Bỏ qua"}
