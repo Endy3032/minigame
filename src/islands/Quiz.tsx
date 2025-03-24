@@ -172,7 +172,7 @@ export function Quiz(props: { questions: Question[] }) {
 						</div>
 					</div>
 					<div className="flex md:hidden gap-3 w-full justify-end">
-						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} class="contents" />
+						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} class="contents text-sm" />
 					</div>
 					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
 						{shuffledChoices.value.map((choice, i) => (
