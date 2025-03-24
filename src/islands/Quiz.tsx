@@ -162,9 +162,13 @@ export function Quiz(props: { questions: Question[] }) {
 											: "bg-rose-700 shadow-rose-800"
 										: colorMap[i],
 								)}
-								onClick={() => {
+								onClick={e => {
 									choose(choice.index)
 									proceed()
+									e.currentTarget.blur()
+								}}
+								onKeyDown={e => {
+									if (e.key === "Enter") e.preventDefault()
 								}}
 							>
 								{choice.text}
