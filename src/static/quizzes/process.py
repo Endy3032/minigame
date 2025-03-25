@@ -1,4 +1,5 @@
 import os
+import re
 import pandas as pd
 
 # Question Text	Question Type	Option 1	Option 2	Option 3	Option 4	Option 5	Correct Answer	Time in seconds	Image Link	Answer explanation
@@ -34,7 +35,7 @@ for root, dirs, files in os.walk(base_dir):
 			columns = filter(lambda x: x in df.columns, ["a", "b", "c", "d", "e"])
 			df["choices"] = df[columns].apply(lambda x: [i for i in x if pd.notnull(i)], axis=1)
 			df = df.drop(columns=columns, errors="ignore")
-			df["answer"] = df["answer"].apply(lambda x: sorted([int(i) for i in str(x).split(",")]) if pd.notnull(x) else None)
+			df["answer"] = df["answer"].apply(lambda x: sorted([int(i) for i in re.split(r"[,.;]", str(x))]) if pd.notnull(x) else None)
 
 			output_path = os.path.join(root, "data.json")
 
