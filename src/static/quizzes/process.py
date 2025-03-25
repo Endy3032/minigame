@@ -21,6 +21,8 @@ keymap = {
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
 for root, dirs, files in os.walk(base_dir):
+	rel_path = re.split(r'[\\\\/]', root)[-1]
+
 	for file in files:
 		if not file.endswith('.xlsx'):
 			continue
@@ -31,7 +33,7 @@ for root, dirs, files in os.walk(base_dir):
 			df = pd.read_excel(xlsx_path)
 			df = df.rename(columns=keymap)
 			df["id"] = df.index + 1
-			df["image"] = df["image"].apply(lambda x: f"/quizzes/{root.split('/')[-1]}/{x}" if pd.notnull(x) else None)
+			df["image"] = df["image"].apply(lambda x: f"/quizzes/{rel_path}/{x}" if pd.notnull(x) else None)
 			columns = filter(lambda x: x in df.columns, ["a", "b", "c", "d", "e"])
 			df["choices"] = df[columns].apply(lambda x: [i for i in x if pd.notnull(i)], axis=1)
 			df = df.drop(columns=columns, errors="ignore")
