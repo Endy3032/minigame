@@ -29,8 +29,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "quiz2225"
-          entrypoint: "src/main.ts"
+          project: "test83"
+          entrypoint: "main.ts"
           root: "."
           
           
