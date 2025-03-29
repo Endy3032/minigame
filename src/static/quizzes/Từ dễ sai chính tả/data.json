@@ -4,7 +4,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["bạc mạng", "bạt mạng"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "bạt mạng: liều lĩnh, bất chấp tính mạng"
@@ -14,7 +14,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["bàng quan", "bàng quang"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "bàng quan (tính từ): đứng ngoài mà xem, chứ không dự vào, chỉ người thờ ơ vô cảm trước mọi sự việc, tình huống"
@@ -24,7 +24,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chắp bút", "chấp bút"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "chấp bút: khởi thảo, thực hiện một văn bản, một công trình theo đề cương, theo hướng dẫn hoặc theo một sự chỉ đạo nào đó"
@@ -34,7 +34,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chín mùi", "chín muồi"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "chín muồi: (trái cây) rất chín, chín đến giai đoạn ngon nhất; phát triển đến trình độ đầy đủ nhất, có thể chuyển sang giai đoạn khác"
@@ -44,7 +44,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chính chắn", "chín chắn"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "chín chắn: thận trọng, đứng đắn"
@@ -54,7 +54,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chỉnh chu", "chỉn chu"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "chỉn chu: chu đáo, cẩn thận (ăn mặc chỉn chu)"
@@ -64,7 +64,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chuẩn đoán", "chẩn đoán"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "chẩn đoán: xác định bệnh, dựa theo triệu chứng và kết quả xét nghiệm"
@@ -74,7 +74,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["cọ sát", "cọ xát"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "cọ xát: cọ đi cọ lại, xát vào nhau; tiếp xúc, thử thách trong những hoàn cảnh, môi trường khó khăn và đa dạng"
@@ -84,7 +84,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dành giật", "giành giật"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "giành giật: tranh cướp, cướp đoạt"
@@ -94,7 +94,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dấu diếm", "giấu giếm"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "giấu giếm: cất đi, giữ kín không cho ai biết"
@@ -104,7 +104,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dè xẻn", "dè sẻn"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "dè sẻn: tằn tiện, tự hạn chế chi dùng quá mức"
@@ -114,7 +114,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["đề huề", "đuề huề"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "đề huề: nghĩa cũ là nắm tay nhau dắt đi, cùng nhau làm việc, giúp đỡ nhau, ngày nay còn hiểu là đông đủ vui vẻ cả"
@@ -124,7 +124,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["điểm xuyến", "điểm xuyết"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "điểm xuyết: sửa sang, tô vẽ cho thêm đẹp"
@@ -134,7 +134,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["đọc giả", "độc giả"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "độc giả: người đọc sách, báo, tác phẩm văn học"
@@ -144,7 +144,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["đường xá", "đường sá"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "đường sá: đường đi lại trên bộ"
@@ -154,7 +154,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["hàm xúc", "hàm súc"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "hàm súc: cô đọng, ngắn gọn nhưng chứa nhiều ý tứ sâu sắc"
@@ -164,7 +164,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["khẳng khái", "khảng khái"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "khảng khái: hào hiệp, hào phóng, rộng rãi"
@@ -174,7 +174,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["lãng mạng", "lãng mạn"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "lãng mạn: mang tính chất tình cảm, bay bổng, mơ mộng"
@@ -184,7 +184,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["mùi mẫn", "muồi mẫn"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "muồi mẫn: tương tự 'chín muồi', nhưng cách dùng này không phổ biến"
@@ -194,7 +194,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["nhận chức", "nhậm chức"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "nhậm chức: giữ chức vụ, gánh vác, đảm đương chức vụ"
@@ -204,7 +204,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["phong phanh", "phong thanh"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "phong phanh: mỏng manh, đơn sơ (ăn mặc phong phanh)"
@@ -214,7 +214,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["phố sá", "phố xá"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "phố xá: phố có các hàng quán"
@@ -224,7 +224,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["sáng lạng", "xán lạn"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "xán lạn: tươi sáng rực rỡ"
@@ -234,7 +234,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["sát nhập", "sáp nhập"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "sáp nhập: nhập chung lại, gộp chung lại"
@@ -244,7 +244,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["se sua", "xe xua"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "se sua: làm dáng, đua đòi chưng diện (ngôn ngữ Nam Bộ)"
@@ -254,7 +254,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["sớn sác", "xớn xác"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "xớn xác: nhớn nhác, vô ý, không cẩn thận nên dẫn đến sai sót"
@@ -264,7 +264,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["thăm quan", "tham quan"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "tham quan: đi tận nơi để quan sát, mở rộng hiểu biết"
@@ -274,7 +274,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["tựu chung", "tựu trung"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "tựu trung: tóm lại, điều sắp nêu ra là cái chung, cái chính trong những điều vừa nói đến"
@@ -284,7 +284,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["vãn cảnh", "vãng cảnh"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "vãng cảnh: đi đến ngắm cảnh"
@@ -294,7 +294,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["vô hình chung", "vô hình trung"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "vô hình trung: trong cái vô hình; tuy không có chủ định, không cố ý nhưng lại tạo ra một sự việc nào đó"
@@ -302,9 +302,9 @@
   {
     "id": 31,
     "question": "Hãy chọn từ đúng chính tả",
-    "type": "Multiple Choice",
+    "type": "'</Multiple Choice",
     "choices": ["xoay sở", "xoay xở"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "xoay xở: làm hết cách này đến cách khác để giải quyết vấn đề"
@@ -314,7 +314,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["xúc tích", "súc tích"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "súc tích: ngắn gọn và đầy đủ"
@@ -324,7 +324,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["yếu điểm", "điểm yếu"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "yếu điểm: chỗ quan trọng, cần lưu ý"
@@ -334,7 +334,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["cổ súy", "cổ xúy"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "cổ xúy: cổ vũ cho một hành động nào đó"
@@ -344,7 +344,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["se duyên", "xe duyên"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "xe duyên: mai mối cho một cặp đôi nên duyên vợ chồng"
@@ -354,7 +354,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dư giả", "dư dả"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "dư dả: diễn đạt sự thừa thãi, dư thừa so với lượng cần thiết"
@@ -364,7 +364,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["giục dã", "giục giã"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "giục giã: cố gắng khiến ai đó làm việc gì đó một cách nhanh chóng hoặc phải đưa ra quyết định ngay lập tức"
@@ -374,7 +374,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["ngang tàn", "ngang tàng"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "ngang tàng: ngông nghênh, hiên ngang, bất chấp, không nể sợ, không chịu khuất phục"
@@ -384,7 +384,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["nề nếp", "nền nếp"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "nền nếp: lối sống ổn định và có tổ chức"
@@ -394,7 +394,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["giãy giụa", "dãy dụa"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "giãy giụa: cựa quậy lung tung, lăn lộn, chuyển động mạnh và liên tục, thường vào lúc hờn giận hoặc đau đớn"
@@ -404,7 +404,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["co dãn", "co giãn"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "co dãn: thu hẹp hay mở rộng tùy theo hoàn cảnh"
@@ -414,7 +414,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["châm trước", "châm chước"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "châm chước: chiếu cố để được việc"
@@ -424,7 +424,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["trịch thượng", "trịnh thượng"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "trịch thượng: tự cho mình hơn người, khinh thường người khác"
@@ -434,7 +434,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["bươn trải", "bươn chải"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "bươn chải: vất vả, lăn lộn, cố gắng làm lụng"
@@ -444,7 +444,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["xử sự", "sử sự"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "xử sự: thể hiện thái độ, cách thức giải quyết vấn đề, đồng nghĩa với cư xử, ứng xử"
@@ -454,7 +454,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dày vò", "giày vò"],
-    "answer": [1],
+    "answer": [2],
     "time": null,
     "image": null,
     "explanation": "giày vò: làm đau đớn, day dứt, dằn vặt"
@@ -464,7 +464,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["dã tràng", "giã tràng"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "dã tràng: chỉ những người làm việc tốn công vô ích"
@@ -474,7 +474,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["chạm trổ", "trạm trổ"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "chạm trổ: khắc, đào một cách tỉ mỉ để trang trí"
@@ -484,7 +484,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["trầy trật", "chầy chật"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "trầy trật: khó nhọc, vất vả mà chưa thu được kết quả như mong đợi"
@@ -494,7 +494,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["sỗ sàng", "sổ sàng"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "sỗ sàng: ăn nói trắng trợn, thiếu lịch sự, thô lỗ"
@@ -504,7 +504,7 @@
     "question": "Hãy chọn từ đúng chính tả",
     "type": "Multiple Choice",
     "choices": ["xốn xang", "sốn sang"],
-    "answer": [0],
+    "answer": [1],
     "time": null,
     "image": null,
     "explanation": "xốn xang: tâm trạng có những xúc động tình cảm khiến trong lòng rạo rực, bứt rứt không yên"
