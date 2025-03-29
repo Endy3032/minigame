@@ -4,9 +4,9 @@ import { cn, fisherYatesShuffle, Question } from "../utils.ts"
 
 const colorMap = [
 	"bg-red-700 shadow-red-800 active:bg-red-800",
-	"bg-green-700 shadow-green-800 active:bg-green-800",
 	"bg-blue-700 shadow-blue-800 active:bg-blue-800",
 	"bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
+	"bg-green-700 shadow-green-800 active:bg-green-800",
 ]
 
 const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean>; autoAdvance: Signal<boolean>; class?: string }) => {
@@ -119,7 +119,7 @@ export function Quiz(props: { questions: Question[] }) {
 					if (!current) return
 					current.disabled = true
 					setTimeout(() => current.disabled = false, 1000)
-				}, q.type === "Checkbox" ? 3000 : 1500)
+				}, (q.type === "Checkbox" ? 3000 : 1500) * (q.explanation ? 2.5 : 1))
 			}
 		}
 	}
@@ -155,26 +155,39 @@ export function Quiz(props: { questions: Question[] }) {
 									: isCorrect(i, answers.value[i])
 									? colorblind.value ? "bg-cyan-500" : "bg-emerald-500"
 									: "bg-rose-500",
-								i === remainingQuestions.value[0] ? "ring-1 ring-zinc-300" : "",
+								i === qi ? "ring-1 ring-zinc-300" : "",
 							)} />
 						))}
 					</div>
 					<div className="flex flex-1 gap-4">
 						<div class="text-center flex flex-col flex-1 justify-center items-center gap-2 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
 							<div className="rounded-full bg-zinc-800 border border-zinc-600/50 py-1 px-2 text-sm">
-								{remainingQuestions.value[0] + 1}/{questions.length}
+								{qi + 1}/{questions.length}
 							</div>
-							{questions[remainingQuestions.value[0]].question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
-							{questions[remainingQuestions.value[0]].image && (
-								<img src={questions[remainingQuestions.value[0]].image!} alt="Question Image"
-									class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
+							{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
+							{q.image && (
+								<img src={q.image!} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
 							)}
 						</div>
 					</div>
+					{q.explanation && (
+						<div
+							class={cn(
+								"fixed w-full max-w-xl px-6 z-10 left-1/2 -translate-x-1/2 bottom-20 flex flex-col gap-1 text-md md:text-lg items-center",
+								showAnswer.value ? "opacity-100 visible transition-all" : "translate-y-4 opacity-0 invisible",
+							)}
+						>
+							<div className="w-full max-w-xl bg-zinc-800/70 backdrop-blur-xl border border-zinc-600/50 py-2 px-3 rounded-xl">
+								{q.explanation.split("\n").map((line, i) => (
+									<p key={i} class="text-zinc-30 whitespace-pre-wrap leading-snug">{line}</p>
+								))}
+							</div>
+						</div>
+					)}
 					<div className="flex md:hidden gap-3 w-full justify-end">
 						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} class="contents text-sm" />
 					</div>
-					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-3 gap-y-4 text-xl md:text-2xl" id="choices">
+					<div class="grid grid-cols-1 md:grid-cols-[repeat(auto-fit,minmax(256px,1fr))] gap-x-3 gap-y-4 text-xl md:text-2xl">
 						{shuffledChoices.value.map((choice, i) => (
 							<button
 								type="button"
