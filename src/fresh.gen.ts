@@ -5,8 +5,10 @@
 import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
 import * as $_layout from "./routes/_layout.tsx";
+import * as $api_score from "./routes/api/score.ts";
 import * as $browser from "./routes/browser.tsx";
 import * as $index from "./routes/index.tsx";
+import * as $leaderboard from "./routes/leaderboard.tsx";
 import * as $singleplayer from "./routes/singleplayer.tsx";
 import * as $Browser from "./islands/Browser.tsx";
 import * as $Singleplayer from "./islands/Singleplayer.tsx";
@@ -17,8 +19,10 @@ const manifest = {
     "./routes/_404.tsx": $_404,
     "./routes/_app.tsx": $_app,
     "./routes/_layout.tsx": $_layout,
+    "./routes/api/score.ts": $api_score,
     "./routes/browser.tsx": $browser,
     "./routes/index.tsx": $index,
+    "./routes/leaderboard.tsx": $leaderboard,
     "./routes/singleplayer.tsx": $singleplayer,
   },
   islands: {

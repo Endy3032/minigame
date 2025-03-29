@@ -92,13 +92,24 @@ export default function Singleplayer(props: { questions: Question[] }) {
 	useEffect(() => {
 		if (currentQuestion.value === props.questions.length) {
 			timerProgress.value = 0
+			clearTimeout(timeout.current)
 
-			let name: string = ""
-			while (!name.trim().length) name = prompt("Nhập tên của bạn để lưu điểm số") || ""
+			const id = localStorage.getItem("id")
+				|| Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15)
 
-			alert(`Chúc mừng ${name}, bạn đã hoàn thành trò chơi với số điểm ${score.value}.\n[send điểm về server]`)
+			let name: string | null = ""
+			while (!name?.trim().length && name !== null) name = prompt("Nhập tên của bạn để lưu điểm số, hoặc hủy để quay về trang chính")
 
-			return
+			if (name === null) {
+				location.href = "/"
+				return
+			}
+
+			fetch("/api/score", {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify({ score: score.value, name, id }),
+			})
 		}
 		const timeLimit = timerLengthMap[q.difficulty - 1] * 1000
 		const startTime = performance.now()
