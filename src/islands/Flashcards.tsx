@@ -76,21 +76,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								<p class="my-auto">{q.answer}</p>
 							</div>
 						</div>
-						<div class="flex gap-4">
-							<button
-								type="button"
-								class={buttonClass}
-								disabled={qi.value === 0}
-								onClick={() => {
-									clearTimeout(timeout.current ?? 0)
-									hideAnswer.value = true
-									isFlipped.value = false
-									qi.value--
-									timeout.current = setTimeout(() => hideAnswer.value = false, 700)
-								}}
-							>
-								&larr; Trước
-							</button>
+						<div class="grid grid-cols-2 md:grid-cols-4 gap-2">
 							<button
 								type="button"
 								class={buttonClass}
@@ -100,7 +86,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 									status.value = [...status.value]
 								}}
 							>
-								Đánh tốt
+								Đã học
 							</button>
 							<button
 								type="button"
@@ -112,6 +98,20 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								}}
 							>
 								Review
+							</button>
+							<button
+								type="button"
+								class={cn(buttonClass, "md:order-first")}
+								disabled={qi.value === 0}
+								onClick={() => {
+									clearTimeout(timeout.current ?? 0)
+									hideAnswer.value = true
+									isFlipped.value = false
+									qi.value--
+									timeout.current = setTimeout(() => hideAnswer.value = false, 700)
+								}}
+							>
+								&larr; Trước
 							</button>
 							<button
 								type="button"
