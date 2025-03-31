@@ -59,7 +59,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								class="absolute w-full h-full flex flex-col gap-2 items-center p-4 text-center overflow-y-auto bg-rose-700/5 rounded-lg border border-rose-700/20"
 								style={{ backfaceVisibility: "hidden", zIndex: isFlipped.value ? 0 : 1 }}
 							>
-								<span class="w-min bg-rose-700/25 border border-rose-600/15 rounded-full aspect-square text-lg">
+								<span class="w-7 h-7 bg-rose-700/25 border border-rose-600/15 rounded-full aspect-square text-lg">
 									Q
 								</span>
 								<p class="my-auto">
@@ -70,7 +70,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								class="absolute w-full h-full flex flex-col gap-2 items-center p-4 text-center overflow-y-auto bg-emerald-700/5 rounded-lg border border-emerald-700/20"
 								style={{ backfaceVisibility: "hidden", transform: "rotateY(180deg)", opacity: hideAnswer.value ? 0 : 1 }}
 							>
-								<span class="w-min bg-emerald-700/25 border border-emerald-600/15 rounded-full aspect-square text-lg">
+								<span class="w-7 h-7 bg-emerald-700/25 border border-emerald-600/15 rounded-full aspect-square text-lg">
 									A
 								</span>
 								<p class="my-auto">{q.answer}</p>
