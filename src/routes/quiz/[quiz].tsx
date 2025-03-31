@@ -23,7 +23,7 @@ export default function QuizPage(props: PageProps) {
 	const mc = questions.filter(q => q.type === "Multiple Choice").length
 	const tf = questions.filter(q => q.type === "Checkbox").length
 	const currentUrl = props.data.url
-	const title = `${props.data.quiz ?? "Quiz"} | Quizizz nhưng nhanh hơn`
+	const title = `${decodeURIComponent(props.data.quiz) ?? "Quiz"} | Quizizz nhưng nhanh hơn`
 	const description = `${mc} câu hỏi trắc nghiệm và ${tf} câu hỏi đúng/sai.`
 
 	return (
