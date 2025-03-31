@@ -1,3 +1,5 @@
+import { dirname, fromFileUrl, join } from "@std/path"
+
 export const randrange = (min: number, max: number) => {
 	return Math.floor(Math.random() * (max - min) + min)
 }
@@ -26,6 +28,18 @@ export const fisherYatesShuffle = <T>(arr: T[]) => {
 	return arr
 }
 
+export function readQuizJson<T>(quiz: string, filename: string): T | null {
+	quiz = decodeURIComponent(quiz)
+	try {
+		return JSON.parse(
+			Deno.readTextFileSync(fromFileUrl(join(dirname(import.meta.url), `./static/quizzes/${quiz}/${filename}`))),
+		)
+	} catch (e) {
+		console.log(`Failed to read ${filename} for quiz ${quiz}: ${e}`)
+		return null
+	}
+}
+
 export type Question = {
 	id: number
 	question: string
@@ -39,7 +53,8 @@ export type Question = {
 
 export type Metadata = {
 	name: string
-	type: "quiz" | "flashcard"
+	hasQuiz: boolean
+	hasFlashcard: boolean
 	timestamp: number
 	questionCount: {
 		total: number

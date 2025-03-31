@@ -1,10 +1,11 @@
 {
-  "name":"CN CK2",
-  "type":"quiz",
-  "timestamp":1743463759,
-  "questionCount":{
-    "total":60,
-    "mc":54,
-    "fc":6
-  }
+	"name": "CN CK2",
+	"hasQuiz": true,
+	"hasFlashcard": true,
+	"timestamp": 1743464836,
+	"questionCount": {
+		"total": 60,
+		"mc": 54,
+		"fc": 6
+	}
 }

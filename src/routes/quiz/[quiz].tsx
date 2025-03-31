@@ -1,27 +1,14 @@
 import { Head } from "$fresh/runtime.ts"
 import { Handlers, PageProps } from "$fresh/server.ts"
-import { dirname, fromFileUrl, join } from "@std/path"
 import { Quiz } from "../../islands/Quiz.tsx"
-import { fisherYatesShuffle, Metadata, Question } from "../../utils.ts"
-
-function readJson<T>(quiz: string, filename: string): T | null {
-	quiz = decodeURIComponent(quiz)
-	try {
-		return JSON.parse(
-			Deno.readTextFileSync(fromFileUrl(join(dirname(import.meta.url), `../../static/quizzes/${quiz}/${filename}`))),
-		)
-	} catch (e) {
-		console.log(`Failed to read ${filename} for quiz ${quiz}: ${e}`)
-		return null
-	}
-}
+import { fisherYatesShuffle, Metadata, Question, readQuizJson } from "../../utils.ts"
 
 export const handler: Handlers = {
 	GET(req, ctx) {
 		const { quiz } = ctx.params
 		try {
-			const questions = readJson<Question[]>(quiz, "data.json")
-			const metadata = readJson<Metadata>(quiz, "metadata.json")
+			const questions = readQuizJson<Question[]>(quiz, "data.json")
+			const metadata = readQuizJson<Metadata>(quiz, "metadata.json")
 			return ctx.render({ questions, quiz, metadata, url: req.url })
 		} catch (e) {
 			console.error(e)

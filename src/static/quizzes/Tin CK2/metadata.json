@@ -1,6 +1,7 @@
 {
 	"name": "Tin CK2",
-	"type": "quiz",
+	"hasQuiz": true,
+	"hasFlashcard": false,
 	"timestamp": 1743410209,
 	"questionCount": {
 		"total": 86,

@@ -1,6 +1,7 @@
 {
 	"name": "Sử GK2",
-	"type": "quiz",
+	"hasQuiz": true,
+	"hasFlashcard": false,
 	"timestamp": 1742667004,
 	"questionCount": {
 		"total": 109,

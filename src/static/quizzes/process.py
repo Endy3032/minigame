@@ -40,7 +40,8 @@ for root, dirs, files in os.walk(base_dir):
 
 			metadata = {
 				"name": rel_path,
-				"type": "quiz",
+				"hasQuiz": True,
+				"hasFlashcard": False,
 				"timestamp": int(pd.Timestamp.now().timestamp()),
 				"questionCount": {
 					"total": len(df),
@@ -60,6 +61,8 @@ for root, dirs, files in os.walk(base_dir):
 				fcdf = df[df["type"] == "Open-Ended"].copy()
 				df = df[df["type"] != "Open-Ended"]
 				metadata["questionCount"]["fc"] = len(fcdf)
+				metadata["hasFlashcard"] = True
+
 				fcdf["answer"] = fcdf["choices"].apply(lambda x: x[0])
 				fcdf["answerimage"] = fcdf["choices"].apply(lambda x: x[1] if len(x) > 1 else None)
 				fcdf = fcdf.drop(columns=["choices", "explanation"])

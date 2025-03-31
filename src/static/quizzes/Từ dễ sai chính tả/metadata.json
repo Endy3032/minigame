@@ -1,6 +1,7 @@
 {
 	"name": "Từ dễ sai chính tả",
-	"type": "quiz",
+	"hasQuiz": true,
+	"hasFlashcard": false,
 	"timestamp": 1743246920,
 	"questionCount": {
 		"total": 54,

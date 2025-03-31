@@ -1,14 +1,11 @@
 import { Handlers, PageProps } from "$fresh/server.ts"
-import { dirname, fromFileUrl, join } from "@std/path"
-import { cn, Question } from "../../utils.ts"
+import { cn, Question, readQuizJson } from "../../utils.ts"
 
 export const handler: Handlers = {
 	GET(_req, ctx) {
 		const { quiz } = ctx.params
 		try {
-			const questions = JSON.parse(
-				Deno.readTextFileSync(fromFileUrl(join(dirname(import.meta.url), `../../static/quizzes/${quiz}/data.json`))),
-			)
+			const questions = readQuizJson<Question[]>(quiz, "data.json")
 			return ctx.render({ questions })
 		} catch {
 			return ctx.renderNotFound()
