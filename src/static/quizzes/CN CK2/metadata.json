@@ -1,0 +1,10 @@
+{
+  "name":"CN CK2",
+  "type":"quiz",
+  "timestamp":1743463759,
+  "questionCount":{
+    "total":60,
+    "mc":54,
+    "fc":6
+  }
+}

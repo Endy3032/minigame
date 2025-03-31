@@ -1,0 +1,50 @@
+[
+  {
+    "question":"Hãy trình bày một số công việc của ngành nghề sản xuất, chế tạo thiết bị điện tử?",
+    "type":"Open-Ended",
+    "answer":"Công việc chính trong sản xuất, chế tạo thiết bị điện tử là lựa chọn công nghệ sản xuất phù hợp, đảm bảo đúng yêu cầu kĩ thuật, chi phí sản xuất thấp, sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử theo bản thiết kế và quy trình kiểm soát chất lượng",
+    "image":null,
+    "id":55,
+    "answerimage":null
+  },
+  {
+    "question":"Hãy trình bày một số công việc của ngành nghề lắp đặt thiết bị điện tử?",
+    "type":"Open-Ended",
+    "answer":"Công việc lắp đặt thiết bị điện tử là kết nối các thiết bị điện tử rời rạc thành một sản phẩm hoàn chỉnh theo tiêu chuẩn kĩ thuật điện và an toàn. Công việc lắp đặt phải theo đúng quy trình như: lắp đặt, hiệu chỉnh, kiểm tra, …",
+    "image":null,
+    "id":56,
+    "answerimage":null
+  },
+  {
+    "question":"Ngành nghề vận hành thiết bị điện tử thực hiện những công việc gì?",
+    "type":"Open-Ended",
+    "answer":"Vận hành là những thao tác đóng cắt, điều chỉnh đúng quy trình các thiết bị và hệ thống điện tử nhằm khai thác hiệu quả, đúng chức năng. duy trì chế độ làm việc bình thường của các thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế.",
+    "image":null,
+    "id":57,
+    "answerimage":null
+  },
+  {
+    "question":"Hãy cho biết chức năng của điện trở và vẽ kí hiệu của điện trở cố định?",
+    "type":"Open-Ended",
+    "answer":"Điện trở được sử dụng để hạn chế hoặc điều chỉnh dòng điện và phân chia điện áp trong các mạch điện, điện tử",
+    "image":null,
+    "id":58,
+    "answerimage":"59.png"
+  },
+  {
+    "question":"Hãy cho biết chức năng của tụ điện và vẽ kí hiệu của tụ điện không phân cực?",
+    "type":"Open-Ended",
+    "answer":"Tụ điện dùng để ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua, khi mắc phối hợp với cuộn cảm sẽ tạo thành mạch cộng hưởng.",
+    "image":null,
+    "id":59,
+    "answerimage":"60.png"
+  },
+  {
+    "question":"Hãy cho biết chức năng của cuộn cảm và vẽ kí hiệu của cuộn cảm lõi không khí?",
+    "type":"Open-Ended",
+    "answer":"Cuộn cảm được dùng để dẫn dòng điện một chiều, cản trở dòng điện cao tần và khi mắc phối hợp với tụ điện sẽ tạo thành các mạch cộng hưởng.",
+    "image":null,
+    "id":60,
+    "answerimage":"61.png"
+  }
+]

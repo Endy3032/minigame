@@ -2,8 +2,6 @@ import os
 import re
 import pandas as pd
 
-# Question Text	Question Type	Option 1	Option 2	Option 3	Option 4	Option 5	Correct Answer	Time in seconds	Image Link	Answer explanation
-
 keymap = {
 	"Question Text": "question",
 	"Question Type": "type",
@@ -32,19 +30,56 @@ for root, dirs, files in os.walk(base_dir):
 		try:
 			df = pd.read_excel(xlsx_path)
 			df = df.rename(columns=keymap)
+
 			df["id"] = df.index + 1
 			df["image"] = df["image"].apply(lambda x: f"/quizzes/{rel_path}/{x}" if pd.notnull(x) else None)
 
 			columns = list(filter(lambda x: x in df.columns, ["a", "b", "c", "d", "e"]))
 			df["choices"] = df[columns].apply(lambda x: [i for i in x if pd.notnull(i)], axis=1)
-			df = df.drop(columns=columns)
+			df = df.drop(columns=["time", *columns])
 
-			df["answer"] = df["answer"].apply(lambda x: sorted([int(i) for i in re.split(r"[,.;]", str(x))]) if pd.notnull(x) else None)
+			metadata = {
+				"name": rel_path,
+				"type": "quiz",
+				"timestamp": int(pd.Timestamp.now().timestamp()),
+				"questionCount": {
+					"total": len(df),
+				}
+			}
+
+			if "Multiple Choice" in df["type"].values:
+				metadata["questionCount"]["mc"] = len(df[df["type"] == "Multiple Choice"])
+
+			if "Checkbox" in df["type"].values:
+				metadata["questionCount"]["tf"] = len(df[df["type"] == "Checkbox"])
+
+			if "Fill-in-the-Blank" in df["type"].values:
+				metadata["questionCount"]["wt"] = len(df[df["type"] == "Fill-in-the-Blank"])
+
+			if "Open-Ended" in df["type"].values:
+				fcdf = df[df["type"] == "Open-Ended"].copy()
+				df = df[df["type"] != "Open-Ended"]
+				metadata["questionCount"]["fc"] = len(fcdf)
+				fcdf["answer"] = fcdf["choices"].apply(lambda x: x[0])
+				fcdf["answerimage"] = fcdf["choices"].apply(lambda x: x[1] if len(x) > 1 else None)
+				fcdf = fcdf.drop(columns=["choices", "explanation"])
+
+				flashcards_path = os.path.join(root, "flashcards.json")
+				with open(flashcards_path, "w", encoding="utf-8") as f:
+					f.write(fcdf.to_json(orient="records", force_ascii=False, indent=2))
+
+			df["answer"] = df["answer"].apply(
+				lambda x: sorted(filter(lambda x: x != 0, [int(i) for i in re.split(r"[,.;]", str(x))])) if pd.notnull(x) else None
+			)
+			df = df.dropna(subset=["answer"])
 
 			output_path = os.path.join(root, "data.json")
-
 			with open(output_path, "w", encoding="utf-8") as f:
 				f.write(df.to_json(orient="records", force_ascii=False, indent=2))
+
+			metadata_path = os.path.join(root, "metadata.json")
+			with open(metadata_path, "w", encoding="utf-8") as f:
+				f.write(pd.Series(metadata).to_json(indent=2, force_ascii=False))
 
 			print(f"Successfully converted {file}")
 

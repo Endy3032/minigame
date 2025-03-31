@@ -5,7 +5,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":1,
@@ -22,7 +21,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":2,
@@ -39,7 +37,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":3,
@@ -56,7 +53,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":4,
@@ -73,7 +69,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":5,
@@ -90,7 +85,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":6,
@@ -107,7 +101,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":7,
@@ -124,7 +117,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":8,
@@ -141,7 +133,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":9,
@@ -158,7 +149,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":10,
@@ -175,7 +165,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":11,
@@ -192,7 +181,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":12,
@@ -209,7 +197,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":13,
@@ -226,7 +213,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":14,
@@ -243,7 +229,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":15,
@@ -260,7 +245,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":16,
@@ -277,7 +261,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":17,
@@ -294,7 +277,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":18,
@@ -311,7 +293,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":19,
@@ -328,7 +309,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":20,
@@ -345,7 +325,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":21,
@@ -362,7 +341,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":22,
@@ -379,7 +357,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":23,
@@ -396,7 +373,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":24,
@@ -413,7 +389,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":25,
@@ -430,7 +405,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":26,
@@ -447,7 +421,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":27,
@@ -464,7 +437,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":28,
@@ -481,7 +453,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":29,
@@ -498,7 +469,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":30,
@@ -515,7 +485,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":31,
@@ -532,7 +501,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":32,
@@ -549,7 +517,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":33,
@@ -566,7 +533,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":34,
@@ -583,7 +549,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":"\/quizzes\/Sử GK2\/35.png",
     "explanation":null,
     "id":35,
@@ -600,7 +565,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":36,
@@ -617,7 +581,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":37,
@@ -634,7 +597,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":38,
@@ -651,7 +613,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":39,
@@ -668,7 +629,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":40,
@@ -685,7 +645,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":41,
@@ -702,7 +661,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":42,
@@ -719,7 +677,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":43,
@@ -736,7 +693,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":44,
@@ -753,7 +709,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":45,
@@ -770,7 +725,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":46,
@@ -787,7 +741,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":47,
@@ -804,7 +757,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":48,
@@ -821,7 +773,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":49,
@@ -838,7 +789,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":50,
@@ -855,7 +805,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":51,
@@ -872,7 +821,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":52,
@@ -889,7 +837,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":53,
@@ -906,7 +853,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":54,
@@ -923,7 +869,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":55,
@@ -940,7 +885,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":56,
@@ -957,7 +901,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":57,
@@ -974,7 +917,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":58,
@@ -991,7 +933,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":59,
@@ -1008,7 +949,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":60,
@@ -1025,7 +965,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":61,
@@ -1042,7 +981,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":62,
@@ -1059,7 +997,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":63,
@@ -1076,7 +1013,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":64,
@@ -1093,7 +1029,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":65,
@@ -1110,7 +1045,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":66,
@@ -1127,7 +1061,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":67,
@@ -1144,7 +1077,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":68,
@@ -1161,7 +1093,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":69,
@@ -1178,7 +1109,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":70,
@@ -1195,7 +1125,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":71,
@@ -1212,7 +1141,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":72,
@@ -1229,7 +1157,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":73,
@@ -1246,7 +1173,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":74,
@@ -1263,7 +1189,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":75,
@@ -1280,7 +1205,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":76,
@@ -1297,7 +1221,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":77,
@@ -1314,7 +1237,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":78,
@@ -1331,7 +1253,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":79,
@@ -1348,7 +1269,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":80,
@@ -1365,7 +1285,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":81,
@@ -1382,7 +1301,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":82,
@@ -1399,7 +1317,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":83,
@@ -1416,7 +1333,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":84,
@@ -1433,7 +1349,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":85,
@@ -1450,7 +1365,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":86,
@@ -1467,7 +1381,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":87,
@@ -1484,7 +1397,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":88,
@@ -1501,7 +1413,6 @@
     "answer":[
       3
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":89,
@@ -1518,7 +1429,6 @@
     "answer":[
       4
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":90,
@@ -1535,7 +1445,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":91,
@@ -1552,7 +1461,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":92,
@@ -1569,7 +1477,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":93,
@@ -1586,7 +1493,6 @@
     "answer":[
       1
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":94,
@@ -1603,7 +1509,6 @@
     "answer":[
       2
     ],
-    "time":30,
     "image":null,
     "explanation":null,
     "id":95,
@@ -1621,7 +1526,6 @@
       3,
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":96,
@@ -1639,7 +1543,6 @@
       1,
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":97,
@@ -1657,7 +1560,6 @@
       3,
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":98,
@@ -1675,7 +1577,6 @@
       1,
       3
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":99,
@@ -1693,7 +1594,6 @@
       1,
       2
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":100,
@@ -1712,7 +1612,6 @@
       3,
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":101,
@@ -1729,7 +1628,6 @@
     "answer":[
       2
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":102,
@@ -1747,7 +1645,6 @@
       1,
       2
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":103,
@@ -1765,7 +1662,6 @@
       2,
       3
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":104,
@@ -1783,7 +1679,6 @@
       1,
       3
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":105,
@@ -1801,7 +1696,6 @@
       1,
       2
     ],
-    "time":60,
     "image":"\/quizzes\/Sử GK2\/106.png",
     "explanation":null,
     "id":106,
@@ -1818,7 +1712,6 @@
     "answer":[
       4
     ],
-    "time":60,
     "image":"\/quizzes\/Sử GK2\/107.png",
     "explanation":null,
     "id":107,
@@ -1836,7 +1729,6 @@
       3,
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":108,
@@ -1853,7 +1745,6 @@
     "answer":[
       4
     ],
-    "time":60,
     "image":null,
     "explanation":null,
     "id":109,

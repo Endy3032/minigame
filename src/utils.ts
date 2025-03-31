@@ -29,10 +29,22 @@ export const fisherYatesShuffle = <T>(arr: T[]) => {
 export type Question = {
 	id: number
 	question: string
-	type: "Multiple Choice" | "Checkbox"
+	type: "Multiple Choice" | "Checkbox" | "Flashcard"
 	choices: (string | number)[] | null
 	answer: (string | number)[] | null
 	time: number | null
 	image: string | null
 	explanation: string | null
+}
+
+export type Metadata = {
+	name: string
+	type: "quiz" | "flashcard"
+	timestamp: number
+	questionCount: {
+		total: number
+		mc?: number
+		tf?: number
+		fc?: number
+	}
 }

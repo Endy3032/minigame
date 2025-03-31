@@ -2,15 +2,9 @@
   {
     "question":"Câu 1. Từ 1954 đến 1956, miền Bắc thực hiện cải cách ruộng đất với mục tiêu nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Người cày có ruộng",
-    "b":"B. Đánh đuổi đế quốc",
-    "c":"C. Công bằng và dân chủ",
-    "d":"D. Thống nhất đất nước",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":1,
@@ -24,15 +18,9 @@
   {
     "question":"Câu 2. Trong giai doan từ 1954 đến 1959, mục tiên đấu tranh chủ yếu của nhân dân miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. đôi Mỹ - Diệm thì hành Hiệp định Giơ-ne-vơ.",
-    "b":"B, xây dựng và phát triển các lực lượng vũ trang.",
-    "c":"C. chuẩn bị tổ chức các cuộc phản công quân sự.",
-    "d":"D. xây dựng các căn cứ địa ở nông thôn, rừng núi.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":2,
@@ -46,15 +34,9 @@
   {
     "question":"Câu 3. Nghị quyết 15 của Đảng Lao động Việt Nam (1959) đã quyết định",
     "type":"Multiple Choice",
-    "a":"A. tiến hành chiến tranh du kích, xây dựng các căn cứ địa.",
-    "b":"B. phát lệnh tổng khởi nghĩa tiến công trên toàn miền Nam.",
-    "c":"C. để nhân dân nhân miền Nam sử dụng bạo lực khởi nghĩa.",
-    "d":"D. phải lực lượng ra miền Bắc chở vũ khí vào Nam đánh Mỹ.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":3,
@@ -68,15 +50,9 @@
   {
     "question":"Câu 4. Nghị quyết 15 của Đảng Lao động Việt Nam (1959) ra đời trong hoàn cảnh",
     "type":"Multiple Choice",
-    "a":"A. Liên Xô, Trung Quốc ủng hộ mạnh mẽ.",
-    "b":"B. thời cơ để tiến công cách mạng đã đến.",
-    "c":"C. lực lượng vũ trang ba thứ quân phát triển.",
-    "d":"D. cách mạng miền Nam bị tổn thất nặng nề.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":4,
@@ -90,15 +66,9 @@
   {
     "question":"Câu 5. Nội dung nào sau đây không phải là ý nghĩa của phong trào \"Đồng khởi\" (1959. 1960) ở miền Nam Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Lung lay tận gốc chính quyền Ngô Đình Diệm.",
-    "b":"B. Đánh bại “chiến tranh cục bộ\" của đế quốc Mỹ.",
-    "c":"C. Bước phát triển mới của cách mạng miền Nam.",
-    "d":"D. Cách mạng miền Nam chuyển sang thế phản công.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":5,
@@ -112,15 +82,9 @@
   {
     "question":"Câu 6. Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9\/1960) đã xác định nhiệm vụ của cách mạng miền Bắc là",
     "type":"Multiple Choice",
-    "a":"A. tiến lên chủ nghĩa xã hội.",
-    "b":"B. cải tạo xã hội chủ nghĩa",
-    "c":"C. trực tiếp chống Mỹ - Diệm.",
-    "d":"D. chống chiến tranh phá hoại.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":6,
@@ -134,15 +98,9 @@
   {
     "question":"Câu 7. Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9\/1960) đã xác định nhiệm vụ của cách mạng miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. vừa kháng chiến vừa kiến quốc, xây dựng căn cứ địa.",
-    "b":"B. đấu tranh đòi Mỹ - Diệm thi hành Hiệp định Giơ-ne-vơ.",
-    "c":"C. hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân.",
-    "d":"D. khôi phục kinh tế, hàn gắn vết thương của chiến tranh Đại hội đại biểu toàn quốc",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":7,
@@ -156,15 +114,9 @@
   {
     "question":"Câu 8. lần thứ III của Đảng Lao động Việt Nam (9\/1960) xác định cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò",
     "type":"Multiple Choice",
-    "a":"A. quyết định nhất đối với sự phát triển của cách mạng cả nước.",
-    "b":"B. quyết dinh trực tiếp đối với sự nghiệp giải phóng miền Nam.",
-    "c":"C. quyết định thành công của cách mạng xã hội chủ nghĩa trên cả nước.",
-    "d":"D. quyết định với sự nghiệp giải phóng miền Nam, thống nhất đất nước.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":8,
@@ -178,15 +130,9 @@
   {
     "question":"Câu 9. Từ năm 1961-1965, Mỹ thực hiện chiến lược chiến tranh nào ở miền Nam Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Chiến tranh đặc biệt.",
-    "b":"B. Chiến tranh cục bộ.",
-    "c":"C. Chiến tranh đơn phương.",
-    "d":"D. Việt Nam hóa chiến tranh.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":9,
@@ -200,15 +146,9 @@
   {
     "question":"Câu 10. Âm mưu cơ bản của Mỹ trong chiến lược “chiến tranh đặc biệt\" là",
     "type":"Multiple Choice",
-    "a":"A. dùng người Việt đánh người Việt.",
-    "b":"B. dùng chiến tranh nuôi chiến tranh.",
-    "c":"C. giành lại quyền chủ động đã bị mất.",
-    "d":"D. ngăn chặn sự chi viên của miền Bắc.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":10,
@@ -222,15 +162,9 @@
   {
     "question":"Câu 11. Một trong những thắng lợi của quân dàn miền Nam trong cuộc chiến đấu chống chiến lược \"chiến tranh đặc biệt” của Mỹ (1961-1965) là",
     "type":"Multiple Choice",
-    "a":"A. Núi Thành.",
-    "b":"B. Đồng Xoài.",
-    "c":"C. Vạn Tường.",
-    "d":"D. Đồng Khởi.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":11,
@@ -244,15 +178,9 @@
   {
     "question":"Câu 12. Một trong những thắng lợi của quân dân miền Nam trong cuộc chiến đấu chống chiến lược “chiến tranh cục bộ” của Mỹ (1965 - 1968) là",
     "type":"Multiple Choice",
-    "a":"A. Đồng Xoài.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Trung Lào.",
-    "d":"D. Bình Giã.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":12,
@@ -266,15 +194,9 @@
   {
     "question":"Câu 13. Chiến thuật nào sau đây được Mỹ sử dụng trong chiến lược “chiến tranh cục bộ” ở miền Nam Việt Nam (1965 - 1968)?",
     "type":"Multiple Choice",
-    "a":"A. Tìm diệt và bình định.",
-    "b":"B. Đánh chắc tiến chắc.",
-    "c":"C. Chiến tranh tổng lực.",
-    "d":"D. Bình định lấn chiếm",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":13,
@@ -288,15 +210,9 @@
   {
     "question":"Câu 14. Trong cuộc chiến đấu chống chiến tranh đặc biệt (1961-1965) của quân dân miền Nam, ba mũi giáp công là",
     "type":"Multiple Choice",
-    "a":"A. quân sự, chính trị, ngoại giao.",
-    "b":"B. quân sự, chính trị và binh vận.",
-    "c":"C. quân sự, văn hóa và giáo dục.",
-    "d":"D. tư tưởng, văn hóa và kinh tế.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":14,
@@ -310,15 +226,9 @@
   {
     "question":"Câu 15. Sau thất bại của chiến lược chiến tranh cục bộ (1965 - 1968), Mỹ đã làm gì để tiếp tục thực hiện âm mưu biến miền Nam thành căn cứ quân sự, thuộc địa kiểu mới?",
     "type":"Multiple Choice",
-    "a":"A. Gây cuộc chiến tranh phá hoại miền Bắc lần ba.",
-    "b":"B. Tuyên bố “Mỹ hóa trở lại\" chiến tranh xâm lược.",
-    "c":"C. Thực hiện chiến lược Việt Nam hóa chiến tranh.",
-    "d":"D. Thực hiện chiến lược chiến tranh đặc biệt mới.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":15,
@@ -332,15 +242,9 @@
   {
     "question":"Câu 16. Sau năm 1954, nguyên nhân nào sau đây khiến cho cách mạng miền Nam tôn th nặng nề?",
     "type":"Multiple Choice",
-    "a":"A. Miền Bắc đã không chỉ viện về vũ khí.",
-    "b":"B. Mỹ - Diệm khủng bố, đàn áp cách mạng.",
-    "c":"C. Sự chống phá của các thế lực bên ngoài.",
-    "d":"D. Trung Quốc, Liên Xô cô lập cách mạng.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":16,
@@ -354,15 +258,9 @@
   {
     "question":"Câu 17. Thực chất của các ấp chiến lược\" mà Mỹ và tay sai lập ra ở miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. chiến thuật mới của Mỹ",
-    "b":"B. trại tập trung trá hình",
-    "c":"C. vùng căn cứ biệt kích",
-    "d":"D. hậu phương kháng chiến",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":17,
@@ -376,15 +274,9 @@
   {
     "question":"Câu 18. Thắng lợi nào của quân dân miền Nam đã đánh bại chiến thuật \"trực thăng vận, thiết xa vận\" của Mỹ và tay sai?",
     "type":"Multiple Choice",
-    "a":"A. Bình Giã.",
-    "b":"B. Đông Khê.",
-    "c":"C. Cao Bằng.",
-    "d":"D. Phước Long.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":18,
@@ -398,15 +290,9 @@
   {
     "question":"Câu 19. Thắng lợi nào sau đây chứng tỏ khả năng đánh bại chiến tranh cục bô (1965-1968) của quân và dân miền Nam?",
     "type":"Multiple Choice",
-    "a":"A. Đồng Xoài.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Trung Lào.",
-    "d":"D. Bình Giã",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":19,
@@ -420,15 +306,9 @@
   {
     "question":"Câu 20. Sau thất bại trong cuộc Tiến công chiến lược năm 1972 của quân dân miền Nam, Mỹ phải “Mỹ hóa trở lại” chiến tranh có nghĩa là",
     "type":"Multiple Choice",
-    "a":"A. chống phá kế hoạch lập Liên bang Đông Dương.",
-    "b":"B. đã thể hiện quyết tâm đánh bại quân giải phóng.",
-    "c":"C. sẽ sử dụng quân đội Sài Gòn như lực lượng chính",
-    "d":"D. thừa nhận sự thất bại của Việt Nam hóa chiến tranh.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":20,
@@ -442,15 +322,9 @@
   {
     "question":"Câu 21. Thắng lợi nào của quân và dân Việt Nam đã buộc Mỹ phải đến đàm phán tại hội nghị Pa-ri?",
     "type":"Multiple Choice",
-    "a":"A. Mậu Thân.",
-    "b":"B. Vạn Tường",
-    "c":"C. Núi Thành.",
-    "d":"D. Phước Long.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":21,
@@ -464,15 +338,9 @@
   {
     "question":"Câu 22. Một trong những âm mưu của Mỹ khi sử dụng B52 đánh phá Hà Nội và các thành phố lớn ở Việt Nam từ 18-12-1972 đến 29-12-1972 là",
     "type":"Multiple Choice",
-    "a":"A. buộc ký Hiệp định Pa-ris theo hướng có lợi cho Mỹ.",
-    "b":"B. đem được tất cả các phi công bị bắt trở về nước Mỹ.",
-    "c":"C. chi viện và cứu nguy cho mặt trận B3 -Tây Nguyên.",
-    "d":"D. khống chế, hủy diệt đường Hồ Chí Minh trên biển.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":22,
@@ -486,15 +354,9 @@
   {
     "question":"Câu 23. Thắng lợi nào sau đây của quân và dân miền Nam là cơ sở để Đảng Lao động Việt Nam đề ra chủ trương giải phóng miền Nam?",
     "type":"Multiple Choice",
-    "a":"A. Mậu Thân.",
-    "b":"B. Vạn Tường.",
-    "c":"C. Núi Thành",
-    "d":"D. Phước Long.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":23,
@@ -508,15 +370,9 @@
   {
     "question":"Câu 24. Mỹ giữ lại hai vạn cố vấn ở miền Nam, tăng cường viện trợ cho chính quyền Sài Gòn, thực chất của các hành động này là",
     "type":"Multiple Choice",
-    "a":"A. tiếp tục Việt Nam hóa chiến tranh.",
-    "b":"B. đã góp phần xây dựng miền Nam.",
-    "c":"C. thừa nhận sự thất bại ở Việt Nam.",
-    "d":"D. từ bỏ chiến tranh ở Đông Dương.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":24,
@@ -530,15 +386,9 @@
   {
     "question":"Câu 25. Thủ đoạn mới được Mỹ sử dụng trong chiến lược Việt Nam hóa chiến tranh (1969- 1973) là",
     "type":"Multiple Choice",
-    "a":"A. trực thăng vận và thiết xa vận",
-    "b":"B. tiến hành thỏa hiệp với Liên Xô.",
-    "c":"C. xây dựng nhiều “ấp chiến lược”.",
-    "d":"D. đã đưa quân Mỹ vào chiến đấu.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":25,
@@ -552,15 +402,9 @@
   {
     "question":"Câu 26. Một trong những âm mưu của Mỹ khi tiến hành chiến tranh phá miền Bắc lần thứ nhất từ 1965-1968 là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân miền Bắc đầu hàng không điều kiện",
-    "b":"B. khống chê, hủy diệt đường Hồ Chí Minh trên biển.",
-    "c":"C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":26,
@@ -574,15 +418,9 @@
   {
     "question":"Câu 27. Một trong những âm mưu của Mỹ khi tiến hành chiến tranh phá miền Bắc lần thứ hai (1972) là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
-    "b":"B. khống chế và hủy diệt đường Hồ Chí Minh trên bộ.",
-    "c":"C. cứu nguy cho quân đội Sài Gòn đang sắp bị tiêu diệt.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":27,
@@ -596,15 +434,9 @@
   {
     "question":"Câu 28. Một trong những nguyên nhân thúc đẩy quân dân miền Nam phải tập trung lực lượng binh khí kỹ thuật để giải phóng miền Nam trước mùa mưa năm 1975 là",
     "type":"Multiple Choice",
-    "a":"A. Trung Quốc đã ép phải đánh nhanh.",
-    "b":"B. nhằm tận dụng thời cơ chiến lược mới.",
-    "c":"C. lo ngại Mỹ về việc sẽ can thiệp trở lại",
-    "d":"D. nhận được viện trợ to lớn từ Liên Xô.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":28,
@@ -618,15 +450,9 @@
   {
     "question":"Câu 29. Một trong những điểm tương đồng của chiến thắng Điện Biên Phủ (1954) và “Điện Biên Phủ trên không” (1972) về tác động đến mặt trận ngoại giao là",
     "type":"Multiple Choice",
-    "a":"A. góp phần quyết định thắng lợi trên bàn đàm phán.",
-    "b":"B. buộc kẻ thù phải thừa nhận xâm lược và rút quân.",
-    "c":"C. giành ưu thế ngoại giao cho phe xã hội chủ nghĩa.",
-    "d":"D. buộc Mỹ rút hết quân xâm lược và tay sai về nước.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":29,
@@ -640,15 +466,9 @@
   {
     "question":"Câu 30. Một trong những điếm giống nhau của chiến lược Việt Nam hóa chiến tranh (1969, 1973) và chiến lược chiến tranh cục bộ (1965-1968) mà Mỹ đã thực hiện ở miền Nam là",
     "type":"Multiple Choice",
-    "a":"A. lực lượng chiến đấu chủ yếu.",
-    "b":"B. phạm vi thực hiện chiến tranh.",
-    "c":"C. mục đích tiến hành chiến tranh.",
-    "d":"D. thủ đoạn mới được thực hiện,",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":30,
@@ -662,15 +482,9 @@
   {
     "question":"Câu 31. Một trong những điểm tương đồng về mục đích của Mỹ khi tiến hành hai cuộc chiến tranh phá hoại miền Bắc từ 1965 - 1968 và 1972 là",
     "type":"Multiple Choice",
-    "a":"A. buộc quân dân Việt Nam đầu hàng không điều kiện.",
-    "b":"B. khống chế, hủy diệt đường Hồ Chí Minh trên biển.",
-    "c":"C. phá hoại tiềm lực kinh tế, quốc phòng của miền Bắc.",
-    "d":"D. buộc Việt Nam ký hiệp định theo hướng có lợi cho Mỹ.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":31,
@@ -684,15 +498,9 @@
   {
     "question":"Câu 32. Một trong những điểm giống nhau của chiến dịch Điện Biên Phủ (1954) và chiến dịch Hồ Chí Minh (1975) là",
     "type":"Multiple Choice",
-    "a":"A. huy động tối đa lực lượng.",
-    "b":"B. phương châm chiến dịch.",
-    "c":"C. phương thức để chiến đấu.",
-    "d":"D. sự phối hợp của không quân.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":32,
@@ -706,15 +514,9 @@
   {
     "question":"Câu 33. Bài học kinh nghiệm nào sau đây được rút ra trong cuộc kháng chiến chống Mỹ cứu nước (1954-1975) vẫn còn nguyên giá trị đối với hôm nay",
     "type":"Multiple Choice",
-    "a":"A. kiên quyết sử dụng bạo lực giải quyết tranh chấp.",
-    "b":"B. kiên trì sự lãnh đạo của Đảng Cộng sản Việt Nam.",
-    "c":"C. thực hiện cùng lúc nhiều nhiệm vụ cách mạng mới.",
-    "d":"D. tranh thủ tối đa sự viện trợ từ các nước đồng minh.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":33,
@@ -728,15 +530,9 @@
   {
     "question":"Câu 34. Bài học kinh nghiệm nào sau đây được rút ra trong cuộc kháng chiến chống Mỹ cứu nước (1954-1975) vẫn còn nguyên giá trị đối với hôm nay",
     "type":"Multiple Choice",
-    "a":"A. thực hiện thế trận chiến tranh nhân dân.",
-    "b":"B. xây dựng liên minh quân sự với Ấn Độ",
-    "c":"C. gia nhập vào các khối liên minh quân sự.",
-    "d":"D. liên kết chặt chẽ với các nước Đông Âu.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":34,
@@ -750,15 +546,9 @@
   {
     "question":"Câu 35. Dựa vào bảng thông tin, hãy nổi cột A với cột B để thấy được những thắng lợi đã góp phần đánh bại các chiến lược chiến tranh mà Mỹ đã áp dụng ở miền Nam.",
     "type":"Multiple Choice",
-    "a":"A. 1B, 2A, 3D, 4C.",
-    "b":"B. 1B, 2D, 3A, 4C.",
-    "c":"C. 1B. 2C, 3D.4A.",
-    "d":"D. 1B, 2C, 3D, 4B.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":"\/quizzes\/Sử GK2 CH\/35.png",
     "explanation":null,
     "id":35,
@@ -772,15 +562,9 @@
   {
     "question":"Câu 1. Một trong những nội dung thuận lợi của cách mạng Việt Nam từ sau tháng 4- 1975 là",
     "type":"Multiple Choice",
-    "a":"A. được sự lãnh đạo của Đảng.",
-    "b":"B. Mỹ dỡ bỏ những cấm kinh tế.",
-    "c":"C. Khơ-me đỏ lên nắm quyền.",
-    "d":"D. Trung Quốc cải cách, mở cửa.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":36,
@@ -794,15 +578,9 @@
   {
     "question":"Câu 2. Một trong những nội dung khó khăn của cách mạng Việt Nam từ sau tháng 4\/1975 là",
     "type":"Multiple Choice",
-    "a":"A. có được sự lãnh đạo của Đảng.",
-    "b":"B. hậu quả chiến tranh nặng nề",
-    "c":"C. Khơ-me đỏ lên nắm quyền.",
-    "d":"D. Trung Quốc cải cách, mở cửa.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":37,
@@ -816,15 +594,9 @@
   {
     "question":"Câu 3. Sau khi lên nắm quyền (4\/1975) chính quyền Pôn-Pốt đã có hành động nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Đi thăm Mỹ để mở rộng quan hệ đối ngoại cho Cam-pu-chia",
-    "b":". B. Ủng hộ hết lòng cho công cuộc xây dựng đất nước Việt Nam.",
-    "c":"C. Phát động chiến tranh xâm lược biên giới Tây Nam Việt Nam.\n",
-    "d":"D. Liên kết với các nước Đông Nam Á để chống lại Trung Quốc.\n",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":38,
@@ -838,15 +610,9 @@
   {
     "question":"Câu 4. Một trong những hành động khiêu khích, xâm phạm lãnh thổ của chính quyền Pôn Pốt đối với Việt Nam sau ngày 30\/4\/2975 là",
     "type":"Multiple Choice",
-    "a":"A. tổ chức cho người Khơ-me ở Việt Nam biểu tình",
-    "b":"B. phái biệt kích để xâm nhập vào Hà Nội phá hoại",
-    "c":"C. cho máy bay thả bom để phong tỏa cửa sông lớn",
-    "d":"D. xâm nhập vào vùng biên giới trên đất liền Việt Nam",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":39,
@@ -860,15 +626,9 @@
   {
     "question":"Câu 5. Một trong những nơi ghi dấu tối ác của tập đoàn Khơ-me đỏ đối với nhân dân Việt Nam là ",
     "type":"Multiple Choice",
-    "a":"A. An Giang ",
-    "b":"B. Cà Mau",
-    "c":"C. Bạc Liêu",
-    "d":"D. Cần Thơ",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":40,
@@ -882,15 +642,9 @@
   {
     "question":"Câu 6. Nội dung nào sau đây phản ánh đúng tình hình quan hệ Việt-Trung từ giữa năm 1975",
     "type":"Multiple Choice",
-    "a":"A. Vẫn duy trì tốt đẹp",
-    "b":"B. Dần trở nên căng thẳng",
-    "c":"C. Chuyển sang đối đầu",
-    "d":"D. Trung Quốc xâm lược",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":41,
@@ -904,15 +658,9 @@
   {
     "question":"Câu 7. Nội dung phản ánh không đúng tình hình của mối quan hệ Việt-Trung từ giữa nằm 1975 là Trung Quốc",
     "type":"Multiple Choice",
-    "a":"A. chấm dứt viện trợ kinh tế",
-    "b":"B. rút các chuyên gia về nước",
-    "c":"C. xâm phạm khu vực biên giới",
-    "d":"D. ủng hộ Việt Nam toàn diện",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":42,
@@ -926,15 +674,9 @@
   {
     "question":"Câu 8. Một trong những nơi diễn ra các trận đánh quyết liệt của quân và dân Việt Nam chống lại sự xâm lược của Trung Quốc (1979) là",
     "type":"Multiple Choice",
-    "a":"A. Cao Bằng",
-    "b":"B. Thái Nguyên",
-    "c":"C. Nam Định",
-    "d":"D. Phú Thọ",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":43,
@@ -948,15 +690,9 @@
   {
     "question":"Câu 9. Âm mưu của Trung Quốc khi tân công Việt Nam năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. thân tốc, táo bạo, bất ngờ",
-    "b":"B. đánh nhanh thắng nhanh",
-    "c":"C. đánh ăn chắc. tiến ăn chắc",
-    "d":"D. chinh phục từng gói nhỏ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":44,
@@ -970,15 +706,9 @@
   {
     "question":"Câu 10. Sau khi Trung Quốc tuyên bố rút quân (5\/3\/1979), tình hình biên giới Việt Trung như thể nào?",
     "type":"Multiple Choice",
-    "a":"A. Trở lại bình thường",
-    "b":"B. Đã yên bình trở lại",
-    "c":"C. Tiếp tục căng thẳng",
-    "d":"D. Liên Xô can thiệp",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":45,
@@ -992,15 +722,9 @@
   {
     "question":"Câu 11. Sau Đại thắng mùa xuấn 1975, Hoàng Sa và Trường Sa do quốc gia nào sau đây quản lí?",
     "type":"Multiple Choice",
-    "a":"A. Việt Nam",
-    "b":"B. Trung Quốc",
-    "c":"C. Liên Xô",
-    "d":"D. Triều Tiên",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":46,
@@ -1014,15 +738,9 @@
   {
     "question":"Câu 12. Một trong những hành động thực thi chủ quyền của Chính phủ Việt Nam đối với quần đảo Hoàng Sa và Trường Sa là ",
     "type":"Multiple Choice",
-    "a":"A. đưa lực lượng ra thực thi chủ quyền",
-    "b":"B. xây dựng các sân bay quốc tế lớn",
-    "c":"C. đã xây dựng nhiều căn cứ quân sự",
-    "d":"D. cho Mỹ thuê lại các bến cảng ở đảo",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":47,
@@ -1036,15 +754,9 @@
   {
     "question":"Câu 13. Tháng 3 năm 1988, Trung Quốc đã sử dụng lực lượng lớn tấn công vào đảo",
     "type":"Multiple Choice",
-    "a":"A. Phú Lâm",
-    "b":"B. Gạc Ma",
-    "c":"C. Đá Bắc",
-    "d":"D. Hữu Nhật",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":48,
@@ -1058,15 +770,9 @@
   {
     "question":"Câu 14. Ngay khi Trung Quốc tấn công vào các đảo thuộc quần đảo Trường Sa, Chính phủ Việt Nam đã có một trong những hành động nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Tổ chức hạm đội để chiếm lại",
-    "b":"B. Thông báo cho Liên Hợp Quốc",
-    "c":"C. Ra lệnh Tổng động viên cả nước",
-    "d":"D. Xin viện trợ khẩn cấp từ Liên Xô",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":49,
@@ -1080,15 +786,9 @@
   {
     "question":"Câu 15. Cơ sở pháp lý để Việt Nam bảo vệ chủ quyền biển đảo và phát triển kinh tế biển là ",
     "type":"Multiple Choice",
-    "a":"A. Luật biển Việt Nam",
-    "b":"B. Tuyên bố Băng Cốc",
-    "c":"C.Hiến chương ASEAN",
-    "d":"D. Tầm nhìn ASEAN 2025",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":50,
@@ -1102,15 +802,9 @@
   {
     "question":"Câu 16. Chiến thắng biên giới Tây Nam của quân dân Việt Nam có ý nghĩa như thế nào đối với cách mạng Cam-pu-chia?",
     "type":"Multiple Choice",
-    "a":"A. tạo thời cơ thuân lợi cho cách mạng thắng lợi",
-    "b":"B. tiêu diệt hoàn toàn chế độ Pôn-pốt-Ieng xê ri",
-    "c":"C. tăng cường tình đoàn kết các nước Đông Nam Á",
-    "d":"D. tạo nên sức mạnh của Việt Nam và Campuchia",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":51,
@@ -1124,15 +818,9 @@
   {
     "question":"Câu 17. Âm mưu của Khơ me đỏ khi xâm phạm các vùng lãnh thổ của Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. xâm lược, chống phá Việt Nam",
-    "b":"B. bắt các ngư dân của Việt Nam",
-    "c":"C. nhằm gây tiếng vang với quốc tế",
-    "d":"D. tranh chấp lãnh thổ đang nổ ra",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":52,
@@ -1146,15 +834,9 @@
   {
     "question":"Câu 18. Hành động nào sau đây thể hiện rõ ràng nhất âm mưu chống phá Việt Nam của bọn bành trướng Trung Quốc năm 1979?",
     "type":"Multiple Choice",
-    "a":"A. can thiệp vào cuộc kháng chiến của Việt Nam",
-    "b":"B. hợp tác với Mỹ cấm vận Việt Nam trên mọi mặt",
-    "c":"C. dùng 60 vạn quân tấn công toàn tuyến biên giới",
-    "d":"D. ký với Anh và Pháp ban thông cáo Thượng Hải",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":53,
@@ -1168,15 +850,9 @@
   {
     "question":"Câu 19. Bản chất của hai cuộc chiến tranh biên giới Tây Nam và biên giới phía Bắc của nhân dân Việt Nam",
     "type":"Multiple Choice",
-    "a":"A. cuộc chiến tranh bảo vệ Tổ Quốc",
-    "b":"B. xung đột, tranh chấp biên giới",
-    "c":"C. để xác lập địa vị số một châu Á",
-    "d":"D. chiến tranh thống nhất đất nước",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":54,
@@ -1190,15 +866,9 @@
   {
     "question":"Câu 20. Nguyên chủ quan quyết định thắng lợi của hai cuộc chiến tranh bảo vệ biên giới năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. quân đội Trung Quốc còn yếu",
-    "b":"B. truyền thống dân tộc, yêu nước",
-    "c":"C. sự ủng hộ giúp đỡ của quốc tế",
-    "d":"D. đoàn kết ba nước Đông Dương",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":55,
@@ -1212,15 +882,9 @@
   {
     "question":"Câu 21. Nguyên tắc giải quyết các tranh chấp trên Biển Đông của Chính phủ Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. giải quyết bằng biện pháp hòa bình",
-    "b":"B. sẵn sàng dùng vũ lực để tự vệ",
-    "c":"C. liên minh quân sự với Mỹ, Anh",
-    "d":"D. xây dựng đặc khu tại Trường Sa",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":56,
@@ -1234,15 +898,9 @@
   {
     "question":"Câu 22. Tổ chức nào sau đây có vai trò đoàn kết toàn dân tộc Việt Nam trong việc bảo vệ chủ quyền đất nước",
     "type":"Multiple Choice",
-    "a":"A. Ban chấp hành Trung Ương",
-    "b":"B. Mặt trận Tổ quốc Việt Nam",
-    "c":"C. Ban Tuyên giáo Trung ương",
-    "d":"D. Ban Dân vận Trung ương",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":57,
@@ -1256,15 +914,9 @@
   {
     "question":"Câu 48. Cho bảng dữ kiện sau đây về kết quả của miền Bắc trong chiến tranh phá hoại của Mỹ và chi viện cho chiến trường từ nằm 1964 đến năm 1975, trong mỗi ý ABCD, học sinh chọn đúng hoặc sai",
     "type":"Multiple Choice",
-    "a":"A. Bằng dữ kiện cho thấy miền Bắc trở thành hậu phương của miền Nam, Lào và Cam-pu-chia.",
-    "b":"B. Bảng dữ kiện cho thấy miền Bắc đạt được những thành tựu to lớn trong xây dựng chủ nghĩa xã hội.",
-    "c":"C. Bảng dữ kiện cho thấy miền Bắc đã chi viện đầy đủ và đóng vai trò quyết định trực tiếp đối với mọi thắng lợi trên chiến trường miền Nam.",
-    "d":"D. Bằng dữ kiện cho thấy miền Bắc chi viện to lớn cho chiến trường, đồng thời đạt được nhiều kết quả trong chống chiến tranh phá hoại của Mỹ.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":"\/quizzes\/Sử GK2 CH\/48.png",
     "explanation":null,
     "id":58,
@@ -1278,15 +930,9 @@
   {
     "question":"Câu 49. Nội dung nào sau đây không phải là thành tựu của miền Bắc giai đoạn 1973-1975?",
     "type":"Multiple Choice",
-    "a":"A. Khôi phục các cơ sở kinh tế, hệ thống thủy nông, giao thông vận tải.",
-    "b":"B. Chiến đấu chống chiến tranh phá hoại lần thứ hai của không quân Mỹ.",
-    "c":"C. Sản xuất nông nghiệp, công nghiệp có một số ngành vượt mức năm 1971.",
-    "d":"D. Tăng cường chi viện cho chiến trường miền Nam, Lào, Cam-pu-chia.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":59,
@@ -1300,15 +946,9 @@
   {
     "question":"Câu 50. Cuộc Tổng tiến công và nổi dậy Xuân 1975 trải qua 3 chiến dịch lớn là",
     "type":"Multiple Choice",
-    "a":"A.  Tây Nguyên, Huế - Đà Nẵng, Hồ Chí Minh.",
-    "b":"B. Huế, Tây Nguyên - Đà Nẵng, Hồ Chí Minh.",
-    "c":"C. Huế - Tây Nguyên, Đà Nẵng, Hồ Chí Minh.",
-    "d":"D. Đà Nẵng, Tây Nguyên, Hồ Chí Minh.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":60,
@@ -1322,15 +962,9 @@
   {
     "question":"Câu 51. Một trong những nét nổi bật về đường lối của Đảng Lao động Việt Nam trong cuộc kháng chiến chống Mỹ, cứu nước là",
     "type":"Multiple Choice",
-    "a":"A. tiến hành đồng thời cách mạng xã hội chủ nghĩa và cách mạng dân tộc dân chủ nhân dân",
-    "b":"B. thực hiện cách mạng dân tộc dân chủ nhân dân ở miền Bắc và cách mạng giải phóng dân tộc ở miền Nam",
-    "c":"C.  thực hiện cách mạng xã hội chủ nghĩa ở miền Nam.",
-    "d":"D. tiến hành cách mạng chủ nghĩa và dân tộc chủ nghĩa.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":61,
@@ -1344,15 +978,9 @@
   {
     "question":"câu 52. Trong kháng chiến chống Mỹ, cứu nước, hậu phương miền Bắc đã có vai trò nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Tiền tuyến lớn, hậu phương lớn.",
-    "b":"B. Chi viện lập tức và đầy đủ mọi yêu cầu của miền Nam.",
-    "c":"C. Đáp ứng kịp thời các yêu cầu của cuộc chiến đấu ở hai miền.",
-    "d":"D. Trực tiếp sản xuất và bảo đảm mọi nhu cầu vũ khí cho chiến trường.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":62,
@@ -1366,15 +994,9 @@
   {
     "question":"Câu 53. Cuộc kháng chiến chống Mỹ, cứu nước của nhân dân Việt Nam giành thắng lợi gắn liền với",
     "type":"Multiple Choice",
-    "a":"A. tinh thần chiến đấu của nhân dân Đông Nam Á",
-    "b":"B. sự ủng hộ, giúp đỡ to lớn của Trung Quốc, Liên Xô.",
-    "c":"C. sự ủng hộ, giúp đỡ to lớn của nhân dân các nước Đông Nam Á.",
-    "d":"D. sự phối hợp chiến đấu của quân đội các nước Đông Nam Á.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":63,
@@ -1388,15 +1010,9 @@
   {
     "question":"Câu 54. Nghệ thuật quân sự nỗi bật vả xuyên suốt trong cuộc kháng chiên chông Mỹ, cứu nước là",
     "type":"Multiple Choice",
-    "a":"A. thực hiện vừa đánh, vừa đàm.",
-    "b":"B.  tiến hành chiên tranh nhân dân.",
-    "c":"C. kết hợp quân sự với ngoại giao.",
-    "d":"D. chú trương lấy ít địch nhiều.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":64,
@@ -1410,15 +1026,9 @@
   {
     "question":"Câu 55. Trong cuộc chiến tranh ở Việt Nam, Mỹ đã lần lượt thực hiện các chiến lược chiến tranh là",
     "type":"Multiple Choice",
-    "a":"A. cục bộ, đặc biệt, Việt Nam hóá chiến tranh.",
-    "b":"B. đặc biệt, cục bộ, Việt Nam hóa chiến tranh.",
-    "c":"C. đơn phương, cục bộ, Việt Nam hóá chiền tranh.",
-    "d":"D. đơn phương, đặc biệt, Việt Nam hoa chiến tranh.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":65,
@@ -1432,15 +1042,9 @@
   {
     "question":"Câu 56. Trên chiến trường miền Nam Việt Nam, quân viễn chinh Mỹ đóng vai trỏò chủ lực trong giai đoạn nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. 1954- 1960. ",
-    "b":"B. 1969- 1973.",
-    "c":"C. 1968- 1972.",
-    "d":"D. 1965-1968.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":66,
@@ -1454,15 +1058,9 @@
   {
     "question":"Câu 57. Bài học kinh nghiệm nào sau đây từ cuộc kháng chiến chống Mỹ, cứu nước có thể tiếp tục vận dụng hiệu qua trong công cuộc xây dựng đất nước hiện nay?",
     "type":"Multiple Choice",
-    "a":"A.  Kết hợp đấu tranh chính trị với binh vận, địch vận.",
-    "b":"B. Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
-    "c":"C. Kết hợp vừa đánh vừa đàm, vừa đàm vừa đánh.",
-    "d":"D. Kết hợp mặt trận chính diện và sau lưng địch.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":67,
@@ -1476,15 +1074,9 @@
   {
     "question":"Câu 58. Cuộc chiến tranh bảo vệ Tổ quốc từ sau tháng 4-1975 diễn ra trong bối cảnh nảo sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Chiến tranh lạnh ở giai đoạn đỉnh cao, quan hệ Mỹ - Trung căng thăng.",
-    "b":"B. Xu thế đa cực đã xác lập, quan hệ Mỹ - Xô - Trung trở lại bình thường.",
-    "c":"C. Chiến tranh lạnh kết thúc, quan hệ giữa các nước lớn có nhiều biến động và ngày càng phức tạp.",
-    "d":"D. Xu thế hòa hoãn Đông - Tây tiếp tục diễn ra, quan hệ giữa các nước lớn có nhiều yếu tố phức tạp",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":68,
@@ -1498,15 +1090,9 @@
   {
     "question":"Câu 59. Cuối năm 1978, Pôn Pốt đã huy động nhiều sư đoàn bộ binh",
     "type":"Multiple Choice",
-    "a":"A. tiến đánh Tây Ninh, mở đường tiến sâu vào lãnh thổ Việt Nam.",
-    "b":"B.  tiến đánh Tây Nguyên, mở đường tiến sâu vào lãnh thồ Việt Nam.",
-    "c":"C. đánh chiểm đảo Phú Quốc, đào Hôn Mê thuộc lãnh thổ Việt Nam.",
-    "d":"D. đánh chiếm đảo Thổ Chu và khu vực Đông Nam Bộ Việt Nam.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":69,
@@ -1520,15 +1106,9 @@
   {
     "question":"Câu 60. Quân đội nhân dân Việt Nam đã hành động như thể nào trước cuộc tần công của quân Pôn Pốt cuối năm 1978?",
     "type":"Multiple Choice",
-    "a":"A. Mở các cuộc phản công và dừng lại ở biên giới Việt Nam - Cam-pu-chia.",
-    "b":"B. Tố chức phân công, đánh bật lực lượng Pôn Pốt ra khỏi lãnh thố.",
-    "c":"C. Đàm phán ngoại giao, lên án hành động xâm lược của Pôn Pốt.",
-    "d":"D. Tích cực đấu tranh chính trị và đấu tranh ngoại giao.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":70,
@@ -1542,15 +1122,9 @@
   {
     "question":"Câu 61. Sự kiện nào sau đây diễn ra vào ngày 17-2-1979?",
     "type":"Multiple Choice",
-    "a":"A. Trung Quốc lấn chiếm nhiều vùng đất đai ở khu vực biên giới phía đông bắc của Việt Nam.",
-    "b":"B. Trung Quốc điều động 23 sư đoàn cùng pháo binh, xe tăng, máy bay, tấn công vào lãnh thổ Việt Nam.",
-    "c":"C. Trung Quốc điều động 32 sư đoàn đồng loạt tấn công vào lãnh thổ Việt Nam, dọc biên giới phía Bắc",
-    "d":"D. Trung Quốc huy động quân đội tấn công dọc biên giới Việt Nam từ Hải Phòng đến Lai Châu.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":71,
@@ -1564,15 +1138,9 @@
   {
     "question":"Câu 62. Nội dung nào sau đây không phân ánh đúng về cuộc chiến tranh bào vệ biên giới phía Bắc (1979 - 1989)?",
     "type":"Multiple Choice",
-    "a":"A. Nhiều trận chiến đã diễn ra quyết liệt ở Cao Bằng. Lạng Sơn, Lào Cai,...",
-    "b":"B. Toàn bộ lực lượng quân đội chính quy được huy động lên biên giới.",
-    "c":"C. Dư luận trong nước phản đối mạnh mẽ hành động xâm lược của Trung Quốc.",
-    "d":"D. Quân dân sáu tỉnh biên giới phía Bắc đã đứng lên chiến đấu.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":72,
@@ -1586,15 +1154,9 @@
   {
     "question":"Câu 63. Khi quân đội Trung Quốc tấn công lãnh thổ Việt Nam năm 1979, nhiều trận chiến đã diễn ra quyết liệt ở",
     "type":"Multiple Choice",
-    "a":"A. Cao Bằng, Bắc Cạn, Điện Biên",
-    "b":"B. Cao Bằng, Lạng Sơn, Lào Cai.",
-    "c":"C. Lào Cai, Quảng Ninh, Hải Phòng.",
-    "d":"D. Lào Cai, Lạng Sơn, Sơn La.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":73,
@@ -1608,16 +1170,10 @@
   {
     "question":"Câu 64. Cho đoạn thông tin thống kê sau đây, trong mỗi ý A, B, C, D, học sinh chọn đúng hoặc sai.\nTrong cuộc tấn công của quân đội Trung Quốc vào các tỉnh phía Bắc Việt Nam năm 1979, các thị xã Cao Bằng, Lạng Sơn, Cam Đường, Lào Cai gần như bị huỹ diệt hoàn toản. Tổng cộng có 320 xã, 735 trường học, 41 nông trường, 81 xí nghiệp, hầm mỏ và 38 lâm trường bị tân phá; 400 nghỉn gia súc bị giết, bị cướp. Khoảng 50 % trong tổng số 3,5 triệu người ở 6 tinh biên giới bị mất nhà cửa, tâi sản và phương tiện sinh sống.",
     "type":"Checkbox",
-    "a":"A. Quân đội Trung Quốc đã phá huỹ toàn bộ công trình kính tế, văn hóa ở miền Bắc Việt Nam",
-    "b":"B. Quân đội Trung Quốc đã gây ra tình trạng hỗn loạn quy mô lớn trên toàn bộ miền Bắc",
-    "c":"C. Nhiều đô thị ở các tinh biên giới phía bắc Việt Nam gần như bị hủy diệt hoàn toàn trong cuộc tấn công của quân đội Trung Quốc.",
-    "d":"D. Quân đội Trung Quốc đã gây ra những thiệt hại nặng nề đối với các tinh biên giới phía bắc Việt Nam.",
-    "e":null,
     "answer":[
       3,
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":74,
@@ -1631,15 +1187,9 @@
   {
     "question":"Câu 65. Trong giai đoạn 1984 - 1989, địa bàn nào sau đây tiếp tục là chiến trường ác liệt giữa quân đội Việt Nam và Trung Quốc?",
     "type":"Multiple Choice",
-    "a":"A. Khu vực huyện Bát Xát, tỉnh Lào Cai.",
-    "b":"B. Một số huyện ở các tỉnh Lào Cai, Điện Biên.",
-    "c":"C. Khu vực biên giới thuộc huyện Vị Xuyên, tỉnh Cao Bằng.",
-    "d":"D. Khu vực biên giới thuộc huyện Vị Xuyên, tỉnh Hà Giang.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":75,
@@ -1653,15 +1203,9 @@
   {
     "question":"Câu 66. Trong quá trình bảo vệ chủ quyền quốc gia ở Biển Đông, Việt Nam đã luôn kiên định con đường",
     "type":"Multiple Choice",
-    "a":"A. bảo vệ vững chắc chủ quyền và lợi ích khu vực.",
-    "b":"B. đấu tranh bằng mọi biện pháp, không đàm phán.",
-    "c":"C. đấu tranh bằng các biện pháp phù hợp với luật pháp quốc tế.",
-    "d":"D. bảo vệ hòà bình, phù hợp với luật pháp khu vực và quốc tế.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":76,
@@ -1675,15 +1219,9 @@
   {
     "question":"Câu 67: Việt Nam đã làm gì khi Trung Quốc đưa giàn khoan Hải Dương-981 đến hoạt động trái phép trong vùng đặc quyền kinh tế của Việt Nam năm 2014?",
     "type":"Multiple Choice",
-    "a":"A. kêu gọi trung quốc và các nược trong khu vực kiểm chế, tiến đến đàm phán ngoại giao",
-    "b":"B. kêu gọi trung quốc tôn trọng luật pháp khu vực và quốc tế, đẩy mạnh đấu tranh quân sự ",
-    "c":"C. tăng cừong lực lượng trên toàn biển đông, khiến quân đội trung quốc chịu nhiều thiệc hại",
-    "d":"D. tăng cường lực lượng tại khu vực đặc quyền kinh tế, đồng thời tích cực đấu tranh ngoại giao",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":77,
@@ -1697,15 +1235,9 @@
   {
     "question":"Câu 68: Nội dung nào sau đây là ý nghĩa lịch sử của cuộc đấu tranh bảo vệ Tổ quốc từ sau tháng 4-1975 đến nay?",
     "type":"Multiple Choice",
-    "a":"A. tạo điều kiện thuân lợi mở đầu công cuộc xây dựng chủ nghĩa xã hội ở đna ",
-    "b":"B. bảo vệ vững chắc độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ quốc gia ",
-    "c":"C. góp phần bảo vệ hòa bình và tổ chức ASEAN và cộng đồng ASEAN ",
-    "d":"D. thể hiện tinh thần đoàn kết chiến đấu của các nước Đông Dương",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":78,
@@ -1719,15 +1251,9 @@
   {
     "question":"Câu 69: Với thắng lợi của cuộc đấu tranh bảo vệ Tổ quốc ở biên giới Tây Nam, Việt Nam cũng đã\n\n",
     "type":"Multiple Choice",
-    "a":"A. thể hiện tinh thần đoàn kết với tổ chức ASEAN ",
-    "b":"B. thể hiện tinh thần đoàn kết trong sáng với trung quốc",
-    "c":"C. làm tròn nghĩa vụ quốc tế với nhân dân lào và campuchia",
-    "d":"D. làm tròn nghĩa vụ quốc tế đối với nhân dân campuchia",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":79,
@@ -1741,15 +1267,9 @@
   {
     "question":"Câu 70: Việc khơi dậy và phát huy tinh thần yêu nước sẽ góp phần",
     "type":"Multiple Choice",
-    "a":"A. tạo nên động lực to lớn đối với sự nghiệp xây dựng và bảo vệ đất nước hiện nay",
-    "b":"B. tạo ra mục tiêu về chính trị, xã hội của các tổ chức, đoàn thể trong xã hội hiện tại ",
-    "c":"C. đưa đến sự hình thành nhiều tổ quốc mặt trận dân tộc có phạm vi rộng rãi ",
-    "d":"D. đưa đến sự phát triển nhanh chóng về sức mạnh giai cấp và thời đại ",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":80,
@@ -1763,15 +1283,9 @@
   {
     "question":"Câu 71: Một số bài học kinh nghiệm trong các cuộc kháng chiến bảo vệ tổ quốc từ năm 1945 đến nay là\n\n ",
     "type":"Multiple Choice",
-    "a":"A. phát huy sức mạnh của công nhân, đoàn kết với giai cấp khác ",
-    "b":"B. phát huy tinh thần yêu nước, cùng cố, tăng cường khối đoàn kết dân tộc ",
-    "c":"C. phát huy sức mạnh của các đảng phái, tăng cường vai trò của các đoàn thể",
-    "d":"D. đoàn kết với các nước xã hội chủ nghĩa, củng cố phe xã hội chủ nghĩa",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":81,
@@ -1785,15 +1299,9 @@
   {
     "question":"Câu 72: Trong các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay, khối đại đoàn kết dân tộc đóng vai trò",
     "type":"Multiple Choice",
-    "a":"A. là động lực phấn đấu của mỗi cá nhân ",
-    "b":"B. là mục tiêu chiến lược của các chiến dịch ",
-    "c":"C. là nền tảng tạo nên sức mạnh tổng hợp ",
-    "d":"D. là động lực chủ yếu của các tổ chức, đoàn thể chính trị, xã hội",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":82,
@@ -1807,15 +1315,9 @@
   {
     "question":"Câu 73: Trong thời kì mới, việc củng cố, tăng cường khối đại đoàn kết dân tộc sẽ góp phần",
     "type":"Multiple Choice",
-    "a":"A. phát huy sức mạnh giai cấp, bảo vệ quyền lợi công dân",
-    "b":"B. ổn định xã hội, phát huy sức mạnh toàn dân",
-    "c":"C. ổn định xã hội, phát huy quyền làm chủ cá nhân",
-    "d":"D. phát huy nhanh chóng các giá trị di dản văn hóa ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":83,
@@ -1829,15 +1331,9 @@
   {
     "question":"Câu 74: Nội dung nào sau đây là biểu hiện của bài học kết hợp sức mạnh dân tộc với sức mạnh thời đại?",
     "type":"Multiple Choice",
-    "a":"A. áp dụng các đặc điểm của văn hóa toàn cầu",
-    "b":"B. Học tập mô hình văn hóa của các nước đang phát triền trên thế giới",
-    "c":"C. duy trì bản sắc văn hóa dân tộc, chống lại sự xâm phạm của văn hóa ngoại lai",
-    "d":"D. tranh thủ, tận dụng những xu thế mới từ bên ngoài",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":84,
@@ -1851,15 +1347,9 @@
   {
     "question":"Câu 75: Nghệ thuật quân sự trong các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 vẫn có giá trị trong xây dựng nền quốc phòng toàn dân hiện nay là",
     "type":"Multiple Choice",
-    "a":"A. kết hợp chặt chẽ 3 thứ quân (bộ đội chủ lực, bộ đội địa phương, dân quân du kích)",
-    "b":"B. kết hợp lực lượng chính quy và địa phương, lực lượng toàn dân với lực lượng du kích ",
-    "c":"C. kết hợp chặt chẽ hai đội quân (bộ đội chủ lực, bộ đội chính quy)",
-    "d":"D. kết hợp giưã mặt trận chính diện và mặt trận hậu phương",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":85,
@@ -1873,17 +1363,11 @@
   {
     "question":"Câu 76: Đọc đoạn tư liệu sau đây, trong mỗi ý A, B, C, D, học sinh chọn đúng hoặc sai.\n\"Ngày nay, trước cuộc đẩu tranh của nhân dân thế giới vì hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội, trước sự phát triển vũ bão của cuộc cách mạng khoa học và công nghệ hiện đại và quá trình quốc tế hóa mạnh mẽ nền kinh tế thế giới, càng cần phải kết hợp chặt chẽ yếu tố dân tộc với yếu tố quốc tế, yếu tố truyền thống với yếu tố hiện đại để đưa đất nước tiến lên\n(Đảng Cộng sản Việt Nam, Cương lĩnh xây dựng đất nước trong thời kì quá độ lên chủ nghĩa xã hội (năm 1991), trích trong: Đảng Cộng sản Việt Nam, Văn kiện Đại hội đại biểu toàn quốc thời ki Đổi mới, NXB Chính trị Quốc gia, Hà Nội, 2010, tr.407)",
     "type":"Checkbox",
-    "a":"A. Quá trình toàn cầu hóá đang diễn ra trên mọi lĩnh vực của đời sống xã hội.",
-    "b":"B. Cần kết hợp kinh tế trong nước với kinh tế thế giới trong quá trình phát triển.",
-    "c":"C. Yếu tố dân tộc và yếu tố quốc tế sẽ đóng vai trò quyết định sự phát triển của đất nước.",
-    "d":"D. Trong thời đại ngày nay, càng cần phải kết hợp giữa yếu tố dân tộc với yếu tố quốc tế.",
-    "e":null,
     "answer":[
       1,
       2,
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":86,
@@ -1897,15 +1381,9 @@
   {
     "question":"Câu 1. Công cuốc Đổi mới ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. quá trình cải cách toàn diện trên nhiều lĩnh vực, chủ yếu là chính trị.",
-    "b":"B. công cuộc cải tổ chính trị do Chính phủ Việt Nam khởi xướng, giám sát. C. công cuộc cải tổ về chính sách đối nội và đối ngoại của các tổ chức xã hội.",
-    "c":"C. công cuộc cải tổ về chính sách đối nội và đối ngoại của các tổ chức xã hội.",
-    "d":"D. quá trình cải cách toàn diện trên nhiều lĩnh vực, trọng tâm là kinh tế",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":87,
@@ -1919,15 +1397,9 @@
   {
     "question":"Câu 2. Một trong những nội dung chính của đường lối đổi mới ở Việt Nam giai đoạn 1986 - 1995 là",
     "type":"Multiple Choice",
-    "a":"A. xây dựng Nhà nước pháp quyền Việt Nam của nhân dân, do nhân dân, vì nhân dân.",
-    "b":"B. đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước, xây dựng và phát triển kinh tế tư nhân.",
-    "c":"C. xây dựng và phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa gắn với phát triển văn hoá.",
-    "d":"D. đa phương hoá, đa dạng hoá các quan hệ quốc tế, chủ động hội nhập kinh tế khu vực và thế giới.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":88,
@@ -1941,15 +1413,9 @@
   {
     "question":"Câu 3. Trong giai đoạn 1986 – 1995, nội dung chính của đường lối đổi mới về kinh tế ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước. ",
-    "b":"B. đổi mới cơ chế quản lí kinh tế, xoá bỏ cơ chế tập trung quan liêu, bao cấp. \n",
-    "c":"C. xây dựng và phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa. ",
-    "d":"D. tích cực hội nhập ngày càng sâu rộng vào kinh tế khu vực và kinh tế thế giới. ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":89,
@@ -1963,15 +1429,9 @@
   {
     "question":"Câu 4. Nội dung cơ bản về chính trị của đường lối đổi mới trong giai đoạn 1986 - 1995 đổi mới ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. đổi mới nhưng không thay đổi quan niệm về chủ nghĩa xã hội.\n ",
-    "b":"B. đổi mới nhưng không thay đổi mục tiêu xã hội chủ nghĩa. ",
-    "c":"C. chỉ tiến hành đổi mới kinh tế, không đổi mới chính trị. ",
-    "d":"D. từng bước xoá bỏ cơ chế quản lí kinh tế cũ. ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":90,
@@ -1985,15 +1445,9 @@
   {
     "question":"Câu 3. Chủ trương đẩy mạnh công nghiệp hoá, hiện đại hoá được Đảng Cộng sản Việt Nam đề ra từ",
     "type":"Multiple Choice",
-    "a":"A. 1994",
-    "b":"B. 1995",
-    "c":"C. 1996",
-    "d":"D. 1997 ",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":91,
@@ -2007,15 +1461,9 @@
   {
     "question":"Câu 4. Nội dung nào sau đây là một trong những nội dung cơ bản của đường lối công nghiệp hoá, hiện đại hoá ở Việt Nam giai đoạn 1996 - 2006?",
     "type":"Multiple Choice",
-    "a":"A. Ưu tiên phát triển công nghiệp nặng.",
-    "b":"B. Coi trọng công nghiệp hoá, hiện đại hoá nông nghiệp, nông thôn.",
-    "c":"C. Đẩy mạnh Chương trình mục tiêu quốc gia về xây dựng nông thôn mới.",
-    "d":"D. Phát triển các làng nghề thủ công truyền thống và trung tâm công nghiệp.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":92,
@@ -2029,15 +1477,9 @@
   {
     "question":"Câu 5. Đường lối đổi mới kinh tế của Đảng Cộng sản Việt Nam giai đoạn 1996 – 2006 không đề cập nội dung nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
-    "b":"B. Chuyển dịch cơ cấu kinh tế theo hướng công nghiệp hoá, hiện đại hoá.",
-    "c":"C. Tích cực đổi mới mô hình tăng trưởng và cơ cấu lại nền kinh tế.",
-    "d":"D. Gắn tăng trưởng kinh tế với thực hiện tiến bộ và công bằng xã hội.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":93,
@@ -2051,15 +1493,9 @@
   {
     "question":"Câu 6. Một trong những nhiệm vụ trung tâm của công cuộc Đổi mới ở Việt Nam giai đoạn 1996 2006 là",
     "type":"Multiple Choice",
-    "a":"A. đổi mới cơ chế quản lí kinh tế, cải cách hệ thống giá, chống lạm phát.",
-    "b":"B. đổi mới chính sách văn hoá – xã hội, ưu tiên phát triển y tế, giáo dục.",
-    "c":"C. đổi mới hệ thống chính trị, đẩy mạnh xây dựng và chỉnh đốn Đảng.",
-    "d":"D. đẩy mạnh công nghiệp hoá, hiện đại hoá và hội nhập kinh tế quốc tế.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":94,
@@ -2073,15 +1509,9 @@
   {
     "question":"Câu 7. Nội dung đường lối đổi mới của Đảng Cộng sản Việt Nam từ năm 2006 đến nay là",
     "type":"Multiple Choice",
-    "a":"A. hoàn chỉnh toàn bộ quan điểm, đường lối đối ngoại và hội nhập kinh tế quốc tế ở Việt Nam.",
-    "b":"B. phát triển nhân thức về chủ nghĩa xã hôi và con đường đi lên chủ nghĩa xã hôi ở Việt Nam.",
-    "c":"C. khắc phục khủng hoảng nhân thức về đường lối cách mạng xã hội chủ nghĩa ở Việt Nam",
-    "d":"D. thực hiện thành công công cuộc xoá đói giảm nghèo và đưa Việt Nam trở thành một nước công nghiệp ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":95,
@@ -2095,15 +1525,9 @@
   {
     "question":"Câu 8. Nội dung nào sau đây là chủ trương chung trong đường lối đổi mới của Đảng Cộng sản Việt Nam từ năm 2006 đến nay?",
     "type":"Multiple Choice",
-    "a":"A. Xoá bỏ về cơ bản cơ chế tập trung quan liêu, bao cấp, kế hoạch hoá.",
-    "b":"B. Tiếp tục đẩy mạnh công nghiệp hoá, hiện đại hoá, hội nhập quốc tế sâu rộng",
-    "c":"C. Xây dựng thành phần kinh tế tư nhân giữ vai trò then chối và chủ lực.",
-    "d":"D. Phát triển nền kinh tế kế hoạch hoá, kinh tế tư nhân là động lực cơ bản.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":96,
@@ -2117,15 +1541,9 @@
   {
     "question":"Câu 9. Nội dung nào sau đây là đường lối đổi mới ở Việt Nam từ năm 2006 đến nay về mặt chính trị?",
     "type":"Multiple Choice",
-    "a":"A. Đổi mới cơ chế quản lí cấp cơ sở, chấm dứt tình trạng tham nhũng.",
-    "b":"B. Bổ sung, hoàn chỉnh quan niệm về chủ nghĩa xã hội.",
-    "c":"C. Đẩy mạnh xây dựng, chỉnh đốn Đảng.",
-    "d":"D. Xây dựng nhà nước pháp trị.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":97,
@@ -2139,15 +1557,9 @@
   {
     "question":"Câu 10: Đường lối đổi mới ở Việt Nam từ năm 1986 đến nay chủ yếu được bổ sung, phát triển qua",
     "type":"Multiple Choice",
-    "a":"A. Kết luận của Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
-    "b":"B. Thông báo của Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
-    "c":"C. Các hội nghị định kì của Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
-    "d":"D. Các kì Đại hội đại biểu toàn quốc của Đảng Cộng sản Việt Nam",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":98,
@@ -2161,15 +1573,9 @@
   {
     "question":"Câu 11: Một trong những chủ trương nhất quán trong đường lối đổi mới của Đảng Cộng sản Việt Nam từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":"A. xây dựng nhà nước pháp quyền",
-    "b":"B. xây dựng nhà nước pháp trị",
-    "c":"C. phát triển kinh tế gắn liền với ổn định văn hóa",
-    "d":"D. xây dựng nền văn hóa dân tộc ngày càng hiện đại",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":99,
@@ -2183,15 +1589,9 @@
   {
     "question":"Câu 12: Nội dung nào sau đây được thực hiện xuyên suốt trong đường lối đổi mới của Đảng Cộng sản Việt Nam từ năm 1986 đến nay",
     "type":"Multiple Choice",
-    "a":"A. Xây dựng nền kinh tế pháp quyền của nhân dân, do nhân dân, vì nhân dân",
-    "b":"B. phát triển kinh tế tư nhân thành yếu tố vai trò chủ lực trong nền kinh tế",
-    "c":"C. xây dựng nền kinh tế thị trường tiến lên chủ nghĩa xã hội",
-    "d":"D. phát triển kinh tế thành nhiều phần",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":100,
@@ -2205,15 +1605,9 @@
   {
     "question":"Câu 13: Nội dung nào sau đây là một trong những thành tựu cơ bản của đổi mới chính trị ở Việt Nam trong thời kì Đổi mới từ 1986 đến nay",
     "type":"Multiple Choice",
-    "a":"A. Hoàn chỉnh hệ thống lí luận về đường lối đổi mới",
-    "b":"B. hình thành hệ thống quan điểm lí luận về đường lối đổi mới",
-    "c":"C. phát triển thành công học thuyết mới về chủ nghĩa xã hội",
-    "d":"D. Hoàn thiện quan điểm lí luận mới về chiến lược đổi mới",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":101,
@@ -2227,15 +1621,9 @@
   {
     "question":"Câu 14: Trong công cuộc đổi mới, nền dân chủ xã hội chủ nghĩa ở Việt Nam được phát huy và ngày càng mở rộng là thành tựu trên lĩnh vực",
     "type":"Multiple Choice",
-    "a":"A. Chính trị",
-    "b":"B. Kinh tế",
-    "c":"C. Văn hóa-xã hội",
-    "d":"D. Đối ngoại",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":102,
@@ -2249,15 +1637,9 @@
   {
     "question":"Câu 15: Một trong những thành tựu nổi bật của thực tiễn quá trình đổi mới chính trị ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. Hình thành hệ thống lí luận về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội",
-    "b":"B. Vai trò của Mặt trận Tổ quốc và các đoàn thể chính trị-xã hội được chú trọng phát huy",
-    "c":"C. Từng bước hình thành và phát triển mô hình nhà nước định hướng xã hội chủ nghĩa",
-    "d":"D. Hoàn thành việc sáp nhập hệ thống chính quyền và đoàn thể các cấp ở địa phương",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":103,
@@ -2271,15 +1653,9 @@
   {
     "question":"Câu 16: Năm 2008, Việt Nam đã đạt được thành tựu nào sau đây",
     "type":"Multiple Choice",
-    "a":"A. Thực hiện thành công công nghiệp hóa",
-    "b":"B. Trở thành nước công nghiệp mới",
-    "c":"C. Ra khỏi nhóm nước có thu nhập thấp",
-    "d":"D. Bình thường hóa quan hệ với Mĩ",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":104,
@@ -2293,15 +1669,9 @@
   {
     "question":"Câu 17: Một trong những thành tựu lớn của công cuộc Đổi mới ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. từng bước hình thành và hoàn thiện hệ thống chính quyền cơ sở ở các địa phương",
-    "b":"B. từng bước hình thành và phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
-    "c":"C. hoàn thành mục tiêu xóa đói, giảm nghèo ở các địa phương vùng sâu vùng xa",
-    "d":"D. xây dựng thành công nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":105,
@@ -2315,15 +1685,9 @@
   {
     "question":"Câu 18: Cơ cấu các ngành kinh tế của Việt Nam năm 2020 là",
     "type":"Multiple Choice",
-    "a":"A. Nông nghiệp-công nghiệp và xây dựng-dịch vụ và thương mại",
-    "b":"B. Công nghiệp nhẹ và khai thác khoáng sản-nông nghiệp-dịch vụ",
-    "c":"C. Dịch vụ-công nghiệp và xây dựng-nông nghiệp, lâm nghiệp và thủy sản",
-    "d":"D. Công nghiệp, xây dựng và khai thác khoáng sản-thương mại-dịch vụ",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":106,
@@ -2337,15 +1701,9 @@
   {
     "question":"Câu 19: Thành tựu của công cuộc Đổi mới ở Việt Nam về xã hội thể hiện trên những mặt chủ yếu nào sau đây",
     "type":"Multiple Choice",
-    "a":"A. Chăm sóc sức khỏe, thực hiện an sinh xã hội, xóa bỏ hoàn toàn đói nghèo",
-    "b":"B. Chính sách việc làm, xóa đói giảm nghèo, chăm sóc sức khỏe nhân dân",
-    "c":"C. Giải quyết việc làm, xóa bỏ đói nghèo, xây dựng chính sách an ninh-xã hội",
-    "d":"D. Xóa đói giảm nghèo, chăm sóc sức khỏe, thực hiện an ninh xã hội",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":107,
@@ -2359,15 +1717,9 @@
   {
     "question":"Câu 20: Nội dung nào sau đây không phải là thành tựu của công cuộc Đổi mới ở Việt Nam trên lĩnh vực văn hóa",
     "type":"Multiple Choice",
-    "a":"A. Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc được chú trọng xây dựng và phát triển",
-    "b":"B. Giao lưu, hợp tác và hội nhập quốc tế về văn hóa ngày càng được mở rộng",
-    "c":"C. Bảo tồn được nguyên vẹn giá trị văn hóa vật thể trên phạm vi cả nước",
-    "d":"D. Các lĩnh vực, loại hình, sản phẩm văn hóa phát triển phong phú, đa dạng",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":108,
@@ -2381,15 +1733,9 @@
   {
     "question":"Câu 21: Nội dung nào sau đây phản ánh đúng về quá trình hội nhập quốc tế của Việt Nam",
     "type":"Multiple Choice",
-    "a":"A. Diễn ra trong bối cảnh kinh tế-xã hội Việt Nam đang khủng hoảng sâu sắc",
-    "b":"B. Diễn ra chậm chạp do những khó khăn, cản trở tác động từ bên ngoài",
-    "c":"C. Diễn ra từng bước, từ hội nhập kinh tế quốc tế đến hội nhập toàn diện, sâu rộng",
-    "d":"D. Diễn ra từng bước, từ hội nhập văn hóa đến hội nhập kinh tế, chính trị, xã hội",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":109,
@@ -2403,15 +1749,9 @@
   {
     "question":"Câu 22: Nội dung nào sau đây phản ánh đúng thành tựu của hội nhập quốc tế về văn hóa trong thời kì Đổi mới ở Việt Nam",
     "type":"Multiple Choice",
-    "a":"A. Đời sống văn hóa của người dân được cải thiện",
-    "b":"B. Kí kết các thỏa thuận, điều ước quốc tế có nội dung văn hóa",
-    "c":"C. Kế thừa, phát huy các giá trị văn hóa truyền thống của dân tộc",
-    "d":"D. Bảo tồn, phát huy các di sản văn hóa của dân tộc",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":110,
@@ -2425,15 +1765,9 @@
   {
     "question":"Câu 23: Nội dung nào sau đây thể hiện đúng về thành tựu của công cuộc Đổi mới ở Việt Nam",
     "type":"Multiple Choice",
-    "a":"A. Xóa bỏ tình trạng đói nghèo và tình trạng chênh lệch giàu nghèo trong đời sống xã hội",
-    "b":"B. Đạt được nhiều thành tựu về chính trị, kinh tế, văn hóa, xã hội, hội nhập quốc tế",
-    "c":"C. Xóa bỏ tình trạng người bóc lột người và nền kinh tế bao cấp",
-    "d":"D. Đạt được thành tựu lớn và thay đổi cơ bản trạng thái văn hóa",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":111,
@@ -2447,15 +1781,9 @@
   {
     "question":"Câu 24: Một trong những thành tựu quan trọng nhất của công cuộc Đổi mới ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"A. Đưa đất nước trở thành nước đang phát triển có thu nhập cao",
-    "b":"B. Đưa đất nước trở thành nước phát triển có thu nhập trung bình",
-    "c":"C. Đưa đất nước vượt qua khủng hoảng về văn hóa-xã hội",
-    "d":"D. Đưa đất nước vượt qua khủng hoảng về kinh tế-xã hội",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":112,
@@ -2469,15 +1797,9 @@
   {
     "question":"Câu 25: Nội dung nào sau đây là một trong những bài học kinh nghiệm của công cuộc Đổi mới Việt Nam từ 1986 đến nay",
     "type":"Multiple Choice",
-    "a":"A. Đổi mới toàn diện, nhanh chóng, từ đổi mới chính trị, xã hội đến đổi mới kinh tế, văn hóa",
-    "b":"B. Đổi mới phải vì lợi ích của nhân dân, phát huy vai trò chủ động, sáng tạo của nhân dân",
-    "c":"C. Kiên quyết giữ vững bản sắc văn hóa, chủ quyền, thống nhất và toàn vẹn lãnh thổ của đất nước",
-    "d":"D. Không thay đổi mục tiêu đi lên chủ nghĩa xã hội, kết hợp sức mạnh giai cấp với sức mạnh thời đại",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":113,
@@ -2491,15 +1813,9 @@
   {
     "question":"Câu 26: Quá trình nào sau đây cho thấy công cuộc Đổi mới ở Việt Nam hiện nay đang tiếp tục được đẩy mạnh",
     "type":"Multiple Choice",
-    "a":"A. Hoàn thành cải cách nền giáo dục",
-    "b":"B. Hội nhập quốc tế toàn diện, sâu rộng",
-    "c":"C. Hoàn thành quá trình hội nhập khu vực về văn hóa",
-    "d":"D.Thoát khỏi khủng hoảng nợ công ở khu vực và toàn cầu",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":114,
@@ -2513,15 +1829,9 @@
   {
     "question":"Câu 27: Đảng Cộng sản Việt Nam tiến hành công cuộc đổi mới đất nước từ tháng 12\/1986 trong hoàn cảnh như thế nào",
     "type":"Multiple Choice",
-    "a":"A. Hệ thống xã hội chủ nghĩa thế giới đã sụp đổ",
-    "b":"B. Tình hình thế giới có rất nhiều điểm thuận lợi",
-    "c":"C. Đất nước đang trên đà phát triển mạnh mẽ",
-    "d":"D. Đất nước đang khủng hoảng về kinh tế-xã hội",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":115,
@@ -2535,15 +1845,9 @@
   {
     "question":"Câu 28: Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam (12\/1986) xác định nhiệm vụ, mục tiêu của Ba chương trình kinh tế lớn là",
     "type":"Multiple Choice",
-    "a":"A. lương thực - nông sản, hàng tiêu dùng, hàng nhập khẩu",
-    "b":"B. lương thực, hàng tiêu dùng, hàng xuất khẩu, nông sản",
-    "c":"C. lương thực - thực phẩm, hàng xuất khẩu, hàng quân sự",
-    "d":"D. lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":116,
@@ -2557,15 +1861,9 @@
   {
     "question":"Câu 29: Quan điểm của Đảng trong Đại hội toàn quốc lần VI (12\/1986) là đổi mới kinh tế phải gắn liền với đổi mới về",
     "type":"Multiple Choice",
-    "a":"A. Quân sự",
-    "b":"B. Tư tưởng",
-    "c":"C. Chính trị",
-    "d":"D. Văn hóa",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":117,
@@ -2579,15 +1877,9 @@
   {
     "question":"Câu 30: Kết quả đạt được bước đầu của công cuộc đổi mới ở Việt Nam (1986 - 1990), trên thị trường loại hàng hóa nào dồi dào, đa dạng và lưu thông tương đối thuận lợi?",
     "type":"Multiple Choice",
-    "a":"A. Công nghiệp",
-    "b":"B. Nhập khẩu",
-    "c":"C. TIêu dùng",
-    "d":"D. Xuất khẩu",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":118,
@@ -2601,15 +1893,9 @@
   {
     "question":"Câu 31: Đại hội toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam (12\/1986), đã xác định nhiệm vụ trước mắt của kế hoạch 5 năm 1986 - 1990 là",
     "type":"Multiple Choice",
-    "a":"A. đổi mới toàn diện, đồng bộ nền kinh tế",
-    "b":" B. thực hiện Ba chương trình kinh tế lớn.",
-    "c":"C. cơ sở và vật chất của chủ nghĩa xã hội.",
-    "d":"D. đẩy mạnh công nghiệp hóa đất nước.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":119,
@@ -2623,15 +1909,9 @@
   {
     "question":"Câu 32: Quan điểm của Đảng tại Đại hội toàn quốc lần thứ VI (12\/1986) là đổi mới phải",
     "type":"Multiple Choice",
-    "a":"A. thực hiện nhanh chóng",
-    "b":"B. bảo đảm chắc thắng lợi.",
-    "c":"C. phải thần tốc và táo bạo.",
-    "d":"D. toàn diện và đồng bộ.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":120,
@@ -2645,15 +1925,9 @@
   {
     "question":"Câu 33: Đại hội toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam (12\/1986) chủ trương đổi mới về chính trị là xây dựng Nhà nước",
     "type":"Multiple Choice",
-    "a":"A. pháp quyền xã hội chủ nghĩa.",
-    "b":"B. nền chuyên chính của tư sản. ",
-    "c":"C. đại đoàn kết toàn thể dân tộc.",
-    "d":"D. phân chia quyền lực rõ ràng.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":121,
@@ -2667,15 +1941,9 @@
   {
     "question":"Câu 34: Đường lối đổi mới của Đảng được đưa ra đầu tiên tại Đại hội nào?",
     "type":"Multiple Choice",
-    "a":"A. IV",
-    "b":"B.IX",
-    "c":"C. VI",
-    "d":"D.XI",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":122,
@@ -2689,15 +1957,9 @@
   {
     "question":"Câu 35: Trọng tâm trong đường lối đổi mới ở mà Đảng Cộng sản Việt Nam đề ra 1986 là",
     "type":"Multiple Choice",
-    "a":"A. Kinh tế",
-    "b":"B. Chính trị",
-    "c":"C. Văn hóa",
-    "d":"D. Tư tưởng",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":123,
@@ -2711,15 +1973,9 @@
   {
     "question":"Câu 36. Trong Đại hội lần thứ mấy Đảng đã xác định Việt Nam chuyển sang thời kỳ công nghiệp hóa, hiện đại hóa?",
     "type":"Multiple Choice",
-    "a":"A. VII",
-    "b":"B. XIII",
-    "c":"C. VIII",
-    "d":"D. XII",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":124,
@@ -2733,15 +1989,9 @@
   {
     "question":"Câu 37: Đại hội đại biểu toàn quốc lần thứ VIII của Đảng đã xác định mục tiêu của công nghiệp hóa, hiện đại hóa đất nước là",
     "type":"Multiple Choice",
-    "a":"A. đưa Việt Nam trở thành nước công nghiệp.",
-    "b":"B. đưa Việt Nam trở thành cường quốc số một.",
-    "c":"C. sẽ hoàn thành điện khí hóa vùng nông thôn.",
-    "d":"D. phải xóa bỏ được tình trạng tham ô, lãng phí.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":125,
@@ -2755,15 +2005,9 @@
   {
     "question":"Câu 38: Đại hội đại biểu toàn quốc lần thứ VIII của Đảng đã xác định nội dung nào sau đây là quốc sách hàng đầu?",
     "type":"Multiple Choice",
-    "a":"A. Khoa học, giáo dục",
-    "b":"B. Giáo dục và đào tạo",
-    "c":"C. An ninh, quốc phòng",
-    "d":"D. Kinh tế và chính trị",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":126,
@@ -2777,15 +2021,9 @@
   {
     "question":"Câu 39: Đại hội đại biểu toàn quốc lần thứ VIII của Đảng đã xác định yếu tố nào sau đây là nền tảng tinh thần của xã hội Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Kinh tế",
-    "b":"B. Chính trị",
-    "c":"C. Văn hóa",
-    "d":"D. Tư tưởng",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":127,
@@ -2799,15 +2037,9 @@
   {
     "question":"Câu 40: Đại hội đại biểu toàn quốc lần thứ X của Đảng đã xác định trọng tâm của chiến lược hội nhập quốc tế là hội nhập về",
     "type":"Multiple Choice",
-    "a":"A. Kinh tế",
-    "b":"B. Chính trị",
-    "c":"C. Văn hóa",
-    "d":"D. Tư tưởng",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":128,
@@ -2821,15 +2053,9 @@
   {
     "question":"Câu 41: Đại hội đại biểu toàn quốc lần thứ X của Đảng đã xác định đẩy mạnh công nghiệp hóa, hiện đại hóa gắn liền với phát triển",
     "type":"Multiple Choice",
-    "a":"A. an ninh kinh tế",
-    "b":"B. kinh tế tri thức",
-    "c":"C. dân chủ nhân dân",
-    "d":"D. dân sinh dân chủ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":129,
@@ -2843,15 +2069,9 @@
   {
     "question":"Câu 42: Bước ngoặt trong công cuộc xây dựng chủ nghĩa xã hội ở Việt Nam là ",
     "type":"Multiple Choice",
-    "a":"A. khủng hoảng năng lượng (1973)",
-    "b":"B. đã giải phóng miền Nam (1975)",
-    "c":"C. Đại hội Đảng lần thứ III (1960)",
-    "d":"D. đề ra đường lối đổi mới (1986)",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":130,
@@ -2865,15 +2085,9 @@
   {
     "question":"Câu 43: Vì sao Đảng Cộng sản Việt Nam phải tiếp tục hoàn thiện, bổ sung đường lối Đổi mới được đề ra từ Đại hội đại biểu toàn quốc lần thứ VI (1986)?\n\n",
     "type":"Multiple Choice",
-    "a":"A. Phù hợp với tình hình thực tế.",
-    "b":"B. Do yêu cầu của Trung Quốc. ",
-    "c":"C. Điểm xuất phát còn quá thấp.",
-    "d":"D. Đảm bảo an ninh - quốc phòng.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":131,
@@ -2887,15 +2101,9 @@
   {
     "question":"Câu 44: Một trong những nguyên nhân trong giai đoạn đầu của thời kỳ đổi mới (1986-1990), Đảng Cộng sản Việt Nam chủ trương thực hiện Ba chương trình kinh lớn?",
     "type":"Multiple Choice",
-    "a":"A. Giải quyết các nhu cầu thiết yếu cho Nhân dân",
-    "b":" B. Để đáp ứng nhu cầu nhiều xuất khẩu hàng hóa.",
-    "c":"C. Giải quyết nhu cầu việc làm cho người lao động.",
-    "d":"D. Tận dụng các lợi thế nguồn lao động trẻ, giá rẻ.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":132,
@@ -2909,15 +2117,9 @@
   {
     "question":"Câu 45: Một trong những nguyên nhân khách quan nào đã thúc đẩy Đảng và Nhà nước tiến hành công cuộc đổi mới đất nước (12-1986)?",
     "type":"Multiple Choice",
-    "a":" A. Sự ủng hộ từ phong trào cách mạng thế giới.",
-    "b":"B. Các nước Đông Âu đều đã tiến hành đổi mới.",
-    "c":"C. Cuộc khủng hoảng rất trầm trọng của Liên Xô",
-    "d":"D. Cải tổ ở Liên Xô đã đạt được nhiều thành tựu.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":133,
@@ -2931,15 +2133,9 @@
   {
     "question":"Câu 46: Đặc trưng nền kinh tế Việt Nam trước khi thực hiện đường lối đổi mới (1986) là ",
     "type":"Multiple Choice",
-    "a":"A. tự nhiên",
-    "b":"B. bao cấp",
-    "c":"C. tự chủ",
-    "d":"D. thị trường",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":134,
@@ -2953,15 +2149,9 @@
   {
     "question":"Câu 47: Vì sao trong đường lối Đổi mới giai đoạn (1986-1995) Đảng Cộng sản Việt Nam xác định trọng tâm là đổi mới kinh tế?",
     "type":"Multiple Choice",
-    "a":"A. Kinh tế là tiêu chí đánh giá sức mạnh mỗi quốc gia. ",
-    "b":" B. Nền kinh tế của Việt Nam đang bị Pháp vượt qua.",
-    "c":"C. Đang học hỏi bài học kinh nghiệm của Trung Quốc.",
-    "d":"D. Kinh tế tự chủ mới quyết định được các vấn đề khác.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":135,
@@ -2975,15 +2165,9 @@
   {
     "question":"Câu 48. Thành tựu đạt được bước đầu trong thực hiện kế hoạch nhà nước 5 năm (1986 - 1990) của công cuộc đổi mới đất nước chứng tỏ?",
     "type":"Multiple Choice",
-    "a":"A. Đã phát huy được sức mạnh của một dân tộc.",
-    "b":"B. Phương thức hoạt động của Đảng có sự đổi mới.",
-    "c":"C. Quan hệ đối ngoại của Việt Nam được mở rộng.",
-    "d":"D. Đường lối đổi mới của Đảng là đúng, phù hợp.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":136,
@@ -2997,15 +2181,9 @@
   {
     "question":"Câu 49. Đại hội đại biểu toàn quốc lần thứ VI (12\/1986) của Đảng Cộng sản Việt Nam được xem là Đại hội mở đầu cho công cuộc",
     "type":"Multiple Choice",
-    "a":"A. xây dựng đoàn kết.",
-    "b":"C. đổi mới đất nước.",
-    "c":"B. phát triển kinh tế.",
-    "d":"D. chinh đốn Đảng.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":137,
@@ -3019,15 +2197,9 @@
   {
     "question":"Câu 50. Một trong những yếu tố quyết định đến kết quả của công cuộc Đổi mới đất nước là sự đổi mới về",
     "type":"Multiple Choice",
-    "a":"A. văn hoá",
-    "b":"B. tư duy",
-    "c":"C. quân sự",
-    "d":"D. xã hội",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":138,
@@ -3041,15 +2213,9 @@
   {
     "question":"Cầu 51. Một trong những hạn chê ủu vông cuộc Đồi mởi đát nước từ năm 1986 đến nay là  ",
     "type":"Multiple Choice",
-    "a":"A. tăng trưởng kinh tế thiếu bền vững",
-    "b":" B. nạn lạm phát chưa được khống chế.",
-    "c":"C. tình trạng thất nghiệp còn quá lớn.",
-    "d":" D. xuất phát điểm của kinh tế còn thấp",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":139,
@@ -3063,15 +2229,9 @@
   {
     "question":"Câu 52. Nhận xét nào sau đây đúng khi nói về công cuộc Đổi mới đất nước được Đảng Cộng sản Việt Nam đề ra từ tháng 12\/1986? .   ",
     "type":"Multiple Choice",
-    "a":"A. Đây là cuộc đổi mới từ dưới lên",
-    "b":"B. Công cuộc cải cách rất triệt để",
-    "c":"C. Cuộc đổi mới đất nước toàn diện.",
-    "d":"D. Còn nhiều hạn chế khó khắc phục.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":140,
@@ -3085,15 +2245,9 @@
   {
     "question":"Câu 53. Một trong những điểm giống nhau của công cuộc cải cách - mở cửa ở Trung Quốc (1978) với công cuộc Đôi mới ở Việt Nam (1986) là .  ",
     "type":"Multiple Choice",
-    "a":"A. chú trọng đôi mới về chính tri",
-    "b":"B. lấy đổi mới kinh tế là trọng tâm.",
-    "c":"C. cải cách toàn diện trên lĩnh vự ",
-    "d":"D. kinh tế kế hoạch hóa tập trung.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":141,
@@ -3107,15 +2261,9 @@
   {
     "question":"Câu 54. Điểm giống nhau về bối cảnh thực hiện của công cuộc cải tổ ở Liên Xô (1990), cải cách - mở cửa ở Trung Quốc (1978) với công cuộc Đổi mới ở Việt Nam (1986) là    D. đất nước đang rơi vào khủng hoảng",
     "type":"Multiple Choice",
-    "a":"A. lấy phát triển kinh tế làm trọng tâm.",
-    "b":"B. Tập trung để sản xuất hàng tiêu dùng",
-    "c":"C. duy trì được thể chế ở nhà nước cũ.",
-    "d":"D. đất nước đang rơi vào khủng hoảng",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":142,
@@ -3129,15 +2277,9 @@
   {
     "question":"\"Câu 56. Một trong những bài học Đảng Cộng sản Việt Nam rút ra được từ công cuộc Đối mới đất nước vẫn vẹn nguyên giá trị trong công cuộc xây\ndựng đất nước hiện nay là\"",
     "type":"Multiple Choice",
-    "a":"A. Phải đảm bảo lợi ích cho Nhân dân.",
-    "b":"C. phát triển nhanh các ngành kinh tế.",
-    "c":"B. Phải liên kết với các cường quốc.",
-    "d":"D. thực hiện chế độ tam quyền phân lập.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":143,
@@ -3151,15 +2293,9 @@
   {
     "question":"Câu 57. Một trong những nội dung thể hiện việc đổi mới tư duy chính trị của Đảng Cộn sản Việt Nam từ năm 1986 đến nay là gì?",
     "type":"Multiple Choice",
-    "a":"A. Nhận thức rõ ràng hơn về tình hình thế giới.",
-    "b":"B. Kiên định con đường đi lên chủ nghĩa xã hội.",
-    "c":"C. Lấy tư tưởng Hồ Chí Minh làm kim chỉ nam.",
-    "d":"D. Xác định việc đổi mới kinh tế làm trọng tâm.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":144,
@@ -3173,15 +2309,9 @@
   {
     "question":"Câu 58. Mỗi quan hệ của Đảng, Nhà nước với Nhân dân ngày càng được tăng cường theo quy định của",
     "type":"Multiple Choice",
-    "a":"A. Tư pháp.",
-    "b":"B. Hiến pháp.",
-    "c":"C. Hành pháp.",
-    "d":"D. Lập pháp.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":145,
@@ -3195,15 +2325,9 @@
   {
     "question":"Câu 59. Từ sau năm 1986, bộ máy Nhà nước được sắp xếp theo hướng",
     "type":"Multiple Choice",
-    "a":"A. năm tham gia công tác.",
-    "b":"C. tinh gọn và hiệu quả.",
-    "c":"B. giảm tiên lương tôi đa.",
-    "d":"D. đơn giản và hiệu quả.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":146,
@@ -3217,15 +2341,9 @@
   {
     "question":"Câu 60. Dưới tác động của công cuộc Đổi mới, nền kinh tế Việt Nam vận hành theo định hướng",
     "type":"Multiple Choice",
-    "a":"A. thị trường.",
-    "b":"B. quan liêu.",
-    "c":"C. bao cấp.",
-    "d":"D. tư doanh.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":147,
@@ -3239,15 +2357,9 @@
   {
     "question":"Câu 61. Một trong những thành phần kinh tế mới được phép hoạt động từ sau khi đường lối đổi mới được thực thi là",
     "type":"Multiple Choice",
-    "a":"A. có vốn đầu tư nước ngoài.",
-    "b":"C. kinh tế tập thể, hợp tác xã.",
-    "c":"B. kinh tế nhà nước quản lí.",
-    "d":"D. kinh tế cá thể, hộ gia đình.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":148,
@@ -3261,15 +2373,9 @@
   {
     "question":"Câu 62. Thành phần kinh tế nào sau đây giữ vai trò chủ đạo trong nền kinh tế Việt Nam?",
     "type":"Multiple Choice",
-    "a":"A. Tư nhân.",
-    "b":"B. Nhà nước.",
-    "c":"C. Cá thể.",
-    "d":"D. Nước ngoài.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":149,
@@ -3283,15 +2389,9 @@
   {
     "question":"Câu 63. Một trong những thành tựu của công cuộc Đổi mới về xã hội là",
     "type":"Multiple Choice",
-    "a":"A. xoá bỏ hố sâu phân cách giàu nghèo trên cả nước.",
-    "b":"B. đã xoá bỏ hoàn toàn các mâu thuẫn trong xã hội.",
-    "c":"C. châp nhận, cho phép tự do thành lập các Đảng.",
-    "d":"D. những nhu câu thiêt yêu được đáp ứng tốt hơn.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":150,
@@ -3305,15 +2405,9 @@
   {
     "question":"Câu 64. Một trong những thành tựu mà giáo dục Việt Nam đạt được vào năm 2000 là",
     "type":"Multiple Choice",
-    "a":"A. phố cập giáo dục tiểu học.",
-    "b":"C. phổ cập giáo dục đại học.",
-    "c":"B. phổ cập trung học cơ sở.",
-    "d":"D. phổ cập trung học phổ thông.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":151,
@@ -3327,15 +2421,9 @@
   {
     "question":"Câu 65. Tính đến năm 2020, so sánh trong khối ASEAN nền kinh tế Việt Nam xếp thứ",
     "type":"Multiple Choice",
-    "a":2,
-    "b":3,
-    "c":5,
-    "d":4,
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":152,
@@ -3349,15 +2437,9 @@
   {
     "question":"Câu 66. Trong giai đoạn từ năm 1986 - 1995, cán cân kinh tế Việt Nam có sự dịch chuyển theo hướng từ nhập siêu sang",
     "type":"Multiple Choice",
-    "a":"A. xuất siêu.",
-    "b":"B. phát triên.",
-    "c":"C. khủng hoảng.",
-    "d":"D. tái thiết.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":153,
@@ -3371,15 +2453,9 @@
   {
     "question":"Câu 67. Tính đến năm 2022, Việt Nam đã thiết lập quan hệ ngoại giao với bao nhiêu quốc gia và vùng lãnh thổ trên thế giới?",
     "type":"Multiple Choice",
-    "a":191,
-    "b":195,
-    "c":193,
-    "d":196,
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":154,
@@ -3393,15 +2469,9 @@
   {
     "question":" 68. Tính đến năm 2020, Việt Nam có bao nhiêu đối tác chiến lược",
     "type":"Multiple Choice",
-    "a":19,
-    "b":95,
-    "c":30,
-    "d":16,
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":155,
@@ -3415,15 +2485,9 @@
   {
     "question":"Câu 69. Một trong những thành tựu của công cuộc đổi mới đất nước từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":" đất nước thoát khoỉ khủng hoảng ",
-    "b":"trở thành cường quốc số 1 châu á",
-    "c":" xoá thành công tình trạng tham nhũng",
-    "d":"100% công nhân có được bằng đại học",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":156,
@@ -3437,15 +2501,9 @@
   {
     "question":"Câu 70. Một trong những thành tựu về đổi mới chính trị, an ninh - quốc phòng là",
     "type":"Multiple Choice",
-    "a":" xây dụng thành công hạm đội tàu sân bay mạnh nhất châu Á",
-    "b":"xây dựng nhà nước pháp quyền xã hội chủ nghĩa vững mạnh",
-    "c":"tham gia đầy đủ vào các tổ chức quân sự quốc tế và khu vực",
-    "d":"trở thành uỷ viên thường trực hội đồng bảo an LHQ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":157,
@@ -3459,15 +2517,9 @@
   {
     "question":"câu 71. Một trong những nguyên tắc hàng đầu đặt ra trong công cuộc đổi mới đất nước từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":"kiên định con đường xã hội chủ nghĩa",
-    "b":"không tiến hành mua các loại vũ khí",
-    "c":"tránh xung đột quân sự trên biển Đông",
-    "d":"gia nhập các tổ chức liên kết kinh tế",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":158,
@@ -3481,15 +2533,9 @@
   {
     "question":" Câu 72. Đăng cộng sản Việt Nam đã làm gì để đưa đất nước thoát khỏi tình trạng khủng hoảng trầm trọng về kinh tế - xã hội",
     "type":"Multiple Choice",
-    "a":"tiến hành tâp thể hoá nông - công nghiệp",
-    "b":" nhập vào hội đồng tương trợ kinh ttees",
-    "c":"tiến hành vào coong cuộc đổi mới đất nước",
-    "d":"tiến hành chiến tranh biên giới tây nam",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":159,
@@ -3503,15 +2549,9 @@
   {
     "question":"Câu 73. Một trong những kết qủa mà đổi mới về chính trị, an ninh, quốc phòng đem lại cho Việt nam là",
     "type":"Multiple Choice",
-    "a":"giữ vững sự ổn định chính trị",
-    "b":"giành lại thành công Hoàng Sa",
-    "c":"trở thành cường quốc quân sự",
-    "d":" ngân sách quốc phòng tăng lên",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":160,
@@ -3525,15 +2565,9 @@
   {
     "question":"Câu 74. Đường dây 500kV được xây dựng và đóng điện thành công (1994) có ý nghĩa như thế nào đối với Việt Nam",
     "type":"Multiple Choice",
-    "a":"giải quyết nạn thiếu điện ở Việt Nam, thúc đẩy kinh tế phát triển",
-    "b":"khăng định chủ quyền, toàn vẹn lãnh thổ của đất nước Việt Nam",
-    "c":"Giải quyết xong vấn đề tranh chấp đường biên giới trên bộ với Lào",
-    "d":"Biến Sài Gòn trở thành trung tâm kinh tế chính trị lớn nhất đất nước",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":161,
@@ -3547,15 +2581,9 @@
   {
     "question":"Câu 75. Một trong những tác động tích cực mà quá trình hội nhập kinh tế quốc tế đem lại cho Việt Nam là",
     "type":"Multiple Choice",
-    "a":"Nhận chuyển giao công nghệ miễn phí",
-    "b":" miễn thuế khi bán hàng nông sản",
-    "c":"dễ dàng tiếp cận với nguồn vốn đầu tư",
-    "d":"tiếp cận nguồn lao động giá rẻ Châu Phi",
-    "e":null,
     "answer":[
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":162,
@@ -3569,15 +2597,9 @@
   {
     "question":"Câu 76.Một trong những khí khăn mà quá trình hội nhập kinh tế quốc tế đem đến cho Việt Nam là",
     "type":"Multiple Choice",
-    "a":"Sự cạnh tranh quyết liệt trên thị trường",
-    "b":" khó khăn trong quá trình vận chuyển",
-    "c":"bị đánh thuế cao với hàng nông sản",
-    "d":"nguồn vốn được vay với lãi suất quá cao",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":163,
@@ -3591,15 +2613,9 @@
   {
     "question":" Câu 77. Những thành tựu trong công cuộc đổi mới đất nước từ năm 1986 đến nay chứng tỏ",
     "type":"Multiple Choice",
-    "a":"sự cần thiết phải liên kết về mặt quân sự",
-    "b":"đường lối đổi mới là đúng đắn, phù hợp",
-    "c":"Việt Nam trở thành cường quốc kinh tế",
-    "d":"kiên định con đường chủ nghĩa xã hội",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":164,
@@ -3613,15 +2629,9 @@
   {
     "question":"Câu 78. Một trong những nội dung là hạn chế của công cuộc đỏi mới kinh tế đất nước từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":"tình trạng mất cân đối trong ngành kinh tế",
-    "b":"lệ thuộc hoàn toàn vào thị trường trung quốc",
-    "c":"chưa tiếp cận được thị trường châu âu",
-    "d":"chưa đưa tiến bộ khoa học vào sản xuất",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":165,
@@ -3635,15 +2645,9 @@
   {
     "question":"Câu 79. Một trong những nội dung là hạn chế của công cuộc đổi mới văn hoá đất nước từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":"chịu ảnh hưởng sâu sắc của văn minh Ấn Độ",
-    "b":"nhiều giá trị văn hoá truyền thống bị mai một",
-    "c":"còn thiếu đi một vài hệ tư tưởng chính thống",
-    "d":"văn hoá không được truyền bá ra bên ngoài",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":166,
@@ -3657,15 +2661,9 @@
   {
     "question":" Câu 80. Lực lượng nào sau đây giữ vai trò tập hợp, đoàn kết toàn thể dân tộc trong thời kì xây dựng và bảo vệ tổ quốc ngày nay",
     "type":"Multiple Choice",
-    "a":"Mặt trận tổ quốc việt nam",
-    "b":"Đảng cộng sản Việt Nam",
-    "c":"Giáo hội Phật Giáo Việt nam",
-    "d":"Đội tuyển quốc gia Việt Nam",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":167,
@@ -3679,15 +2677,9 @@
   {
     "question":"Câu 81. Nhân tố quyết định đến sự thành công của công cuộc đổi mới đất nước từ năm 1986 đến nay là",
     "type":"Multiple Choice",
-    "a":"Những bài học từ Liên Xô Trung Quốc",
-    "b":"viện trợ to lớn, cần thiết từ LHQ",
-    "c":"Mĩ chủ động xoá bỏ bao vây, cấm vận",
-    "d":"vai trò lãnh đạo của đảng cộng sản Việt Nam",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":168,
@@ -3701,15 +2693,9 @@
   {
     "question":"Câu 82. Những thành tựu trong công cuộc đổi mới đất nước của Việt Nam và cuộc cải cách - mở cửa của Trung Quốc đều có ý nghĩa nào sau đây",
     "type":"Multiple Choice",
-    "a":"Nâng cao vị thế đất nước trên trường quốc tế",
-    "b":"Trở thành uỷ viên thường trực hội đồng bảo an ",
-    "c":"Thu nhập quốc dân đạt mức trên 1000 tỷ đô la",
-    "d":"Buộc Mĩ rút các căn cứ quân sự gần biên giới",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":169,
@@ -3723,15 +2709,9 @@
   {
     "question":" Câu 83. Một trong những nội dung là đặc điểm khác biệt của chính sách đối ngoại trước và sau công cuộc đổi mới ở Việt Nam là",
     "type":"Multiple Choice",
-    "a":"muốn năng cao vị thế đất nước",
-    "b":"thái độ và chính sách với Mĩ",
-    "c":"coi trọng mối quan hệ với Lào",
-    "d":"Kiên trì sự lãnh đạo của Đăng",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":170,
@@ -3745,15 +2725,9 @@
   {
     "question":" Câu 84. Nối cột A và cột B sao cho đúng với những thành tựu nổi bật trong công cuộc đổi mới đất nước từ năm 1986 đến nay\\",
     "type":"Multiple Choice",
-    "a":"1B, 2E, 3D, 4C,5A",
-    "b":"1b, 2a, 3d, 4c, 5e",
-    "c":"1a, 2e, 3d, 4c, 5b",
-    "d":"1b, 2a, 3d, 4e, 5c",
-    "e":null,
     "answer":[
       1
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":171,
@@ -3767,17 +2741,11 @@
   {
     "question":"\"Chỉ có đổi mới thì mới thấy đúng và thấy hết sự thật, thấy những nhân tố mới để phát huy, những sai lầm đề sửa chữa.... Muốn thế phải đấu tranh chống cải cũ, chống bảo thủ trì trệ, chống giáo chất, chống những thói thời, dai dẳng\"",
     "type":"Checkbox",
-    "a":"A. Đổi mới đất nước là yêu cầu tất yếu trong quá trình phát triển.",
-    "b":"B. Một trong những biểu hiện của đổi mới là chống giáo điều rập khuôn.",
-    "c":"C. Công cuộc Đổi mới thành công để lại nhiều bài học kinh nghiệm quý báu.",
-    "d":"D. Nếu không tiến hành đổi mới sẽ không thể thấy đúng và thấy hết sự thật.",
-    "e":null,
     "answer":[
       1,
       2,
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":172,
@@ -3791,16 +2759,10 @@
   {
     "question":"“Đổi mới không phải là thay đổi mục tiêu xã hội chủ nghĩa mà là làm cho mục tiêu ấy được thực hiện có hiệu quả bằng những quan niệm đúng đắn về chủ nghĩa xã hội, những hình thức, bước đi và biện pháp thích hợp\".",
     "type":"Checkbox",
-    "a":"A. Đổi mới cần gắn liền với điều chỉnh mục tiêu xã hội chủ nghĩa.",
-    "b":"B. Đổi mới để thực hiện có hiệu quả mục tiêu đi lên chủ nghĩa xã hội.",
-    "c":"C. Công cuộc Đổi mới để lại những bài học kinh nghiệm quý giá.",
-    "d":"D. Xây dựng chủ nghĩa xã hội bằng bước đi và biện pháp phù hợp.",
-    "e":null,
     "answer":[
       2,
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":173,
@@ -3814,15 +2776,9 @@
   {
     "question":"Câu 3. Đọc đoạn tư liệu sau đây:\n“Sau Đại thắng Xuân 1975, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam quản lý toàn bộ lãnh thổ đất nước, trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa. Trong các năm 1979, 1981, 1988, Việt Nam liên tục công bố Sách trắng khẳng định chủ quyền lãnh thổ, lãnh hải của Việt Nam...\n\nĐể bảo vệ chủ quyền biển đảo quốc gia, Việt Nam triển khai nhiều hoạt động thực thi chủ quyền ở huyện đảo Hoàng Sa và huyện đảo Trường Sa: triển lãm các hiện vật, xây dựng bia chủ quyền, thiết lập ngọn hải đăng, xây chùa, trường học, bưu điện, hỗ trợ cuộc sống người dân,...”\n",
     "type":"Checkbox",
-    "a":"a. Từ sau năm 1975, Việt Nam mới có chủ quyền đối với hai quần đảo Hoàng Sa và Trường",
-    "b":"b. Sách trắng của Việt Nam đã khẳng định chủ quyền lãnh thổ và lãnh hải của Việt Nam.",
-    "c":"C. Để bảo vệ chủ quyền, Việt Nam đưa người dân ra sinh sống tại tất cả các đảo, quần đảo.",
-    "d":"d. Từ sau 1975, quá trình bảo vệ chủ quyền biển đảo của Việt Nam diễn ra liên tục, mạnh mẽ",
-    "e":null,
     "answer":[
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":174,
@@ -3836,16 +2792,10 @@
   {
     "question":"Câu 4. Đọc đoạn tư liệu sau đây:\n“Trước mỗi lần thử thách của lịch sử, cả dân tộc Việt Nam đều lớn mạnh lên, phát huy cao độ lòng dũng cảm, trí thông minh và tài năng sáng tạo trong sản xuất và chiến đấu tăng cường lực lượng vật chất và tinh thần để chiến thắng quân thù.\nMỗi bản làng, xí nghiệp, hợp tác xã, thị xã, quận, huyện là một pháo đài kiên cường chống giặc. Mỗi tỉnh, thành là một chiến trường, cả nước là một chiến trường. Bất cứ người nào trên đất nước ta đều là những Chi Lăng, Đống Đa; sông biển ta đều là những Bạch Đằng, Hàm Tử.”\n",
     "type":"Checkbox",
-    "a":"a. Tư liệu trên nói về vai trò của cuộc kháng chiến toàn dân, chiến tranh nhân dân.",
-    "b":"b. Để chiến đấu chống ngoại xâm, cần xây dựng nhiều thành lũy, pháo đài kiên cố.",
-    "c":"c. Chiến tranh nhân dân ở Việt Nam lấy sức mạnh cả dân tộc làm yếu tố quyết định.",
-    "d":"d. Chi Lăng, Đống Đa là tên những vị anh hùng dân tộc nổi tiếng của Việt Nam",
-    "e":null,
     "answer":[
       1,
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":175,
@@ -3859,17 +2809,11 @@
   {
     "question":"'Quá trình chuyển đổi sang nền kinh tế thị trường ở Việt Nam đã không gây xảo' trộn về xã hội, đồ vỡ về chính trị như các cuộc cái tổ, cải cách ở các mước xả hội chủ nghĩa Đông Âu và Liên Xô trước đây. Con đường phát triển hợp quy luật đã giúp Việt Nam giảm nhanh được tình trạng nghèo đói, bước đầu xây dựng nền kinh tể công nghiệp hoá, đạt được tốc độ tăng trưởng kinh tế cao đi đôi với sự công bằng tương đổi trong xã hội\". ",
     "type":"Checkbox",
-    "a":"A. Việt Nam liên tục đạt được tốc độ tăng trưởng cao và thành công trong công cuộc xoá đói giám nghèo.",
-    "b":"B. Quá trình chuyền đồi sang nền kinh tế thị trường ở Việt Nam không gây ra những biến động lớn về chính trị, xã hội. ",
-    "c":"C. Quá trình phát triển ở Việt Nam nhìn chung có sự hài hoà giữa tăng trưởng kinh tế và công bằng xã hội",
-    "d":"D. Nền kinh tế công nghiệp ở Việt Nam đạt được tốc độ tăng trưởng rất cao gắn liền với công bằng xã hội",
-    "e":null,
     "answer":[
       1,
       2,
       3
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":176,
@@ -3883,18 +2827,12 @@
   {
     "question":"Xã hội xã hội chủ nghĩa mà nhân dân ta xây dựng là một xã hội: Dân giàu, nước mạnh, dân chủ, công bằng, văn minh; do nhân dân làm chủ; có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp; có nền văn hoá tiên tiến, đậm đà bản sắc dân tộc; con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện; các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển; có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo; có quan hệ hữu nghị và hợp tác với các nước trên thế giới.",
     "type":"Checkbox",
-    "a":"A. Cương lĩnh hướng đến xây dựng xã hội có nên văn hóa hiện đại, cuộc sống tự do",
-    "b":"B. Cương lĩnh có mục tiêu xây dựng xã hội có quan hệ tốt đẹp với các nước",
-    "c":"C. Cương lĩnh có mục tiêu xây dựng Nhà nước pháp quyền xã hội chủ nghĩa",
-    "d":"D. Cương lĩnh hướng đến xây dựng một cộng đồng bình đẳng về giai cấp, dân tộc",
-    "e":null,
     "answer":[
       1,
       2,
       3,
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":177,
@@ -3908,16 +2846,10 @@
   {
     "question":"Tỉ trọng nông, lâm, ngư nghiệp trong GDP của Việt Nam đã giảm từ 38,7% năm 1990 xuống còn 27,2% năm 1995, 24,3% năm 2000; chỉ số đó trong công nghiệp và xây dựng từ 22,7% năm 1990 tăng lên 28,8% năm 1995 và lên 36,6% năm 2000; dịch vụ từ 38,6% năm 1990 tăng lên 44% năm 1995 và ở mức 39,1% năm 2000.",
     "type":"Checkbox",
-    "a":"A. Sự chuyển dịch cơ cấu kinh tế giai đoạn 1990 - 2000 nhìn chung phù hợp với xu hướng công nghiệp hóa, hiện đại hóá.",
-    "b":"B. Tỉ trọng công nghiệp và xây dựng trong GDP của Việt Nam từ năm 1990 đến năm 2000 ngày càng gia tăng.",
-    "c":"C. Ti trọng nông, lâm, ngư nghiệp trong GDP giai đoạn 1990 - 2000 cho thấy Việt Nam về cơ bản đã hoàn thành công nghiệp hoa.",
-    "d":"D. Trong giai đoạn 1990 - 2000, GDP của Việt Nam liên tục tăng nhanh và có sự thay đồi ti trọng theo hướng gia tăng dịch vụ, thương mại.",
-    "e":null,
     "answer":[
       1,
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":178,
@@ -3931,16 +2863,10 @@
   {
     "question":"“...Chúng ta đã mở rộng hợp tác về chính trị, quốc phòng, an ninh và các lĩnh vực khác; từng bước khẳng định được hình ảnh và vị thế của một quốc gia tích cực và có trách nhiệm; tăng cường sự hiểu biết của cộng đồng quốc tế về văn hoá, con người và đất nước Việt Nam; đóng góp tích cực cho việc duy trì, bảo vệ nền hoà bình chung thông qua các cơ chế, diễn đàn an ninh quốc tế và khu vực, thông quan xây dựng các chuẩn mực, quy tắc ứng xử chung quốc tế và khu vực”. (Vũ Văn Phúc, Hội nhập kinh tế quốc tế 30 năm nhìn lại, in trong: Hội nhập kinh tế quốc tế 30 năm nhìn lại, Nth. Chính trị Quốc gia, Hà Nội, 2015, tr.16)",
     "type":"Checkbox",
-    "a":"A. Việt Nam đã đạt được nhiều thành công trong lĩnh vực hội nhập kinh tế quốc tế.",
-    "b":"B. Hình ảnh, vị thế của Việt Nam được nâng cao trong quá trình hội nhập.",
-    "c":"C. Quá trình hội nhập quốc tế đã giúp cộng đồng thế giới hiểu đầy đủ về Việt Nam.",
-    "d":"D. Muốn hội nhập quốc tế, Việt Nam cần tự xây dựng các chuẩn mực, quy tắc ứng xử",
-    "e":null,
     "answer":[
       1,
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":179,
@@ -3954,15 +2880,9 @@
   {
     "question":"Câu 10: \"Việt Nam là một câu chuyện phát triển thành công. Những cải cách kinh tế từ năm 1986 kết hợp với những xu hướng toàn cầu thuận lợi đã nhanh chóng giúp Việt Nam paht1 triển từ một trong những quốc gia nghèo nhất trên thế giới trở thành quốc gia thu nhập trung bình thấp chỉ trong một thế hệ\"",
     "type":"Checkbox",
-    "a":"A. Việt Nam đã nhanh chóng trở thành một nước phát triển",
-    "b":"B. Công cuộc Đổi mới ở Việt Nam đã thành công trọn vẹn",
-    "c":"C. Việt Nam đã thoát nghèo, trở thành nước công nghiệp phát triển",
-    "d":"D. Việt nam có sự phát triển nhanh chóng trong công cuộc Đổi mới",
-    "e":null,
     "answer":[
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":180,
@@ -3976,16 +2896,10 @@
   {
     "question":"Câu 11:\n... Đường lối đổi mới đúng đắn của Đảng Cộng sản Việt Nam; cơ chế, chính sách đổi mới phù hợp của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; ý chí kiên cường, sáng tạo, tính năng động và sự nỗ lực phấn đấu vươn lên không cam chịu nghèo khó của nhân dân Việt Nam. Các nguyên nhân này được đặt trong thể thống nhất hữu cơ, tạo nên những thành tựu to lớn và rất quan trọng của sự nghiệp Đổi mới”.\n(Đỗ Hoài Nam, Công cuộc đổi mới toàn diện đất nước của Việt Nam,\ntrích trong Việt Nam trong thế kỉ XX, Tập 1, NXB Chính trị Quốc gia, Hà Nội, 2001, tr.355)",
     "type":"Checkbox",
-    "a":"A. Đường lối của Đảng Cộng sản Việt Nam, chính sách của Nhà nước và nỗ lực của nhân dân là những nguyên nhân cơ bản đưa đến thành tựu của công cuộc Đổi mới ở Việt Nam.",
-    "b":"B. Sự nghiệp Đổi mới ở Việt Nam gắn liền với ý chí kiên cường, sáng tạo, sự năng động và nỗ lực của các tầng lớp nhân dân.",
-    "c":"C. Mọi cơ chế, chính sách do Nhà nước Việt Nam đề ra trong sự nghiệp Đổi mới là đúng đắn và phù hợp",
-    "d":"D. Cơ chế do Nhà nước Việt Nam đề ra phù hợp với mong muốn của mọi người dân trên cả nước.",
-    "e":null,
     "answer":[
       1,
       2
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":181,
@@ -3999,16 +2913,10 @@
   {
     "question":" Câu 13: \" Cách mạng là sự nghiệp của nhân dân, vì nhân dân và do nhân dân. Chính những ý kiến, nguyện vọng và sáng kiến của nhân dân nảy sinh từ thực tiễn là một nguồn gốc hình thành đường lối đổi mới của Đảng. Dựa vào nhân dân, qua thực tiễn phong phú của nhân dân, tiến hành tổng kết, từng bước tìm ra quy luật các mặt của cuộc sống để đi lên - đó là chìa khó của thành công\"",
     "type":"Checkbox",
-    "a":"A. Cần thực hiện mọi ý kiến, nguyện vọng và sáng kiến của nhân dân",
-    "b":"B. Toàn bộ đường lối Đổi mới hình thành từ các ý kiến của nhân dân",
-    "c":"C. Ý kiến của nhân dân là một nguồn gốc hình thành đường lối đổi mới",
-    "d":"D. Để thành công, quá trình đổi mới cần dựa vào nhân dân và thực tiễn",
-    "e":null,
     "answer":[
       3,
       4
     ],
-    "time":60.0,
     "image":null,
     "explanation":null,
     "id":182,
@@ -4022,15 +2930,9 @@
   {
     "question":"Đâu là bài học kinh nghiệm cơ bản được Đảng Cộng sản Việt Nam rút ra từ khi tiến hành công cuộc đổi mới đất nước (12 - 1986) đến nay?",
     "type":"Multiple Choice",
-    "a":"A. Huy động cả hệ thống chính trị vào công cuộc đổi mới.",
-    "b":"B. Tranh thủ sự giúp đỡ của các nước trong nhóm ASEAN.",
-    "c":"C. Tập trung khắc phục tình trạng tham nhũng và lãng phí.",
-    "d":". Đẩy mạnh các mối quan hệ đối ngoại hoà bình, ổn định.",
-    "e":null,
     "answer":[
       1
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":183,
@@ -4044,15 +2946,9 @@
   {
     "question":". Nguyên nhân mang tỉnh truyền thống dẫn đến tháng lợi của cuộc chiến tranh hào về biên giới phía Tây Nam và biên giới phía Bắc là",
     "type":"Multiple Choice",
-    "a":"quân đội Trung Quốc yếu, lạc hậu.",
-    "b":"truyền thống yêu nước của dân tộc",
-    "c":"C. có sự ủng hộ giúp đỡ của quốc tế",
-    "d":". đoàn kết ba nước Đông Dương từ lâu",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":184,
@@ -4066,15 +2962,9 @@
   {
     "question":". Trong cuộc chiến tranh xâm lược biên giới phía Bắc Việt Nam (1979), Trung Quốc đã đạt được mục tiêu nào sau đây",
     "type":"Multiple Choice",
-    "a":". Dạy cho Việt Nam một bài học",
-    "b":"B. Tiêu diệt hộ đội chủ lực Việt Nam",
-    "c":". Phá hủy cơ sở vật chất, đường xả",
-    "d":"D. Việt Nam đã thay đổi chính sách.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":185,
@@ -4088,15 +2978,9 @@
   {
     "question":"Một trong những điều kiện cơ bản để phát huy sức mạnh toàn diện của đất nước nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc là",
     "type":"Multiple Choice",
-    "a":". độc lập, tự do, dân chủ",
-    "b":". hòa bình và hạnh phúc.",
-    "c":". dân quyền và dân sinh.",
-    "d":". độc lập và thống nhất.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":186,
@@ -4110,15 +2994,9 @@
   {
     "question":"câu 26: Một trong những điểm giống nhau về nguyên nhân thắng lợi của cuộc chiến tranh bảo vệ biên giới phía bắc 1979 và cuộc kháng chiến chống mỹ 1954-1975 là",
     "type":"Multiple Choice",
-    "a":"A. đoàn kết của ba nước Đông Dương",
-    "b":"B. tinh thần yêu nước của nhân dân",
-    "c":"C. phong trào phản chiến của dân Mỹ",
-    "d":"D. viện trợ to lớn của Liên Hợp Quốc",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":187,
@@ -4132,15 +3010,9 @@
   {
     "question":"câu 27: Bài học được rút ra từ các cuộc kháng chiến bảo vệ tổ quốc từ năm 1945 đến nay vẫn có giá trị to lớn đối với công cuộc xây dựng đất nước hiện nay là",
     "type":"Multiple Choice",
-    "a":"A. tăng cường khối đại đoàn kết toàn dân",
-    "b":"B. liên minh chặt chẽ với Liên Xô, Trung Quốc",
-    "c":"C. gia nhập vào các khối liên minh quân sự",
-    "d":"D. thiết lập quan hệ chiến lược với các nước",
-    "e":null,
     "answer":[
       1
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":188,
@@ -4154,15 +3026,9 @@
   {
     "question":"câu 28: Nội dung nào sau đây là đường lối đối ngoại phù hợp mà Việt Nam nên thực hiện đối với Trung Quốc hiện nay?",
     "type":"Multiple Choice",
-    "a":"A. khép lại úa khứ, hợp tác kinh tế nhưng cảnh giác đề phòng",
-    "b":"B. tuyên truyền cổ động chống lại Trung Quốc trên mọi mặt",
-    "c":"C. chuẩn bị sức mạnh quân sự để tấn công quân Trung Quốc",
-    "d":"D. hợp tác với nhật, mỹ, nga để cô lập toàn diện Trung Quốc",
-    "e":null,
     "answer":[
       1
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":189,
@@ -4176,15 +3042,9 @@
   {
     "question":"câu 29: Trong cuộc chiến tranh bảo vệ biên giới phía Bắc 1979, điểm chung của Tướng Sùng Làm, Hoàng Đan là",
     "type":"Multiple Choice",
-    "a":"A. nỗi khiếp sợ của quân Trung Quốc",
-    "b":"B. đều xuất thân từ vùng đất Nghệ An",
-    "c":"C. từng là chỉ huy trưởng Quân đoàn 2",
-    "d":"D. đều là anh hùng lực lượng vũ trang",
-    "e":null,
     "answer":[
       1
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":190,
@@ -4198,15 +3058,9 @@
   {
     "question":"câu 30: Một trong những nguyên nhân thất bại của quân Trung Quốc năm 1979 là",
     "type":"Multiple Choice",
-    "a":"A. số quân Trung Quốc tham chiến còn ít",
-    "b":"B. tinh thần chiến đấu của quân và dân ta",
-    "c":"C. đe dọa tấn công hạt nhân của Liên Xô",
-    "d":"D. sức mạnh các quân đoàn chủ lực của ta",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":191,
@@ -4220,15 +3074,9 @@
   {
     "question":"Câu 37. Cuộc kháng chiến chống Mỹ, cứu nước diễn ra trong bối cảnh nào sau đây?",
     "type":"Multiple Choice",
-    "a":"Hoà hoãn Đông - Tây trở thành xu thế chủ đạo trong quan hệ quốc tế.",
-    "b":"Trật tự thế giới hai cực I-an-ta từng bước xói mòn về kinh tế",
-    "c":"Các cuộc chiến tranh cục bộ trên thế giới đã chấm dứt.",
-    "d":"Cục diện đối đầu Đông - Tây diễn ra căng thẳng.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":192,
@@ -4242,16 +3090,10 @@
   {
     "question":"Câu 38. Cho bảng dữ kiện sau đây về một số thành tựu của miền Bắc trong khôi phục kinh tế, hàn gắn vết thương chiến tranh (1954 - 1957), trong mỗi ý A, B, C, D, học sinh chọn đúng hoặc sai. Lĩnh vực\nThành tựu tiêu biểu\nNông nghiệp\nNăm 1956, miền Bắc sản xuất được 4 triệu tấn thóc, binh quân đầu người đạt 304 kg, cao gấp nhiều lần so với trước Chiến tranh thế giới thứ hai. Nạn đói cơ bản được giải quyết.\nCông nghiệp\nKhôi phục và mở rộng sản xuất tại Nhà máy Dệt Nam Định, Nhà máy Xi màng Hải Phòng, các mỏ than ở Quảng Ninh,.; xây dựng các nhà máy co khí, diêm (Hà Nội),•\nThủ công nghiệp và\nCác mặt hàng tiêu dùng, vật liệu xây dựng, nông cụ, được chú trọng sản xuất; hệ thống mậu dịch và hợp tác xã mua bán mở rộng.\nGiao thông vận tải\nKhôi phục được gần 700 km đường sắt, sửa chữa và làm mới hàng nghìn ki-lô-mét đường bộ; xây dựng và mở rộng nhiều bến cảng ở Hải Phòng,\nQuảng Ninh,.., đường hàng không dân dụng quốc tế được khai thông.",
     "type":"Checkbox",
-    "a":"Miền Bắc đạt nhiều thành tựu trong khôi phục kinh tể, hàn gắn vết thương chiến tranh (1954 - 1957).",
-    "b":"Lĩnh vực kinh tế của miền Bắc có những biến đổi mạnh mẽ trong giai đoạn 1954-1957.",
-    "c":"Trong giai đoạn 1954 - 1957, miền Bắc đã hoàn thành công cuộc xây dựng CNXH.",
-    "d":"Miền Bắc đã hoàn thành công nghiệp hóa và xây dựng chủ nghĩa xà hội trong giai đoạn 1954- 1957.",
-    "e":null,
     "answer":[
       1,
       2
     ],
-    "time":null,
     "image":"\/quizzes\/Sử GK2 CH\/38.png",
     "explanation":null,
     "id":193,
@@ -4265,15 +3107,9 @@
   {
     "question":"Câu 39. Trong giai đoạn 1954 - 1958, nhân dân miền Nam thực hiện cuộc đấu tranh nào sau đây?",
     "type":"Multiple Choice",
-    "a":"Chống khủng bố, đàn áp, đòi độc lập dân tộc.",
-    "b":"Đòi Mỹ và Pháp thực hiện Hiệp định Pa-ri.",
-    "c":"Chống chế độ Mỹ - Diệm, giữ gìn và phát triển lực lượng cách mạng.",
-    "d":"Chống Ngô Đình Diệm, phát triển lực lượng cách mạng trên quy mô lớn.",
-    "e":null,
     "answer":[
       3
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":194,
@@ -4287,15 +3123,9 @@
   {
     "question":"Câu 40. Từ thắng lợi của phong trào Đồng khởi đã đưa đến sự ra đời của",
     "type":"Multiple Choice",
-    "a":"Quân Giải phóng nhân dân miền Nam Việt Nam.",
-    "b":"Mặt trận Dân tộc giải phóng miền Nam Việt Nam.",
-    "c":"Chính phủ Lâm thời Cộng hòa Việt Nam.",
-    "d":"Chính phủ Liên hiệp miền Nam Việt Nam.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":195,
@@ -4309,15 +3139,9 @@
   {
     "question":"Chiến lược Chiến tranh đặc biệt của Mỹ được tiến hành",
     "type":"Multiple Choice",
-    "a":"thông qua kế hoạch xây dựng hàng rào Mắc Na-ma-ra và hệ thống ấp chiến lược.\n",
-    "b":"thông qua chiến thuật trực thăng vận trên biển và xây dựng làng chiến đấu ở khu vực đồng bằng.\n",
-    "c":"dưới sự chỉ huy các tướng lĩnh chính quyền Sài Gòn, được tiến hành chủ yếu bằng quân đội Mỹ.\n",
-    "d":"dưới sự chi huy của hệ thống cố vấn Mỹ, dựa vào trang bị vũ khí và phương tiện kĩ thuật của Mỹ.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":196,
@@ -4331,15 +3155,9 @@
   {
     "question":"Năm 1961, tổ chức nào sau đây đã ra đời ở miền Nam Việt Nam?",
     "type":"Multiple Choice",
-    "a":"Quân đội Nhân dân giải phóng miền Nam.\n",
-    "b":"Quân đội Giải phóng Việt Nam.\n",
-    "c":"Giải phóng quân miền Nam.\n",
-    "d":"Quân Giải phóng miền Nam Việt Nam.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":197,
@@ -4353,15 +3171,9 @@
   {
     "question":"Nội dung nào sau đây không phải là kết quả và thắng lợi của quân dân miền Nam trong chiến đấu chống chiến lược Chiến tranh đặc biệt của Mỹ?\n",
     "type":"Multiple Choice",
-    "a":"Chiến thắng Ấp Bắc, Bình Giã, Ba Gia, Đồng Xoài.\n",
-    "b":"Hệ thống ấp chiến lược của Mỹ ở đô thị bị phá hủy.\n",
-    "c":"Phong trào đấu tranh chính trị ở các đô thị phát triển mạnh.\n",
-    "d":"Phong trào phá ấp chiến lược diễn ra mạnh mẽ, quyết liệt.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":198,
@@ -4375,15 +3187,9 @@
   {
     "question":"Từ năm 1954 đến năm 1967, quân dân miên Nam chủ yếu tiến hành kháng chiến chống Mỹ trên hai mặt trận nào sau đây?\n",
     "type":"Multiple Choice",
-    "a":"Quân sự, địch vận.\n",
-    "b":"Chính trị, văn hoá.\n",
-    "c":"Quân sự, ngoại giao.\n",
-    "d":"Chính trị, quân sự.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":199,
@@ -4397,15 +3203,9 @@
   {
     "question":"Câu 45. Chiến lược Chiến tranh cục bộ của Mỹ được tiến hành",
     "type":"Multiple Choice",
-    "a":"A. chủ yếu bằng quân đội Mỹ, kết hợp với quân đội các nước thuộc lực lượng đồng minh.",
-    "b":"B. chủ yếu bằng quân đội Mỹ, kết hợp với quân đồng minh của Mỹ và quân đội Sài Gòn.",
-    "c":"C. nhằm thay thế chiến lược Việt Nam hóa chiến tranh.",
-    "d":"D. sau khi Mỹ thất bại trong chiến tranh phá hoại miền Bắc.",
-    "e":null,
     "answer":[
       2
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":200,
@@ -4419,15 +3219,9 @@
   {
     "question":"Câu 46. Chiến lược Việt Nam hóa chiến tranh của Mỹ được tiến hành",
     "type":"Multiple Choice",
-    "a":"A. chủ yếu bằng lực lượng quân đội Sài Gòn và quân đội Mỹ.",
-    "b":"B. chủ yếu bằng lực lượng quân đội Sài Gòn và quân đội đồng minh của Mỹ.",
-    "c":"C. chủ yếu bằng lực lượng quân đội Sài Gòn, có sự phối hợp với quân đội Mỹ trực tiếp chiến đấu.",
-    "d":"D. chủ yếu bằng lực lượng quân đội Sài Gòn, có sự phối hợp với lực lượng của Mỹ.",
-    "e":null,
     "answer":[
       4
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":201,
@@ -4441,15 +3235,9 @@
   {
     "question":"Câu 47. Sự kiện lực lượng vũ trang miền Nam thay đổi lớn theo hướng tiến công chiến lược ở Việt Nam tư sau sự kiện nào sau đây?",
     "type":"Multiple Choice",
-    "a":"A. Chiến dịch Đường 9 - Khe Sanh (1969).",
-    "b":"B. Chiến thắng Phước Bình - Bù Đốp (1969).",
-    "c":"C. Đàm phán bí mật tại Hội nghị Pa-ri (1969).",
-    "d":"D. Hiệp định Pa-ri được kí kết (1973).",
-    "e":null,
     "answer":[
       1
     ],
-    "time":null,
     "image":null,
     "explanation":null,
     "id":202,
