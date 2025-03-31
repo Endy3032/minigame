@@ -186,7 +186,8 @@ export function Quiz(props: { questions: Question[]; name: string }) {
 						<button
 							type="button"
 							class={cn(
-								"text-balance px-4 py-2 md:py-4 transition-all hover:translate-y-1 hover:shadow-none rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48 focus:brightness-125 focus:ring-1 ring-zinc-300",
+								"px-4 py-2 md:py-4 transition-all rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48 ring-zinc-300",
+								"text-balance break-words focus:brightness-125 focus:ring-1 hover:translate-y-1 hover:shadow-none",
 								check(choice.index) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 								showAnswer.value && answer.value.length
 									? questions[remainingQuestions.value[0]].answer?.includes(choice.index)
