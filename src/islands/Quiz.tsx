@@ -145,7 +145,7 @@ export function Quiz(props: { questions: Question[] }) {
 	return remainingQuestions.value.length
 		? (
 			<div class="relative flex flex-col w-full gap-4">
-				<div className="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
+				<div class="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 					{questions.map((_, i) => (
 						<div key={i} class={cn(
 							"w-full h-1 rounded-full transition-all",
@@ -158,9 +158,9 @@ export function Quiz(props: { questions: Question[] }) {
 						)} />
 					))}
 				</div>
-				<div className="flex flex-1 gap-4">
+				<div class="flex flex-1 gap-4">
 					<div class="text-center flex flex-col flex-1 justify-center items-center gap-2 text-2xl md:text-3xl leading-snug whitespace-pre-wrap max-w-screen-xl mx-auto text-balance">
-						<div className="rounded-full bg-zinc-800 border border-zinc-600/50 py-1 px-2 text-sm">
+						<div class="rounded-full bg-zinc-800 border border-zinc-600/50 py-1 px-2 text-sm">
 							{qi + 1}/{questions.length}
 						</div>
 						{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
@@ -176,7 +176,7 @@ export function Quiz(props: { questions: Question[] }) {
 							showAnswer.value ? "opacity-100 visible transition-all" : "translate-y-4 opacity-0 invisible",
 						)}
 					>
-						<div className="w-full max-w-xl bg-zinc-800/70 backdrop-blur-xl border border-zinc-600/50 py-2 px-3 rounded-xl">
+						<div class="w-full max-w-xl bg-zinc-800/70 backdrop-blur-xl border border-zinc-600/50 py-2 px-3 rounded-xl">
 							{q.explanation.split("\n").map((line, i) => <p key={i} class="text-zinc-30 whitespace-pre-wrap leading-snug">{line}</p>)}
 						</div>
 					</div>
@@ -208,8 +208,8 @@ export function Quiz(props: { questions: Question[] }) {
 						</button>
 					))}
 				</div>
-				<div className="flex gap-3 w-full h-min justify-end bg-zinc-900/60 backdrop-blur-xl rounded-t-xl p-2 sticky bottom-0 md:p-0 md:bg-transparent">
-					<div className="inline-flex gap-3 overflow-x-auto whitespace-nowrap scrollbar-thin scrollbar-thumb-zinc-600 scrollbar-track-zinc-800 max-w-full">
+				<div class="flex gap-3 w-full h-min justify-end bg-zinc-900/60 backdrop-blur-xl rounded-t-xl p-2 sticky bottom-0 md:p-0 md:bg-transparent">
+					<div class="inline-flex gap-3 overflow-x-auto whitespace-nowrap max-w-full">
 						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} />
 					</div>
 					<button
@@ -235,7 +235,7 @@ export function Quiz(props: { questions: Question[] }) {
 			</div>
 		)
 		: (
-			<div className="flex flex-col gap-4 max-w-screen-lg mx-auto">
+			<div class="flex flex-col gap-4 max-w-screen-lg mx-auto">
 				{questions
 					.map((q, i) => (
 						<div key={i} class="flex flex-col gap-3 p-4 rounded-lg border border-zinc-700 shadow-md w-full">
@@ -244,7 +244,7 @@ export function Quiz(props: { questions: Question[] }) {
 								<span>{q.question}</span>
 							</h2>
 							{q.image && <img src={q.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />}
-							<ul className="grid grid-cols-1 md:grid-cols-2 gap-2">
+							<ul class="grid grid-cols-1 md:grid-cols-2 gap-2">
 								{q.choices?.map((choice, ci) => (
 									<li key={ci} class={cn(
 										"p-2 rounded",
@@ -255,7 +255,7 @@ export function Quiz(props: { questions: Question[] }) {
 											: "bg-zinc-700",
 									)}>
 										<span>{choice}</span>
-										<span className="float-right text-zinc-400 font-medium">x{optionCounts.value[i][ci]}</span>
+										<span class="float-right text-zinc-400 font-medium">x{optionCounts.value[i][ci]}</span>
 									</li>
 								))}
 							</ul>

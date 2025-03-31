@@ -22,21 +22,21 @@ export default function Home() {
 				{metadatas.map(m => (
 					<div class="flex flex-col gap-3 w-full text-lg p-3 pb-5 border-2 border-zinc-700 bg-zinc-800 rounded-lg text-center transition-all">
 						<span class="text-2xl font-medium">{m.name}</span>
-						<span className="text-lg text-zinc-400">
+						<span class="text-lg text-zinc-400">
 							{m.questionCount.total} câu | {[
 								m.questionCount.mc && `${m.questionCount.mc} TN`,
 								m.questionCount.tf && `${m.questionCount.tf} ĐS`,
 								m.questionCount.fc && `${m.questionCount.fc} TL`,
 							].filter(Boolean).join(" - ")}
 						</span>
-						<div className="flex flex-col md:flex-row gap-x-2 gap-y-3">
+						<div class="flex flex-col md:flex-row gap-x-2 gap-y-3">
 							{m.hasQuiz && (
 								<>
 									<a class={buttonClass} href={`/quiz/${m.name}`}>Làm Quiz</a>
 									<a class={buttonClass} href={`/browse/${m.name}`}>Xem đáp án</a>
 								</>
 							)}
-							{m.hasFlashcard && <a class={buttonClass} href={`/flashcard/${m.name}`}>Flashcard tự luận</a>}
+							{m.hasFlashcard && <a class={buttonClass} href={`/flashcards/${m.name}`}>Flashcard tự luận</a>}
 						</div>
 					</div>
 				))}

@@ -43,12 +43,20 @@ export function readQuizJson<T>(quiz: string, filename: string): T | null {
 export type Question = {
 	id: number
 	question: string
-	type: "Multiple Choice" | "Checkbox" | "Flashcard"
+	type: "Multiple Choice" | "Checkbox"
 	choices: (string | number)[] | null
 	answer: (string | number)[] | null
-	time: number | null
 	image: string | null
 	explanation: string | null
+}
+
+export type Flashcard = {
+	id: number
+	type: "Open-Ended"
+	question: string
+	image: string | null
+	answer: string
+	answerimage: string | null
 }
 
 export type Metadata = {

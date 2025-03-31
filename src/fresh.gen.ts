@@ -9,6 +9,7 @@ import * as $browse_quiz_ from "./routes/browse/[quiz].tsx";
 import * as $flashcards_quiz_ from "./routes/flashcards/[quiz].tsx";
 import * as $index from "./routes/index.tsx";
 import * as $quiz_quiz_ from "./routes/quiz/[quiz].tsx";
+import * as $Flashcards from "./islands/Flashcards.tsx";
 import * as $Quiz from "./islands/Quiz.tsx";
 import type { Manifest } from "$fresh/server.ts";
 
@@ -23,6 +24,7 @@ const manifest = {
     "./routes/quiz/[quiz].tsx": $quiz_quiz_,
   },
   islands: {
+    "./islands/Flashcards.tsx": $Flashcards,
     "./islands/Quiz.tsx": $Quiz,
   },
   baseUrl: import.meta.url,
