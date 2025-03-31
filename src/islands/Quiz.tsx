@@ -41,7 +41,7 @@ const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean
 	)
 }
 
-export function Quiz(props: { questions: Question[]; name: string }) {
+export function Quiz(props: { questions: Question[] }) {
 	const { questions } = props
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 

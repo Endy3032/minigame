@@ -34,9 +34,11 @@ for root, dirs, files in os.walk(base_dir):
 			df = df.rename(columns=keymap)
 			df["id"] = df.index + 1
 			df["image"] = df["image"].apply(lambda x: f"/quizzes/{rel_path}/{x}" if pd.notnull(x) else None)
-			columns = filter(lambda x: x in df.columns, ["a", "b", "c", "d", "e"])
+
+			columns = list(filter(lambda x: x in df.columns, ["a", "b", "c", "d", "e"]))
 			df["choices"] = df[columns].apply(lambda x: [i for i in x if pd.notnull(i)], axis=1)
-			df = df.drop(columns=columns, errors="ignore")
+			df = df.drop(columns=columns)
+
 			df["answer"] = df["answer"].apply(lambda x: sorted([int(i) for i in re.split(r"[,.;]", str(x))]) if pd.notnull(x) else None)
 
 			output_path = os.path.join(root, "data.json")
@@ -44,7 +46,7 @@ for root, dirs, files in os.walk(base_dir):
 			with open(output_path, "w", encoding="utf-8") as f:
 				f.write(df.to_json(orient="records", force_ascii=False, indent=2))
 
-			print(f"Successfully converted {xlsx_path} to {output_path}")
+			print(f"Successfully converted {file}")
 
 		except Exception as e:
 			print(f"Error processing {xlsx_path}: {str(e)}")

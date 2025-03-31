@@ -38,7 +38,7 @@ export default function QuizPage(props: PageProps) {
 				<meta property="og:type" content="website" />
 				<link rel="canonical" href={currentUrl} />
 			</Head>
-			<Quiz questions={questions} name={props.data.quiz ?? "Quiz"} />
+			<Quiz questions={questions} />
 		</>
 	)
 }
