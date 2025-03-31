@@ -1,0 +1,1192 @@
+[
+  {
+    "question":"Câu 1: Kĩ thuật điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Lĩnh vực kĩ thuật liên quan đến nghiên cứu và ứng dụng linh kiện điện tử, mạch tích hợp,... để thiết kế, chế tạo các thiết bị điện tử",
+    "b":"B. Lĩnh vực kĩ thuật liên quan nghiên cứu và ứng dụng các nguyên lí khoa học vào việc thiết kế, chế tạo, vận hành các máy móc, thiết bị, công trình, quy trình và hệ thống một cách hiệu quả và kinh tế nhất",
+    "c":"C. Lĩnh vực kĩ thuật liên quan đến ứng dụng các nguyên lý vật lý, kỹ thuật và khoa học vật liệu để thiết kế, phân tích, chế tạo và bảo dưỡng các loại máy móc và hệ thống cơ khí.",
+    "d":"D. Lĩnh vực kĩ thuật liên quan đến đế hoạch, thi công và quản lý các công trình xây dựng",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "A. Lĩnh vực kĩ thuật liên quan đến nghiên cứu và ứng dụng linh kiện điện tử, mạch tích hợp,... để thiết kế, chế tạo các thiết bị điện tử",
+      "B. Lĩnh vực kĩ thuật liên quan nghiên cứu và ứng dụng các nguyên lí khoa học vào việc thiết kế, chế tạo, vận hành các máy móc, thiết bị, công trình, quy trình và hệ thống một cách hiệu quả và kinh tế nhất",
+      "C. Lĩnh vực kĩ thuật liên quan đến ứng dụng các nguyên lý vật lý, kỹ thuật và khoa học vật liệu để thiết kế, phân tích, chế tạo và bảo dưỡng các loại máy móc và hệ thống cơ khí.",
+      "D. Lĩnh vực kĩ thuật liên quan đến đế hoạch, thi công và quản lý các công trình xây dựng"
+    ]
+  },
+  {
+    "question":"Câu 2: Kĩ thuật điện tử bao gồm:",
+    "type":"Multiple Choice",
+    "a":"A. Điện tử tương tự và điện tử tự động hóa",
+    "b":"B. Điện tử điều khiển và điện tử tự động hóa",
+    "c":"C. Điện tử tương tự và điện tử số",
+    "d":"D. Điện tử số và điện tử điều khiển",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "A. Điện tử tương tự và điện tử tự động hóa",
+      "B. Điện tử điều khiển và điện tử tự động hóa",
+      "C. Điện tử tương tự và điện tử số",
+      "D. Điện tử số và điện tử điều khiển"
+    ]
+  },
+  {
+    "question":"Câu 3: Kĩ thuật điện tử được ứng dụng trong ngành nào dưới đây?",
+    "type":"Multiple Choice",
+    "a":"A. Kĩ thuật máy tính",
+    "b":"B. Kĩ thuật cơ khí",
+    "c":"C. Kĩ thuật hàng hải",
+    "d":"D. Kĩ thuật xây dựng",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "A. Kĩ thuật máy tính",
+      "B. Kĩ thuật cơ khí",
+      "C. Kĩ thuật hàng hải",
+      "D. Kĩ thuật xây dựng"
+    ]
+  },
+  {
+    "question":"Câu 4: Kĩ thuật điện tử có vai trò trong:",
+    "type":"Multiple Choice",
+    "a":"A. Đời sống",
+    "b":"B. Sản xuất",
+    "c":"C. Đời sống và sản xuất",
+    "d":"D. Đời sống hoặc sản xuất",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "A. Đời sống",
+      "B. Sản xuất",
+      "C. Đời sống và sản xuất",
+      "D. Đời sống hoặc sản xuất"
+    ]
+  },
+  {
+    "question":"Câu 5. Kĩ thuật điện tử có mấy vai trò chính trong sản xuất",
+    "type":"Multiple Choice",
+    "a":"A. 2 vai trò",
+    "b":"B. 3 vai trò",
+    "c":"C. 4 vai trò",
+    "d":"D. 5 vai trò",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "A. 2 vai trò",
+      "B. 3 vai trò",
+      "C. 4 vai trò",
+      "D. 5 vai trò"
+    ]
+  },
+  {
+    "question":"Câu 6. Triển vọng của kĩ thuật điện tử trong sản xuất là:",
+    "type":"Multiple Choice",
+    "a":"A. Tối ưu hóa toàn bộ quy trình sản xuất và phát triển chuỗi cung ứng linh hoạt theo yêu cầu của khách hàng",
+    "b":"B. Thay thế hiệu quả con người trong hoạt động tư duy",
+    "c":"C. Ứng dụng trong mọi lĩnh vực thiết yếu của đời sống",
+    "d":"D. Phát triển robot phân tích dữ liệu và đưa ra quyết định thay con người",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "A. Tối ưu hóa toàn bộ quy trình sản xuất và phát triển chuỗi cung ứng linh hoạt theo yêu cầu của khách hàng",
+      "B. Thay thế hiệu quả con người trong hoạt động tư duy",
+      "C. Ứng dụng trong mọi lĩnh vực thiết yếu của đời sống",
+      "D. Phát triển robot phân tích dữ liệu và đưa ra quyết định thay con người"
+    ]
+  },
+  {
+    "question":"Câu 7. Đâu không phải là triển vọng của kĩ thuật điện tử trong đời sống:",
+    "type":"Multiple Choice",
+    "a":"A. Ứng dụng trong mọi lĩnh vực thiết yếu của đời sống",
+    "b":"B. Thay thế hiệu quả con người trong hoạt động tư duy",
+    "c":"C. Tối ưu hóa toàn bộ quy trình sản xuất và phát triển chuỗi cung ứng linh hoạt theo yêu cầu của khách hàng",
+    "d":"D. Phát triển robot phân tích dữ liệu và đưa ra quyết định thay con người",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "A. Ứng dụng trong mọi lĩnh vực thiết yếu của đời sống",
+      "B. Thay thế hiệu quả con người trong hoạt động tư duy",
+      "C. Tối ưu hóa toàn bộ quy trình sản xuất và phát triển chuỗi cung ứng linh hoạt theo yêu cầu của khách hàng",
+      "D. Phát triển robot phân tích dữ liệu và đưa ra quyết định thay con người"
+    ]
+  },
+  {
+    "question":"Câu 1: Đâu là vai trò của kĩ thuật điện tử đối với sản xuất?",
+    "type":"Multiple Choice",
+    "a":"A. Tạo ra các hệ thống điều khiển, tạo ra các hệ thống giám sát, điều hành sản xuất từ xa, tự động hoá sản xuất",
+    "b":"B. Nâng cao chất lượng cuộc sống trong gia đình",
+    "c":"C. Nâng cao chất lượng sinh hoạt trong cộng đồng",
+    "d":"D. Góp phần mở rộng, phát triển các loại hình vui chơi và giải trí",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "A. Tạo ra các hệ thống điều khiển, tạo ra các hệ thống giám sát, điều hành sản xuất từ xa, tự động hoá sản xuất",
+      "B. Nâng cao chất lượng cuộc sống trong gia đình",
+      "C. Nâng cao chất lượng sinh hoạt trong cộng đồng",
+      "D. Góp phần mở rộng, phát triển các loại hình vui chơi và giải trí"
+    ]
+  },
+  {
+    "question":"Câu 2: Đâu là vai trò của kĩ thuật điện tử đối với đời sống?",
+    "type":"Multiple Choice",
+    "a":"A. Tạo ra các hệ thống giám sát, điều hàng sản xuất từ xa",
+    "b":"B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+    "c":"C. Tạo ra các máy công cụ tự động có khả năng gia công nhiều khiểu mẫu sản xuất với độ phức tạp và chính xác cao",
+    "d":"D. Điều phối linh hoạt quá trình sản xuất và kịp thời kiểm soát những sự cố xảy ra",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "A. Tạo ra các hệ thống giám sát, điều hàng sản xuất từ xa",
+      "B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+      "C. Tạo ra các máy công cụ tự động có khả năng gia công nhiều khiểu mẫu sản xuất với độ phức tạp và chính xác cao",
+      "D. Điều phối linh hoạt quá trình sản xuất và kịp thời kiểm soát những sự cố xảy ra"
+    ]
+  },
+  {
+    "question":"Câu 3: Ví dụ cho thấy kĩ thuật điện tử tạo ra các hệ thống điều khiển, tự động hóa sản xuất",
+    "type":"Multiple Choice",
+    "a":"A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+    "b":"B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+    "c":"C. Hiện đại hóa các thiết bị y tế và hỗ trợ chăm sóc sức khỏe cộng đồng",
+    "d":"D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+      "B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+      "C. Hiện đại hóa các thiết bị y tế và hỗ trợ chăm sóc sức khỏe cộng đồng",
+      "D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao"
+    ]
+  },
+  {
+    "question":"Câu 4: Ví dụ cho thấy kĩ thuật điện tử tạo ra hệ thống giám sát, điều hành sản xuất từ xa",
+    "type":"Multiple Choice",
+    "a":"A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+    "b":"B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+    "c":"C. Hiện đại hóa các thiết bị y tế và hỗ trợ chăm sóc sức khỏe cộng đồng",
+    "d":"D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+      "B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+      "C. Hiện đại hóa các thiết bị y tế và hỗ trợ chăm sóc sức khỏe cộng đồng",
+      "D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao"
+    ]
+  },
+  {
+    "question":"Câu 5. Ví dụ cho thấy kĩ thuật điện tử nâng cao chất lượng cuộc sống trong gia đình",
+    "type":"Multiple Choice",
+    "a":"A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+    "b":"B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+    "c":"C. Tạo ra hệ thống đa phương tiện, các thiết bị truyền thông",
+    "d":"D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "A. Thu thập dữ liệu, hình ảnh của quá trình sản xuất thông qua hệ thống camera và cảm biến",
+      "B. Phát triển những mô hình chăm sóc, khám chữa bệnh từ xa",
+      "C. Tạo ra hệ thống đa phương tiện, các thiết bị truyền thông",
+      "D. Tạo các máy công cụ tự động có khả năng gia công nhiều kiểu mẫu sản phẩm với độ phức tạp và chính xác cao"
+    ]
+  },
+  {
+    "question":"Câu 1: Kĩ thuật điện tử mang lại nhiều tiện ích, đóng vai trò quan trọng trong việc nâng cao chất lượng cuộc sống gia đình và chất lượng sinh hoạt cộng đồng. Đã có những đánh giá về vai trò của kĩ thuật điện tử đối với đời sống con người.",
+    "type":"Multiple Choice",
+    "a":"a. Ngày nay, các đồ dùng và thiết bị điện tử thông minh ngày càng được nghiên cứu và chế tạo nhằm phục vụ cuộc sống con người.",
+    "b":"b. Mô hình chăm sóc, khám chữa bệnh từ xa được triển khai nhờ sự phát triển của kĩ thuật điện tử.",
+    "c":"c. Hệ thống chiếu sáng công cộng được cải tiến, tiết kiệm điện nhờ sử dụng các đèn LED giảm lượng điện năng tiêu thụ.",
+    "d":"d. Các thiết bị sử dụng năng lượng mặt trời cũng được nghiên cứu, ứng dụng ngày càng rộng rãi trong gia đình.",
+    "e":null,
+    "answer":[
+      2,
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "a. Ngày nay, các đồ dùng và thiết bị điện tử thông minh ngày càng được nghiên cứu và chế tạo nhằm phục vụ cuộc sống con người.",
+      "b. Mô hình chăm sóc, khám chữa bệnh từ xa được triển khai nhờ sự phát triển của kĩ thuật điện tử.",
+      "c. Hệ thống chiếu sáng công cộng được cải tiến, tiết kiệm điện nhờ sử dụng các đèn LED giảm lượng điện năng tiêu thụ.",
+      "d. Các thiết bị sử dụng năng lượng mặt trời cũng được nghiên cứu, ứng dụng ngày càng rộng rãi trong gia đình."
+    ]
+  },
+  {
+    "question":"Câu 1: Lĩnh vực kĩ thuật điện tử gồm mấy nhóm ngành nghề chính?",
+    "type":"Multiple Choice",
+    "a":"A. 2 nhóm",
+    "b":"B. 3 nhóm",
+    "c":"C. 4 nhóm",
+    "d":"D. 5 nhóm",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "A. 2 nhóm",
+      "B. 3 nhóm",
+      "C. 4 nhóm",
+      "D. 5 nhóm"
+    ]
+  },
+  {
+    "question":"Câu 2: Công việc của ngành thiết kế điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+    "b":"B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+    "c":"C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+    "d":"D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+      "B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+      "C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+      "D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế"
+    ]
+  },
+  {
+    "question":"Câu 3: Công việc của ngành sản xuất, chế tạo thiết bị điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+    "b":"B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+    "c":"C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+    "d":"D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+      "B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+      "C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+      "D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế"
+    ]
+  },
+  {
+    "question":"Câu 4: Người thực hiện trong ngành thiết kế điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Kĩ sư",
+    "b":"B. Kĩ thuật viên",
+    "c":"C. Thợ sản xuất",
+    "d":"D. Kĩ sư, kĩ thuật viên",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "A. Kĩ sư",
+      "B. Kĩ thuật viên",
+      "C. Thợ sản xuất",
+      "D. Kĩ sư, kĩ thuật viên"
+    ]
+  },
+  {
+    "question":"Câu 5: Công việc của ngành lắp đặt thiết bị điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+    "b":"B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+    "c":"C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+    "d":"D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+      "B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+      "C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+      "D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế"
+    ]
+  },
+  {
+    "question":"Câu 6: Vận hành thiết bị điện tử là:",
+    "type":"Multiple Choice",
+    "a":"A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+    "b":"B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+    "c":"C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+    "d":"D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "A. Nghiên cứu, ứng dụng kiến thức về kĩ thuật điện tử để tạo ra bản thiết kế mạch nguyên lí, thử nghiệm hoạt động của mạch nguyên lí, bản thiết kế mạch in và các thành phần cần thiết khác của thiết bị nhằm đáp ứng được yêu cầu đặt ra",
+      "B. Sử dụng các dây chuyền công nghệ hoặc máy và công cụ hỗ trợ để tạo ra thiết bị điện tử từ vật liệu, linh kiện theo bản thiết kế ban đầu và quy trình kiểm soát chất lượng",
+      "C. Kết nối và kiểm tra hoạt động của thiết bị điện tử riêng lẻ theo tiêu chuẩn kĩ thuật và an toàn",
+      "D. Hoạt động nhằm duy trì chế độ làm việc bình thường của thiết bị điện đáp ứng các yêu cầu chất lượng, độ tin cậy và kinh tế"
+    ]
+  },
+  {
+    "question":"Câu 7: Yêu cầu về trình độ đối với vị trí kĩ sư điện tử:",
+    "type":"Multiple Choice",
+    "a":"A. Trình độ đại học ngành kĩ thuật điện tử",
+    "b":"B. Trình độ cao đẳng nghề kĩ thuật điện tử",
+    "c":"C. Trình độ trung cấp nghề kĩ thuật điện tử",
+    "d":"D. Trình độ sơ cấp nghề kĩ thuật điện tử",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "A. Trình độ đại học ngành kĩ thuật điện tử",
+      "B. Trình độ cao đẳng nghề kĩ thuật điện tử",
+      "C. Trình độ trung cấp nghề kĩ thuật điện tử",
+      "D. Trình độ sơ cấp nghề kĩ thuật điện tử"
+    ]
+  },
+  {
+    "question":"Câu 8: Yêu cầu về trình độ đối với vị trí kĩ thuật viên điện tử:",
+    "type":"Multiple Choice",
+    "a":"A. Trình độ đại học ngành kĩ thuật điện tử",
+    "b":"B. Trình độ đại học và cao đẳng nghề kĩ thuật điện tử",
+    "c":"C. Trình độ trung cấp và cao đẳng nghề kĩ thuật điện tử",
+    "d":"D. Trình độ sơ cấp nghề kĩ thuật điện tử",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "A. Trình độ đại học ngành kĩ thuật điện tử",
+      "B. Trình độ đại học và cao đẳng nghề kĩ thuật điện tử",
+      "C. Trình độ trung cấp và cao đẳng nghề kĩ thuật điện tử",
+      "D. Trình độ sơ cấp nghề kĩ thuật điện tử"
+    ]
+  },
+  {
+    "question":"Câu 9: Yêu cầu về trình độ đối với vị trí thợ điện",
+    "type":"Multiple Choice",
+    "a":"A. Trình độ đại học ngành kĩ thuật điện tử",
+    "b":"B. Trình độ đại học và cao đẳng nghề kĩ thuật điện tử",
+    "c":"C. Trình độ trung cấp và cao đẳng nghề kĩ thuật điện tử",
+    "d":"D. Trình độ sơ cấp nghề kĩ thuật điện tử",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "A. Trình độ đại học ngành kĩ thuật điện tử",
+      "B. Trình độ đại học và cao đẳng nghề kĩ thuật điện tử",
+      "C. Trình độ trung cấp và cao đẳng nghề kĩ thuật điện tử",
+      "D. Trình độ sơ cấp nghề kĩ thuật điện tử"
+    ]
+  },
+  {
+    "question":"Câu 1: Kĩ sư thiết kế thiết bị điện tử có nhiệm vụ:",
+    "type":"Multiple Choice",
+    "a":"A. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+    "b":"B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+    "c":"C. Thiết lập các tiêu chuẩn và quy định kiểm soát để đảm bảo hoạt động hiệu quả, an toàn cho các thiết bị và hệ thống điện tử",
+    "d":"D. Quy định phương pháp lắp đặt, chỉ đạo công việc lắp đặt các sản phẩm và hệ thống điện tử",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "A. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+      "B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+      "C. Thiết lập các tiêu chuẩn và quy định kiểm soát để đảm bảo hoạt động hiệu quả, an toàn cho các thiết bị và hệ thống điện tử",
+      "D. Quy định phương pháp lắp đặt, chỉ đạo công việc lắp đặt các sản phẩm và hệ thống điện tử"
+    ]
+  },
+  {
+    "question":"Câu 2. Yêu cầu về trình độ đối với vị trí kĩ sư trong ngành vận hành thiết bị điện tử là",
+    "type":"Multiple Choice",
+    "a":"A. Đại học ngành kĩ thuật điện tử.",
+    "b":"B. Trung cấp nghề kĩ thuật điện tử.",
+    "c":"C. Cao đẳng nghề kĩ thuật điện tử.",
+    "d":"D. Sơ cấp nghề điện tử",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "A. Đại học ngành kĩ thuật điện tử.",
+      "B. Trung cấp nghề kĩ thuật điện tử.",
+      "C. Cao đẳng nghề kĩ thuật điện tử.",
+      "D. Sơ cấp nghề điện tử"
+    ]
+  },
+  {
+    "question":"Câu 3: Kĩ sư quản lí chất lượng thiết bị điện tử có nhiệm vụ:",
+    "type":"Multiple Choice",
+    "a":"A. Thiết lập các tiêu chuẩn và quy định kiểm soát để đảm bảo hoạt động hiệu quả, an toàn cho các thiết bị và hệ thống điện tử",
+    "b":"B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+    "c":"C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+    "d":"D. Kiểm soát chất lượng sản phẩm",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "A. Thiết lập các tiêu chuẩn và quy định kiểm soát để đảm bảo hoạt động hiệu quả, an toàn cho các thiết bị và hệ thống điện tử",
+      "B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+      "C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+      "D. Kiểm soát chất lượng sản phẩm"
+    ]
+  },
+  {
+    "question":"Câu 4: Kĩ thuật viên thiết kế thiết bị điện tử có nhiệm vụ:",
+    "type":"Multiple Choice",
+    "a":"A. Hỗ trợ kĩ thuật trong nghiên cứu và phát triển thiết bị điện tử hoặc thử nghiệm các nguyên mẫu",
+    "b":"B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+    "c":"C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+    "d":"D. Kiểm soát chất lượng sản phẩm",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "A. Hỗ trợ kĩ thuật trong nghiên cứu và phát triển thiết bị điện tử hoặc thử nghiệm các nguyên mẫu",
+      "B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+      "C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+      "D. Kiểm soát chất lượng sản phẩm"
+    ]
+  },
+  {
+    "question":"Câu 5: Kĩ thuật viên lắp đặt thiết bị điện tử có nhiệm vụ:",
+    "type":"Multiple Choice",
+    "a":"A. Hỗ trợ kĩ thuật trong nghiên cứu và phát triển thiết bị điện tử hoặc thử nghiệm các nguyên mẫu",
+    "b":"B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+    "c":"C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+    "d":"D. Tổ chức thi công và lắp đặt thiết bị điện tử",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "A. Hỗ trợ kĩ thuật trong nghiên cứu và phát triển thiết bị điện tử hoặc thử nghiệm các nguyên mẫu",
+      "B. Nghiên cứu, tư vấn và thiết kế các thiết bị hoặc linh kiện điện tử, mạch điện, chất bán dẫn và hệ thống điện tử",
+      "C. Tổ chức vận hành và đảm bảo kĩ thuật hệ thống sản xuất được tối ưu",
+      "D. Tổ chức thi công và lắp đặt thiết bị điện tử"
+    ]
+  },
+  {
+    "question":"Câu 6. Thợ điện tử không thuộc vị trí việc làm của ngành nào sau đây?",
+    "type":"Multiple Choice",
+    "a":"A. Thiết kế thiết bị điện tử",
+    "b":"B. Sản xuất, chế tạo thiết bị điện tử",
+    "c":"C. Lắp đặt thiết bị điện tử",
+    "d":"D Bảo dưỡng và sửa chữa",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "A. Thiết kế thiết bị điện tử",
+      "B. Sản xuất, chế tạo thiết bị điện tử",
+      "C. Lắp đặt thiết bị điện tử",
+      "D Bảo dưỡng và sửa chữa"
+    ]
+  },
+  {
+    "question":"Câu 7: Đâu là dịch vụ viễn thông?",
+    "type":"Multiple Choice",
+    "a":"A. Thẻ điện tử",
+    "b":"B. Nhắn tin",
+    "c":"C. Học liệu điện tử",
+    "d":"D. Đặt vé trực tuyến",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "A. Thẻ điện tử",
+      "B. Nhắn tin",
+      "C. Học liệu điện tử",
+      "D. Đặt vé trực tuyến"
+    ]
+  },
+  {
+    "question":"Câu 8. Chương trình giới thiệu mấy dịch vụ phổ biến có ứng dụng kĩ thuật điện tử?",
+    "type":"Multiple Choice",
+    "a":"A. 1",
+    "b":"B. 2",
+    "c":"C. 3",
+    "d":"D. 4",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ]
+  },
+  {
+    "question":"Câu 1: Vận hành thiết bị điện tử là thao tác đóng cắt, điều chỉnh đúng quy trình các thiết bị và hệ thống điện tử nhằm khai thác hiệu quả, đúng chức năng, đảm bảo làm việc an toàn, không xảy ra sự cố cho người và thiết bị. Nhận định nào sau đây là đúng khi nói về ngành vận hành thiết bị điện tử:",
+    "type":"Multiple Choice",
+    "a":"a. Công việc vận hành thiết bị điện tử tại các trung tâm kĩ thuật thường được thực hiện bởi các thợ điện",
+    "b":"b. Công việc vận hành điện thường được hỗ trợ bởi các thiết bị đo lường",
+    "c":"c. Công việc vận hành điện có thể thực hiện trong nhà hoặc nơi đặt các máy sản xuất, đôi khi trên địa hình phức tạp, môi trường khắc nghiệt",
+    "d":"d. Công việc chính trong vận hành điện là lựa chọn công nghệ sản xuất phù hợp, đảm bảo đúng yêu cầu kĩ thuật",
+    "e":null,
+    "answer":[
+      2,
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "a. Công việc vận hành thiết bị điện tử tại các trung tâm kĩ thuật thường được thực hiện bởi các thợ điện",
+      "b. Công việc vận hành điện thường được hỗ trợ bởi các thiết bị đo lường",
+      "c. Công việc vận hành điện có thể thực hiện trong nhà hoặc nơi đặt các máy sản xuất, đôi khi trên địa hình phức tạp, môi trường khắc nghiệt",
+      "d. Công việc chính trong vận hành điện là lựa chọn công nghệ sản xuất phù hợp, đảm bảo đúng yêu cầu kĩ thuật"
+    ]
+  },
+  {
+    "question":"Câu 1: Công dụng của điện trở:",
+    "type":"Multiple Choice",
+    "a":"A. Hạn chế hoặc điều chỉnh dòng điện và phân chia điện áp trong các mạch điện, điện tử",
+    "b":"B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+    "c":"C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+    "d":"D. Đo điện năng tiêu thụ",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "A. Hạn chế hoặc điều chỉnh dòng điện và phân chia điện áp trong các mạch điện, điện tử",
+      "B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+      "C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+      "D. Đo điện năng tiêu thụ"
+    ]
+  },
+  {
+    "question":"Câu 2: Công dụng của cuộn cảm:",
+    "type":"Multiple Choice",
+    "a":"A. Hạn chế hoặc điều chỉnh dòng điện",
+    "b":"B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+    "c":"C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+    "d":"D. Phân chia điện áp trong các mạch điện, điện tử",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "A. Hạn chế hoặc điều chỉnh dòng điện",
+      "B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+      "C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+      "D. Phân chia điện áp trong các mạch điện, điện tử"
+    ]
+  },
+  {
+    "question":"Câu 3: Công dụng của tụ điện:",
+    "type":"Multiple Choice",
+    "a":"A. Hạn chế hoặc điều chỉnh dòng điện",
+    "b":"B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+    "c":"C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+    "d":"D. Phân chia điện áp trong các mạch điện, điện tử",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "A. Hạn chế hoặc điều chỉnh dòng điện",
+      "B. Ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua",
+      "C. Dẫn dòng điện một chiều, cản trở dòng điện cao tần",
+      "D. Phân chia điện áp trong các mạch điện, điện tử"
+    ]
+  },
+  {
+    "question":"Câu 4: Kí hiệu của điện trở cố định là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/a.png",
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 5: Kí hiệu của điện trở quang là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/a.png",
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 6: Kí hiệu của điện trở nhiệt là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/a.png",
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 7: Kí hiệu của biến trở là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/a.png",
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 8: Đây là hình ảnh của loại điện trở nào?",
+    "type":"Multiple Choice",
+    "a":"A. Điện trở cố định",
+    "b":"B. Biến trở",
+    "c":"C. Điện trở nhiệt",
+    "d":"D. Điện trở quang",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "A. Điện trở cố định",
+      "B. Biến trở",
+      "C. Điện trở nhiệt",
+      "D. Điện trở quang"
+    ]
+  },
+  {
+    "question":"Câu 9. Giá trị điện trở cho biết:",
+    "type":"Multiple Choice",
+    "a":"A. Mức độ cản trở dòng điện của điện trở",
+    "b":"B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+    "c":"C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+    "d":"D. Mức độ mạnh, yếu của dòng điện",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "A. Mức độ cản trở dòng điện của điện trở",
+      "B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+      "C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+      "D. Mức độ mạnh, yếu của dòng điện"
+    ]
+  },
+  {
+    "question":"Câu 10. Giá trị điện cảm (L) cho biết:",
+    "type":"Multiple Choice",
+    "a":"A. Mức độ cản trở dòng điện của điện trở",
+    "b":"B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+    "c":"C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+    "d":"D. Mức độ mạnh, yếu của dòng điện",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "A. Mức độ cản trở dòng điện của điện trở",
+      "B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+      "C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+      "D. Mức độ mạnh, yếu của dòng điện"
+    ]
+  },
+  {
+    "question":"Câu 11. Giá trị điện dung tụ điện (C) cho biết:",
+    "type":"Multiple Choice",
+    "a":"A. Mức độ cản trở dòng điện của điện trở",
+    "b":"B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+    "c":"C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+    "d":"D. Mức độ mạnh, yếu của dòng điện",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "A. Mức độ cản trở dòng điện của điện trở",
+      "B. Khả năng tích lũy năng lượng điện trường của tụ điện khi có điện áp thuận đặt lên hai cực của nó",
+      "C. Khả năng tích lũy năng lượng từ trường của cuộn cảm khi có dòng điện chạy qua nó",
+      "D. Mức độ mạnh, yếu của dòng điện"
+    ]
+  },
+  {
+    "question":"Câu 12. Kí hiệu của tụ không phân cực (tụ thường) là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/b.png",
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 13. Kí hiệu của tụ có điều chỉnh (tụ xoay) là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/b.png",
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 14. Kí hiệu của tụ phân cực (tụ hóa) là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/b.png",
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 15. Kí hiệu của cuộn cảm lõi không khí là:",
+    "type":"Multiple Choice",
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/c.png",
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 16. Cho biết tên gọi của cuộn cảm trong hình sau:",
+    "type":"Multiple Choice",
+    "a":"A. Cuộn cảm lõi không khí",
+    "b":"B. Cuộn cảm lõi ferrite",
+    "c":"C. Cuộn cảm lõi sắt",
+    "d":"D. Cuộn cảm vòng màu",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":"\/quizzes\/CN CK2\/16.png",
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "A. Cuộn cảm lõi không khí",
+      "B. Cuộn cảm lõi ferrite",
+      "C. Cuộn cảm lõi sắt",
+      "D. Cuộn cảm vòng màu"
+    ]
+  },
+  {
+    "question":"Câu 17. Đơn vị của tụ điện là:",
+    "type":"Multiple Choice",
+    "a":"A. Ω",
+    "b":"B. F",
+    "c":"C. H",
+    "d":"D. J",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":48,
+    "choices":[
+      "A. Ω",
+      "B. F",
+      "C. H",
+      "D. J"
+    ]
+  },
+  {
+    "question":"Câu 18. Đơn vị của điện trở là:",
+    "type":"Multiple Choice",
+    "a":"A. Ω",
+    "b":"B. F",
+    "c":"C. H",
+    "d":"D. J",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":49,
+    "choices":[
+      "A. Ω",
+      "B. F",
+      "C. H",
+      "D. J"
+    ]
+  },
+  {
+    "question":"Câu 19. Đơn vị của cuộn cảm là:",
+    "type":"Multiple Choice",
+    "a":"A. Ω",
+    "b":"B. F",
+    "c":"C. H",
+    "d":"D. J",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":50,
+    "choices":[
+      "A. Ω",
+      "B. F",
+      "C. H",
+      "D. J"
+    ]
+  },
+  {
+    "question":"Câu 20. Cảm kháng của cuộn cảm (XL) là:",
+    "type":"Multiple Choice",
+    "a":"A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+    "b":"B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+    "c":"C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+    "d":"D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":51,
+    "choices":[
+      "A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+      "B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+      "C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+      "D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó"
+    ]
+  },
+  {
+    "question":"Câu 21. Dung kháng của tụ điện (Xc) là:",
+    "type":"Multiple Choice",
+    "a":"A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+    "b":"B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+    "c":"C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+    "d":"D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":52,
+    "choices":[
+      "A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+      "B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+      "C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+      "D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó"
+    ]
+  },
+  {
+    "question":"Câu 22. Điện áp định mức của tụ điện là:",
+    "type":"Multiple Choice",
+    "a":"A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+    "b":"B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+    "c":"C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+    "d":"D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":53,
+    "choices":[
+      "A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+      "B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+      "C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+      "D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó"
+    ]
+  },
+  {
+    "question":"Câu 23. Dòng định mức cuộn cảm là:",
+    "type":"Multiple Choice",
+    "a":"A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+    "b":"B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+    "c":"C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+    "d":"D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":54,
+    "choices":[
+      "A. Đại lượng vật lí đặc trưng cho sự cản trở của cuộn cảm đối với dòng điện xoay chiều (biến thiên) chạy qua nó",
+      "B. Trị số dòng điện lớn nhất cho phép chạy qua cuộn cảm và khả năng tích lũy năng lượng từ trường",
+      "C. Trị số điện áp lớn nhất cho phép đặt lên hai cực của tụ điện",
+      "D. Đại lượng vật lí đặc trương cho sự cản trở của tụ điện đối với dòng điện chạy qua nó"
+    ]
+  }
+]

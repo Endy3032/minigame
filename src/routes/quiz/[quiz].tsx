@@ -10,7 +10,7 @@ export const handler: Handlers = {
 			const questions = JSON.parse(
 				Deno.readTextFileSync(fromFileUrl(join(dirname(import.meta.url), `../../static/quizzes/${quiz}/data.json`))),
 			)
-			return ctx.render({ questions })
+			return ctx.render({ questions, quiz })
 		} catch {
 			return ctx.renderNotFound()
 		}
@@ -20,5 +20,5 @@ export const handler: Handlers = {
 export default function QuizPage(props: PageProps) {
 	const questions = fisherYatesShuffle(props.data.questions as Question[])
 
-	return <Quiz questions={questions} />
+	return <Quiz questions={questions} name={props.data.quiz ?? "Quiz"} />
 }

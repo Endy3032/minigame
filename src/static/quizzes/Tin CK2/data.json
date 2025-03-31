@@ -1,0 +1,1914 @@
+[
+  {
+    "question":"Câu 1. Trong Học máy, có bao nhiêu loại chính? Chọn một đáp án đúng",
+    "type":"Multiple Choice",
+    "a":"a. 2 loại.",
+    "b":"b. 3 loại.",
+    "c":"c. 1 loại.",
+    "d":"d. 4 loại.",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "a. 2 loại.",
+      "b. 3 loại.",
+      "c. 1 loại.",
+      "d. 4 loại."
+    ]
+  },
+  {
+    "question":"Câu 2. Vai trò của Học máy trong công việc phân loại thư rác là: Chọn một đáp án đúng",
+    "type":"Multiple Choice",
+    "a":"a. Yêu cầu dữ liệu lớn.",
+    "b":"b. Nguy cơ thiên vị.",
+    "c":"c. Khả năng học hỏi và thích ứng.",
+    "d":"d. Khó khăn trong việc giải thích.",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "a. Yêu cầu dữ liệu lớn.",
+      "b. Nguy cơ thiên vị.",
+      "c. Khả năng học hỏi và thích ứng.",
+      "d. Khó khăn trong việc giải thích."
+    ]
+  },
+  {
+    "question":"Câu 3. Học máy là một lĩnh vực của ... nghiên cứu và phát triển các thuật toán và mô hình đem lại khả năng học cho máy tính. Nó cho phép máy tính tự động tìm hiểu từ dữ liệu và tạo ra các mô hình dự đoán hoặc quyết định dựa trên dữ liệu mà không cần phải được lập trình cụ thể. Hãy điền từ còn thiếu vào dấu ba chấm. Chọn một đáp án đúng",
+    "type":"Multiple Choice",
+    "a":"a. AI",
+    "b":"b. máy tính",
+    "c":"c. con người",
+    "d":"d. tin học",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "a. AI",
+      "b. máy tính",
+      "c. con người",
+      "d. tin học"
+    ]
+  },
+  {
+    "question":"Câu 4. Quan sát hình Minh họa Mô hình Học máy bên dưới và sắp xếp quy trình thực hiện.",
+    "type":"Multiple Choice",
+    "a":"a. Mô hình học máy, Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình",
+    "b":"b. Mô hình học máy, Mô hình, Áp dụng mô hình, Dữ liệu kiểm tra",
+    "c":"c. Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình, Mô hình học máy",
+    "d":"d. Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình học máy, Mô hình",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":"\/quizzes\/Tin CK2\/4.png",
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "a. Mô hình học máy, Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình",
+      "b. Mô hình học máy, Mô hình, Áp dụng mô hình, Dữ liệu kiểm tra",
+      "c. Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình, Mô hình học máy",
+      "d. Dữ liệu kiểm tra, Áp dụng mô hình, Mô hình học máy, Mô hình"
+    ]
+  },
+  {
+    "question":"Câu 5. Chọn phát biểu ĐỨNG trong các phát biểu dưới đây.",
+    "type":"Multiple Choice",
+    "a":"a. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có giám sát và dữ liệu không giám sát. Có hai phương pháp học máy cơ bản là: học có giám sát và học không giám sát.",
+    "b":"b. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có nhãn và dữ liệu không có nhãn. Có hai phương pháp học máy cơ bản là: học có nhãn và học không có nhãn.",
+    "c":"c. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có nhãn và dữ liệu không có nhãn. Có hai phương pháp học máy cơ bản là: học có giám sát và học không giám sát.",
+    "d":"d. Trong Học máy, tập dữ liệu đầu vào gôm một loại chính là: dữ liệu có nhãn. Có một phương pháp học máy cơ bản là: học có giám sát.",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "a. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có giám sát và dữ liệu không giám sát. Có hai phương pháp học máy cơ bản là: học có giám sát và học không giám sát.",
+      "b. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có nhãn và dữ liệu không có nhãn. Có hai phương pháp học máy cơ bản là: học có nhãn và học không có nhãn.",
+      "c. Trong Học máy, tập dữ liệu đầu vào gôm hai loại chính là: dữ liệu có nhãn và dữ liệu không có nhãn. Có hai phương pháp học máy cơ bản là: học có giám sát và học không giám sát.",
+      "d. Trong Học máy, tập dữ liệu đầu vào gôm một loại chính là: dữ liệu có nhãn. Có một phương pháp học máy cơ bản là: học có giám sát."
+    ]
+  },
+  {
+    "question":"Câu 6. Chọn phương án trả lời SAI. Vai trò của Học máy trong công việc chấn đoán bệnh.",
+    "type":"Multiple Choice",
+    "a":"a. Hỗ trợ chẩn đoán chính xác hơn.",
+    "b":"b. Phát hiện bệnh sớm.",
+    "c":"c. Yêu cầu chuyên môn cao.",
+    "d":"d. Hỗ trợ bác sĩ trong việc ra quyết định.",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "a. Hỗ trợ chẩn đoán chính xác hơn.",
+      "b. Phát hiện bệnh sớm.",
+      "c. Yêu cầu chuyên môn cao.",
+      "d. Hỗ trợ bác sĩ trong việc ra quyết định."
+    ]
+  },
+  {
+    "question":"Câu 7. Chọn phương án ĐŨNG. Học máy là:",
+    "type":"Multiple Choice",
+    "a":"a. Chương trình máy tính có khả năng đưa ra quyết định hay dự đoán dựa trên dữ liệu.",
+    "b":"b. Chương trình máy tính không cần đưa ra quyết định hay dự đoán dựa trên dữ liệu.",
+    "c":"c. Khả năng phân tích dữ liệu thu nhận được của máy tính để đưa ra dự đoán hoặc quyết định dựa trên các quy tắc được xác định rõ ràng.",
+    "d":"d. Chương trình máy tính có khả năng tự cải thiện hiệu suất thực hiện nhiệm vụ thông qua việc cập nhật các dữ liệu mới sau khi hoàn thành nhiệm vụ đó nhiều lần.",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "a. Chương trình máy tính có khả năng đưa ra quyết định hay dự đoán dựa trên dữ liệu.",
+      "b. Chương trình máy tính không cần đưa ra quyết định hay dự đoán dựa trên dữ liệu.",
+      "c. Khả năng phân tích dữ liệu thu nhận được của máy tính để đưa ra dự đoán hoặc quyết định dựa trên các quy tắc được xác định rõ ràng.",
+      "d. Chương trình máy tính có khả năng tự cải thiện hiệu suất thực hiện nhiệm vụ thông qua việc cập nhật các dữ liệu mới sau khi hoàn thành nhiệm vụ đó nhiều lần."
+    ]
+  },
+  {
+    "question":"Câu 8. Khía cạnh nào sau đây của Học máy thuộc lĩnh vực y tế?",
+    "type":"Multiple Choice",
+    "a":"a. Chẩn đoán và dự đoán.",
+    "b":"b. Phân tích và dự báo thị trường.",
+    "c":"c. Tự động hóa nhiệm vụ phức tạp.",
+    "d":"d. Nhận dạng và xử lý âm thanh.",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "a. Chẩn đoán và dự đoán.",
+      "b. Phân tích và dự báo thị trường.",
+      "c. Tự động hóa nhiệm vụ phức tạp.",
+      "d. Nhận dạng và xử lý âm thanh."
+    ]
+  },
+  {
+    "question":"Câu 9. Khoa học dữ liệu là gì?",
+    "type":"Multiple Choice",
+    "a":"a. Chỉ là lập trình",
+    "b":"b. Quy trình thu thập và phân tích dữ liệu để rút ra thông tin",
+    "c":"c. Chỉ là về toán học",
+    "d":"d. Không liên quan đến công nghệ",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "a. Chỉ là lập trình",
+      "b. Quy trình thu thập và phân tích dữ liệu để rút ra thông tin",
+      "c. Chỉ là về toán học",
+      "d. Không liên quan đến công nghệ"
+    ]
+  },
+  {
+    "question":"Câu 10. Ngôn ngữ lập trình phổ biến nhất trong khoa học dữ liệu là gì?",
+    "type":"Multiple Choice",
+    "a":"a. C++",
+    "b":"b. Python",
+    "c":"c. Java",
+    "d":"d. HTML",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "a. C++",
+      "b. Python",
+      "c. Java",
+      "d. HTML"
+    ]
+  },
+  {
+    "question":"Câu 11. Phương pháp nào thường được sử dụng để xử lý dữ liệu thiếu?",
+    "type":"Multiple Choice",
+    "a":"a. Tăng dữ liệu",
+    "b":"b. Xóa dữ liệu",
+    "c":"c. Thay thế dữ liệu thiếu bằng giá trị trung bình",
+    "d":"d. Không làm gì cả",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "a. Tăng dữ liệu",
+      "b. Xóa dữ liệu",
+      "c. Thay thế dữ liệu thiếu bằng giá trị trung bình",
+      "d. Không làm gì cả"
+    ]
+  },
+  {
+    "question":"Câu 12. Dữ liệu lớn (Big Data) chủ yếu được đặc trưng bởi những gì?",
+    "type":"Multiple Choice",
+    "a":"a. Kích thước nhỏ",
+    "b":"b. Tốc độ xử lý chậm",
+    "c":"c. Độ phức tạp và đa dạng",
+    "d":"d. Dữ liệu chỉ từ một nguồn",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "a. Kích thước nhỏ",
+      "b. Tốc độ xử lý chậm",
+      "c. Độ phức tạp và đa dạng",
+      "d. Dữ liệu chỉ từ một nguồn"
+    ]
+  },
+  {
+    "question":"Câu 13. Mô hình nào được sử dụng phổ biến trong học máy (Machine Learning)?",
+    "type":"Multiple Choice",
+    "a":"a. Mô hình hồi quy",
+    "b":"b. Mô hình hóa thị trường",
+    "c":"c. Mô hình tài chính",
+    "d":"d. Mô hình mạng xã hội",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "a. Mô hình hồi quy",
+      "b. Mô hình hóa thị trường",
+      "c. Mô hình tài chính",
+      "d. Mô hình mạng xã hội"
+    ]
+  },
+  {
+    "question":"Câu 14. Kỹ thuật nào được sử dụng để giảm số lượng biến trong dữ liệu?",
+    "type":"Multiple Choice",
+    "a":"a. Tăng cường dữ liệu",
+    "b":"b. Giảm chiêu (Dimensionality Reduction)",
+    "c":"c. Phân loại",
+    "d":"d. Cụm (Clustering)",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "a. Tăng cường dữ liệu",
+      "b. Giảm chiêu (Dimensionality Reduction)",
+      "c. Phân loại",
+      "d. Cụm (Clustering)"
+    ]
+  },
+  {
+    "question":"Câu 15. Phần mềm nào thường được sử dụng để phân tích dữ liệu?",
+    "type":"Multiple Choice",
+    "a":"a. Microsoft Word",
+    "b":"b. Excel",
+    "c":"c. Photoshop",
+    "d":"d. Notepad",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "a. Microsoft Word",
+      "b. Excel",
+      "c. Photoshop",
+      "d. Notepad"
+    ]
+  },
+  {
+    "question":"Câu 16. Kỹ thuật nào được sử dụng để phân nhóm dữ liệu không có nhãn?",
+    "type":"Multiple Choice",
+    "a":"a. Hồi quy logistic",
+    "b":"b. K-means clustering",
+    "c":"c. Phân tích hồi quy",
+    "d":"d. Phân loại nhị phân",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "a. Hồi quy logistic",
+      "b. K-means clustering",
+      "c. Phân tích hồi quy",
+      "d. Phân loại nhị phân"
+    ]
+  },
+  {
+    "question":"Câu 17. Một trong những bước đầu tiên trong quy trình khoa học dữ liệu là gì?",
+    "type":"Multiple Choice",
+    "a":"a. Triển khai mô hình",
+    "b":"b. Thu thập dữ liệu",
+    "c":"c. Trình bày dữ liệu",
+    "d":"d. Tối ưu hóa mô hình",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "a. Triển khai mô hình",
+      "b. Thu thập dữ liệu",
+      "c. Trình bày dữ liệu",
+      "d. Tối ưu hóa mô hình"
+    ]
+  },
+  {
+    "question":"Câu 18. Hệ thống nào sử dụng học máy để cải thiện khả năng dự đoán?",
+    "type":"Multiple Choice",
+    "a":"a. Hệ thống thông tin",
+    "b":"b. Hệ thống quản lý cơ sở dữ liệu",
+    "c":"c. Hệ thống gợi ý",
+    "d":"d. Hệ thống thanh toán",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "a. Hệ thống thông tin",
+      "b. Hệ thống quản lý cơ sở dữ liệu",
+      "c. Hệ thống gợi ý",
+      "d. Hệ thống thanh toán"
+    ]
+  },
+  {
+    "question":"Câu 19. Khi xác định kì hạn vay dựa trên số tiền trả góp hằng tháng và lãi suất, ta cần phải sử dụng hàm nào trong Excel?",
+    "type":"Multiple Choice",
+    "a":"a. SUM",
+    "b":"b. VLOOKUP",
+    "c":"c. PMT",
+    "d":"d. AVERAGE",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "a. SUM",
+      "b. VLOOKUP",
+      "c. PMT",
+      "d. AVERAGE"
+    ]
+  },
+  {
+    "question":"Câu 20. Trong hàm PMT, tham số nper đại diện cho điều gì?",
+    "type":"Multiple Choice",
+    "a":"a. Lãi suất hàng tháng",
+    "b":"b. Số tiền vay",
+    "c":"c. Số kỳ hạn vay (số tháng)",
+    "d":"d. Số tiền thanh toán cuối cùng",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "a. Lãi suất hàng tháng",
+      "b. Số tiền vay",
+      "c. Số kỳ hạn vay (số tháng)",
+      "d. Số tiền thanh toán cuối cùng"
+    ]
+  },
+  {
+    "question":"Câu 21. Công cụ nào trong Excel được sử dụng để tạo và quản lý các kịch bản khác nhau trong phân tích dữ liệu?",
+    "type":"Multiple Choice",
+    "a":"a. Scenario Manager",
+    "b":"b. Goal Seek",
+    "c":"c. Data Table",
+    "d":"d. Solver",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "a. Scenario Manager",
+      "b. Goal Seek",
+      "c. Data Table",
+      "d. Solver"
+    ]
+  },
+  {
+    "question":"Câu 22. Công cụ nào giúp tìm giá trị đầu vào cần thiết để đạt được mục tiêu cụ thể?",
+    "type":"Multiple Choice",
+    "a":"a. Data Table",
+    "b":"b. Goal Seek",
+    "c":"c. Scenario Manager",
+    "d":"d. Forecast Sheet",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "a. Data Table",
+      "b. Goal Seek",
+      "c. Scenario Manager",
+      "d. Forecast Sheet"
+    ]
+  },
+  {
+    "question":"Câu 23. Trong nhiệm vụ dự báo dựa trên chuỗi thời gian, tham số nào không được điều chỉnh để xem ảnh hưởng đến kết quả dự báo?",
+    "type":"Multiple Choice",
+    "a":"a. Forecast Start",
+    "b":"b. Forecast End",
+    "c":"c. Confidence Interval",
+    "d":"d. Data Labels",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "a. Forecast Start",
+      "b. Forecast End",
+      "c. Confidence Interval",
+      "d. Data Labels"
+    ]
+  },
+  {
+    "question":"Câu 24. Công cụ nào trong Excel được sử dụng để tạo dự báo dựa trên dữ liệu chuỗi thời gian?",
+    "type":"Multiple Choice",
+    "a":"a. PivotTable",
+    "b":"b. Data Analysis",
+    "c":"c. Forecast Sheet",
+    "d":"d. Chart",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "a. PivotTable",
+      "b. Data Analysis",
+      "c. Forecast Sheet",
+      "d. Chart"
+    ]
+  },
+  {
+    "question":"Câu 25. Trong quá trình phân tích dữ liệu bằng Excel, khi nào nên sử dụng công cụ Data Table?",
+    "type":"Multiple Choice",
+    "a":"a. Khi cần tạo và quản lý kịch bản",
+    "b":"b. Khi muốn tìm giá trị đầu vào để đạt mục tiêu",
+    "c":"c. Khi muốn xem sự thay đổi của số tiền trả mỗi tháng khi thay đổi lãi suất hoặc kì hạn vay",
+    "d":"d. Khi cần tính toán khoản thanh toán định kì",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "a. Khi cần tạo và quản lý kịch bản",
+      "b. Khi muốn tìm giá trị đầu vào để đạt mục tiêu",
+      "c. Khi muốn xem sự thay đổi của số tiền trả mỗi tháng khi thay đổi lãi suất hoặc kì hạn vay",
+      "d. Khi cần tính toán khoản thanh toán định kì"
+    ]
+  },
+  {
+    "question":"Câu 26. Khi dự báo dữ liệu chuỗi thời gian, việc thay đổi tham số Confidence Interval có ý nghĩa gì?",
+    "type":"Multiple Choice",
+    "a":"a. Thay đổi khoảng thời gian dự báo",
+    "b":"b. Thay đổi độ chính xác của dự báo",
+    "c":"c. Thay đổi giá trị trung bình của dữ liệu dự báo",
+    "d":"d. Thay đổi hình dạng đồ thị",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "a. Thay đổi khoảng thời gian dự báo",
+      "b. Thay đổi độ chính xác của dự báo",
+      "c. Thay đổi giá trị trung bình của dữ liệu dự báo",
+      "d. Thay đổi hình dạng đồ thị"
+    ]
+  },
+  {
+    "question":"Câu 27. Điều gì xảy ra khi rút ngắn chuỗi thời gian dữ liệu trước khi dự báo?",
+    "type":"Multiple Choice",
+    "a":"a. Dự báo trở nên chính xác hơn",
+    "b":"b. Dự báo có thể kém chính xác hơn do thiếu dữ liệu lịch sử",
+    "c":"c. Không có thay đổi nào trong dự báo",
+    "d":"d. Dự báo luôn luôn tăng lên",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "a. Dự báo trở nên chính xác hơn",
+      "b. Dự báo có thể kém chính xác hơn do thiếu dữ liệu lịch sử",
+      "c. Không có thay đổi nào trong dự báo",
+      "d. Dự báo luôn luôn tăng lên"
+    ]
+  },
+  {
+    "question":"Câu 28. Một trong những kết quả chính của nhiệm vụ dự báo là gì?",
+    "type":"Multiple Choice",
+    "a":"a. Tìm kiếm các giá trị dữ liệu thiếu",
+    "b":"b. Tạo các kịch bản khác nhau",
+    "c":"c. Tính toán khoản thanh toán định kỳ",
+    "d":"d. Dự báo xu hướng tương lai dựa trên dữ liệu lịch sử",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "a. Tìm kiếm các giá trị dữ liệu thiếu",
+      "b. Tạo các kịch bản khác nhau",
+      "c. Tính toán khoản thanh toán định kỳ",
+      "d. Dự báo xu hướng tương lai dựa trên dữ liệu lịch sử"
+    ]
+  },
+  {
+    "question":"Câu 29. Khi tạo tập tin HTML nên lưu tập tin với phần mở rộng nào để trình duyệt có thể nhận diện đúng định dạng?",
+    "type":"Multiple Choice",
+    "a":"a. .txt",
+    "b":"b. .html",
+    "c":"c. .htm",
+    "d":"d. .css",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "a. .txt",
+      "b. .html",
+      "c. .htm",
+      "d. .css"
+    ]
+  },
+  {
+    "question":"Câu 30. Để tạo siêu liên kết trong HTML thẻ được sử dụng là?",
+    "type":"Multiple Choice",
+    "a":"a. <link>",
+    "b":"b. <a>",
+    "c":"c. <url>",
+    "d":"d. <href>",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "a. <link>",
+      "b. <a>",
+      "c. <url>",
+      "d. <href>"
+    ]
+  },
+  {
+    "question":"Câu 31. Thuộc tính quan trọng nhất của thẻ <a> là gì?",
+    "type":"Multiple Choice",
+    "a":"a. href",
+    "b":"b. link",
+    "c":"c. url",
+    "d":"d. hyperlink",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "a. href",
+      "b. link",
+      "c. url",
+      "d. hyperlink"
+    ]
+  },
+  {
+    "question":"Câu 32. Trong các khai báo siêu liên kết sau, khai báo nào sai?",
+    "type":"Multiple Choice",
+    "a":"a. <a href=\"https:\/\/www.w3schools.com\/\">Visit W3Schools.com!<\/a>",
+    "b":"b. <a href=\"hobbies.html\/\">Hobbies<\/a>",
+    "c":"c. <a href=\"#Topic1\">Topic 1<\/a>",
+    "d":"d. <a href=\"#Hello.html\">Hello world<\/a>",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "a. <a href=\"https:\/\/www.w3schools.com\/\">Visit W3Schools.com!<\/a>",
+      "b. <a href=\"hobbies.html\/\">Hobbies<\/a>",
+      "c. <a href=\"#Topic1\">Topic 1<\/a>",
+      "d. <a href=\"#Hello.html\">Hello world<\/a>"
+    ]
+  },
+  {
+    "question":"Câu 33. HTML là viết tắt của:",
+    "type":"Multiple Choice",
+    "a":"a. Hypertext Markup Language",
+    "b":"b. Hyperlink and Text Markup Language",
+    "c":"c. Hypertext Multi-language",
+    "d":"d. Hypertext Media Language",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "a. Hypertext Markup Language",
+      "b. Hyperlink and Text Markup Language",
+      "c. Hypertext Multi-language",
+      "d. Hypertext Media Language"
+    ]
+  },
+  {
+    "question":"Câu 34. Khi soạn thảo văn bản HTML trong Sublime Text, bạn nên lưu tệp với định dạng nào?",
+    "type":"Multiple Choice",
+    "a":"a..txt",
+    "b":"b. html",
+    "c":"c. .docx",
+    "d":"d. .xml",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "a..txt",
+      "b. html",
+      "c. .docx",
+      "d. .xml"
+    ]
+  },
+  {
+    "question":"Câu 35. Thẻ nào trong phần đầu của tài liệu HTML dùng để khai báo tiêu đề của trang web?",
+    "type":"Multiple Choice",
+    "a":"a. <title>",
+    "b":"b. <header>",
+    "c":"c. <footer>",
+    "d":"d. <meta>",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "a. <title>",
+      "b. <header>",
+      "c. <footer>",
+      "d. <meta>"
+    ]
+  },
+  {
+    "question":"Câu 36. Thẻ <section> thường được sử dụng để:",
+    "type":"Multiple Choice",
+    "a":"a. Tạo một phần riêng biệt của tài liệu",
+    "b":"b. Tạo tiêu đề",
+    "c":"c. Tạo một đoạn văn bản",
+    "d":"d. Tạo một liên kết",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "a. Tạo một phần riêng biệt của tài liệu",
+      "b. Tạo tiêu đề",
+      "c. Tạo một đoạn văn bản",
+      "d. Tạo một liên kết"
+    ]
+  },
+  {
+    "question":"Câu 37. Cho các phát biểu sau: a. Thẻ HTML thường không có thẻ kết thúc. b. Tên thẻ HTML không phân biệt chữ hoa và chữ thường. c. Phần đầu của một tệp HTML được xác định bởi thẻ <head> và <\/head>. d. Thẻ <body> chứa nội dung chính hiển thị trên màn hình của trình duyệt Số phát biểu đúng là:",
+    "type":"Multiple Choice",
+    "a":"a. 1",
+    "b":"b. 2",
+    "c":"c. 3",
+    "d":"d. 4",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "a. 1",
+      "b. 2",
+      "c. 3",
+      "d. 4"
+    ]
+  },
+  {
+    "question":"Câu 38. Phần tử <a> trong HTML được sử dụng để làm gì?",
+    "type":"Multiple Choice",
+    "a":"a. Tạo các đoạn văn bản",
+    "b":"b. Tạo các tiêu đề",
+    "c":"c. Tạo các siêu liên kết",
+    "d":"d. Tạo các bảng",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "a. Tạo các đoạn văn bản",
+      "b. Tạo các tiêu đề",
+      "c. Tạo các siêu liên kết",
+      "d. Tạo các bảng"
+    ]
+  },
+  {
+    "question":"Câu 39. Thẻ nào dùng để chèn hình ảnh vào trang web?",
+    "type":"Multiple Choice",
+    "a":"a. <img>",
+    "b":"b. <picture>",
+    "c":"c. <photo>",
+    "d":"d. <image>",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "a. <img>",
+      "b. <picture>",
+      "c. <photo>",
+      "d. <image>"
+    ]
+  },
+  {
+    "question":"Câu 40. Thuộc tính nào trong thẻ <a> xác định địa chỉ của tài nguyên web?",
+    "type":"Multiple Choice",
+    "a":"a. id",
+    "b":"b. src",
+    "c":"c. href",
+    "d":"d. class",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "a. id",
+      "b. src",
+      "c. href",
+      "d. class"
+    ]
+  },
+  {
+    "question":"Câu 41. Các phần tử tiêu đề mục trong HTML được hiển thị với kiểu chữ và kích thước như thế nào?",
+    "type":"Multiple Choice",
+    "a":"a. Tất cả đều có cùng kích thước và kiểu chữ",
+    "b":"b. Kích thước chữ giảm dần từ <h1> đến <h6> và kiểu chữ in đậm",
+    "c":"c. Kích thước chữ tăng dần từ <h1> đến <h6> và kiểu chữ in nghiêng",
+    "d":"d. Kích thước chữ không thay đổi và kiểu chữ khác nhau tùy thuộc vào trình duyệt",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "a. Tất cả đều có cùng kích thước và kiểu chữ",
+      "b. Kích thước chữ giảm dần từ <h1> đến <h6> và kiểu chữ in đậm",
+      "c. Kích thước chữ tăng dần từ <h1> đến <h6> và kiểu chữ in nghiêng",
+      "d. Kích thước chữ không thay đổi và kiểu chữ khác nhau tùy thuộc vào trình duyệt"
+    ]
+  },
+  {
+    "question":"Câu 42. Thẻ nào trong HTML được sử dụng để định nghĩa một tiêu đề cột trong bảng?",
+    "type":"Multiple Choice",
+    "a":"a. <td>",
+    "b":"b.<th>",
+    "c":"c. <tr>",
+    "d":"d. <caption>",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "a. <td>",
+      "b.<th>",
+      "c. <tr>",
+      "d. <caption>"
+    ]
+  },
+  {
+    "question":"Câu 43. Thẻ nào trong HTML được sử dụng để tạo bảng?",
+    "type":"Multiple Choice",
+    "a":"a. <table>",
+    "b":"b. <tab>",
+    "c":"c. <btable>",
+    "d":"d. <grid>",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "a. <table>",
+      "b. <tab>",
+      "c. <btable>",
+      "d. <grid>"
+    ]
+  },
+  {
+    "question":"Câu 44. Thuộc tính nào trong thẻ được sử dụng để thêm chú thích cho bảng?",
+    "type":"Multiple Choice",
+    "a":"a. description",
+    "b":"b. header",
+    "c":"c. note",
+    "d":"d. caption",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "a. description",
+      "b. header",
+      "c. note",
+      "d. caption"
+    ]
+  },
+  {
+    "question":"Câu 45. Cấu trúc nào được khai báo trong phần tử head của tệp HTML?",
+    "type":"Multiple Choice",
+    "a":"a. <script>",
+    "b":"b.<style>",
+    "c":"c. <title>",
+    "d":"d. <meta>",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "a. <script>",
+      "b.<style>",
+      "c. <title>",
+      "d. <meta>"
+    ]
+  },
+  {
+    "question":"Câu 46. Để khai báo phần tử form, ta dùng cặp thẻ nào?",
+    "type":"Multiple Choice",
+    "a":"a. <form><\/form>",
+    "b":"b. <form><form>",
+    "c":"c. <\/form><\/form>",
+    "d":"d.<\/form><form>",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "a. <form><\/form>",
+      "b. <form><form>",
+      "c. <\/form><\/form>",
+      "d.<\/form><form>"
+    ]
+  },
+  {
+    "question":"Câu 47. Để kết thúc quá trình tạo biểu mẫu đóng góp ý kiến cho thư viện, chúng ta cần làm gì?",
+    "type":"Multiple Choice",
+    "a":"a. Tạo biếu mẫu",
+    "b":"b. Đóng thẻ",
+    "c":"c. Ghi lưu, mở tệp bằng trình duyệt web và xem kết quả.",
+    "d":"d. Đóng bảng",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "a. Tạo biếu mẫu",
+      "b. Đóng thẻ",
+      "c. Ghi lưu, mở tệp bằng trình duyệt web và xem kết quả.",
+      "d. Đóng bảng"
+    ]
+  },
+  {
+    "question":"Câu 48. Để thêm nút Submit bằng khai báo nào?",
+    "type":"Multiple Choice",
+    "a":"a. <input type=\"submit\" name=\"cmd\" value=\"Góp ý\">",
+    "b":"b. <input type. \"submit\" name=\"cmd\" value=\"Góp ý\">",
+    "c":"c. <input type=\"submit\" name=\"cmd\" value. \"Góp ý\">",
+    "d":"d. <input type=\"submit\" name. \"cmd\" value=\"Góp ý\">",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":48,
+    "choices":[
+      "a. <input type=\"submit\" name=\"cmd\" value=\"Góp ý\">",
+      "b. <input type. \"submit\" name=\"cmd\" value=\"Góp ý\">",
+      "c. <input type=\"submit\" name=\"cmd\" value. \"Góp ý\">",
+      "d. <input type=\"submit\" name. \"cmd\" value=\"Góp ý\">"
+    ]
+  },
+  {
+    "question":"Câu 49. Để làm cho một phần tử hiển thị ở dạng in nghiêng, ta sử dụng thuộc tính nào?",
+    "type":"Multiple Choice",
+    "a":"a. font-style: italic",
+    "b":"b. font-weight: bold",
+    "c":"c. text-decoration: underline",
+    "d":"d. text-align: center",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":49,
+    "choices":[
+      "a. font-style: italic",
+      "b. font-weight: bold",
+      "c. text-decoration: underline",
+      "d. text-align: center"
+    ]
+  },
+  {
+    "question":"Câu 50. Thuộc tính background-color có thể áp dụng cho loại phần tử nào?",
+    "type":"Multiple Choice",
+    "a":"a. Chỉ áp dụng cho thẻ",
+    "b":"b. Áp dụng cho tất cả các phần tử HTML",
+    "c":"c. Chỉ áp dụng cho các phần tử có chứa văn bản",
+    "d":"d. Chỉ áp dụng cho các phần tử có hình ảnh nền",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":50,
+    "choices":[
+      "a. Chỉ áp dụng cho thẻ",
+      "b. Áp dụng cho tất cả các phần tử HTML",
+      "c. Chỉ áp dụng cho các phần tử có chứa văn bản",
+      "d. Chỉ áp dụng cho các phần tử có hình ảnh nền"
+    ]
+  },
+  {
+    "question":"Câu 51. Khai báo nào sau đây được dùng để áp dụng các định dạng CSS được khai báo trong tệp \"main.css\"",
+    "type":"Multiple Choice",
+    "a":"a. <link stylesheet href=\"main.css\">",
+    "b":"b. <style rel=\"stylesheet\" href=\"main.css\"><\/style>",
+    "c":"c. <link rel=\"stylesheet\" href=\"main.css\">",
+    "d":"d. <stylesheet href=\"main.css\">",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":51,
+    "choices":[
+      "a. <link stylesheet href=\"main.css\">",
+      "b. <style rel=\"stylesheet\" href=\"main.css\"><\/style>",
+      "c. <link rel=\"stylesheet\" href=\"main.css\">",
+      "d. <stylesheet href=\"main.css\">"
+    ]
+  },
+  {
+    "question":"Câu 52. Giá trị của thuộc tính để quy định điều khiển là một hộp thoại nhập văn bản một dòng là",
+    "type":"Multiple Choice",
+    "a":"a. text",
+    "b":"b. string",
+    "c":"c. line",
+    "d":"d. content",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":52,
+    "choices":[
+      "a. text",
+      "b. string",
+      "c. line",
+      "d. content"
+    ]
+  },
+  {
+    "question":"Câu 53. Giá trị của thuộc tính để quy định điều khiển là một hộp thoại nhập văn bản nhiều dòng là",
+    "type":"Multiple Choice",
+    "a":"a. text",
+    "b":"b. string",
+    "c":"c. line",
+    "d":"d. Cả ba phương án trên đều sai",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":53,
+    "choices":[
+      "a. text",
+      "b. string",
+      "c. line",
+      "d. Cả ba phương án trên đều sai"
+    ]
+  },
+  {
+    "question":"Câu 54. Giá trị của thuộc tính để quy định điều khiển là một ô checkbox là",
+    "type":"Multiple Choice",
+    "a":"a. checkbox",
+    "b":"b. tickbox",
+    "c":"c. selectbox",
+    "d":"d. choicebox",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":54,
+    "choices":[
+      "a. checkbox",
+      "b. tickbox",
+      "c. selectbox",
+      "d. choicebox"
+    ]
+  },
+  {
+    "question":"Câu 55. Giá trị của thuộc tính để quy định điều khiển là một ô radio button là",
+    "type":"Multiple Choice",
+    "a":"a. radio",
+    "b":"b. choice",
+    "c":"c. single",
+    "d":"d. select",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":55,
+    "choices":[
+      "a. radio",
+      "b. choice",
+      "c. single",
+      "d. select"
+    ]
+  },
+  {
+    "question":"Câu 56. Để thể hiện điều khiến combobox ta dùng thẻ",
+    "type":"Multiple Choice",
+    "a":"a. select",
+    "b":"b. input",
+    "c":"c. area",
+    "d":"d. choice",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":56,
+    "choices":[
+      "a. select",
+      "b. input",
+      "c. area",
+      "d. choice"
+    ]
+  },
+  {
+    "question":"Câu 57. Selector p {} trong CSS là",
+    "type":"Multiple Choice",
+    "a":"a. Attribute selector",
+    "b":"b. Element selector",
+    "c":"c. Id selector",
+    "d":"d. Class selector",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":57,
+    "choices":[
+      "a. Attribute selector",
+      "b. Element selector",
+      "c. Id selector",
+      "d. Class selector"
+    ]
+  },
+  {
+    "question":"Câu 58. Selector #main {} trong CSS là",
+    "type":"Multiple Choice",
+    "a":"a. Attribute selector",
+    "b":"b. Element selector",
+    "c":"c. Id selector",
+    "d":"d. Class selector",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":58,
+    "choices":[
+      "a. Attribute selector",
+      "b. Element selector",
+      "c. Id selector",
+      "d. Class selector"
+    ]
+  },
+  {
+    "question":"Câu 59. Selector .bold {} trong CSS là",
+    "type":"Multiple Choice",
+    "a":"a. Attribute selector",
+    "b":"b. Element selector",
+    "c":"c. Id selector",
+    "d":"d. Class selector",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":59,
+    "choices":[
+      "a. Attribute selector",
+      "b. Element selector",
+      "c. Id selector",
+      "d. Class selector"
+    ]
+  },
+  {
+    "question":"Câu 60. Selector [disabled] {} trong CSS là",
+    "type":"Multiple Choice",
+    "a":"a. Attribute selector",
+    "b":"b. Element selector",
+    "c":"c. Id selector",
+    "d":"d. Class selector",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":60,
+    "choices":[
+      "a. Attribute selector",
+      "b. Element selector",
+      "c. Id selector",
+      "d. Class selector"
+    ]
+  },
+  {
+    "question":"Câu 61. Selector cần hạn chế sử dụng trong CSS là",
+    "type":"Multiple Choice",
+    "a":"a. article *",
+    "b":"b. article> p",
+    "c":"c. article.important",
+    "d":"d. article",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":61,
+    "choices":[
+      "a. article *",
+      "b. article> p",
+      "c. article.important",
+      "d. article"
+    ]
+  },
+  {
+    "question":"Câu 62. Thuộc tính để quy định tên font được sử dụng là",
+    "type":"Multiple Choice",
+    "a":"a. font-family",
+    "b":"b. font-name",
+    "c":"c. font-id",
+    "d":"d. font-num",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":62,
+    "choices":[
+      "a. font-family",
+      "b. font-name",
+      "c. font-id",
+      "d. font-num"
+    ]
+  },
+  {
+    "question":"Câu 63. Thuộc tính để quy định độ đậm của font chữ là",
+    "type":"Multiple Choice",
+    "a":"a. font-weight",
+    "b":"b. font-bold",
+    "c":"c. font-thickness",
+    "d":"d. font-lane",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":63,
+    "choices":[
+      "a. font-weight",
+      "b. font-bold",
+      "c. font-thickness",
+      "d. font-lane"
+    ]
+  },
+  {
+    "question":"Câu 64. Thuộc tính để quy định độ nghiêng của font chữ là",
+    "type":"Multiple Choice",
+    "a":"a. font-style",
+    "b":"b. font-italic",
+    "c":"c. font-slant",
+    "d":"d. font-oblique",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":64,
+    "choices":[
+      "a. font-style",
+      "b. font-italic",
+      "c. font-slant",
+      "d. font-oblique"
+    ]
+  },
+  {
+    "question":"Câu 65. Thuộc tính để quy định màu chữ là",
+    "type":"Multiple Choice",
+    "a":"a. color",
+    "b":"b. font-color",
+    "c":"c. hue",
+    "d":"d. font-hue",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":65,
+    "choices":[
+      "a. color",
+      "b. font-color",
+      "c. hue",
+      "d. font-hue"
+    ]
+  },
+  {
+    "question":"Câu 66. Thuộc tính để quy định màu nên là",
+    "type":"Multiple Choice",
+    "a":"a. background-color",
+    "b":"b. color",
+    "c":"c. background-hue",
+    "d":"d. hue",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":66,
+    "choices":[
+      "a. background-color",
+      "b. color",
+      "c. background-hue",
+      "d. hue"
+    ]
+  },
+  {
+    "question":"Câu 67. Phát biểu nào sau về cấu trúc logic của mô hình hộp trong trình bày phần tử HTML là ĐÚNG?",
+    "type":"Multiple Choice",
+    "a":"a. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng lề mặc định hiển thị trong suốt.",
+    "b":"b. Ngăn cách nhau giữa vùng đường viền và vùng đệm là một vùng lề mặc định hiển thị trong suốt.",
+    "c":"c. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng đệm mặc định hiển thị trong suốt.",
+    "d":"d. Ngăn cách nhau giữa vùng đường viền và vùng lề là một vùng đệm mặc định hiển thị trong suốt.",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":67,
+    "choices":[
+      "a. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng lề mặc định hiển thị trong suốt.",
+      "b. Ngăn cách nhau giữa vùng đường viền và vùng đệm là một vùng lề mặc định hiển thị trong suốt.",
+      "c. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng đệm mặc định hiển thị trong suốt.",
+      "d. Ngăn cách nhau giữa vùng đường viền và vùng lề là một vùng đệm mặc định hiển thị trong suốt."
+    ]
+  },
+  {
+    "question":"Câu 68. Giá trị 50px trong khai báo định dạng: p {margin: 25px 50px 75px} cho biết",
+    "type":"Multiple Choice",
+    "a":"a. lề trái và lề dưới của phân tử p.",
+    "b":"b. lê phải và lê trái của phần tử p.",
+    "c":"c. lề trên và lề phải của phân tử p.",
+    "d":"d. lề phải và lề dưới của phần tử p.",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":68,
+    "choices":[
+      "a. lề trái và lề dưới của phân tử p.",
+      "b. lê phải và lê trái của phần tử p.",
+      "c. lề trên và lề phải của phân tử p.",
+      "d. lề phải và lề dưới của phần tử p."
+    ]
+  },
+  {
+    "question":"Câu 69. Tác dụng nào sau đây là tác dụng của khai báo CSS: p { padding: 20px }?",
+    "type":"Multiple Choice",
+    "a":"a. Xác định khoảng cách giữa vùng nội dung và vùng lề của phần tử p là 20 pixel.",
+    "b":"b. Xác định khoảng cách giữa vùng nội dung và vùng đường viên của phân tử p là 20 pixel.",
+    "c":"c. Xác định khoảng cách giữa vùng lề và và vùng đường viền của phần tử p là 20 pixel.",
+    "d":"d. Xác định khoảng cách giữa vùng nội dung và vùng đệm của phân tử p là 20 pixel.",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":69,
+    "choices":[
+      "a. Xác định khoảng cách giữa vùng nội dung và vùng lề của phần tử p là 20 pixel.",
+      "b. Xác định khoảng cách giữa vùng nội dung và vùng đường viên của phân tử p là 20 pixel.",
+      "c. Xác định khoảng cách giữa vùng lề và và vùng đường viền của phần tử p là 20 pixel.",
+      "d. Xác định khoảng cách giữa vùng nội dung và vùng đệm của phân tử p là 20 pixel."
+    ]
+  },
+  {
+    "question":"Câu 70. Cho khai báo định dạng sau: Giá trị nào sau đây là chiều rộng của phần tử p khi hiển thị trên màn hình trình duyệt web tính theo pixel?",
+    "type":"Multiple Choice",
+    "a":"a. 60px.",
+    "b":"b. 68px.",
+    "c":"c. 70px.",
+    "d":"d. 82px.",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":70,
+    "choices":[
+      "a. 60px.",
+      "b. 68px.",
+      "c. 70px.",
+      "d. 82px."
+    ]
+  },
+  {
+    "question":"Câu 1. Một công ty công nghệ đang xây dựng một hệ thống nhận diện khuôn mặt để mở khóa điện thoại. Hệ thống cần được huấn luyện trên một tập dữ liệu lớn gồm các hình ảnh khuôn mặt của người dùng từ nhiều góc độ khác nhau. Dưới đây là một số nhận xét về hệ thống nhận diện khuôn mặt này:",
+    "type":"Checkbox",
+    "a":"a. Hệ thống cần một tập dữ liệu huấn luyện gồm các hình ảnh khuôn mặt có gán nhãn để hoạt động chính xác.",
+    "b":"b. Học không giám sát là phương pháp phù hợp nhất để phát triển hệ thống nhận diện khuôn mặt.",
+    "c":"c. Nếu dữ liệu huấn luyện chỉ chứa hình ảnh của một nhóm nhỏ người, mô hình có thể hoạt động không chính xác đối với những người ngoài tập dữ liệu.",
+    "d":"d. Các thuật toán như mạng nơ-ron tích chập (CNN) có thể được sử dụng để trích xuất đặc trưng khuôn mặt (H-Đ)",
+    "e":null,
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":71,
+    "choices":[
+      "a. Hệ thống cần một tập dữ liệu huấn luyện gồm các hình ảnh khuôn mặt có gán nhãn để hoạt động chính xác.",
+      "b. Học không giám sát là phương pháp phù hợp nhất để phát triển hệ thống nhận diện khuôn mặt.",
+      "c. Nếu dữ liệu huấn luyện chỉ chứa hình ảnh của một nhóm nhỏ người, mô hình có thể hoạt động không chính xác đối với những người ngoài tập dữ liệu.",
+      "d. Các thuật toán như mạng nơ-ron tích chập (CNN) có thể được sử dụng để trích xuất đặc trưng khuôn mặt (H-Đ)"
+    ]
+  },
+  {
+    "question":"Câu 2. Một hệ thống phát hiện gian lận thẻ tín dụng sử dụng học máy để phân tích các giao dịch và xác định những giao dịch có khả năng gian lận. Dữ liệu bao gồm vị trí giao dịch, số tiền giao dịch và lịch sử giao dịch của chủ thẻ. Dưới đây là một số nhận xét về hệ thống này:",
+    "type":"Checkbox",
+    "a":"a. Hệ thống có thể sử dụng thuật toán phân cụm để nhóm các giao dịch bất thường mà không cần dữ liệu nhãn.",
+    "b":"b. Hệ thống không thể phát hiện gian lận nếu không có dữ liệu huấn luyện từ các giao dịch trước đó.",
+    "c":"c. Khi có một giao dịch bất thường, hệ thống có thể ngay lập tức từ chối giao dịch mà không cần con người xác minh.",
+    "d":"d. Các giao dịch có giá trị cao luôn bị hệ thống đánh dấu là gian lận. (VD-S)",
+    "e":null,
+    "answer":[
+      1,
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":72,
+    "choices":[
+      "a. Hệ thống có thể sử dụng thuật toán phân cụm để nhóm các giao dịch bất thường mà không cần dữ liệu nhãn.",
+      "b. Hệ thống không thể phát hiện gian lận nếu không có dữ liệu huấn luyện từ các giao dịch trước đó.",
+      "c. Khi có một giao dịch bất thường, hệ thống có thể ngay lập tức từ chối giao dịch mà không cần con người xác minh.",
+      "d. Các giao dịch có giá trị cao luôn bị hệ thống đánh dấu là gian lận. (VD-S)"
+    ]
+  },
+  {
+    "question":"Câu 3. Một công ty vận tải muốn tối ưu hóa tuyến đường giao hàng bằng cách sử dụng học máy để dự đoán thời gian di chuyển dựa trên dữ liệu giao thông, thời tiết và khoảng cách. Dưới đây là một số nhận xét về ứng dụng học máy trong bài toán này:",
+    "type":"Checkbox",
+    "a":"a. Học máy có thể được sử dụng để dự đoán thời gian di chuyển dựa trên dữ liệu lịch sử về giao thông.",
+    "b":"b. Các mô hình học máy luôn đưa ra kết quả chính xác 100% khi dự đoán thời gian di chuyển.",
+    "c":"c. Dữ liệu thời tiết có thể là một yếu tố quan trọng ảnh hưởng đến độ chính xác của dự đoán.",
+    "d":"d. Mạng nơ-ron nhân tạo (ANN) không thể áp dụng để tối ưu hóa tuyến đường giao hàng.",
+    "e":null,
+    "answer":[
+      1,
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":73,
+    "choices":[
+      "a. Học máy có thể được sử dụng để dự đoán thời gian di chuyển dựa trên dữ liệu lịch sử về giao thông.",
+      "b. Các mô hình học máy luôn đưa ra kết quả chính xác 100% khi dự đoán thời gian di chuyển.",
+      "c. Dữ liệu thời tiết có thể là một yếu tố quan trọng ảnh hưởng đến độ chính xác của dự đoán.",
+      "d. Mạng nơ-ron nhân tạo (ANN) không thể áp dụng để tối ưu hóa tuyến đường giao hàng."
+    ]
+  },
+  {
+    "question":"Câu 4. Khái niệm và mục tiêu của khoa học dữ liệu sau đây đúng hay sai?",
+    "type":"Checkbox",
+    "a":"a. Khoa học dữ liệu là lĩnh vực liên ngành kết hợp các phương pháp khoa học, quy trình, và thuật toán để khai thác tri thức từ dữ liệu.",
+    "b":"b. Mục tiêu của khoa học dữ liệu là chỉ để lưu trữ dữ liệu mà không cần phân tích.",
+    "c":"c. Trực quan hóa dữ liệu không phải là một phần của khoa học dữ liệu.",
+    "d":"d. Tri thức chuyên ngành không liên quan đến khoa học dữ liệu.",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":74,
+    "choices":[
+      "a. Khoa học dữ liệu là lĩnh vực liên ngành kết hợp các phương pháp khoa học, quy trình, và thuật toán để khai thác tri thức từ dữ liệu.",
+      "b. Mục tiêu của khoa học dữ liệu là chỉ để lưu trữ dữ liệu mà không cần phân tích.",
+      "c. Trực quan hóa dữ liệu không phải là một phần của khoa học dữ liệu.",
+      "d. Tri thức chuyên ngành không liên quan đến khoa học dữ liệu."
+    ]
+  },
+  {
+    "question":"Câu 5. Phát biểu sau đây dứng hay sai về Một số thành tựu của khoa học dữ liệu?",
+    "type":"Checkbox",
+    "a":"a. Khoa học dữ liệu giúp đổi mới quá trình ra quyết định bằng cách phân tích và khai thác dữ liệu.",
+    "b":"b. Khoa học dữ liệu chỉ áp dụng trong lĩnh vực tài chính.",
+    "c":"c. Tự động hóa là một trong những thành tựu của khoa học dữ liệu.",
+    "d":"d. Khoa học dữ liệu không liên quan đến việc cải thiện trải nghiệm khách hàng",
+    "e":null,
+    "answer":[
+      1,
+      3
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":75,
+    "choices":[
+      "a. Khoa học dữ liệu giúp đổi mới quá trình ra quyết định bằng cách phân tích và khai thác dữ liệu.",
+      "b. Khoa học dữ liệu chỉ áp dụng trong lĩnh vực tài chính.",
+      "c. Tự động hóa là một trong những thành tựu của khoa học dữ liệu.",
+      "d. Khoa học dữ liệu không liên quan đến việc cải thiện trải nghiệm khách hàng"
+    ]
+  },
+  {
+    "question":"Câu 6. Một công ty công nghệ chuyên phát triển trợ lý ảo sử dụng dữ liệu lớn để cải thiện khả năng nhận diện giọng nói và hiểu ngữ cảnh hội thoại. Hệ thống này thu thập hàng tỷ câu lệnh thoại từ người dùng trên khắp thế giới, xử lý giọng nói từ nhiều ngôn ngữ, vùng miền, và phân tích dữ liệu đế đưa ra phản hôi chính xác hơn theo thời gian thực. Dưới đây là một số nhận xét về ứng dụng dữ liệu lớn trong trợ lý ảo:",
+    "type":"Checkbox",
+    "a":"a. Tính đa dạng (Variety) của dữ liệu thể hiện qua việc hệ thống phải xử lý nhiều ngôn ngữ, giọng điệu, và cách nói khác nhau.",
+    "b":"b. Do dữ liệu được thu thập từ người dùng toàn cầu, nên không cần kiểm tra tính chính xác và đáng tin cậy của dữ liệu đầu vào.",
+    "c":"c. Các thuật toán học sâu (Deep Learning) có thế giúp trợ lý ảo hiếu được ngữ cảnh của câu nói thay vì chỉ nhận diện từng từ riêng lẻ.",
+    "d":"d. Hệ thống cần xử lý dữ liệu với tốc độ cao để đưa ra phản hồi ngay lập tức, thể hiện tốc độ (Velocity) của dữ liệu lớn.",
+    "e":null,
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":76,
+    "choices":[
+      "a. Tính đa dạng (Variety) của dữ liệu thể hiện qua việc hệ thống phải xử lý nhiều ngôn ngữ, giọng điệu, và cách nói khác nhau.",
+      "b. Do dữ liệu được thu thập từ người dùng toàn cầu, nên không cần kiểm tra tính chính xác và đáng tin cậy của dữ liệu đầu vào.",
+      "c. Các thuật toán học sâu (Deep Learning) có thế giúp trợ lý ảo hiếu được ngữ cảnh của câu nói thay vì chỉ nhận diện từng từ riêng lẻ.",
+      "d. Hệ thống cần xử lý dữ liệu với tốc độ cao để đưa ra phản hồi ngay lập tức, thể hiện tốc độ (Velocity) của dữ liệu lớn."
+    ]
+  },
+  {
+    "question":"Câu 7. Một sàn giao dịch chứng khoán muốn áp dụng khoa học dữ liệu để phân tích và dự đoán biến động giá cổ phiếu theo thời gian thực. Hệ thống này thu thập hàng triệu giao dịch mỗi giây từ các nhà đầu tư trên toàn cầu, kết hợp với dữ liệu về xu hướng thị trường, tin tức tài chính, và các sự kiện kinh tế để đưa ra khuyến nghị mua bán cổ phiếu. Dưới đây là một số nhận xét về ứng dụng dữ liệu lớn trong lĩnh vực tài chính:",
+    "type":"Checkbox",
+    "a":"a. Dữ liệu tài chính có tính tốc độ (Velocity) cao vì giá cổ phiếu thay đổi liên tục theo thời gian thực.",
+    "b":"b. Hệ thống có thể sử dụng phân tích dữ liệu để phát hiện các mô hình bất thường, giúp phát hiện hành vi giao dịch gian lận.",
+    "c":"c. Các mô hình dự báo giá cổ phiếu luôn chính xác tuyệt đối vì chúng dựa trên dữ liệu thực tế.",
+    "d":"d. Tính giá trị (Value) của dữ liệu lớn thể hiện qua khả năng giúp nhà đầu tư đưa ra quyết định nhanh chóng và chính xác.",
+    "e":null,
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":77,
+    "choices":[
+      "a. Dữ liệu tài chính có tính tốc độ (Velocity) cao vì giá cổ phiếu thay đổi liên tục theo thời gian thực.",
+      "b. Hệ thống có thể sử dụng phân tích dữ liệu để phát hiện các mô hình bất thường, giúp phát hiện hành vi giao dịch gian lận.",
+      "c. Các mô hình dự báo giá cổ phiếu luôn chính xác tuyệt đối vì chúng dựa trên dữ liệu thực tế.",
+      "d. Tính giá trị (Value) của dữ liệu lớn thể hiện qua khả năng giúp nhà đầu tư đưa ra quyết định nhanh chóng và chính xác."
+    ]
+  },
+  {
+    "question":"Câu 8. Một tổ chức phi chính phủ đang triển khai dự án sử dụng dữ liệu lớn để phân tích và dự đoán sự ảnh hưởng của biến đổi khí hậu đối với nông nghiệp. Hệ thống thu thập dữ liệu từ vệ tinh, cảm biến đo nhiệt độ đất, độ ẩm không khí, lượng mưa, và thậm chí cả dữ liệu lịch sử về mùa vụ của các khu vực trên thế giới. Mục tiêu là giúp nông dân đưa ra quyết định tối ưu về thời điểm gieo trồng và loại cây trồng phù hợp với điều kiện khí hậu. Dưới đây là một số nhận xét về ứng dụng dữ liệu lớn trong nghiên cứu biến đổi khí hậu:",
+    "type":"Checkbox",
+    "a":"a. Tính khối lượng (Volume) của dữ liệu lớn thể hiện qua việc hệ thống cần phân tích hàng petabyte dữ liệu từ nhiều nguồn khác nhau.",
+    "b":"b. Hệ thống không thể áp dụng học máy để phát hiện xu hướng thay đổi thời tiết dựa trên dữ liệu lịch sử.",
+    "c":"c. Dữ liệu có thể giúp nông dân lập kế hoạch mùa vụ chính xác hơn, giảm thiểu rủi ro thất thu do biến đổi khí hậu.",
+    "d":"d. Một trong những thách thức của dự án là đảm bảo tính xác thực (Veracity) của dữ liệu từ các nguồn khác nhau để có dự đoán đáng tin cậy.",
+    "e":null,
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":78,
+    "choices":[
+      "a. Tính khối lượng (Volume) của dữ liệu lớn thể hiện qua việc hệ thống cần phân tích hàng petabyte dữ liệu từ nhiều nguồn khác nhau.",
+      "b. Hệ thống không thể áp dụng học máy để phát hiện xu hướng thay đổi thời tiết dựa trên dữ liệu lịch sử.",
+      "c. Dữ liệu có thể giúp nông dân lập kế hoạch mùa vụ chính xác hơn, giảm thiểu rủi ro thất thu do biến đổi khí hậu.",
+      "d. Một trong những thách thức của dự án là đảm bảo tính xác thực (Veracity) của dữ liệu từ các nguồn khác nhau để có dự đoán đáng tin cậy."
+    ]
+  },
+  {
+    "question":"Câu 9. Mỗi phát biểu sau đây là đúng hay sai khi sử dụng các phần ol, ul để tạo danh sách trên trang web?",
+    "type":"Checkbox",
+    "a":"a. Khi khai báo thuộc tính type=\"A\", danh sách xác định thứ tự các mục theo chữ cái in hoa.",
+    "b":"b. Số thứ tự trong danh sách xác định thứ tự luôn là số nguyên.",
+    "c":"c. Khi mở bằng trình duyệt web, theo mặc định mục trong danh sách không xác định thứ tự được hiển thị bắt đầu bằng dấu sao (*).",
+    "d":"d. Có thể thay đổi số thứ tự của mục bắt đầu trong danh sách xác định thứ tự.",
+    "e":null,
+    "answer":[
+      1,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":79,
+    "choices":[
+      "a. Khi khai báo thuộc tính type=\"A\", danh sách xác định thứ tự các mục theo chữ cái in hoa.",
+      "b. Số thứ tự trong danh sách xác định thứ tự luôn là số nguyên.",
+      "c. Khi mở bằng trình duyệt web, theo mặc định mục trong danh sách không xác định thứ tự được hiển thị bắt đầu bằng dấu sao (*).",
+      "d. Có thể thay đổi số thứ tự của mục bắt đầu trong danh sách xác định thứ tự."
+    ]
+  },
+  {
+    "question":"Câu 10. Để truy cập vào các khóa học trực tuyến, người dùng cần điền vào biểu mẫu đăng nhập. Đoạn mã biểu mẫu như sau:",
+    "type":"Checkbox",
+    "a":"a. Thẻ <input> đầu tiên cho phép người dùng nhập tên đăng nhập và có thể nhập các kiểu dữ liệu khác nhau vào đó.",
+    "b":"b. Dữ liệu nhập ô mật khẩu sẽ được ẩn đi.",
+    "c":"c. Không có thuộc tính action trong , do đó dữ liệu sẽ không được gửi đi.",
+    "d":"d. Có thể thêm thuộc tính placeholder cho các ô nhập liệu để hướng dẫn người dùng.",
+    "e":null,
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "time":null,
+    "image":"\/quizzes\/Tin CK2\/10.png",
+    "explanation":null,
+    "id":80,
+    "choices":[
+      "a. Thẻ <input> đầu tiên cho phép người dùng nhập tên đăng nhập và có thể nhập các kiểu dữ liệu khác nhau vào đó.",
+      "b. Dữ liệu nhập ô mật khẩu sẽ được ẩn đi.",
+      "c. Không có thuộc tính action trong , do đó dữ liệu sẽ không được gửi đi.",
+      "d. Có thể thêm thuộc tính placeholder cho các ô nhập liệu để hướng dẫn người dùng."
+    ]
+  },
+  {
+    "question":"Câu 11. Giả sử em đang thiết kế một website thương mại điện tử. Đội ngũ phát triển yêu cầu trang web phải có giao diện đồng nhất trên tất cả các trang sản phẩm, dễ dàng chỉnh sửa khi cần thay đổi màu sắc hoặc bố cục. Dưới đây là các phương án phù hợp để đảm bảo website mà em tạo ra đạt được những yêu cầu trên:",
+    "type":"Checkbox",
+    "a":"a. Dùng inline CSS vì nó giúp áp dụng kiểu trực tiếp lên từng phần tử một cách nhanh chóng, không cần tạo file CSS riêng",
+    "b":"b. Dùng internal CSS trong từng trang sản phẩm riêng lẻ để dễ quản lý nội dung của từng trang một cách độc lập",
+    "c":"c. Dùng external CSS, lưu tất cả quy tắc định dạng vàomột tệp .css, sau đó liên kết tệp này với mọi trang web",
+    "d":"d. Kết hợp inline, internal và external CSS để linh hoạt điều chỉnh từng thành phần cụ thể khi cần mà vẫn giữ được quy tắc định dạng chung",
+    "e":null,
+    "answer":[
+      3,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":81,
+    "choices":[
+      "a. Dùng inline CSS vì nó giúp áp dụng kiểu trực tiếp lên từng phần tử một cách nhanh chóng, không cần tạo file CSS riêng",
+      "b. Dùng internal CSS trong từng trang sản phẩm riêng lẻ để dễ quản lý nội dung của từng trang một cách độc lập",
+      "c. Dùng external CSS, lưu tất cả quy tắc định dạng vàomột tệp .css, sau đó liên kết tệp này với mọi trang web",
+      "d. Kết hợp inline, internal và external CSS để linh hoạt điều chỉnh từng thành phần cụ thể khi cần mà vẫn giữ được quy tắc định dạng chung"
+    ]
+  },
+  {
+    "question":"Câu 12. Bạn An tạo một form để người sử dụng có thể nhập dữ liệu cá nhân trên trang web. Thông tin cá nhân bao gồm họ tên, giới tính (có phải là nữ hay không), email và số điện thoại. Hãy cho biết những phát biểu sau đây là đúng hay sai",
+    "type":"Checkbox",
+    "a":"a. Đối với họ và tên, bạn An nên sử dụng thẻ input để tạo điều khiển",
+    "b":"b. Đối với giới tính (có phải là nữ hay không), bạn An nên sử dụng giá trị checkbox đối với thuộc tính type của thẻ tạo điều khiển",
+    "c":"c. Đối với email, bạn An nên sử dụng thẻ textarea để tạo điều khiển",
+    "d":"d. Đối với số điện thoại, bạn An nên sử dụng thẻ select để tạo điều khiển",
+    "e":null,
+    "answer":[
+      1,
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":82,
+    "choices":[
+      "a. Đối với họ và tên, bạn An nên sử dụng thẻ input để tạo điều khiển",
+      "b. Đối với giới tính (có phải là nữ hay không), bạn An nên sử dụng giá trị checkbox đối với thuộc tính type của thẻ tạo điều khiển",
+      "c. Đối với email, bạn An nên sử dụng thẻ textarea để tạo điều khiển",
+      "d. Đối với số điện thoại, bạn An nên sử dụng thẻ select để tạo điều khiển"
+    ]
+  },
+  {
+    "question":"Câu 13. Bạn Bình muốn tạo ra một css template mặc định cho style riêng của mình với yêu cầu file css khi được nhúng vào trang web sẽ có hiệu lực ngay mà không cần phải chỉnh sửa thêm nữa. Bạn Bình cố gắng hết mức để template này hoạt động ở nhiều trang web nhất có thể. Hãy cho biết những phát biểu sau đây là đúng hay sai.",
+    "type":"Checkbox",
+    "a":"a. Selector hợp lý bạn Bình có thể nghĩ đến là element selector",
+    "b":"b. Selector không hợp lý ở đây là id selector",
+    "c":"c. Selector #main {} là một selector hợp lý",
+    "d":"d. Để có thể khiến cho template của mình thêm tính tùy chỉnh, bạn Bình nên thêm vào * selector",
+    "e":null,
+    "answer":[
+      1,
+      2
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":83,
+    "choices":[
+      "a. Selector hợp lý bạn Bình có thể nghĩ đến là element selector",
+      "b. Selector không hợp lý ở đây là id selector",
+      "c. Selector #main {} là một selector hợp lý",
+      "d. Để có thể khiến cho template của mình thêm tính tùy chỉnh, bạn Bình nên thêm vào * selector"
+    ]
+  },
+  {
+    "question":"Câu 14. Bạn Chi có cấu trúc HTML như sau và muốn điều chỉnh cho kích thước của thẻ article bằng một nửa body nhưng không vượt quá 960px. Màn hình của bạn Chi hiện được máy báo là có kích thước chiều ngang là 1600px. Hãy cho biết những nhận được sau đây là đúng hay sai?",
+    "type":"Checkbox",
+    "a":"a. px là đơn vị đo chiêu dài tuyệt đối",
+    "b":"b. Bạn Chi nên điều chỉnh width: 50% cho thẻ article",
+    "c":"c. Bạn Chi cần cài đặt thêm min-width: 960px cho thẻ article",
+    "d":"d. Nếu bạn Chi muốn bài viết có chiều cao chiếm tối thiểu là hết khung hình thì cài đặt height: 100% cho article",
+    "e":null,
+    "answer":[
+      1,
+      2
+    ],
+    "time":null,
+    "image":"\/quizzes\/Tin CK2\/14.png",
+    "explanation":null,
+    "id":84,
+    "choices":[
+      "a. px là đơn vị đo chiêu dài tuyệt đối",
+      "b. Bạn Chi nên điều chỉnh width: 50% cho thẻ article",
+      "c. Bạn Chi cần cài đặt thêm min-width: 960px cho thẻ article",
+      "d. Nếu bạn Chi muốn bài viết có chiều cao chiếm tối thiểu là hết khung hình thì cài đặt height: 100% cho article"
+    ]
+  },
+  {
+    "question":"Câu 15. Mỗi phát biểu sau đây là đúng hay sai khi sử dụng các phần tử để định dạng văn bản trên trang web?",
+    "type":"Checkbox",
+    "a":"a. Nội dung các tiêu đề mục tạo bởi các phần tử h1, h2, h3, h4, h5, h6 khi hiển thị trên màn hình trình duyệt web đều được in đậm.",
+    "b":"b. Nội dung của phần tử strong không thể chứa phần tử h1.",
+    "c":"c. Nội dung của phần tử mark khi hiển thị trên màn hình trình duyệt web được tô nền màu xanh.",
+    "d":"d. Đoạn văn bản tạo phần tử p được hiển thị trên một đoạn mới khi mở bằng trình duyệt web.",
+    "e":null,
+    "answer":[
+      1,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":85,
+    "choices":[
+      "a. Nội dung các tiêu đề mục tạo bởi các phần tử h1, h2, h3, h4, h5, h6 khi hiển thị trên màn hình trình duyệt web đều được in đậm.",
+      "b. Nội dung của phần tử strong không thể chứa phần tử h1.",
+      "c. Nội dung của phần tử mark khi hiển thị trên màn hình trình duyệt web được tô nền màu xanh.",
+      "d. Đoạn văn bản tạo phần tử p được hiển thị trên một đoạn mới khi mở bằng trình duyệt web."
+    ]
+  },
+  {
+    "question":"Câu 16. Mỗi phát biểu sau đây về mô hình hộp là đúng hay sai?",
+    "type":"Checkbox",
+    "a":"a. Vùng nội dung ngăn cách với vùng đường viền bởi vùng đệm.",
+    "b":"b. Vùng đường viền ngăn cách các phần tử khi hiển thị trên trình duyệt web",
+    "c":"c. Vùng lề là vùng ngăn cách vùng đường viền và vùng đệm.",
+    "d":"d. Vùng lễ là vùng bao ngoài vùng đường viền.",
+    "e":null,
+    "answer":[
+      1,
+      4
+    ],
+    "time":null,
+    "image":null,
+    "explanation":null,
+    "id":86,
+    "choices":[
+      "a. Vùng nội dung ngăn cách với vùng đường viền bởi vùng đệm.",
+      "b. Vùng đường viền ngăn cách các phần tử khi hiển thị trên trình duyệt web",
+      "c. Vùng lề là vùng ngăn cách vùng đường viền và vùng đệm.",
+      "d. Vùng lễ là vùng bao ngoài vùng đường viền."
+    ]
+  }
+]
