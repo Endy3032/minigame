@@ -1,11 +1,12 @@
 {
 	"name": "Tin CK2",
 	"hasQuiz": true,
-	"hasFlashcard": false,
-	"timestamp": 1743410209,
+	"hasFlashcard": true,
+	"timestamp": 1743518898,
 	"questionCount": {
-		"total": 86,
+		"total": 115,
 		"mc": 70,
-		"tf": 16
+		"tf": 16,
+		"fc": 29
 	}
 }

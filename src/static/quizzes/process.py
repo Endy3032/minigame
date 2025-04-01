@@ -64,7 +64,7 @@ for root, dirs, files in os.walk(base_dir):
 				metadata["hasFlashcard"] = True
 
 				fcdf["answer"] = fcdf["choices"].apply(lambda x: x[0])
-				fcdf["answerimage"] = fcdf["choices"].apply(lambda x: x[1] if len(x) > 1 else None)
+				fcdf["answerimage"] = fcdf["choices"].apply(lambda x: lambda x: f"/quizzes/{rel_path}/{x[1]}" if len(x) > 1 else None)
 				fcdf = fcdf.drop(columns=["choices", "explanation"])
 
 				flashcards_path = os.path.join(root, "flashcards.json")

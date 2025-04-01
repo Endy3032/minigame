@@ -1,0 +1,234 @@
+[
+  {
+    "question":"Câu 1a. Người ta muốn xây dựng một mô hình học máy để dự đoán trước khách hàng trong siêu thị thành ba cấp là \"Khách vip\", \"Khách thân thuộc\" và \"khách thường\" nên họ đã thu thập các thông tin như số tiền mỗi lần mua và tân suất mua hàng trong quá khư của các dạng khách này. Đây là mô hình học máy gì?",
+    "type":"Open-Ended",
+    "answer":"Đây là mô hình học máy có giàm sát.",
+    "image":null,
+    "id":87,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 1b. Người ta muốn xây dựng một mô hình học máy để dự đoán trước khách hàng trong siêu thị thành ba cấp là \"Khách vip\", \"Khách thân thuộc\" và \"khách thường\" nên họ đã thu thập các thông tin như số tiền mỗi lần mua và tân suất mua hàng trong quá khư của các dạng khách này. Nhãn ở đây là gì?",
+    "type":"Open-Ended",
+    "answer":"Nhãn là một trong ba loại khách: \"Khách vip\", \"Khách thân thuộc\" và \"khách thường\". (0.25đ)",
+    "image":null,
+    "id":88,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 1c. Người ta muốn xây dựng một mô hình học máy để dự đoán trước khách hàng trong siêu thị thành ba cấp là \"Khách vip\", \"Khách thân thuộc\" và \"khách thường\" nên họ đã thu thập các thông tin như số tiền mỗi lần mua và tân suất mua hàng trong quá khư của các dạng khách này. Số tiền mua và tân suất mua trong tập dữ liệu này gọi là gì?",
+    "type":"Open-Ended",
+    "answer":"Số tiền mua và tân suất mua là các đặc trưng. (0.25đ)",
+    "image":null,
+    "id":89,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2a. Khoa học dữ liệu là lĩnh vực kết hợp các phương pháp khoa học, quy trình và thuật toán để làm gì?",
+    "type":"Open-Ended",
+    "answer":"Để khai thác tri thức từ dữ liệu.",
+    "image":null,
+    "id":90,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2b. Khoa học dữ liệu là lĩnh vực kết hợp các phương pháp khoa học, quy trình và thuật toán tích hợp các kỹ thuật và công cụ từ những lĩnh vực nào?",
+    "type":"Open-Ended",
+    "answer":"Khoa học máy tính, toán học và thống kê, tri thức chuyên ngành.",
+    "image":null,
+    "id":91,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2c. Khoa học dữ liệu là lĩnh vực kết hợp các phương pháp khoa học, quy trình và thuật toán. Thành tựu chính của khoa học dữ liệu là gì?",
+    "type":"Open-Ended",
+    "answer":"Đối mới quá trình ra quyết định.",
+    "image":null,
+    "id":92,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3a. Người ta muốn dự đoán trị giá xuất khẩu một số mặt hàng trong năm 2025 nên đã thu thập một số dữ liệu và sử dụng các chức năng trong Excel để thực hiện. Theo em: dữ liệu cần thu thập là dữ liệu gì?",
+    "type":"Open-Ended",
+    "answer":"a. Người ta cần thu thập dữ liệu về trị giá xuất khẩu của mặt hàng cần dự đoán ở các năm về trước.",
+    "image":null,
+    "id":93,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3b. Người ta muốn dự đoán trị giá xuất khẩu một số mặt hàng trong năm 2025 nên đã thu thập một số dữ liệu và sử dụng các chức năng trong Excel để thực hiện. Theo em: Chức năng nào trong Excel nên được sử dụng?",
+    "type":"Open-Ended",
+    "answer":"b. Dùng chức năng Forcase Sheet của Execel để thực hiện dự đoán",
+    "image":null,
+    "id":94,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3c. Người ta muốn dự đoán trị giá xuất khẩu một số mặt hàng trong năm 2025 nên đã thu thập một số dữ liệu và sử dụng các chức năng trong Excel để thực hiện. Theo em: Kết quả dự đoán đó có hoàn toàn chính xác? Giải thích? Đáp án đề xuất:",
+    "type":"Open-Ended",
+    "answer":"c. Kết quả dự đoán này là không chính xác, chỉ ở một khoản tin cậy nhất định.",
+    "image":null,
+    "id":95,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4a. Bạn Minh đang tạo một trang web cá nhân và đã viết đoạn mã sau, nhưng có một số phần còn thiếu. Phần gạch chân ở thẻ <a> cần điền gì?",
+    "type":"Open-Ended",
+    "answer":"a. Địa chỉ tài nguyên trang web hoặc #Tên_định_danh nếu là phần tử của trang web",
+    "image":"\/quizzes\/Tin CK2\/tl.png",
+    "id":96,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4b. Bạn Minh đang tạo một trang web cá nhân và đã viết đoạn mã sau, nhưng có một số phần còn thiếu. Phần gạch chân ở thẻ <h2> cần điền nội dung gì cho thích hợp?",
+    "type":"Open-Ended",
+    "answer":"b. Sở thích",
+    "image":"\/quizzes\/Tin CK2\/tl.png",
+    "id":97,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4c. Bạn Minh đang tạo một trang web cá nhân và đã viết đoạn mã sau, nhưng có một số phần còn thiếu. Thẻ <em> dùng để làm gì?",
+    "type":"Open-Ended",
+    "answer":"c. In nghiêng nội dung để nhấn mạnh từ riêng hoặc thuật ngữ trong văn bản",
+    "image":"\/quizzes\/Tin CK2\/tl.png",
+    "id":98,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5a. Sự khác biệt giữa danh sách không sắp xếp và danh sách có sắp xếp?",
+    "type":"Open-Ended",
+    "answer":"a. Danh sách không sắp xếp (<ul>) dùng dấu chấm tròn để đánh dấu. Danh sách có sắp xếp (<ol>) dùng số hoặc chữ cái.",
+    "image":null,
+    "id":99,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5b. Làm thế nào để thay đổi kiểu đánh dấu của danh sách có thứ tự?",
+    "type":"Open-Ended",
+    "answer":"Sử dụng thuộc tính type của thẻ <ol>",
+    "image":null,
+    "id":100,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 6a. Làm thế nào để chèn video vào trang web?",
+    "type":"Open-Ended",
+    "answer":"Sử dụng thẻ <video>.",
+    "image":null,
+    "id":101,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 6b. Các thuộc tính quan trọng của thẻ dùng để chèn video vào trang web là gì?",
+    "type":"Open-Ended",
+    "answer":"src: đường dẫn đến video, và alt: mô tả văn bản cho video khi không hiển thị được.",
+    "image":null,
+    "id":102,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 7a. HTML định nghĩa phần tử a để tạo các siêu liên kết. Nêu cú pháp của phần tử a?",
+    "type":"Open-Ended",
+    "answer":"Cú pháp khai báo phần tử a: <a href=\"URL\">Liên kết web<\/a>",
+    "image":null,
+    "id":103,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 7b. HTML định nghĩa phần tử a để tạo các siêu liên kết. Giải thích các thành phần trong cú pháp của thẻ a?",
+    "type":"Open-Ended",
+    "answer":"Thuộc tính href xác định địa chỉ của tài nguyên web trên Internet. URL (Uniform Resource Locator) có cấu trúc cơ bản: Giao thức:\/\/Tên miền\/Đường dẫn (ví dụ: https:\/\/trandainghia.edu.vn). Liên kết web thường là dãy kí tự được hiển thị trên trình duyệt web cho phép người dùng nháy chuột vào để đến tài nguyên liên kết.",
+    "image":null,
+    "id":104,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 8. Ô văn bản trong biểu mẫu web thường dùng để nhập loại dữ liệu gì?",
+    "type":"Open-Ended",
+    "answer":"Ô văn bản (<input>) thường dùng để nhập xâu ký tự hoặc văn bản. Ô văn bản được khai báo bằng <input type=\"text\"> cho phép người dùng nhập văn bản tự do, chẳng hạn như tên, địa chỉ email hoặc các thông tin khác.",
+    "image":null,
+    "id":105,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 9. Nút chọn (radio button) trong biểu mẫu được sử dụng khi nào?",
+    "type":"Open-Ended",
+    "answer":"Nút chọn được sử dụng khi cần cho người dùng cho phép người dùng chọn duy nhất một mục từ một danh sahcs các tùy chọn, thường dùng khi cần người dùng quyết định một trong các lựa chọn cố định.",
+    "image":null,
+    "id":106,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 10. Tại sao thuộc tính name của các nút chọn trong cùng một nhóm phải giống nhau?",
+    "type":"Open-Ended",
+    "answer":"Thuộc tính name của các nút chọn trong cùng một nhóm phải giống nhau để đảm bảo các nút chọn đó thuộc về cùng một nhóm lựa chọn, đảm bảo người dùng chỉ có thể chọn một mục duy nhất trong nhóm đó tại một thời điểm, giúp quản lý dữ liệu nhập vào một cách nhất quán và chính xác.",
+    "image":null,
+    "id":107,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 11. CSS giúp làm gì trong việc trình bày các phần tử HTML trên trang web?",
+    "type":"Open-Ended",
+    "answer":"CSS (Cascading Style Sheets) là ngôn ngữ định dạng được sử dụng để áp dụng kiểu trình bày các phần tử HTML trên trang web. CSS giúp tách biệt nội dung và định dạng, đồng thời cho phép định dạng được dễ dàng chỉnh sửa, dễ dàng tái sử dụng các quy tắc định dạng và thống nhất trình bày trên nhiều trang web.",
+    "image":null,
+    "id":108,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 12. Để xác định kiểu đường viền cho một phần tử trong CSS, thuộc tính nào được sử dụng?",
+    "type":"Open-Ended",
+    "answer":"Thuộc tính border-style trong CSS được sử dụng để xác định kiểu trình bày của đường viền cho phần tử. Các kiểu trình bày phổ biến bao gồm dotted (đường viền là những dấu chấm liền nhau) và solid (đường viền là một đường đậm liên nét).",
+    "image":null,
+    "id":109,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 13. Để thay đổi kích cỡ chữ trong CSS, thuộc tính nào là đúng?",
+    "type":"Open-Ended",
+    "answer":"Thuộc tính font-size trong CSS được sử dụng để xác định kích cỡ chữ. Giá trị của thuộc tính này thường được tính theo đơn vị điểm ảnh (pixel) hoặc tỉ lệ phần trăm, giúp điều chỉnh kích cỡ chữ cho các phần tử HTML.",
+    "image":null,
+    "id":110,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 14a. Đơn vị % trong CSS là đơn vị mô tả điều gì?",
+    "type":"Open-Ended",
+    "answer":"Đơn vị đo chiều dài",
+    "image":null,
+    "id":111,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 14b. Mô hình không gian khối hộp của CSS bao gồm các thuộc tính nào?",
+    "type":"Open-Ended",
+    "answer":"margin, border, padding",
+    "image":null,
+    "id":112,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 14c. Thuộc tính nào tham gia vào kích thước tổng của một đối tượng, thuộc tính nào không?",
+    "type":"Open-Ended",
+    "answer":"border và padding không tham gia vào kích thước tổng của một đối tượng, margin không tham gia vào kích thước tổng của đối tượng",
+    "image":null,
+    "id":113,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 15a. Bố cục trang web là gì?",
+    "type":"Open-Ended",
+    "answer":"Bố cục trang web là cách sắp xếp, bố trí các đối tượng nội dung trên trang web vào các khu vực hiển thị khác nhau để tạo nên một giao diện web.",
+    "image":null,
+    "id":114,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 15b. Nêu các thành phần cơ bản trong bố cục trang web?",
+    "type":"Open-Ended",
+    "answer":"Mỗi trang web thường gồm một số thành phần cơ bản: Phần đầu trang (header), Thanh điều hướng (navigation menu), Phần nội dung (content), Phần chân trang (footer).",
+    "image":null,
+    "id":115,
+    "answerimage":null
+  }
+]

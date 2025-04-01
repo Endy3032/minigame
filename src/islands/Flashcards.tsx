@@ -1,5 +1,5 @@
 import { useSignal } from "@preact/signals"
-import { useRef } from "preact/hooks"
+import { useEffect, useRef } from "preact/hooks"
 import { cn, Flashcard } from "../utils.ts"
 
 enum Status {
@@ -12,7 +12,6 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 	const { flashcards } = props
 	const status = useSignal<Status[]>(Array(flashcards.length).fill(Status.None))
 	const isFlipped = useSignal(false)
-	const hideAnswer = useSignal(false)
 	const timeout = useRef<number | null>(null)
 
 	const qi = useSignal(0)
@@ -22,6 +21,34 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 		"px-4 py-2 mb-1 transition-all rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 ring-zinc-300 outline-none flex-shrink-0",
 		"hover:translate-y-1 hover:shadow-[0_0_0_0] disabled:opacity-50 disabled:translate-y-1 disabled:shadow-none focus:brightness-125 focus:ring-1",
 	)
+
+	useEffect(() => {
+		clearTimeout(timeout.current ?? 0)
+		isFlipped.value = false
+
+		const handler = (e: KeyboardEvent) => {
+			switch (e.key) {
+				case "ArrowRight":
+					qi.value = Math.min(qi.value + 1, flashcards.length - 1)
+					break
+				case "ArrowLeft":
+					qi.value = Math.max(qi.value - 1, 0)
+					break
+				case " ":
+					isFlipped.value = !isFlipped.value
+					break
+				case "Enter":
+					status.value[qi.value] = status.value[qi.value] === Status.Done ? Status.None : Status.Done
+					break
+				case "m":
+					status.value[qi.value] = status.value[qi.value] === Status.Review ? Status.None : Status.Review
+					break
+			}
+			status.value = [...status.value]
+		}
+		document.addEventListener("keyup", handler)
+		return () => document.removeEventListener("keyup", handler)
+	}, [qi.value])
 
 	return (
 		<div class="relative flex flex-col w-full gap-4">
@@ -62,17 +89,23 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								<span class="w-7 h-7 bg-rose-700/25 border border-rose-600/15 rounded-full aspect-square text-lg">
 									Q
 								</span>
+								{q.image && (
+									<img src={q.image} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
+								)}
 								<p class="my-auto">
 									{q.question}
 								</p>
 							</div>
 							<div
 								class="absolute w-full h-full flex flex-col gap-2 items-center p-4 text-center overflow-y-auto bg-emerald-700/5 rounded-lg border border-emerald-700/20"
-								style={{ backfaceVisibility: "hidden", transform: "rotateY(180deg)", opacity: hideAnswer.value ? 0 : 1 }}
+								style={{ backfaceVisibility: "hidden", transform: "rotateY(180deg)", opacity: isFlipped.value ? 1 : 0 }}
 							>
 								<span class="w-7 h-7 bg-emerald-700/25 border border-emerald-600/15 rounded-full aspect-square text-lg">
 									A
 								</span>
+								{q.answerimage && (
+									<img src={q.answerimage} alt="Answer Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
+								)}
 								<p class="my-auto">{q.answer}</p>
 							</div>
 						</div>
@@ -103,13 +136,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								type="button"
 								class={cn(buttonClass, "md:order-first")}
 								disabled={qi.value === 0}
-								onClick={() => {
-									clearTimeout(timeout.current ?? 0)
-									hideAnswer.value = true
-									isFlipped.value = false
-									qi.value--
-									timeout.current = setTimeout(() => hideAnswer.value = false, 700)
-								}}
+								onClick={() => qi.value--}
 							>
 								&larr; Trước
 							</button>
@@ -117,13 +144,7 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 								type="button"
 								class={buttonClass}
 								disabled={qi.value === flashcards.length - 1}
-								onClick={() => {
-									clearTimeout(timeout.current ?? 0)
-									hideAnswer.value = true
-									isFlipped.value = false
-									qi.value++
-									timeout.current = setTimeout(() => hideAnswer.value = false, 700)
-								}}
+								onClick={() => qi.value++}
 							>
 								Sau &rarr;
 							</button>

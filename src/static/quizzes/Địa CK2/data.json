@@ -1,0 +1,764 @@
+[
+  {
+    "question":"Câu 1. Cho bảng số liệu\n",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "image":"\/quizzes\/Địa CK2\/1.png",
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "A. Tổng sản lượng thủy sản ngày càng tăng",
+      "B. Sản lượng nuôi trồng luôn nhỏ hơn khai thác.",
+      "C. Tỉ trọng sản lượng khai thác tăng và luôn luôn lớn hơn so với tỉ trọng nuôi trồng thủy sản.",
+      "D. Biểu đồ cột là biểu đồ thích hợp nhất thể hiện sản lượng khai thác và sản lượng nuôi trồng của Đông Nam Bộ giai đoạn 2015-2023."
+    ]
+  },
+  {
+    "question":"Câu 2. Cho bảng số liệu",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3,
+      4
+    ],
+    "image":"\/quizzes\/Địa CK2\/2.png",
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "A. Diện tích lúa giảm.",
+      "B. Năng suất lúa tăng.",
+      "C. Sản lượng lúa giảm.",
+      "D. Biểu đồ kết hợp là dạng biểu đồ thích hợp nhất thể hiện tốc độ tăng trưởng diện tích và năng suất lúa mùa của Đồng bằng Sông Cửu Long giai đoạn 2015-2023."
+    ]
+  },
+  {
+    "question":"Câu 3. Năm 2023, lực lượng lao động của nước ta là 52,40 triệu người và của Tây Nguyên là 3,63 triệu người. Hãy cho biết tỉ lệ lực lượng lao động của Tây Nguyên so với cả nước là bao nhiêu %? (làm tròn kết quả đến 2 chữ số sau dấu phẩy thập phân của %).",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "6,91",
+      "5,92",
+      "6,93",
+      "6,94"
+    ]
+  },
+  {
+    "question":"Câu 4. Năm 2022, sản lượng chè búp tươi của nước ta là 116,7 nghìn tấn và trong đó TDMNBB chiếm 73,5%. Hãy cho biết sản lượng chè búp tươi của TDMNBB là bao nhiêu nghìn tấn? (làm tròn kết quả đến hàng đơn vị của nghìn tấn)",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      86,
+      87,
+      88,
+      89
+    ]
+  },
+  {
+    "question":"Câu 5. Năm 2023, Đông Nam Bộ có số dân 19018,8 nghìn người và sản lượng thịt hơi xuất chuồng là 1082,2 nghìn tấn. Hãy cho biết bình quân sản lượng thịt hơi xuất chuồng trên đầu người của Đông Nam Bộ là bao nhiêu kg? (làm tròn kết quả đến hàng đơn vị của kg)",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "question":"Câu 6. Năm 2023, số lượng trai trại trồng trọt của nước ta là 7124 trang trại, trong đó ĐBS Cửu Long có 2944 trang trại. Hãy cho biết tỉ lệ trang trại trồng trọt của ĐBS Cửu Long so với cả nước là bao nhiêu %? (làm tròn kết quả đến một chữ số sau dấu phẩy thập phân của %)",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "41,0",
+      "41,1",
+      "41,2",
+      "41,3"
+    ]
+  },
+  {
+    "question":"Câu 7. Cho bảng số liệu",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      4
+    ],
+    "image":"\/quizzes\/Địa CK2\/7.png",
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "A. Cảng hàng không và cảng thủy nội địa tăng liên tục.",
+      "B. Cảng biển luôn nhiều nhất.",
+      "C. Cảng biển tăng chậm hơn cảng thủy nội địa.",
+      "D. Biểu đồ tròn là biểu đồ thích hợp thể hiện quy mô và tỉ trọng khối lượng hàng hóa thông qua các loại cảng Việt Nam năm 2018 và năm 2022."
+    ]
+  },
+  {
+    "question":"Câu 1. Tỉnh có diện tích và sản lượng cà phê lớn nhất Tây Nguyên ?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "A.\tĐắk Nông.",
+      "B.\tLâm Đồng.",
+      "C.\tGia Lai.",
+      "D.\tĐăk Lăk."
+    ]
+  },
+  {
+    "question":"Câu 2. Tỉnh nào của Tây Nguyên không có đường biên giới quốc gia?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "A.\tKon Tum.",
+      "B.\tĐăk Nông.",
+      "C.\tGia Lai.",
+      "D.\tLâm Đồng."
+    ]
+  },
+  {
+    "question":"Câu 3. Ý nào sau đây đúng về đặc điểm dân số của Tây Nguyên?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "A.\tCó quy mô dân số lớn.",
+      "B.\tMật độ dân số thấp.",
+      "C.\tTỷ lệ dân thành thị cao.",
+      "D.\tTỷ lệ tăng dân số rất thấp."
+    ]
+  },
+  {
+    "question":"Câu 4. Biện pháp chủ yếu để tăng diện tích rừng tự nhiên ở Tây Nguyên là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "A.\tKhai thác hợp lý, phòng chống cháy rừng.",
+      "B.\tĐẩy mạnh khoanh nuôi trồng rừng mới.",
+      "C.\tGiao đất, giao rừng cho dân, bảo vệ rừng.",
+      "D.\tNgăn chặn nạn phá rừng, đốt cây làm rẫy."
+    ]
+  },
+  {
+    "question":"Câu 5. Phát triển cây công nghiệp lâu năm ở Tây Nguyên chủ yếu dựa vào các điều kiện thuận lợi nào sau đây?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "A.\tKhí hậu có tính cận xích đạo, đất ba dan giàu dinh dưỡng.",
+      "B.\tĐất ba dan có diện tích rộng, giống cây trồng chất lượng tốt.",
+      "C.\tĐất ba dan ở trên những mặt bằng rộng, nguồn nước dồi dào.",
+      "D.\tKhí hậu mát mẻ trên các cao nguyên cao trên 1000 m, đất tốt."
+    ]
+  },
+  {
+    "question":"Câu 6. Vùng Tây Nguyên có thế mạnh trồng cây công nghiệp dài ngày do",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "A.\tcó mùa khô kéo dài.",
+      "B.\tcó nhiều sông lớn.",
+      "C.\tcó đất ba dan tập trung thành các vùng rộng.",
+      "D.\tnhiệt độ thấp, khí hậu mát mẻ quanh năm."
+    ]
+  },
+  {
+    "question":"Câu 7. Cây trồng chính của vùng Tây Nguyên là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "A.\tcây công nghiệp lâu năm.",
+      "B.\tcây công nghiệp hàng năm.",
+      "C.\tcây lương thực, thực phẩm.",
+      "D.\tcây dược liệu."
+    ]
+  },
+  {
+    "question":"Câu 8. Tây Nguyên có thế mạnh khai thác khoáng sản nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "A.\tthan đá.",
+      "B.\tdầu khí.",
+      "C.\tsắt.",
+      "D.\tbô xít."
+    ]
+  },
+  {
+    "question":"Câu 9. Khoáng sản bô xít được khai thác chủ yếu ở hai tỉnh ",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "A.\tLâm Đồng, Đăk Nông.",
+      "B.\tGia Lai, Kon Tum.",
+      "C.\tĐăk Lăk, Đăk Nông.",
+      "D.        Lâm Đồng, Bình Thuận."
+    ]
+  },
+  {
+    "question":"Câu 10. Các Vườn quốc gia nào sau đây thuộc Tây Nguyên.",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "A.\tChư Mom Ray, Yok Đôn, Kon Ka Kinh.",
+      "B.\tLò Gò Xa Mát, Bù Gia Mập, Cát Tiên.",
+      "C.\tPu Mát, Phong Nha Kẻ Bàng, Bạch Mã.",
+      "D.\tU Minh Thượng, Tràm Chim, Cà Mau."
+    ]
+  },
+  {
+    "question":"Câu 11. Hạn chế chủ yếu về điều kiện tự nhiên của vùng Tây Nguyên là ",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "A.\tthiếu nước tưới về mùa khô, đất dễ bị rửa trôi, xói mòn.",
+      "B.\tTác động biến đổi khí hậu, ô nhiễm môi trường.",
+      "C.\tSuy giảm tài nguyên sinh vật, hạn hán, cát chảy.",
+      "D.\tBiến đổi khí hậu, thiên tai, ô nhiễm môi trường. "
+    ]
+  },
+  {
+    "question":"Câu 12. Việc phát triển thuỷ điện của Tây Nguyên nhằm mục đích chủ yếu nào sau đây?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "A.\tKhai thác lợi thế thuỷ năng, tạo cơ sở phát triển công nghiệp.",
+      "B.\tPhát triển nông nghiệp hàng hoá, nâng cao chất lượng đời sống.",
+      "C.\tPhát triển du lịch, thuỷ sản, hạn chế lũ lụt.",
+      "D.\tKhai thác nguồn năng lượng mới, thúc đẩy tăng trưởng kinh tế."
+    ]
+  },
+  {
+    "question":"Câu 13. Rừng ở Tây Nguyên bị suy giảm do nguyên nhân chủ yếu nào sau đây?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "A.\tKhí hậu không thuận lợi, mùa khô kéo dài.",
+      "B.\tCông tác giao đất, giao rừng chưa được đẩy mạnh.",
+      "C.\tNhu cầu gỗ cho tiêu dùng và công nghiệp chế biến ngày càng cao.",
+      "D.\tKhai thác rừng quá mức, công tác quản lí rừng chưa tốt. "
+    ]
+  },
+  {
+    "question":"Câu 14. Những tỉnh nào sau đây của vùng Đông Nam bộ có đường biên giới quốc gia với Campuchia?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "A.\tBình Dương, Bình Phước.",
+      "B.\tTây Ninh, Đồng Nai.",
+      "C.\tTây Ninh, Bình Phước.",
+      "D.        Bình Phước, Đồng Nai."
+    ]
+  },
+  {
+    "question":"Câu 15. Trung tâm công nghiệp nào sau đây có quy mô giá trị sản xuất công nghiệp lớn nhất Đông Nam Bộ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "A.\tThành phố Hồ Chí Minh.",
+      "B.\tThuận An.",
+      "C.\tVũng Tàu.",
+      "D.\tBiên Hoà."
+    ]
+  },
+  {
+    "question":"Câu 16. Lao động vùng Đông Nam có thế mạnh",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "A.\tlao động dồi dào, có trình độ chuyên môn cao. ",
+      "B.\tlao động có kinh nghiệm canh tác cây công nghiệp.",
+      "C.\tlao động có kinh nghiệm thâm canh cây lương thực.",
+      "D.\tlao động dồi dào, kinh nghiệm nuôi trồng thuỷ sản. "
+    ]
+  },
+  {
+    "question":"Câu 17. Vùng Đông Nam Bộ có những hạn chế nào trong quá trình phát triển?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "A.\tTỉ lệ gia tăng cơ học cao, gia tăng tự nhiên thấp, cơ sở hạ tầng chưa đồng bộ, ô nhiễm môi trường. ",
+      "B.\tBiến đổi khí hậu, nhiều thiên tai, ô nhiễm môi trường.",
+      "C.\tSức ép dân số lên kinh tế và môi trường, thiên tai, thị trường nhiều biến động.",
+      "D.\tĐịa hình hiểm trở, thiên tai, thị trường nhiều biến động. "
+    ]
+  },
+  {
+    "question":"Câu 18. Vùng Đông Nam bộ có khả năng phát triển các ngành kinh tế có trình độ khoa học kĩ thuật cao là do",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "A.\tnguồn lao động có trình độ chuyên môn cao, thu hút vốn đầu tư.",
+      "B.\tvị trí địa lí thuận lợi, tiếp giáp các vùng nhiều tiềm năng.",
+      "C.\ttài nguyên thiên nhiên phong phú và giàu khoáng sản.",
+      "D.\tchú trọng vào việc đa dạng hoá các sản phẩm, mở rộng thị trường. "
+    ]
+  },
+  {
+    "question":"Câu 19. Tài nguyên khoáng sản nổi bật của vùng Đông Nam bộ là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "A.\tBô xít, than đá.",
+      "B.\tDầu mỏ, khí đốt.",
+      "C.\tđá vôi xi măng, bô xít.",
+      "D.\tsét cao lanh, đá axit."
+    ]
+  },
+  {
+    "question":"Câu 20. Đông Nam bộ có thế mạnh về",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "A.\tkhai thác gỗ và lâm sản.",
+      "B.\ttrồng cây công nghiệp lâu năm.",
+      "C.\ttrồng cây lương thực.",
+      "D.\tchăn nuôi gia súc lớn."
+    ]
+  },
+  {
+    "question":"Câu 21. Loại cây nào sau đây phát triển nhất Đông Nam Bộ?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "A.\tcà phê.",
+      "B.\tcao su.",
+      "C.        chè.",
+      "D.\thồ tiêu."
+    ]
+  },
+  {
+    "question":"Câu 22. Đông Nam Bộ thu hút được nguồn lao động dồi dào do",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "A.\tNền kinh tế phát triển năng động.",
+      "B.\tCơ sở hạ tầng hoàn thiện.",
+      "C.\tTài nguyên khoáng sản phong phú. ",
+      "D.\tVị trí địa lý thuận lợi ít thiên tai."
+    ]
+  },
+  {
+    "question":"Câu 23. Ngành nội thương Đông Nam bộ phát triển do",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "A.\tnhu cầu sản xuất, tiêu dùng cao.",
+      "B.\thoạt động xuất nhập khẩu phát triển.",
+      "C.\tnguồn lao động dồi dào.",
+      "D.\tchất lượng hàng hoá cao. "
+    ]
+  },
+  {
+    "question":"Câu 24. Các tuyến đường bộ quan trọng ở Đông Nam Bộ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "A.\tQuốc lộ 22, quốc lộ 51, 13, 14,  cao tốc Long Thành - Dầu Giây- Phan Thiết",
+      "B.\tQuốc lộ 1, quốc lộ 19, quốc lộ 24, quốc lộ 25.",
+      "C.\tCao tốc Trung Lương, quốc lộ 1, quốc lộ 60.",
+      " D.\tQuốc lộ 7, quốc lộ 8, quốc lộ 9. "
+    ]
+  },
+  {
+    "question":"Câu 25. Nhận định nào sau đây không đúng với nền kinh tế Đông Nam Bộ?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "A.\tCông nghiệp và dịch vụ phát triển.",
+      "B.\tCơ cấu kinh tế phát triển.",
+      "C.\tLà vùng chuyên canh cây lương thực lớn.",
+      "D.\tThu hút vốn đầu tư nước ngoài. "
+    ]
+  },
+  {
+    "question":"Câu 26. Đông Nam bộ có thế mạnh kinh tế biển nào nổi bật ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      " A.\tKhai thác dầu khí",
+      "B.\tDu lịch biển đảo.",
+      "C.\tNghề muối.",
+      "D.\tNuôi trồng thủy sản."
+    ]
+  },
+  {
+    "question":"Câu 27. Nguyên nhân chính dẫn đến tình trạng ô nhiễm môi trường ở Đông Nam Bộ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "A.\tHoạt động sản xuất công nghiệp, các đô thị lớn.",
+      "B.\tHoạt động nông nghiệp, dân cư đông. ",
+      "C.\tXây dựng nhiều cảng biển.",
+      "D.\tDịch vụ phát triển, nhiều khu du lịch. "
+    ]
+  },
+  {
+    "question":"Câu 28. Phát triển ngành công nghiệp chế biến lương thực thực phẩm ở đồng bằng sông Cửu Long nhằm",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "A.\tChuyển dịch cơ cấu nền kinh tế, đảm bảo đầu ra cho cho nông sản. ",
+      "B.\tPhát triển nông nghiệp hàng hóa theo chiều sâu, thu hút đầu tư.",
+      "C.\tHình thành các khu công nghiệp đẩy mạnh quá trình công nghiệp hóa.",
+      "D.\tThúc đẩy tăng trưởng kinh tế vùng. "
+    ]
+  },
+  {
+    "question":"Câu 29. Những nhóm đất chính ở Đồng bằng sông Cửu Long là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "A.\tĐất phù sa ngọt, đất phèn, đất mặn.",
+      "B.\tĐất phù sa ngọt, đất xám, đất đa ban.",
+      "C.\tĐất mặn, đất bạc màu, đất xám trên phù sa cổ.\n",
+      "D.\tĐất feralit, đất xám trên phù sa cổ."
+    ]
+  },
+  {
+    "question":"Câu 30. Đất phù sa ngọt của Đồng bằng sông Cửu long phân bố chủ yếu ở",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "A.\tdọc sông tiền và sông hậu.",
+      "B.\tphân bố rải rác khắp trong vùng.",
+      "C.\tĐồng Tháp Mười, Hà Tiên, Cà Mau.",
+      "D.\tVùng ven biển Đông, vịnh Thái Lan."
+    ]
+  },
+  {
+    "question":"Câu 31. Hạn chế lớn nhất về điều kiện tự nhiên của Đồng bằng sông Cửu Long hiện nay là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "A.\tthiếu nước ngọt mùa khô, hiện tượng xâm nhập mặn vào sâu trong đất liền.",
+      "B.\tnước biển dâng do biến đổi khí hậu.",
+      "C.\tlũ lụt nước ngập trên diện rộng. ",
+      "D.\tnhiều bão, sạt lở đất ven bờ. "
+    ]
+  },
+  {
+    "question":"Câu 32. Rừng ở Đồng bằng sông Cửu Long có vai trò chủ yếu là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "A.\tcung cấp nguồn lâm sản có giá trị kinh tế cao.",
+      "B.\tđảm bảo cân bằng sinh thái phòng chống thiên tai.",
+      "C.\ttạo thêm diện tích nuôi trồng thủy hải sản.",
+      "D.\tphát triển mô hình nông lâm kết hợp."
+    ]
+  },
+  {
+    "question":"Câu 33. Khí hậu ở đồng bằng sông Cửu Long mang tính chất",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "A.\tcận nhiệt đới gió mùa.",
+      "B.\tcận xích đạo gió mùa.",
+      "C.\tnhiệt đới ẩm gió mùa.",
+      "D.\tôn đới gió mùa."
+    ]
+  },
+  {
+    "question":"Câu 34. Giải pháp chủ yếu để ứng phó với tình trạng xâm nhập mặn trong ngành trồng trọt ở đồng bằng sông củ long hiện nay là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "A.\tphát triển thuỷ lợi, chuyển đổi cơ cấu cây trồng.",
+      "B.        đa dạng hóa sản xuất, tăng diện tích cây ăn quả.",
+      "C.\tgiảm diện tích lúa, chủ động sống chung với lũ.",
+      "D.\tmở rộng đất nông nghiệp, trồng rừng ngập mặn."
+    ]
+  },
+  {
+    "question":"Câu 35. Các tỉnh có Có diện tích trồng lúa lớn ở đồng bằng sông Cửu Long là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "A.\tKiên Giang, Long An, An Giang, Đồng Tháp.",
+      "B.\tCà Mau, Bạc Liêu, Sóc Trăng, Bến Tre.",
+      "C.\tVĩnh Long, Hậu Giang, Sóc Trăng.",
+      "D.\tTiền Giang, Bến Tre, Trà Vinh. "
+    ]
+  },
+  {
+    "question":"Câu 36. Phương hướng phát triển ngành thủy sản ở đồng bằng sông Cửu Long là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "A.\tĐánh bắt xa bờ truy suất nguồn gốc thủy sản đầu tư công nghiệp chế biến, ứng dụng công nghệ cao.",
+      "B.\tđánh bắt gần bờ, chú trọng nuôi trồng, mở rộng thị trường.",
+      "C.\ttập trung phát triển nuôi cá, giảm đánh bắt thuỷ sản, chú trọng thị trường trong nước.",
+      "D.\tđánh bắt gần bờ, đầu tư công nghiệp chế biến, mở rộng thị trường. "
+    ]
+  },
+  {
+    "question":"Câu 37. Phát biểu nào không phải là lý do sử dụng hợp lý tự nhiên ở Đồng bằng sông Cửu Long? ",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "A.\tNhằm phát huy thế mạnh tự nhiên và mang lại hiệu quả kinh tế cho vùng.",
+      "B.\tGóp phần bảo vệ môi trường, phát triển bền vững, ứng phó biến đổi khí hậu.",
+      "C.\tGiữ vững vị thế vùng trọng điểm sản xuất lương thực trực phẩm và nuôi trồng thủy sản cả nước.",
+      "D.\tTăng tốc độ tăng trưởng kinh tế, chuyển dịch cơ cấu kinh tế vùng. "
+    ]
+  },
+  {
+    "question":"Câu 38. Câu đúng sai\nĐồng bằng sông Cửu Long là một trong những đồng bằng lớn, đất phì nhiêu nhất Đông Nam Á, là vùng sản xuất, suất khẩu lương thực, vùng cây ăn trái nhiệt đới lớn nhất của nước ta. Phần lớn diện tích đồng bằng được bồi đắp phù sa hằng năm, rất màu mỡ nhất là dải đất phù sa ngọt dọc sông tiền sông hậu.\n",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "a)\tĐồng bằng sông Cửu Long là vùng chuyên canh cây lúa số một của nước ta.",
+      "b)\tĐồng bằng sông Cửu Long có năng suất lúa lớn thứ hai của nước ta sau đồng bằng sông Hồng.",
+      "c)\tLúa xuất khẩu của Việt Nam chủ yếu từ Đồng bằng sông Cửu Long.",
+      "d)\tĐất phù sa của đồng bằng sông Cửu Long là phù sa không được bồi đắp hằng năm."
+    ]
+  },
+  {
+    "question":"Câu 39. \nDu lịch là ngành mang lại nhiều lợi nhuận, có tác động tích cực thực hiện chính sách mở cửa, hội nhập quốc tế sâu rộng nâng cao vị thế đất nước phát triển kinh tế, tạo công ăn việc làm, mở rộng giao lưu văn hóa. Những năm qua, khu vực đồng bằng sông củ long đã khai thác và phát triển thế mạnh du lịch trên địa bàn.\n",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "a)\tĐồng bằng sông Cửu Long chỉ có tìm năng tự nhiên để phát triển du lịch.",
+      "b)\tPhú Quốc là trung tâm du lịch lớn nhất của vùng.",
+      "c)\tBài chòi, ca trù là nghệ thuật truyền thống vùng ĐBS Cửu Long.",
+      "d)\tVùng có ưu thế phát triển du lịch sinh thái, du lịch đường sông. "
+    ]
+  },
+  {
+    "question":"Câu 40. Câu đúng sai",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "a)\tThành phố Hồ Chí Minh là trung tâm kinh tế xã hội của vùng Đông Nam Bộ.",
+      "b)\tNgành kinh tế chiếm tỉ tỉ trọng lớn nhất trong  GRDP của thành phố Hồ Chí Minh là nông nghiệp.",
+      "c)\tThành phố Hồ Chí Minh là đầu mối giao thông vận tải lớn nhất cả nước.",
+      "d)        Thành phố Hồ Chí Minh là trung tâm du lịch lớn nhất của vùng."
+    ]
+  }
+]

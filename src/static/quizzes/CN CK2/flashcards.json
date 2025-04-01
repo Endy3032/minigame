@@ -29,7 +29,7 @@
     "answer":"Điện trở được sử dụng để hạn chế hoặc điều chỉnh dòng điện và phân chia điện áp trong các mạch điện, điện tử",
     "image":null,
     "id":58,
-    "answerimage":"59.png"
+    "answerimage":"\/quizzes\/CN CK2\/59.png"
   },
   {
     "question":"Hãy cho biết chức năng của tụ điện và vẽ kí hiệu của tụ điện không phân cực?",
@@ -37,7 +37,7 @@
     "answer":"Tụ điện dùng để ngăn dòng điện một chiều và cho dòng điện xoay chiều đi qua, khi mắc phối hợp với cuộn cảm sẽ tạo thành mạch cộng hưởng.",
     "image":null,
     "id":59,
-    "answerimage":"60.png"
+    "answerimage":"\/quizzes\/CN CK2\/60.png"
   },
   {
     "question":"Hãy cho biết chức năng của cuộn cảm và vẽ kí hiệu của cuộn cảm lõi không khí?",
@@ -45,6 +45,6 @@
     "answer":"Cuộn cảm được dùng để dẫn dòng điện một chiều, cản trở dòng điện cao tần và khi mắc phối hợp với tụ điện sẽ tạo thành các mạch cộng hưởng.",
     "image":null,
     "id":60,
-    "answerimage":"61.png"
+    "answerimage":"\/quizzes\/CN CK2\/61.png"
   }
 ]
