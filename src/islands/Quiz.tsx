@@ -1,5 +1,6 @@
 import { Signal, useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
+import { Kbd } from "../components/KeyboardButton.tsx"
 import { cn, fisherYatesShuffle, Question } from "../utils.ts"
 
 const colorMap = [
@@ -128,7 +129,7 @@ export function Quiz(props: { questions: Question[] }) {
 		shuffledChoices.value = fisherYatesShuffle(q?.choices?.map((text, index) => ({ text, index: index + 1 })) ?? [])
 
 		const handler = (e: KeyboardEvent) => {
-			if (e.key === "Right" || e.key === "ArrowRight") skipButton.current?.click()
+			if (e.key === "ArrowRight") skipButton.current?.click()
 			if (e.key === "Enter" && q.type === "Checkbox" && answer.value.length) skipButton.current?.click()
 			if (["1", "2", "3", "4"].includes(e.key)) {
 				const index = parseInt(e.key) - 1
@@ -181,13 +182,13 @@ export function Quiz(props: { questions: Question[] }) {
 						</div>
 					</div>
 				)}
-				<div class="grid grid-cols-1 md:grid-cols-[repeat(auto-fit,minmax(256px,1fr))] gap-x-3 gap-y-4 text-xl md:text-2xl">
+				<div class="grid grid-cols-1 lg:grid-cols-[repeat(auto-fit,minmax(24%,1fr))] gap-x-3 gap-y-4 text-xl md:text-2xl">
 					{shuffledChoices.value.map((choice, i) => (
 						<button
 							type="button"
 							class={cn(
 								"px-4 py-2 md:py-4 transition-all rounded-md shadow-[0_4px_0_0] outline-none min-h-12 md:min-h-24 lg:min-h-48 ring-zinc-300",
-								"text-balance break-words focus:brightness-125 focus:ring-1 hover:translate-y-1 hover:shadow-none",
+								"relative text-balance break-words focus:brightness-125 focus:ring-1 hover:translate-y-1 hover:shadow-none",
 								check(choice.index) ? "translate-y-1 shadow-none ring-4 ring-zinc-300" : "",
 								showAnswer.value && answer.value.length
 									? questions[remainingQuestions.value[0]].answer?.includes(choice.index)
@@ -204,6 +205,7 @@ export function Quiz(props: { questions: Question[] }) {
 								if (e.key === "Enter") e.preventDefault()
 							}}
 						>
+							<Kbd class="absolute top-2 left-2">{i + 1}</Kbd>
 							{choice.text}
 						</button>
 					))}
@@ -215,7 +217,10 @@ export function Quiz(props: { questions: Question[] }) {
 					<button
 						type="button"
 						ref={skipButton}
-						class="px-4 py-2 mb-1 transition-all hover:translate-y-1 hover:shadow-[0_0_0_0] rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 disabled:opacity-50 focus:brightness-125 focus:ring-1 ring-zinc-300 outline-none flex-shrink-0"
+						class={cn(
+							"px-4 py-2 mb-1 rounded-md bg-zinc-600 shadow-[0_4px_0_0] shadow-zinc-700 ring-zinc-300 outline-none flex-shrink-0 flex gap-2 items-center",
+							"transition-all hover:translate-y-1 hover:shadow-none disabled:opacity-50 focus:brightness-125 focus:ring-1",
+						)}
 						onClick={() => {
 							proceed(answer.value.length && !showAnswer.value ? "submit" : "skip")
 							const { current } = skipButton
@@ -230,6 +235,7 @@ export function Quiz(props: { questions: Question[] }) {
 						}}
 					>
 						{showAnswer.value ? "Tiếp" : answer.value.length ? "Gửi" : "Bỏ qua"}
+						<Kbd class="origin-left h-min mb-0.5">&rarr;</Kbd>
 					</button>
 				</div>
 			</div>

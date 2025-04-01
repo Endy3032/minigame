@@ -12,7 +12,7 @@ export default function Home() {
 
 	const buttonClass = cn(
 		"flex-1 border-2 rounded-md text-center transition-all p-4",
-		"hover:translate-y-1 hover:shadow-none shadow-[0_4px_0_0] border-zinc-400 shadow-zinc-400 active:bg-zinc-700 hover:bg-zinc-700/50",
+		"shadow-[0_4px_0_0] hover:translate-y-1 hover:shadow-none border-zinc-400 shadow-zinc-400 active:bg-zinc-700 hover:bg-zinc-700/50",
 	)
 
 	return (
