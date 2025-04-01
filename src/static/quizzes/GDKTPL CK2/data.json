@@ -1,6 +1,6 @@
 [
   {
-    "Question Texta":"Câu 1: Công dân có nghĩa vụ thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh, tôn trọng người làm việc trong các cơ sở",
+    "question":"Câu 1: Công dân có nghĩa vụ thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh, tôn trọng người làm việc trong các cơ sở",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 2: Theo quy định của pháp luật trong việc khám chữa bệnh mọi người đều được đối xử",
+    "question":"Câu 2: Theo quy định của pháp luật trong việc khám chữa bệnh mọi người đều được đối xử",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 3: Theo quy định của pháp luật, công dân có quyền được bảo vệ, chăm sóc sức khỏe và được",
+    "question":"Câu 3: Theo quy định của pháp luật, công dân có quyền được bảo vệ, chăm sóc sức khỏe và được",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 4: Một trong những quy định của pháp luật là công dân có quyền bình đẳng về cơ hội trong việc chăm sóc, bảo vệ sức khỏe, được",
+    "question":"Câu 4: Một trong những quy định của pháp luật là công dân có quyền bình đẳng về cơ hội trong việc chăm sóc, bảo vệ sức khỏe, được",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 5: Khi phát hiện hành vi vi phạm quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe và bảo đảm an sinh xã hội, công dân được thực hiện quyền nào sau đây?",
+    "question":"Câu 5: Khi phát hiện hành vi vi phạm quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe và bảo đảm an sinh xã hội, công dân được thực hiện quyền nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 6: Một trong những quyền được đảm bảo an sinh xã hội của công dân là",
+    "question":"Câu 6: Một trong những quyền được đảm bảo an sinh xã hội của công dân là",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 7: Một trong những nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe là",
+    "question":"Câu 7: Một trong những nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe là",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 8: Việc làm nào sau đây là vi phạm quy định quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe và bảo đảm an sinh xã hội?",
+    "question":"Câu 8: Việc làm nào sau đây là vi phạm quy định quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khỏe và bảo đảm an sinh xã hội?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 9: Bà C phát hiện cơ thê mình xuât hiện một sô triệu chứng măc bệnh bệnh truyên nhiễm nhưng không thông báo với cán bộ y tê ở địa phương mà tự mua thuôc vê uông. Nhưng uông thuôc mãi không khỏi, con trai bà C là anh Q, anh M đều khuyên bà nên đến bệnh viện điều trị để có biện pháp phòng, chống dịch bệnh tránh lây nhiêm cho người khác. Ông S chồng bà C nghe con trai khuyên mẹ thì tỏ thái độ không đông ý vi cho răng: Bệnh truyền nhiêm không lây nhiêm, sẽ tự khỏi, cân gì phải đi khám cho mât thời gian và mât tiền. Nghe chồng nói vậy nên bà C quyết định không đền cơ sở khám bệnh mà tự điều trị ở nhà. Hàng ngày, bà vẫn đi lại ở những nơi đông người như trường học, khu công nghiệp, trung tâm thương mại mà không thực hiện bất kì phương pháp bảo hộ nào. Những ai sau đây đã thực hiện tốt quyền và nghĩa vụ công dân trong bảo vệ, chăm sóc sức khỏe?",
+    "question":"Câu 9: Bà C phát hiện cơ thê mình xuât hiện một sô triệu chứng măc bệnh bệnh truyên nhiễm nhưng không thông báo với cán bộ y tê ở địa phương mà tự mua thuôc vê uông. Nhưng uông thuôc mãi không khỏi, con trai bà C là anh Q, anh M đều khuyên bà nên đến bệnh viện điều trị để có biện pháp phòng, chống dịch bệnh tránh lây nhiêm cho người khác. Ông S chồng bà C nghe con trai khuyên mẹ thì tỏ thái độ không đông ý vi cho răng: Bệnh truyền nhiêm không lây nhiêm, sẽ tự khỏi, cân gì phải đi khám cho mât thời gian và mât tiền. Nghe chồng nói vậy nên bà C quyết định không đền cơ sở khám bệnh mà tự điều trị ở nhà. Hàng ngày, bà vẫn đi lại ở những nơi đông người như trường học, khu công nghiệp, trung tâm thương mại mà không thực hiện bất kì phương pháp bảo hộ nào. Những ai sau đây đã thực hiện tốt quyền và nghĩa vụ công dân trong bảo vệ, chăm sóc sức khỏe?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 10: Bà C phát hiện cơ thê mình xuât hiện một sô triệu chứng măc bệnh bệnh truyên nhiễm nhưng không thông báo với cán bộ y tê ở địa phương mà tự mua thuôc vê uông. Nhưng uông thuôc mãi không khỏi, con trai bà C là anh Q, anh M đều khuyên bà nên đến bệnh viện điều trị để có biện pháp phòng, chống dịch bệnh tránh lây nhiêm cho người khác. Ông S chồng bà C nghe con trai khuyên mẹ thì tỏ thái độ không đông ý vi cho răng: Bệnh truyền nhiêm không lây nhiêm, sẽ tự khỏi, cân gì phải đi khám cho mât thời gian và mât tiền. Nghe chồng nói vậy nên bà C quyết định không đền cơ sở khám bệnh mà tự điều trị ở nhà. Hàng ngày, bà vẫn đi lại ở những nơi đông người như trường học, khu công nghiệp, trung tâm thương mại mà không thực hiện bất kì phương pháp bảo hộ nào. Những ai sau đây chưa thực hiện tốt quyền và nghĩa vụ công dân trong bảo vệ, chăm sóc sức khỏe?",
+    "question":"Câu 10: Bà C phát hiện cơ thê mình xuât hiện một sô triệu chứng măc bệnh bệnh truyên nhiễm nhưng không thông báo với cán bộ y tê ở địa phương mà tự mua thuôc vê uông. Nhưng uông thuôc mãi không khỏi, con trai bà C là anh Q, anh M đều khuyên bà nên đến bệnh viện điều trị để có biện pháp phòng, chống dịch bệnh tránh lây nhiêm cho người khác. Ông S chồng bà C nghe con trai khuyên mẹ thì tỏ thái độ không đông ý vi cho răng: Bệnh truyền nhiêm không lây nhiêm, sẽ tự khỏi, cân gì phải đi khám cho mât thời gian và mât tiền. Nghe chồng nói vậy nên bà C quyết định không đền cơ sở khám bệnh mà tự điều trị ở nhà. Hàng ngày, bà vẫn đi lại ở những nơi đông người như trường học, khu công nghiệp, trung tâm thương mại mà không thực hiện bất kì phương pháp bảo hộ nào. Những ai sau đây chưa thực hiện tốt quyền và nghĩa vụ công dân trong bảo vệ, chăm sóc sức khỏe?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 11: Theo quy định của pháp luật, công dân có quyền được khám bệnh mà không phân biệt đối tượng, và được chữa bệnh khi ốm đau và trong các trường hợp cấp cứu. Điều này thể hiện quyền gì của công dân?",
+    "question":"Câu 11: Theo quy định của pháp luật, công dân có quyền được khám bệnh mà không phân biệt đối tượng, và được chữa bệnh khi ốm đau và trong các trường hợp cấp cứu. Điều này thể hiện quyền gì của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 12: Công dân có quyền được tôn trọng về tính mạng và nhân phẩm trong suốt quá trình khám, chữa bệnh. Điều này có nghĩa là?",
+    "question":"Câu 12: Công dân có quyền được tôn trọng về tính mạng và nhân phẩm trong suốt quá trình khám, chữa bệnh. Điều này có nghĩa là?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 13: Công dân có quyên tiêp cận thông tin y tế về chăm sóc, bảo vệ sức khỏe. Quyên này bao gồm điều gì?",
+    "question":"Câu 13: Công dân có quyên tiêp cận thông tin y tế về chăm sóc, bảo vệ sức khỏe. Quyên này bao gồm điều gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 14: Theo quy định của pháp luật, công dân có quyền quyết định về khám, chữa bệnh. Điều này có nghĩa là gì?",
+    "question":"Câu 14: Theo quy định của pháp luật, công dân có quyền quyết định về khám, chữa bệnh. Điều này có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 15: Công dân có quyền tố cáo các hành vi sai phạm trong khám, chữa bệnh. Điều này có ý nghĩa gì?",
+    "question":"Câu 15: Công dân có quyền tố cáo các hành vi sai phạm trong khám, chữa bệnh. Điều này có ý nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 16: Quyền bình đắng trong khám bệnh của công dân có nghĩa là?",
+    "question":"Câu 16: Quyền bình đắng trong khám bệnh của công dân có nghĩa là?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -256,7 +256,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 17: Tôn trọng tính mạng và nhân phẩm của bệnh nhân trong quá trình khám, chữa bệnh được thể hiện như thế nào?",
+    "question":"Câu 17: Tôn trọng tính mạng và nhân phẩm của bệnh nhân trong quá trình khám, chữa bệnh được thể hiện như thế nào?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 18: Công dân có quyên tiêp cận thông tin y tê. Điêu này bao gôm quyên gì?",
+    "question":"Câu 18: Công dân có quyên tiêp cận thông tin y tê. Điêu này bao gôm quyên gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 19: Phát biểu nào sau đây là không đúng về quyền bình đẳng trong khám bệnh của công dân?",
+    "question":"Câu 19: Phát biểu nào sau đây là không đúng về quyền bình đẳng trong khám bệnh của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 20: Phát biêu nào sau đây là không đúng về quyền tôn trọng tính mạng và nhân phẩm trong khám chữa bệnh?",
+    "question":"Câu 20: Phát biêu nào sau đây là không đúng về quyền tôn trọng tính mạng và nhân phẩm trong khám chữa bệnh?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 21: Phát biểu nào sau đây là không đúng về quyền tiếp cận thông tin y tế của công dân?",
+    "question":"Câu 21: Phát biểu nào sau đây là không đúng về quyền tiếp cận thông tin y tế của công dân?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 22: Phát biêu nào sau đây là không đúng vê quyền quyết định khám chữa bệnh của công dân?",
+    "question":"Câu 22: Phát biêu nào sau đây là không đúng vê quyền quyết định khám chữa bệnh của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 23: Phát biểu nào sau đây là không đúng về quyền tố cáo các hành vi sai phạm trong khám chữa bệnh?",
+    "question":"Câu 23: Phát biểu nào sau đây là không đúng về quyền tố cáo các hành vi sai phạm trong khám chữa bệnh?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 24: Phát biểu nào sau đây là không đúng về quyền bình đẳng trong khám chữa bệnh của công dân?",
+    "question":"Câu 24: Phát biểu nào sau đây là không đúng về quyền bình đẳng trong khám chữa bệnh của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 25: Phát biểu nào sau đây là không đúng vê quyên của công dân trong bảo vệ sức khỏe?",
+    "question":"Câu 25: Phát biểu nào sau đây là không đúng vê quyên của công dân trong bảo vệ sức khỏe?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -400,7 +400,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 26: Công dân có quyên tham gia vào hoạt động gìn giữ văn hóa thông qua:",
+    "question":"Câu 26: Công dân có quyên tham gia vào hoạt động gìn giữ văn hóa thông qua:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 27: Quyền nào cho phép công dân tìm hiểu về các di sản văn hóa?",
+    "question":"Câu 27: Quyền nào cho phép công dân tìm hiểu về các di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 28: Quyền nào sau đây cho phép công dân thông báo hành vi vi phạm pháp luật liên quan đến di sản văn hóa?",
+    "question":"Câu 28: Quyền nào sau đây cho phép công dân thông báo hành vi vi phạm pháp luật liên quan đến di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 29: Quyên nào cho phép công dân thực hiện các biện pháp bảo vệ và phát huy giá trị di sản văn hóa?",
+    "question":"Câu 29: Quyên nào cho phép công dân thực hiện các biện pháp bảo vệ và phát huy giá trị di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -464,7 +464,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 30: Một công dân phát hiện hành vi khai thác trái phép di sản văn hóa có quyên gì?",
+    "question":"Câu 30: Một công dân phát hiện hành vi khai thác trái phép di sản văn hóa có quyên gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -480,7 +480,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 31: Công dân có quyền tham gia vào các hoạt động văn hóa như nào?",
+    "question":"Câu 31: Công dân có quyền tham gia vào các hoạt động văn hóa như nào?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 32: Lễ hội Đền Hùng diễn ra vào ngày 10 tháng 3 âm lịch hàng năm, nhằm tưởng nhớ các Vua Hùng và là dịp để người dân tìm hiểu cội nguồn dân tộc. Thái độ nào sau đây của công dân thể hiện sự tôn trọng đối với lễ hội này?",
+    "question":"Câu 32: Lễ hội Đền Hùng diễn ra vào ngày 10 tháng 3 âm lịch hàng năm, nhằm tưởng nhớ các Vua Hùng và là dịp để người dân tìm hiểu cội nguồn dân tộc. Thái độ nào sau đây của công dân thể hiện sự tôn trọng đối với lễ hội này?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -512,7 +512,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 33: Câu lạc bộ Quan họ Bắc Ninh được thành lập nhằm bảo tồn và phát huy các làn điệu dân ca truyền thống, cho phép các công dân biểu diễn và gìn giữ văn hóa của quê hương. Hành động nào sau đây của học sinh thể hiện trách nhiệm trong việc gìn giữ di sản văn hóa này?",
+    "question":"Câu 33: Câu lạc bộ Quan họ Bắc Ninh được thành lập nhằm bảo tồn và phát huy các làn điệu dân ca truyền thống, cho phép các công dân biểu diễn và gìn giữ văn hóa của quê hương. Hành động nào sau đây của học sinh thể hiện trách nhiệm trong việc gìn giữ di sản văn hóa này?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 34: Di tích Hoàng thành Thăng Long và Phố cổ Hà Nội là những địa điểm thu hút khách du lịch, là nơi tham quan và nghiên cứu di sản văn hóa của đất nước. Việc làm nào sau đây của học sinh là không đúng khi tham quan những di tích này?",
+    "question":"Câu 34: Di tích Hoàng thành Thăng Long và Phố cổ Hà Nội là những địa điểm thu hút khách du lịch, là nơi tham quan và nghiên cứu di sản văn hóa của đất nước. Việc làm nào sau đây của học sinh là không đúng khi tham quan những di tích này?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -544,7 +544,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 35: Cá nhân có quyền sở hữu di vật cổ mà họ đã hợp pháp mua từ các phiên đấu giá hoặc từ những người sở hữu trước. Hành vi nào sau đây là không hợp pháp liên quan đến di vật cổ?",
+    "question":"Câu 35: Cá nhân có quyền sở hữu di vật cổ mà họ đã hợp pháp mua từ các phiên đấu giá hoặc từ những người sở hữu trước. Hành vi nào sau đây là không hợp pháp liên quan đến di vật cổ?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 36: Công dân có quyên thông báo về các hành vi vi phạm pháp luật liên quan đến di sản văn hóa. Hành động nào dưới đây thể hiện ý thức bảo vệ di sản văn hóa?",
+    "question":"Câu 36: Công dân có quyên thông báo về các hành vi vi phạm pháp luật liên quan đến di sản văn hóa. Hành động nào dưới đây thể hiện ý thức bảo vệ di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 37: Tổ chức các chương trình bảo tồn các làn điệu dân ca hoặc trang phục truyên thông là một trong những cách bảo vệ và phát huy giá trị di sản văn hóa. Việc làm nào sau đây thể hiện thái độ tích cực trong việc bảo tồn văn hóa truyền thống?",
+    "question":"Câu 37: Tổ chức các chương trình bảo tồn các làn điệu dân ca hoặc trang phục truyên thông là một trong những cách bảo vệ và phát huy giá trị di sản văn hóa. Việc làm nào sau đây thể hiện thái độ tích cực trong việc bảo tồn văn hóa truyền thống?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 38: Lễ hội truyền thống là dịp để người dân thê hiện lòng tự hào và gìn giữ bản sàc văn hóa dân tộc. Thái độ nào sau đây không đúng khi tham gia lễ hội?",
+    "question":"Câu 38: Lễ hội truyền thống là dịp để người dân thê hiện lòng tự hào và gìn giữ bản sàc văn hóa dân tộc. Thái độ nào sau đây không đúng khi tham gia lễ hội?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 39: Công dân có quyền tham gia vào các hoạt động văn hóa, lễ hội truyền thống để phát huy giá trị văn hóa. Hành vi nào dưới đây thế hiện trách nhiệm của công dân trong việc tham gia lễ hội?",
+    "question":"Câu 39: Công dân có quyền tham gia vào các hoạt động văn hóa, lễ hội truyền thống để phát huy giá trị văn hóa. Hành vi nào dưới đây thế hiện trách nhiệm của công dân trong việc tham gia lễ hội?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 40: Di sản văn hóa nào sau đây thuộc loại di sản vật thể?",
+    "question":"Câu 40: Di sản văn hóa nào sau đây thuộc loại di sản vật thể?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 41. Công dân có nghĩa vụ tôn trọng và bảo vệ di sản văn hóa bằng cách tham gia các hoạt động tình nguyện như dọn dẹp và bảo trì di tích. Hành động nào sau đây của công dân thể hiện thái độ tích cực trong việc bảo vệ di sản văn hóa?",
+    "question":"Câu 41. Công dân có nghĩa vụ tôn trọng và bảo vệ di sản văn hóa bằng cách tham gia các hoạt động tình nguyện như dọn dẹp và bảo trì di tích. Hành động nào sau đây của công dân thể hiện thái độ tích cực trong việc bảo vệ di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 42. Khi công dân phát hiện di vật cổ trong quá trình khai thác đất, họ cần có nghĩa vụ gì theo quy định của pháp luật?",
+    "question":"Câu 42. Khi công dân phát hiện di vật cổ trong quá trình khai thác đất, họ cần có nghĩa vụ gì theo quy định của pháp luật?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 43. Công dân có nghĩa vụ phản ánh các hành vi xâm hại đến di sản văn hóa. Nếu phát hiện hành vi xây dựng không đúng quy định gần di tích lịch sử, công dân cần làm gì?",
+    "question":"Câu 43. Công dân có nghĩa vụ phản ánh các hành vi xâm hại đến di sản văn hóa. Nếu phát hiện hành vi xây dựng không đúng quy định gần di tích lịch sử, công dân cần làm gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -688,7 +688,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 44. Theo quy định pháp luật, công dân có nghĩa vụ tuân thủ các quy định liên quan đến bảo vệ di sản văn hóa. Việc làm nào sau đây là vi phạm nghĩa vụ này?",
+    "question":"Câu 44. Theo quy định pháp luật, công dân có nghĩa vụ tuân thủ các quy định liên quan đến bảo vệ di sản văn hóa. Việc làm nào sau đây là vi phạm nghĩa vụ này?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -704,7 +704,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 45. Hình thức nào sau đây là một di sản văn hóa phi vật thể?",
+    "question":"Câu 45. Hình thức nào sau đây là một di sản văn hóa phi vật thể?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 46. Quyên nào sau đây cho phép công dân tham gia vào các hoạt động văn hóa truyên thông?",
+    "question":"Câu 46. Quyên nào sau đây cho phép công dân tham gia vào các hoạt động văn hóa truyên thông?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -736,7 +736,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 47. Để bảo vệ và giữ gìn di sản văn hóa, mỗi công dân học sinh cần học tập và tìm hiểu về di sản văn hóa. Hành động nào dưới đây thể hiện việc học tập và tìm hiểu đúng cách của học sinh?",
+    "question":"Câu 47. Để bảo vệ và giữ gìn di sản văn hóa, mỗi công dân học sinh cần học tập và tìm hiểu về di sản văn hóa. Hành động nào dưới đây thể hiện việc học tập và tìm hiểu đúng cách của học sinh?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 48. Học sinh cân tích cực tham gia các hoạt động bảo vệ di sản văn hóa do nhà trường và địa phương tố chức. Hành động nào sau đây là không phù hợp với lứa tuổi và trách nhiệm của học sinh trong việc bảo vệ di sản văn hóa?",
+    "question":"Câu 48. Học sinh cân tích cực tham gia các hoạt động bảo vệ di sản văn hóa do nhà trường và địa phương tố chức. Hành động nào sau đây là không phù hợp với lứa tuổi và trách nhiệm của học sinh trong việc bảo vệ di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -768,7 +768,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 49. Việc thực hiện quyền và nghĩa vụ công dân về bảo vệ di sản văn hóa là rất quan trọng. Hành động nào sau đây là vi phạm quyền và nghĩa vụ của công dân trong việc bảo vệ di sản văn hóa?",
+    "question":"Câu 49. Việc thực hiện quyền và nghĩa vụ công dân về bảo vệ di sản văn hóa là rất quan trọng. Hành động nào sau đây là vi phạm quyền và nghĩa vụ của công dân trong việc bảo vệ di sản văn hóa?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 50: Một công dân đã mua di vật cô hợp pháp có quyên gì?",
+    "question":"Câu 50: Một công dân đã mua di vật cô hợp pháp có quyên gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -800,7 +800,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 51: Vợ, chông bình đăng, tôn trọng nhau được thê hiện ở việc vợ chông có nghĩa vụ ngang nhau trong việc",
+    "question":"Câu 51: Vợ, chông bình đăng, tôn trọng nhau được thê hiện ở việc vợ chông có nghĩa vụ ngang nhau trong việc",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 52: Một trong những nội dung quyền và nghĩa vụ của công dân trong hôn nhân và gia đình là cha mẹ có quyền và nghĩa vụ",
+    "question":"Câu 52: Một trong những nội dung quyền và nghĩa vụ của công dân trong hôn nhân và gia đình là cha mẹ có quyền và nghĩa vụ",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -832,7 +832,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 53: Vợ chồng có quyền và nghĩa vụ ngang nhau trong việc lựa chọn nơi cư trú là bình đẳng trong quan hệ",
+    "question":"Câu 53: Vợ chồng có quyền và nghĩa vụ ngang nhau trong việc lựa chọn nơi cư trú là bình đẳng trong quan hệ",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 54: Công dân có quyền tự do kết hôn khi có đủ điều kiện kết hôn theo",
+    "question":"Câu 54: Công dân có quyền tự do kết hôn khi có đủ điều kiện kết hôn theo",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 55: Việc dùng tài sản chung để đầu tư kinh doanh phải được bàn bạc, thoa thuận giữa vợ và chồng là thể hiện sự bình đắng về quyền và nghĩa vụ trong quan hệ",
+    "question":"Câu 55: Việc dùng tài sản chung để đầu tư kinh doanh phải được bàn bạc, thoa thuận giữa vợ và chồng là thể hiện sự bình đắng về quyền và nghĩa vụ trong quan hệ",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 56: Hành vi vi phạm về quyền và nghĩa vụ giữa vợ và chồng có thể không gây ra hậu quả nào sau đây?",
+    "question":"Câu 56: Hành vi vi phạm về quyền và nghĩa vụ giữa vợ và chồng có thể không gây ra hậu quả nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 57: Hành vi nào sau đây không phải là quy định của pháp luật về quyền và nghĩa vụ giữa cha mẹ và con?",
+    "question":"Câu 57: Hành vi nào sau đây không phải là quy định của pháp luật về quyền và nghĩa vụ giữa cha mẹ và con?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 58: Theo quy định của pháp luật, quyền và nghĩa vụ giữa vợ và chồng không thể hiện ở việc làm nào sau đây?",
+    "question":"Câu 58: Theo quy định của pháp luật, quyền và nghĩa vụ giữa vợ và chồng không thể hiện ở việc làm nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -928,7 +928,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 59: Theo quy định của pháp luật, công dân có quyền tự do kết hôn khi nào?",
+    "question":"Câu 59: Theo quy định của pháp luật, công dân có quyền tự do kết hôn khi nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 60: Khi mục đích của hôn nhân không đạt được, công dân có quyền gì?",
+    "question":"Câu 60: Khi mục đích của hôn nhân không đạt được, công dân có quyền gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -960,7 +960,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 61: Công dân có nghĩa vụ gì sau khi li hôn?",
+    "question":"Câu 61: Công dân có nghĩa vụ gì sau khi li hôn?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -976,7 +976,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 62: Hành vi vi phạm quyền và nghĩa vụ công dân trong hôn nhân có thể dẫn đến hậu quả gì?",
+    "question":"Câu 62: Hành vi vi phạm quyền và nghĩa vụ công dân trong hôn nhân có thể dẫn đến hậu quả gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -992,7 +992,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 63: Việc duy trì quan hệ hôn nhân tiền bộ giúp công dân đạt được điều gì?",
+    "question":"Câu 63: Việc duy trì quan hệ hôn nhân tiền bộ giúp công dân đạt được điều gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 64: Quyền kết hôn của công dân không được đảm bảo trong trường hợp nào sau đây?",
+    "question":"Câu 64: Quyền kết hôn của công dân không được đảm bảo trong trường hợp nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1024,7 +1024,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 65: Quyền ly hôn của công dân không được thực hiện trong trường hợp nào sau đây?",
+    "question":"Câu 65: Quyền ly hôn của công dân không được thực hiện trong trường hợp nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1040,7 +1040,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 66: Nghĩa vụ nào sau đây là không đúng khi công dân muốn kết hôn",
+    "question":"Câu 66: Nghĩa vụ nào sau đây là không đúng khi công dân muốn kết hôn",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 67: Nghĩa vụ chăm sóc, nuôi dưỡng con sau ly hôn sẽ không được thực hiện khi nào?",
+    "question":"Câu 67: Nghĩa vụ chăm sóc, nuôi dưỡng con sau ly hôn sẽ không được thực hiện khi nào?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1072,7 +1072,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 68: Việc vi phạm quyền và nghĩa vụ trong hôn nhân có thể gây ra hậu quả nào sau đây?",
+    "question":"Câu 68: Việc vi phạm quyền và nghĩa vụ trong hôn nhân có thể gây ra hậu quả nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1088,7 +1088,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 69: Việc vợ chồng bình đẳng và tôn trọng nhau trong đời sống gia đình không được thể hiện ở hành vi nào sau đây?",
+    "question":"Câu 69: Việc vợ chồng bình đẳng và tôn trọng nhau trong đời sống gia đình không được thể hiện ở hành vi nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 70: Việc tôn trọng quyền và nghĩa vụ giữa vợ chồng góp phần tạo ra điều gì?",
+    "question":"Câu 70: Việc tôn trọng quyền và nghĩa vụ giữa vợ chồng góp phần tạo ra điều gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 71: Hành vi vi phạm quyền và nghĩa vụ giữa vợ chồng có thể dẫn đến điều gì?",
+    "question":"Câu 71: Hành vi vi phạm quyền và nghĩa vụ giữa vợ chồng có thể dẫn đến điều gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1136,7 +1136,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 72: Khi vợ và chồng tôn trọng quyền với tài sản riêng của nhau, điều gì sẽ xảy ra?",
+    "question":"Câu 72: Khi vợ và chồng tôn trọng quyền với tài sản riêng của nhau, điều gì sẽ xảy ra?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1152,7 +1152,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 73: Hành vi vi phạm quyền và nghĩa vụ giữa vợ chồng không gây ra hậu quả nào sau đây?",
+    "question":"Câu 73: Hành vi vi phạm quyền và nghĩa vụ giữa vợ chồng không gây ra hậu quả nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1168,7 +1168,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 74: Anh Hoàng và chị Lan đã kết hôn và chung sống với nhau được 10 năm. Tuy nhiên, thời gian gần đây, anh Hoàng thường xuyên quyết định sử dụng tài sản chung của gia đình mà không hỏi ý kiến của chị Lan, gây ra mâu thuẫn và bất hòa. Anh Hoàng cũng có hành vi coi nhẹ quyền và nghĩa vụ chăm sóc con cái, thường xuyên bỏ bê con và không hỗ trợ chị Lan trong việc nuôi dưỡng con cái. Những hành vi này làm chị Lan cảm thấy mệt mỏi và suy nghĩ về khả năng ly hôn để bảo vệ quyền lợi cho bản thân và con. Trong tình huỗng trên, anh Hoàng đã vi phạm quyền và nghĩa vụ nào trong hôn nhân?",
+    "question":"Câu 74: Anh Hoàng và chị Lan đã kết hôn và chung sống với nhau được 10 năm. Tuy nhiên, thời gian gần đây, anh Hoàng thường xuyên quyết định sử dụng tài sản chung của gia đình mà không hỏi ý kiến của chị Lan, gây ra mâu thuẫn và bất hòa. Anh Hoàng cũng có hành vi coi nhẹ quyền và nghĩa vụ chăm sóc con cái, thường xuyên bỏ bê con và không hỗ trợ chị Lan trong việc nuôi dưỡng con cái. Những hành vi này làm chị Lan cảm thấy mệt mỏi và suy nghĩ về khả năng ly hôn để bảo vệ quyền lợi cho bản thân và con. Trong tình huỗng trên, anh Hoàng đã vi phạm quyền và nghĩa vụ nào trong hôn nhân?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1184,7 +1184,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 75: Anh Hoàng và chị Lan đã kết hôn và chung sống với nhau được 10 năm. Tuy nhiên, thời gian gần đây, anh Hoàng thường xuyên quyết định sử dụng tài sản chung của gia đình mà không hỏi ý kiến của chị Lan, gây ra mâu thuẫn và bất hòa. Anh Hoàng cũng có hành vi coi nhẹ quyền và nghĩa vụ chăm sóc con cái, thường xuyên bỏ bê con và không hỗ trợ chị Lan trong việc nuôi dưỡng con cái. Những hành vi này làm chị Lan cảm thấy mệt mỏi và suy nghĩ về khả năng ly hôn để bảo vệ quyền lợi cho bản thân và con. Hành vi tự ý quyết định tài sản chung mà không hỏi ý kiến của chị Lan của anh Hoàng là biểu hiện của điều gì?",
+    "question":"Câu 75: Anh Hoàng và chị Lan đã kết hôn và chung sống với nhau được 10 năm. Tuy nhiên, thời gian gần đây, anh Hoàng thường xuyên quyết định sử dụng tài sản chung của gia đình mà không hỏi ý kiến của chị Lan, gây ra mâu thuẫn và bất hòa. Anh Hoàng cũng có hành vi coi nhẹ quyền và nghĩa vụ chăm sóc con cái, thường xuyên bỏ bê con và không hỗ trợ chị Lan trong việc nuôi dưỡng con cái. Những hành vi này làm chị Lan cảm thấy mệt mỏi và suy nghĩ về khả năng ly hôn để bảo vệ quyền lợi cho bản thân và con. Hành vi tự ý quyết định tài sản chung mà không hỏi ý kiến của chị Lan của anh Hoàng là biểu hiện của điều gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1200,7 +1200,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 76: Theo quy định của pháp luật Việt Nam, trong học tập, công dân có quyền nào sau đây?",
+    "question":"Câu 76: Theo quy định của pháp luật Việt Nam, trong học tập, công dân có quyền nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1216,7 +1216,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 77: Quyền nào sau đây giúp công dân có thể học bất cứ ngành, nghề nào mà mình yêu thích?",
+    "question":"Câu 77: Quyền nào sau đây giúp công dân có thể học bất cứ ngành, nghề nào mà mình yêu thích?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 78: Pháp luật quy định công dân có quyền được học trong môi trường như thể nào?",
+    "question":"Câu 78: Pháp luật quy định công dân có quyền được học trong môi trường như thể nào?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 79: Công dân có quyền gì trong việc nhận thông tin về học tập?",
+    "question":"Câu 79: Công dân có quyền gì trong việc nhận thông tin về học tập?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1264,7 +1264,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 80: Công dân có quyền học tập như thế nào theo pháp luật?",
+    "question":"Câu 80: Công dân có quyền học tập như thế nào theo pháp luật?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1280,7 +1280,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 81: Công dân có quyền gì liên quan đến phát triền tài năng?",
+    "question":"Câu 81: Công dân có quyền gì liên quan đến phát triền tài năng?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 82: Công dân có quyền gì về cơ hội học tập?",
+    "question":"Câu 82: Công dân có quyền gì về cơ hội học tập?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1312,7 +1312,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 83: Công dân có quyền gì liên quan đến việc lựa chọn ngành học?",
+    "question":"Câu 83: Công dân có quyền gì liên quan đến việc lựa chọn ngành học?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1328,7 +1328,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 84: Theo quy định pháp luật, công dân không có quyền nào sau đây trong học tập?",
+    "question":"Câu 84: Theo quy định pháp luật, công dân không có quyền nào sau đây trong học tập?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 85: Trong học tập, pháp luật Việt Nam không quy định công dân có quyền nào sau đây?",
+    "question":"Câu 85: Trong học tập, pháp luật Việt Nam không quy định công dân có quyền nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1360,7 +1360,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 86: Theo pháp luật Việt Nam, quyền bình đẳng về cơ hội học tập có nghĩa là gì?",
+    "question":"Câu 86: Theo pháp luật Việt Nam, quyền bình đẳng về cơ hội học tập có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1376,7 +1376,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 87: Quyên được học không hạn chê thê hiện qua nội dung nào sau đây?",
+    "question":"Câu 87: Quyên được học không hạn chê thê hiện qua nội dung nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1392,7 +1392,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 88: Quyền học thường xuyên, học suốt đời cho phép công dân làm gì?",
+    "question":"Câu 88: Quyền học thường xuyên, học suốt đời cho phép công dân làm gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1408,7 +1408,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 89: Nhà nước hỗ trợ phát triển tài năng thông qua hình thức nào sau đây?",
+    "question":"Câu 89: Nhà nước hỗ trợ phát triển tài năng thông qua hình thức nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1424,7 +1424,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 90: Quyên được tôn trọng và cung câp thông tin trong học tập thê hiện điêu gì?",
+    "question":"Câu 90: Quyên được tôn trọng và cung câp thông tin trong học tập thê hiện điêu gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1440,7 +1440,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 91: Môi trường học tập an toàn, lành mạnh giúp đảm bảo điều gì cho công dân?",
+    "question":"Câu 91: Môi trường học tập an toàn, lành mạnh giúp đảm bảo điều gì cho công dân?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 92: Quyên bình đăng trong học tập giúp công dân ở vùng khó khăn thê nào?",
+    "question":"Câu 92: Quyên bình đăng trong học tập giúp công dân ở vùng khó khăn thê nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1472,7 +1472,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 93: Phát biểu nào sau đây KHÔNG chính xác về quyền bình đẳng trong cơ hội học tập?",
+    "question":"Câu 93: Phát biểu nào sau đây KHÔNG chính xác về quyền bình đẳng trong cơ hội học tập?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1488,7 +1488,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 94: Nội dung nào sau đây là SAI về quyền học tập của công dân?",
+    "question":"Câu 94: Nội dung nào sau đây là SAI về quyền học tập của công dân?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1504,7 +1504,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 95: Nội dung nào sau đây KHÔNG đúng về quyền học ngành nghề phù hợp của công dân?",
+    "question":"Câu 95: Nội dung nào sau đây KHÔNG đúng về quyền học ngành nghề phù hợp của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 96: Phát biểu nào sau đây KHÔNG chính xác về quyền học tập suốt đời của công dân?",
+    "question":"Câu 96: Phát biểu nào sau đây KHÔNG chính xác về quyền học tập suốt đời của công dân?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 97: Nội dung nào sau đây KHÔNG chính xác về quyền phát triển tài năng của công dân?",
+    "question":"Câu 97: Nội dung nào sau đây KHÔNG chính xác về quyền phát triển tài năng của công dân?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1552,7 +1552,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 98: Nội dung nào sau đây là SAI về quyền yêu cầu thông tin trong học tập?",
+    "question":"Câu 98: Nội dung nào sau đây là SAI về quyền yêu cầu thông tin trong học tập?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 99: Phát biểu nào sau đây là KHÔNG đúng vê quyên học tập trong môi trường an toàn?",
+    "question":"Câu 99: Phát biểu nào sau đây là KHÔNG đúng vê quyên học tập trong môi trường an toàn?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 100: Quyền học bất cứ ngành, nghề phù hợp cho phép công dân làm gì?",
+    "question":"Câu 100: Quyền học bất cứ ngành, nghề phù hợp cho phép công dân làm gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1600,7 +1600,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 1: Tình huống: Bà T là một phụ nữ truyền thống và luôn mong muốn con trai mình, anh K, kết hôn với một người có địa vị tương xứng trong xã hội. Khi K đem lòng yêu và muốn kết hôn với chị M - một cô gái làm việc tự do và có hoàn cảnh gia đình bình thường - bà T đã phản đối kịch liệt. Bà cho rằng K nên kết hôn với người mà gia đình đã chọn, có gia thế tốt để đảm bảo hạnh phúc lâu dài. Bất chấp sự phản đối, K vẫn kiên quyết muốn kết hôn với M. Hai mẹ con đã tranh luận nhiêu lân vê việc K có quyên tự quyết định cuộc sống hôn nhân của mình hay không. •",
+    "question":"Câu 1: Tình huống: Bà T là một phụ nữ truyền thống và luôn mong muốn con trai mình, anh K, kết hôn với một người có địa vị tương xứng trong xã hội. Khi K đem lòng yêu và muốn kết hôn với chị M - một cô gái làm việc tự do và có hoàn cảnh gia đình bình thường - bà T đã phản đối kịch liệt. Bà cho rằng K nên kết hôn với người mà gia đình đã chọn, có gia thế tốt để đảm bảo hạnh phúc lâu dài. Bất chấp sự phản đối, K vẫn kiên quyết muốn kết hôn với M. Hai mẹ con đã tranh luận nhiêu lân vê việc K có quyên tự quyết định cuộc sống hôn nhân của mình hay không. •",
     "type":"Checkbox",
     "answer":[
       2
@@ -1616,7 +1616,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 2: Tình huống: Chị M và anh H đã kết hôn được 8 năm và có một con trai 5 tuổi. Ban đầu, cuộc sống gia đình khá yên ấm, nhưng trong vài năm gần đây, anh H thường xuyên có hành vi bạo lực với chị M, đặc biệt mỗi khi anh có chuyện không vui hoặc căng thăng từ công việc. Lân gân đây nhất, anh H đã đánh chị M trước mặt con trai khi chị phản đôi vê việc anh uồng rượu quá nhiêu. Chị M cảm thây sợ hãi và lo lắng cho sự an toàn của mình cũng như con trai. Tuy nhiên, khi bạn bè khuyên chị M nên báo công an hoặc tìm sự hỗ trợ, chị lại lo sợ việc này sẽ làm mất danh dự gia đình và ảnh hưởng đến con.",
+    "question":"Câu 2: Tình huống: Chị M và anh H đã kết hôn được 8 năm và có một con trai 5 tuổi. Ban đầu, cuộc sống gia đình khá yên ấm, nhưng trong vài năm gần đây, anh H thường xuyên có hành vi bạo lực với chị M, đặc biệt mỗi khi anh có chuyện không vui hoặc căng thăng từ công việc. Lân gân đây nhất, anh H đã đánh chị M trước mặt con trai khi chị phản đôi vê việc anh uồng rượu quá nhiêu. Chị M cảm thây sợ hãi và lo lắng cho sự an toàn của mình cũng như con trai. Tuy nhiên, khi bạn bè khuyên chị M nên báo công an hoặc tìm sự hỗ trợ, chị lại lo sợ việc này sẽ làm mất danh dự gia đình và ảnh hưởng đến con.",
     "type":"Checkbox",
     "answer":[
       2
@@ -1632,7 +1632,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 3: Đọc trường hợp sau: Nam, học sinh lớp 12 từ một vùng quê khó khăn, luôn nỗ lực học tập dù điều kiện sống hạn chế: Một ngày, cô Lan, giáo viên chủ nhiệm, thông báo rắng Nam đã được nhận học bổng vào trường chuyên, giúp cậu có cơ hội học tập tốt hơn. Cùng lúc đó, chị Mai, sinh viên năm cuối ngành Y, thường chia sẻ với Nam về những lựa chọn học tập của mình. Chị khuyến khích Nam theo đuổi ước mơ và cho biết cậu có thể chọn ngành học mình thích mà không bị cản trở bởi hoàn cảnh. Nhờ vào sự hỗ trợ từ cô Lan và cảm hứng từ chị Mai, Nam cảm thấy tự tin hơn trong hành trình học tập của mình.",
+    "question":"Câu 3: Đọc trường hợp sau: Nam, học sinh lớp 12 từ một vùng quê khó khăn, luôn nỗ lực học tập dù điều kiện sống hạn chế: Một ngày, cô Lan, giáo viên chủ nhiệm, thông báo rắng Nam đã được nhận học bổng vào trường chuyên, giúp cậu có cơ hội học tập tốt hơn. Cùng lúc đó, chị Mai, sinh viên năm cuối ngành Y, thường chia sẻ với Nam về những lựa chọn học tập của mình. Chị khuyến khích Nam theo đuổi ước mơ và cho biết cậu có thể chọn ngành học mình thích mà không bị cản trở bởi hoàn cảnh. Nhờ vào sự hỗ trợ từ cô Lan và cảm hứng từ chị Mai, Nam cảm thấy tự tin hơn trong hành trình học tập của mình.",
     "type":"Checkbox",
     "answer":[
       1,
@@ -1650,7 +1650,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 4: Tình huống: Trong một buổi tối, Minh, học sinh lớp 12, ngồi nói chuyện với bố mẹ về tương lai nghề nghiệp của mình. Minh đam mê nghệ thuật và muốn theo học chuyên ngành thiết kê đô họa, nhưng bồ mẹ lại muôn Minh chọn ngành \"hot\" như kinh tề hay công nghệ thông tin. Bố: \"Con cần chọn một ngành có triển vọng, nghề kinh tế sẽ giúp con có công việc ổn định hơn trong tương lai.\" Mẹ: \"Đúng đó, nghề thiết kế có thể không mang lại thụ nhập cao như con nghĩ.\" Minh: \"Nhưng con thực sự yêu thích thiết kế, con muốn theo đuổi đam mê của mình.\"",
+    "question":"Câu 4: Tình huống: Trong một buổi tối, Minh, học sinh lớp 12, ngồi nói chuyện với bố mẹ về tương lai nghề nghiệp của mình. Minh đam mê nghệ thuật và muốn theo học chuyên ngành thiết kê đô họa, nhưng bồ mẹ lại muôn Minh chọn ngành \"hot\" như kinh tề hay công nghệ thông tin. Bố: \"Con cần chọn một ngành có triển vọng, nghề kinh tế sẽ giúp con có công việc ổn định hơn trong tương lai.\" Mẹ: \"Đúng đó, nghề thiết kế có thể không mang lại thụ nhập cao như con nghĩ.\" Minh: \"Nhưng con thực sự yêu thích thiết kế, con muốn theo đuổi đam mê của mình.\"",
     "type":"Checkbox",
     "answer":[
       1,
@@ -1667,7 +1667,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 5: Khi tranh luận về quyền và nghĩa vụ của công dân trong bảo đảm an sinh xã hội, anh H nói: \"Theo quy định của Hiến pháp năm 2013, công dân có quyền được đảm bảo an sinh xã hội\" nhưng anh V lại cho rằng \"Công dân có quyền được đảm bảo an sinh xã hội của mình nhưng không có nghĩa vụ tôn trọng quyền an sinh xã hội của người khác\".",
+    "question":"Câu 5: Khi tranh luận về quyền và nghĩa vụ của công dân trong bảo đảm an sinh xã hội, anh H nói: \"Theo quy định của Hiến pháp năm 2013, công dân có quyền được đảm bảo an sinh xã hội\" nhưng anh V lại cho rằng \"Công dân có quyền được đảm bảo an sinh xã hội của mình nhưng không có nghĩa vụ tôn trọng quyền an sinh xã hội của người khác\".",
     "type":"Checkbox",
     "answer":[
       1,
@@ -1685,7 +1685,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 6: Bà K là bệnh nhân đang điều trị tại bệnh viện X. Trong quá trình điều trị, bà nhận thấy một số bác sĩ còn chưa hòa nhà với người bệnh, thậm chí quá trình sơ cứu, câp cứu cũng chưa kịp thời. Vi vạy, ba K gửi thư đóng góp ý kiên cho phòng chăm sóc khách hàng của bệnh viện nhưng một sô bệnh nhân khác lại phản đổi vì sợ bác sĩ sẽ không điều trị tiếp cho mình.",
+    "question":"Câu 6: Bà K là bệnh nhân đang điều trị tại bệnh viện X. Trong quá trình điều trị, bà nhận thấy một số bác sĩ còn chưa hòa nhà với người bệnh, thậm chí quá trình sơ cứu, câp cứu cũng chưa kịp thời. Vi vạy, ba K gửi thư đóng góp ý kiên cho phòng chăm sóc khách hàng của bệnh viện nhưng một sô bệnh nhân khác lại phản đổi vì sợ bác sĩ sẽ không điều trị tiếp cho mình.",
     "type":"Checkbox",
     "answer":[
       1,
@@ -1702,7 +1702,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 7: Các quốc gia ngày càng chú ý đến việc bảo vệ môi trường để tránh những hậu quả nghiêm trọng từ việc hủy hoại môi trường. Họ đã triển khai nhiều biện pháp như giảm hoặc miễn thuế cho các dự án trồng rừng, miễn thuế cho các chi phí đầu tư bảo vệ môi trường và đánh giá tác động môi trường của các dự án. Chính phủ cũng đã quyết định đóng cửa rừng và lập các khu bảo tồn thiên nhiên đề ngăn chặn sự hủy hoại môi trường.",
+    "question":"Câu 7: Các quốc gia ngày càng chú ý đến việc bảo vệ môi trường để tránh những hậu quả nghiêm trọng từ việc hủy hoại môi trường. Họ đã triển khai nhiều biện pháp như giảm hoặc miễn thuế cho các dự án trồng rừng, miễn thuế cho các chi phí đầu tư bảo vệ môi trường và đánh giá tác động môi trường của các dự án. Chính phủ cũng đã quyết định đóng cửa rừng và lập các khu bảo tồn thiên nhiên đề ngăn chặn sự hủy hoại môi trường.",
     "type":"Checkbox",
     "answer":[
       1,
@@ -1719,7 +1719,7 @@
     ]
   },
   {
-    "Question Texta":"Câu 8: Trường THPT P tô chức cho học sinh lớp 12 tham quan khu di tích lịch sử X. Trước chuyên đi, các bạn tìm hiêu vê văn hóa và lồi sông của khu di tích. Tại đây, các bạn mong muôn tham gia các hoạt động như tham quan và biểu diễn nghệ thuật. Tuy nhiên, bạn H lại muốn viết tên mình lên hiện vật để ghi nhớ.",
+    "question":"Câu 8: Trường THPT P tô chức cho học sinh lớp 12 tham quan khu di tích lịch sử X. Trước chuyên đi, các bạn tìm hiêu vê văn hóa và lồi sông của khu di tích. Tại đây, các bạn mong muôn tham gia các hoạt động như tham quan và biểu diễn nghệ thuật. Tuy nhiên, bạn H lại muốn viết tên mình lên hiện vật để ghi nhớ.",
     "type":"Checkbox",
     "answer":[
       1,
