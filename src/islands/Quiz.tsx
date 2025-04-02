@@ -173,11 +173,16 @@ export function Quiz(props: { questions: Question[] }) {
 				{q.explanation && (
 					<div
 						class={cn(
-							"fixed w-full max-w-xl px-6 z-10 left-1/2 -translate-x-1/2 bottom-20 flex flex-col gap-1 text-md md:text-lg items-center",
+							"fixed w-full px-6 z-10 left-1/2 -translate-x-1/2 bottom-20 flex flex-col gap-1 text-md md:text-lg items-center",
 							showAnswer.value ? "opacity-100 visible transition-all" : "translate-y-4 opacity-0 invisible",
 						)}
 					>
-						<div class="w-full max-w-xl bg-zinc-800/70 backdrop-blur-xl border border-zinc-600/50 py-2 px-3 rounded-xl">
+						<div
+							class={cn(
+								"w-full max-w-screen-sm bg-zinc-800/70 backdrop-blur-xl border border-zinc-600/50 py-2 px-3 rounded-xl",
+								showAnswer.value && "animate-flash",
+							)}
+						>
 							{q.explanation.split("\n").map((line, i) => <p key={i} class="text-zinc-30 whitespace-pre-wrap leading-snug">{line}</p>)}
 						</div>
 					</div>
