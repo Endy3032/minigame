@@ -193,7 +193,7 @@
   },
   {
     "question":"Câu 1: Kĩ thuật điện tử mang lại nhiều tiện ích, đóng vai trò quan trọng trong việc nâng cao chất lượng cuộc sống gia đình và chất lượng sinh hoạt cộng đồng. Đã có những đánh giá về vai trò của kĩ thuật điện tử đối với đời sống con người.",
-    "type":"Multiple Choice",
+    "type":"Checkbox",
     "answer":[
       2,
       3
@@ -482,7 +482,7 @@
   },
   {
     "question":"Câu 1: Vận hành thiết bị điện tử là thao tác đóng cắt, điều chỉnh đúng quy trình các thiết bị và hệ thống điện tử nhằm khai thác hiệu quả, đúng chức năng, đảm bảo làm việc an toàn, không xảy ra sự cố cho người và thiết bị. Nhận định nào sau đây là đúng khi nói về ngành vận hành thiết bị điện tử:",
-    "type":"Multiple Choice",
+    "type":"Checkbox",
     "answer":[
       2,
       3
