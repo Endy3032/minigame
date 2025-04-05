@@ -8,6 +8,7 @@ const colorMap = [
 	"bg-blue-700 shadow-blue-800 active:bg-blue-800",
 	"bg-yellow-700 shadow-yellow-800 active:bg-yellow-800",
 	"bg-green-700 shadow-green-800 active:bg-green-800",
+	"bg-purple-700 shadow-purple-800 active:bg-purple-800",
 ]
 
 const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean>; autoAdvance: Signal<boolean> }) => {
@@ -131,7 +132,7 @@ export function Quiz(props: { questions: Question[] }) {
 		const handler = (e: KeyboardEvent) => {
 			if (e.key === "ArrowRight") skipButton.current?.click()
 			if (e.key === "Enter" && q.type === "Checkbox" && answer.value.length) skipButton.current?.click()
-			if (["1", "2", "3", "4"].includes(e.key)) {
+			if (["1", "2", "3", "4", "5"].includes(e.key)) {
 				const index = parseInt(e.key) - 1
 				if (index < shuffledChoices.value.length) {
 					choose(shuffledChoices.value[index].index)
@@ -187,7 +188,7 @@ export function Quiz(props: { questions: Question[] }) {
 						</div>
 					</div>
 				)}
-				<div class="grid grid-cols-1 lg:grid-cols-[repeat(auto-fit,minmax(24%,1fr))] gap-x-3 gap-y-4 text-xl md:text-2xl">
+				<div class="grid grid-cols-1 lg:grid-cols-[repeat(auto-fit,minmax(18%,1fr))] gap-x-3 gap-y-4 text-xl md:text-2xl">
 					{shuffledChoices.value.map((choice, i) => (
 						<button
 							type="button"
