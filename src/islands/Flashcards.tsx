@@ -13,7 +13,6 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 	const { flashcards } = props
 	const status = useSignal<Status[]>(Array(flashcards.length).fill(Status.None))
 	const isFlipped = useSignal(false)
-	const timeout = useRef<number | null>(null)
 
 	const qi = useSignal(0)
 	const q = flashcards[qi.value]
@@ -24,15 +23,16 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 	)
 
 	useEffect(() => {
-		clearTimeout(timeout.current ?? 0)
 		isFlipped.value = false
 
 		const handler = (e: KeyboardEvent) => {
 			switch (e.key) {
 				case "ArrowRight":
+					isFlipped.value = false
 					qi.value = Math.min(qi.value + 1, flashcards.length - 1)
 					break
 				case "ArrowLeft":
+					isFlipped.value = false
 					qi.value = Math.max(qi.value - 1, 0)
 					break
 				case " ":
