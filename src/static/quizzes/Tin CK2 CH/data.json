@@ -1,0 +1,746 @@
+[
+  {
+    "question":"Câu 1. Khi xuất bản website và chọn Local drive folder, kết quả xuất tệp tin bao gồm?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "A. Tệp dự án .mobirise và thư mục assets chứa tài nguyên trang web.",
+      "B. Một tên miền con của mobirisesite.com.",
+      "C. Thông tin máy chủ web và thư mục gốc.",
+      "D. Một tệp tin HTML tương ứng với trang web."
+    ]
+  },
+  {
+    "question":"Câu 2. Để xuất bản website và tải lên máy chủ web có sẵn trên Internet, bạn nên?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "A. Chọn FTP trong giao diện lựa chọn chế độ xuất bản và nhập thông tin máy chủ web.",
+      "B. Chọn Local drive folder và lưu các tệp tin HTML.",
+      "C. Chọn mobirisesite.com và nhập tên miền con.",
+      "D. Xem trước trang web bằng cách chọn Preview in Browser."
+    ]
+  },
+  {
+    "question":"Câu 3. Để xem trước trang web trên trình duyệt, bạn nên?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "A. Chọn Preview in Browser.",
+      "B. Chọn chế độ Mobile View.",
+      "C. Sử dụng chế độ Desktop View.",
+      "D. Chọn chế độ Full Screen."
+    ]
+  },
+  {
+    "question":"Câu 4. Bước nào sau đây không phải là một phần của quy trình xuất bản trang web?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "A. Lưu trang web.",
+      "B. Chọn tên miền.",
+      "C. Chỉnh sửa nội dung trang web.",
+      "D. Chọn cài đặt bảo mật."
+    ]
+  },
+  {
+    "question":"Câu 1. Phát biểu sau đây đúng hay sai về chế độ xem trước và xuất bản website:",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "a) Để xem trước trang web trên thiết bị di động trong Mobirise, bạn cần chọn Mobile View trên thanh công cụ.",
+      "b) Để xuất bản website dưới dạng các tệp tin HTML trên máy tính, bạn cần chọn FTP trong giao diện lựa chọn chế độ xuất bản.",
+      "c) Để xem trước trang web trong chế độ desktop, bạn cần chọn Desktop View trên thanh công cụ.",
+      "d) Để xuất bản trang web với tên miền con của mobirisesite.com, bạn cần chọn Local drive folder trong giao diện xuất bản."
+    ]
+  },
+  {
+    "question":"Câu 1. Khi tạo tập tin HTML nên lưu tập tin với phần mở rộng nào để trình duyệt có thể nhận diện đúng định dạng?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "A. .txt",
+      "B. .html",
+      "C. .htm",
+      "D. .css"
+    ]
+  },
+  {
+    "question":"Câu 2. Để tạo siêu liên kết trong HTML thẻ được sử dụng là?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "A. <link>",
+      "B. <a>",
+      "C. <url>",
+      "D. <href>"
+    ]
+  },
+  {
+    "question":"Câu 3. Thuộc tính quan trọng nhất của thẻ <a> là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "A. href",
+      "B. link",
+      "C. url",
+      "D. hyperlink"
+    ]
+  },
+  {
+    "question":"Câu 4. Trong các khai báo siêu liên kết sau, khai báo nào sai?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "A. <a href=\"https:\/\/www.w3schools.com\/\">Visit W3Schools.com!<\/a>",
+      "B. <a href=\"hobbies.html\/\">Hobbies<\/a>",
+      "C. <a href=\"#Topic1\">Topic 1<\/a>",
+      "D. <a href=\"#Hello.html\">Hello world<\/a>"
+    ]
+  },
+  {
+    "question":"Câu 1. Thẻ nào trong HTML được sử dụng để định nghĩa một tiêu đề cột trong bảng?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "A. <td>",
+      "B. <th>",
+      "C. <tr>",
+      "D. <caption>"
+    ]
+  },
+  {
+    "question":"Câu 2. Thẻ nào trong HTML được sử dụng để tạo bảng?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "A. <table>",
+      "B. <tab>",
+      "C. <btable>",
+      "D. <grid>"
+    ]
+  },
+  {
+    "question":"Câu 3. Thuộc tính nào trong thẻ <table> được sử dụng để thêm chú thích cho bảng?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "A. description",
+      "B. header",
+      "C. note",
+      "D. caption"
+    ]
+  },
+  {
+    "question":"Câu 4. Kết quả của đoạn mã sau là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":"\/quizzes\/Tin CK2 CH\/b.png",
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "question":"Câu 1. Mỗi phát biểu sau đây là đúng hay sai khi sử dụng các phần ol, ul để tạo danh sách trên trang web?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "a) Khi khai báo thuộc tính type=“A”, danh sách xác định thứ tự các mục theo chữ cái in hoa.",
+      "b) Số thứ tự trong danh sách xác định thứ tự luôn là số nguyên.",
+      "c) Khi mở bằng trình duyệt web, theo mặc định mục trong danh sách không xác định thứ tự được hiển thị bắt đầu bằng dấu sao (*).",
+      "d) Có thể thay đổi số thứ tự của mục bắt đầu trong danh sách xác định thứ tự."
+    ]
+  },
+  {
+    "question":"Câu 1. Cấu trúc nào được khai báo trong phần tử head của tệp HTML?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "A. <script>",
+      "B. <style>",
+      "C. <title>",
+      "D. <meta>"
+    ]
+  },
+  {
+    "question":"Câu 2. Để khai báo phần tử form, ta dùng cặp thẻ nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "A. <form><\/form>",
+      "B. <form><form>",
+      "C. <\/form><\/form>",
+      "D. <\/form><form>"
+    ]
+  },
+  {
+    "question":"Câu 3. Để kết thúc quá trình tạo biểu mẫu đóng góp ý kiến cho thư viện, chúng ta cần làm gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "A. Tạo biểu mẫu",
+      "B. Đóng thẻ",
+      "C. Ghi lưu, mở tệp bằng trình duyệt web và xem kết quả.",
+      "D. Đóng bảng"
+    ]
+  },
+  {
+    "question":"Câu 4. Để thêm nút Submit bằng khai báo nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "A. <input type= “submit” name= “cmd” value= “Góp ý”>",
+      "B. <input type. “submit” name= “cmd” value= “Góp ý”>",
+      "C. <input type= “submit” name= “cmd” value. “Góp ý”>",
+      "D. <input type= “submit” name. “cmd” value= “Góp ý”>"
+    ]
+  },
+  {
+    "question":"Câu 1. Để truy cập vào các khóa học trực tuyến, người dùng cần điền vào biểu mẫu đăng nhập. Đoạn mã biểu mẫu như sau: Sau đây là một số nhận định về đoạn mã trên. Với mỗi nhận định, em hãy chọn đúng hay sai.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":"\/quizzes\/Tin CK2 CH\/c.png",
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "a) Thẻ <input> đầu tiên cho phép người dùng nhập tên đăng nhập và có thể nhập các kiểu dữ liệu khác nhau vào đó.",
+      "b) Dữ liệu nhập ô mật khẩu sẽ được ẩn đi.",
+      "c) Không có thuộc tính action trong <form>, do đó dữ liệu sẽ không được gửi đi.",
+      "d) Có thể thêm thuộc tính placeholder cho các ô nhập liệu để hướng dẫn người dùng."
+    ]
+  },
+  {
+    "question":"Câu 1. Để làm cho một phần tử hiển thị ở dạng in nghiêng, ta sử dụng thuộc tính nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "A. font-style: italic",
+      "B. font-weight: bold",
+      "C. text-decoration: underline",
+      "D. text-align: center"
+    ]
+  },
+  {
+    "question":"Câu 2. Thuộc tính background-color có thể áp dụng cho loại phần tử nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "A. Chỉ áp dụng cho thẻ <body>",
+      "B. Áp dụng cho tất cả các phần tử HTML",
+      "C. Chỉ áp dụng cho các phần tử có chứa văn bản",
+      "D. Chỉ áp dụng cho các phần tử có hình ảnh nền"
+    ]
+  },
+  {
+    "question":"Câu 3. Khai báo nào sau đây được dùng để áp dụng các định dạng CSS được khai báo trong tệp \"main.css\"",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "A. <link stylesheet href= \"main.css\">",
+      "B. <style rel=\"stylesheet\" href=\"main.css\"><\/style>",
+      "C. <link rel= \"stylesheet\" href=\"main.css\">",
+      "D. <stylesheet href=\"main.css\">"
+    ]
+  },
+  {
+    "question":"Câu 1. Giả sử em đang thiết kế một website thương mại điện tử. Đội ngũ phát triển yêu cầu trang web phải có giao diện đồng nhất trên tất cả các trang sản phẩm, dễ dàng chỉnh sửa khi cần thay đổi màu sắc hoặc bố cục. Dưới đây là các phương án phù hợp để đảm bảo website mà em tạo ra đạt được những yêu cầu trên:",
+    "type":"Checkbox",
+    "answer":[
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "a) Dùng inline CSS vì nó giúp áp dụng kiểu trực tiếp lên từng phần tử một cách nhanh chóng, không cần tạo file CSS riêng.",
+      "b) Dùng internal CSS trong từng trang sản phẩm riêng lẻ để dễ quản lý nội dung của từng trang một cách độc lập.",
+      "c) Dùng external CSS, lưu tất cả quy tắc định dạng vào một tệp .css, sau đó liên kết tệp này với mọi trang web.",
+      "d) Kết hợp inline, internal và external CSS để linh hoạt điều chỉnh từng thành phần cụ thể khi cần mà vẫn giữ được quy tắc định dạng chung."
+    ]
+  },
+  {
+    "question":"Câu 1. Vai trò của việc lựa chọn, sắp xếp và trình bày nội dung các thông tin trên trang web là? (Chọn ý đúng nhất)",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "A. Quyết định đến màu sắc của website",
+      "B. Quyết định đến chất lượng của website",
+      "C. Quyết định đến độ tin cậy của người dùng",
+      "D. Làm cho trang web đẹp hơn"
+    ]
+  },
+  {
+    "question":"Câu 2. Trong trang web, phần ở vị trí cuối cùng được gọi là (1)… và (2)…? Điền vào dấu “…”. (Chọn ý đúng nhất)",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "A. (1) Chân trang; (2) có nhiều chân trang",
+      "B. (1) Chân trang; (2) không hiển thị giống nhau với tất cả trang web trong website",
+      "C. (1) Chân trang; (2) đầu trang",
+      "D. (1) Chân trang; (2) có một phần chân trang giống nhau với tất cả trang web trong website"
+    ]
+  },
+  {
+    "question":"Câu 3. Đâu là phần thường trình bày tại chân trang (footer)?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "A. Thông tin của cá nhân, của doanh nghiệp",
+      "B. Nội dung bao quát của trang web",
+      "C. Các menu của trang web",
+      "D. Lịch sử thành lập trang web"
+    ]
+  },
+  {
+    "question":"Câu 4. Các hình ảnh phổ biến trên trang web là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "A. Hình ảnh về thiên nhiên, hình đại diện",
+      "B. Hình ảnh về học tập, hình thiên nhiên",
+      "C. Ảnh đại diện, ảnh minh hoạ cho nội dung bài viết, hay các hình ảnh\/video nổi bật",
+      "D. Hình ảnh về doanh nghiệp, ảnh minh họa"
+    ]
+  },
+  {
+    "question":"Câu 5. Bài viết trên mỗi trang web được trình bày như thế nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "A. Trình bày dưới dạng hình ảnh.",
+      "B. Trình bày dưới dạng văn bản hoặc có thể kết hợp với hình ảnh, video minh hoạ.",
+      "C. Trình bày dưới dạng video minh hoạ.",
+      "D. Trình bày dưới dạng văn bản."
+    ]
+  },
+  {
+    "question":"Câu 6. Tìm phát biểu đúng NHẤT trong các phát biểu sau:",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "A. Bộ sưu tập (gallery) là cách thức thể hiện nhiều hình ảnh chỉ dưới dạng danh sách.",
+      "B. Bộ sưu tập (gallery) là cách thức thể hiện nhiều hình ảnh chỉ dưới dạng lưới.",
+      "C. Bộ sưu tập (gallery) khác với thanh trượt (slider) ở chổ là không hiển thị hết những hình ảnh, video trên cùng 1 trang web.",
+      "D. Thanh trượt (slider) thường được sử dụng thể hiện trong các chương trình ưu đãi, các ảnh hay video quảng cáo dịch vụ."
+    ]
+  },
+  {
+    "question":"Câu 1. Giả sử em đang thực hiện dự án tạo trang web giới thiệu về lịch sử chiến dịch Điện Biên Phủ. Yêu cầu trang web cần xem xét các yếu tố như bố cục, số trang, cách sắp xếp thông tin và tính năng điều hướng. Em đã phác thảo cấu trúc và chuẩn bị tư liệu (hình ảnh, video, văn bản) để đảm bảo nội dung được trình bày đầy đủ và đẹp mắt. Nhận định liên quan đến việc phác thảo và chuẩn bị nội dung cho một website như sau:",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "a) Lịch sử chiến dịch Điện Biên Phủ em chỉ cần chuẩn bị tư liệu hình ảnh là đủ.",
+      "b) Chuẩn bị tư liệu hình ảnh, video và văn bản từ các nguồn chính thống là yếu tố giúp website trở nên hấp dẫn và chuyên nghiệp.",
+      "c) Việc phác thảo cấu trúc và chuẩn bị là điều không cần thiết, thay vào đó cần trực tiếp làm web luôn.",
+      "d) Phác thảo cấu trúc website giúp em xác định được số trang cần có và cách sắp xếp nội dung trên mỗi trang theo các vùng như header, nội dung và footer."
+    ]
+  },
+  {
+    "question":"Câu 2. Khi tạo nội dung hình ảnh trên trang web, em có thể tổ chức chúng theo dạng bộ sưu tập (gallery) hoặc theo dạng thanh trượt (slider). Mỗi cách có ưu điểm riêng trong việc trình bày thông tin dựa trên không gian hiển thị và mục đích sử dụng. Phát biểu về bộ sưu tập và thanh trượt:",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "a) Thanh trượt cho phép hiển thị từng hình ảnh hoặc video một cách liên tiếp, thường được sử dụng khi không gian hiển thị hạn chế hoặc khi muốn thu hút sự chú ý vào từng mục riêng lẻ.",
+      "b) Bộ sưu tập chỉ có thể hiển thị hình ảnh và không hỗ trợ video.",
+      "c) Bộ sưu tập cho phép hiển thị cùng lúc nhiều hình ảnh hoặc video dưới dạng lưới hoặc danh sách, tạo nên một tổng quan nhanh về nội dung.",
+      "d) Bộ sưu tập (gallery) khác với thanh trượt (slider) ở chổ là không hiển thị hết những hình ảnh, video trên cùng 1 trang web."
+    ]
+  },
+  {
+    "question":"Câu 1. HTML là viết tắt của?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "A. Hypertext Markup Language",
+      "B. Hyperlink and Text Markup Language",
+      "C. Hypertext Multi-language",
+      "D. Hypertext Media Language"
+    ]
+  },
+  {
+    "question":"Câu 2. Khi soạn thảo văn bản HTML trong Sublime Text, bạn nên lưu tệp với định dạng nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "A. .txt",
+      "B. .html",
+      "C. .docx",
+      "D. .xml"
+    ]
+  },
+  {
+    "question":"Câu 3. Thẻ nào trong phần đầu của tài liệu HTML dùng để khai báo tiêu đề của trang web?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "A. <title>",
+      "B. <header>",
+      "C. <footer>",
+      "D. <meta>"
+    ]
+  },
+  {
+    "question":"Câu 4. Thẻ <section> thường được sử dụng để?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "A. Tạo một phần riêng biệt của tài liệu",
+      "B. Tạo tiêu đề",
+      "C. Tạo một đoạn văn bản",
+      "D. Tạo một liên kết"
+    ]
+  },
+  {
+    "question":"Câu 5. Cho các phát biểu sau: a) Thẻ HTML thường không có thẻ kết thúc. b) Tên thẻ HTML không phân biệt chữ hoa và chữ thường. c) Phần đầu của một tệp HTML được xác định bởi thẻ <head> và <\/head>. d) Thẻ <body> chứa nội dung chính hiển thị trên màn hình của trình duyệt Số phát biểu đúng là:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ]
+  },
+  {
+    "question":"Câu 1. Phần tử <a> trong HTML được sử dụng để làm gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "A. Tạo các đoạn văn bản",
+      "B. Tạo các tiêu đề",
+      "C. Tạo các siêu liên kết",
+      "D. Tạo các bảng"
+    ]
+  },
+  {
+    "question":"Câu 2. Thẻ nào dùng để chèn hình ảnh vào trang web?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "A. <img>",
+      "B. <picture>",
+      "C. <photo>",
+      "D. <image>"
+    ]
+  },
+  {
+    "question":"Câu 3. Thuộc tính nào trong thẻ <a> xác định địa chỉ của tài nguyên web?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "A. id",
+      "B. src",
+      "C. href",
+      "D. class"
+    ]
+  },
+  {
+    "question":"Câu 4. Các phần tử tiêu đề mục trong HTML được hiển thị với kiểu chữ và kích thước như thế nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "A. Tất cả đều có cùng kích thước và kiểu chữ",
+      "B. Kích thước chữ giảm dần từ <h1> đến <h6> và kiểu chữ in đậm",
+      "C. Kích thước chữ tăng dần từ <h1> đến <h6> và kiểu chữ in nghiêng",
+      "D. Kích thước chữ không thay đổi và kiểu chữ khác nhau tùy thuộc vào trình duyệt"
+    ]
+  },
+  {
+    "question":"Câu 1. Mỗi phát biểu sau đây là đúng hay sai khi sử dụng các phần tử để định dạng văn bản trên trang web?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "a) Nội dung các tiêu đề mục tạo bởi các phần tử h1, h2, h3, h4, h5, h6 khi hiển thị trên màn hình trình duyệt web đều được in đậm.",
+      "b) Nội dung của phần tử strong không thể chứa phần tử h1.",
+      "c) Nội dung của phần tử mark khi hiển thị trên màn hình trình duyệt web được tô nền màu xanh.",
+      "d) Đoạn văn bản tạo phần tử p được hiển thị trên một đoạn mới khi mở bằng trình duyệt web."
+    ]
+  },
+  {
+    "question":"Câu 1. Phát biểu nào sau về cấu trúc logic của mô hình hộp trong trình bày phần tử HTML là ĐÚNG?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "A. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng lề mặc định hiển thị trong suốt.",
+      "B. Ngăn cách nhau giữa vùng đường viền và vùng đệm là một vùng lề mặc định hiển thị trong suốt.",
+      "C. Ngăn cách nhau giữa vùng nội dung và vùng đường viền là một vùng đệm mặc định hiển thị trong suốt.",
+      "D. Ngăn cách nhau giữa vùng đường viền và vùng lề là một vùng đệm mặc định hiển thị trong suốt."
+    ]
+  },
+  {
+    "question":"Câu 2. Giá trị 50px trong khai báo định dạng: p {margin: 25px 50px 75px} cho biết",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "A. lề trái và lề dưới của phần tử p.",
+      "B. lề phải và lề trái của phần tử p.",
+      "C. lề trên và lề phải của phần tử p.",
+      "D. lề phải và lề dưới của phần tử p."
+    ]
+  },
+  {
+    "question":"Câu 3. Tác dụng nào sau đây là tác dụng của khai báo CSS: p {padding: 20px;}?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "A. Xác định khoảng cách giữa vùng nội dung và vùng lề của phần tử p là 20 pixel.",
+      "B. Xác định khoảng cách giữa vùng nội dung và vùng đường viền của phần tử p là 20 pixel.",
+      "C. Xác định khoảng cách giữa vùng lề và và vùng đường viền của phần tử p là 20 pixel.",
+      "D. Xác định khoảng cách giữa vùng nội dung và vùng đệm của phần tử p là 20 pixel."
+    ]
+  },
+  {
+    "question":"Câu 4. Giá trị nào sau đây là chiều rộng của phần tử p khi hiển thị trên màn hình trình duyệt web tính theo pixel?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "A. 60px",
+      "B. 68px",
+      "C. 70px",
+      "D. 82px"
+    ]
+  },
+  {
+    "question":"Câu 1. Mỗi phát biểu sau đây về mô hình hộp là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "a) Vùng nội dung ngăn cách với vùng đường viền bởi vùng đệm.",
+      "b) Vùng đường viền ngăn cách các phần tử khi hiển thị trên trình duyệt web",
+      "c) Vùng lề là vùng ngăn cách vùng đường viền và vùng đệm.",
+      "d) Vùng lễ là vùng bao ngoài vùng đường viền."
+    ]
+  }
+]

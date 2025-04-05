@@ -3,6 +3,9 @@
   "deno.lint": true,
   "editor.defaultFormatter": "dprint.dprint",
   "editor.formatOnSave": true,
+  "[json]": {
+    "editor.formatOnSave": false
+  },
   "[typescriptreact]": {
     "editor.defaultFormatter": "dprint.dprint"
   },

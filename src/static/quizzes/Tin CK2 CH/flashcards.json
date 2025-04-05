@@ -1,0 +1,98 @@
+[
+  {
+    "question":"Câu 1.1. Để xem trước trang web trên thiết bị di động trong phần mềm Mobirise, bạn nên chọn chế độ gì? Cách nào không phải là tùy chọn để xuất bản website? Xuất bản trang web với tên miền con của mobirisesite.com, cần làm gì?",
+    "type":"Open-Ended",
+    "answer":"- Mobile View\n- Xuất bản dưới dạng các tập tin .pdf\n- Nhập tên miền con vào ô phù hợp và chọn PUBLISH",
+    "image":null,
+    "id":47,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2.1. Bạn Minh đang tạo một trang web cá nhân và đã viết đoạn mã sau, nhưng có một số phần còn thiếu. Phần gạch chân ở thẻ <a> cần điền gì? Phần gạch chân ở thẻ <h2> cần điền nội dung gì cho thích hợp? Thẻ <em> dùng để làm gì?",
+    "type":"Open-Ended",
+    "answer":"- Địa chỉ tài nguyên trang web hoặc #Tên_định_danh nếu là phần tử của trang web\n- Sở thích\n- In nghiêng nội dung để nhấn mạnh từ riêng hoặc thuật ngữ trong văn bản",
+    "image":"\/quizzes\/Tin CK2 CH\/a.png",
+    "id":48,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3.1. Sự khác biệt giữa danh sách không sắp xếp và danh sách có sắp xếp? Làm thế nào để thay đổi kiểu đánh dấu của danh sách có thứ tự?",
+    "type":"Open-Ended",
+    "answer":"- Danh sách không sắp xếp dùng dấu chấm tròn để đánh dấu\n- Danh sách có sắp xếp dùng số hoặc chữ cái\n- Sử dụng thuộc tính type của thẻ <ol>",
+    "image":null,
+    "id":49,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4.1. Ô văn bản trong biểu mẫu web thường dùng để nhập loại dữ liệu gì?",
+    "type":"Open-Ended",
+    "answer":"Ô văn bản thường dùng để nhập xâu ký tự hoặc văn bản.\nGiải thích: Ô văn bản, được khai báo bằng <input type=\"text\">, cho phép người dùng nhập văn bản tự do, chẳng hạn như tên, địa chỉ email hoặc các thông tin khác.",
+    "image":null,
+    "id":50,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4.2. Nút chọn (radio button) trong biểu mẫu được sử dụng khi nào?",
+    "type":"Open-Ended",
+    "answer":"Nút chọn được sử dụng khi cần cho người dùng chọn một mục trong danh sách các tùy chọn.",
+    "image":null,
+    "id":51,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4.3. Tại sao thuộc tính name của các nút chọn trong cùng một nhóm phải giống nhau?",
+    "type":"Open-Ended",
+    "answer":"Thuộc tính name của các nút chọn trong cùng một nhóm phải giống nhau để đảm bảo người dùng chỉ có thể chọn một mục duy nhất trong nhóm đó.",
+    "image":null,
+    "id":52,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5.1. CSS giúp làm gì trong việc trình bày các phần tử HTML trên trang web?",
+    "type":"Open-Ended",
+    "answer":"CSS giúp tách biệt nội dung và định dạng, đồng thời cho phép thống nhất trình bày trên nhiều trang web.",
+    "image":null,
+    "id":53,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5.2. Để xác định kiểu đường viền cho một phần tử trong CSS, thuộc tính nào được sử dụng?",
+    "type":"Open-Ended",
+    "answer":"border-style",
+    "image":null,
+    "id":54,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5.3. Để thay đổi kích cỡ chữ trong CSS, thuộc tính nào là đúng?",
+    "type":"Open-Ended",
+    "answer":"font-size",
+    "image":null,
+    "id":55,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 6.1. Bộ sưu tập (gallery), thanh trượt (slider) thường dùng vào các mục đích gì? Để làm rõ nội dung hình ảnh, cần đưa vào thêm phần nào?",
+    "type":"Open-Ended",
+    "answer":"- Bộ sưu tập thường dùng để giới thiệu các sản phẩm cùng loại trên trang bán hàng, hay muốn thể hiện nhiều hình ảnh một lúc để người truy cập có cái nhìn tổng quan hơn về nội dung trang web\n- Thanh trượt thường được dùng nhằm mục đích người truy cập tập trung vào đối tượng. Như các chương trình khuyến mãi, …\n- Cần đưa thêm vào tiêu đề hoặc một đoạn văn bản ngắn để làm rõ nội dung, chủ đề muốn truyền đạt",
+    "image":null,
+    "id":56,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 7.1. Cú pháp của phần tử <a href=“URL”>Liên kết web<\/a> giải thích các thành phần trong cú pháp?",
+    "type":"Open-Ended",
+    "answer":"- Thuộc tính href xác định địa chỉ của tài nguyên web trên Internet.\n- URL (Uniform Resource Locator) có cấu trúc cơ bản: Giao thức:\/\/Tên miền\/Đường dẫn (ví dụ: https:\/\/trandainghia.edu.vn)\n- Liên kết web thường là dãy kí tự được hiển thị trên trình duyệt web cho phép người dùng nháy chuột vào để đến tài nguyên liên kết.",
+    "image":null,
+    "id":57,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 8.1. Bố cục trang web là gì? Nêu các thành phần cơ bản trong bố cục trang web?",
+    "type":"Open-Ended",
+    "answer":"- Bố cục trang web là cách sắp xếp, bố trí các đối tượng nội dung trên trang web vào các khu vực hiển thị khác nhau để tạo nên một giao diện web.\n- Mỗi trang web thường gồm một số thành phần cơ bản: Phần đầu trang (header); Thanh điều hướng (navigation menu); Phần nội dung (content); Phần chân trang (footer).",
+    "image":null,
+    "id":58,
+    "answerimage":null
+  }
+]
