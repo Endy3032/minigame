@@ -58,7 +58,7 @@
   {
     "question":"Câu 3b. Người ta muốn dự đoán trị giá xuất khẩu một số mặt hàng trong năm 2025 nên đã thu thập một số dữ liệu và sử dụng các chức năng trong Excel để thực hiện. Theo em: Chức năng nào trong Excel nên được sử dụng?",
     "type":"Open-Ended",
-    "answer":"b. Dùng chức năng Forcase Sheet của Execel để thực hiện dự đoán",
+    "answer":"b. Dùng chức năng Forecast Sheet của Excel để thực hiện dự đoán",
     "image":null,
     "id":94,
     "answerimage":null
@@ -66,7 +66,7 @@
   {
     "question":"Câu 3c. Người ta muốn dự đoán trị giá xuất khẩu một số mặt hàng trong năm 2025 nên đã thu thập một số dữ liệu và sử dụng các chức năng trong Excel để thực hiện. Theo em: Kết quả dự đoán đó có hoàn toàn chính xác? Giải thích? Đáp án đề xuất:",
     "type":"Open-Ended",
-    "answer":"c. Kết quả dự đoán này là không chính xác, chỉ ở một khoản tin cậy nhất định.",
+    "answer":"c. Kết quả dự đoán này là không chính xác, chỉ ở một khoảng tin cậy nhất định.",
     "image":null,
     "id":95,
     "answerimage":null
