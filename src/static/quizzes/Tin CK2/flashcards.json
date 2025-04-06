@@ -210,7 +210,7 @@
   {
     "question":"Câu 14c. Thuộc tính nào tham gia vào kích thước tổng của một đối tượng, thuộc tính nào không?",
     "type":"Open-Ended",
-    "answer":"border và padding không tham gia vào kích thước tổng của một đối tượng, margin không tham gia vào kích thước tổng của đối tượng",
+    "answer":"border và padding tham gia vào kích thước tổng của một đối tượng, margin không tham gia vào kích thước tổng của đối tượng",
     "image":null,
     "id":113,
     "answerimage":null
