@@ -29,11 +29,11 @@ export function Flashcards(props: { metadata: Metadata | null; flashcards: Flash
 			switch (e.key) {
 				case "ArrowRight":
 					isFlipped.value = false
-					qi.value = Math.min(qi.value + 1, flashcards.length - 1)
+					qi.value = qi.value === flashcards.length - 1 ? 0 : qi.value + 1
 					break
 				case "ArrowLeft":
 					isFlipped.value = false
-					qi.value = Math.max(qi.value - 1, 0)
+					qi.value = qi.value === 0 ? flashcards.length - 1 : qi.value - 1
 					break
 				case " ":
 					isFlipped.value = !isFlipped.value
