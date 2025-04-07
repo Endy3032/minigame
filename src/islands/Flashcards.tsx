@@ -154,8 +154,7 @@ export function Flashcards(props: { metadata: Metadata | null; flashcards: Flash
 								<button
 									type="button"
 									class={cn(buttonClass, "md:order-first")}
-									disabled={qi.value === 0}
-									onClick={() => qi.value--}
+									onClick={() => qi.value = qi.value === 0 ? flashcards.length - 1 : qi.value - 1}
 								>
 									<Kbd class="h-min">&larr;</Kbd>
 									<span class="hidden showTouchscreen">&larr;</span>
@@ -164,8 +163,7 @@ export function Flashcards(props: { metadata: Metadata | null; flashcards: Flash
 								<button
 									type="button"
 									class={buttonClass}
-									disabled={qi.value === flashcards.length - 1}
-									onClick={() => qi.value++}
+									onClick={() => qi.value = qi.value === flashcards.length - 1 ? 0 : qi.value + 1}
 								>
 									Sau
 									<span class="hidden showTouchscreen">&rarr;</span>

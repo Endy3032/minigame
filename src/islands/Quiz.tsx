@@ -11,13 +11,16 @@ const colorMap = [
 	"bg-purple-700 shadow-purple-800 active:bg-purple-800",
 ]
 
-const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean>; autoAdvance: Signal<boolean> }) => {
-	const { colorblind, autoSubmit, autoAdvance } = props
+const Config = (
+	props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean>; autoAdvance: Signal<boolean>; autoAdvanceFalse: Signal<boolean> },
+) => {
+	const { colorblind, autoSubmit, autoAdvance, autoAdvanceFalse } = props
 
 	const btns = [
 		{ label: "Mù màu", state: colorblind },
 		{ label: "Tự gửi TN", state: autoSubmit },
 		{ label: "Tự chuyển câu", state: autoAdvance },
+		{ label: "Tự chuyển câu sai", state: autoAdvanceFalse },
 	]
 
 	return (
@@ -47,13 +50,15 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 	const { metadata, questions } = props
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
+	const colorblind = useSignal(false)
 	const autoSubmit = useSignal(true)
 	const autoAdvance = useSignal(true)
+	const autoAdvanceFalse = useSignal(false)
+
 	const answer = useSignal<number[]>([])
 	const answers = useSignal<number[][]>(Array(questions.length).fill([]))
 	const optionCounts = useSignal<number[][]>(questions.map(q => Array(q.choices?.length ?? 0).fill(0)))
 
-	const colorblind = useSignal(false)
 	const showAnswer = useSignal(false)
 	const timeout = useRef<number>()
 	const skipButton = useRef<HTMLButtonElement>(null)
@@ -115,13 +120,13 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 			}
 			answers.value = [...answers.value]
 
-			if (autoAdvance.value) {
+			if (autoAdvance.value && autoAdvanceFalse.value || autoAdvance.value && !autoAdvanceFalse.value && isCorrect(qi, answer.value)) {
 				timeout.current = setTimeout(() => {
 					nextQuestion()
 					if (!current) return
 					current.disabled = true
 					setTimeout(() => current.disabled = false, 1000)
-				}, (q.type === "Checkbox" ? 3000 : 1500) * (q.explanation ? 2.5 : 1))
+				}, (q.type === "Checkbox" ? 4000 : 2500) * (q.explanation ? 2 : 1))
 			}
 		}
 	}
@@ -148,19 +153,17 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 		? (
 			<div class="relative flex flex-col w-full gap-4">
 				{metadata && (
-					<div className="flex items-center gap-4">
-						<h2 class="text-center font-semibold text-balance">{metadata.name}</h2>
-						<div class="inline-flex h-full items-center gap-4 overflow-x-auto whitespace-nowrap max-w-full">
-							<a href="/" class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">&larr; Hub</a>
-							<a href={`/browse/${metadata.name}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
-								Xem đáp án &rarr;
+					<div className="inline-flex overflow-x-auto max-w-full items-center gap-4 whitespace-nowrap">
+						<a href="/" class="w-max text-sm text-zinc-400 hover:text-zinc-200 transition-all">&larr; Hub</a>
+						<h2 class="w-max text-center font-semibold">{metadata.name}</h2>
+						{metadata.hasFlashcard && (
+							<a href={`/flashcards/${metadata.name}`} class="w-max text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+								Flashcards &rarr;
 							</a>
-							{metadata.hasFlashcard && (
-								<a href={`/flashcards/${metadata.name}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
-									Flashcards &rarr;
-								</a>
-							)}
-						</div>
+						)}
+						<a href={`/browse/${metadata.name}`} class="w-max text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+							Xem đáp án &rarr;
+						</a>
 					</div>
 				)}
 				<div class="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
@@ -228,13 +231,21 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 							}}
 						>
 							<Kbd class="absolute top-2 left-2">{i + 1}</Kbd>
+							{q.type === "Checkbox" && (
+								<span class={cn(
+									"absolute p-1.5 top-2 right-2 w-5 h-5 text-white flex items-center justify-center text-base rounded transition-all",
+									check(choice.index) ? "bg-inherit brightness-125 text-zinc-200" : "bg-zinc-800/50 text-zinc-300/50",
+								)}>
+									{check(choice.index) ? "✓" : "✗"}
+								</span>
+							)}
 							{choice.text}
 						</button>
 					))}
 				</div>
 				<div class="flex gap-3 w-full h-min justify-end bg-zinc-900/60 backdrop-blur-xl rounded-t-xl p-2 sticky bottom-0 md:p-0 md:bg-transparent">
 					<div class="inline-flex gap-3 overflow-x-auto whitespace-nowrap max-w-full">
-						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} />
+						<Config colorblind={colorblind} autoSubmit={autoSubmit} autoAdvance={autoAdvance} autoAdvanceFalse={autoAdvanceFalse} />
 					</div>
 					<button
 						type="button"
