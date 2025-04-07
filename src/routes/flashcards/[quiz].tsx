@@ -41,7 +41,7 @@ export default function QuizPage(props: PageProps) {
 				<meta property="og:site_name" content="CTin2225 Quiz - Quizizz nhưng nhanh hơn :)" />
 				<link rel="canonical" href={currentUrl} />
 			</Head>
-			<Flashcards flashcards={flashcards} />
+			<Flashcards metadata={metadata} flashcards={flashcards} />
 		</>
 	)
 }

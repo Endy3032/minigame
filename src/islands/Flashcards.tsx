@@ -1,7 +1,7 @@
 import { useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
 import { Kbd } from "../components/KeyboardButton.tsx"
-import { cn, Flashcard } from "../utils.ts"
+import { cn, Flashcard, Metadata } from "../utils.ts"
 
 enum Status {
 	None,
@@ -9,8 +9,8 @@ enum Status {
 	Review,
 }
 
-export function Flashcards(props: { flashcards: Flashcard[] }) {
-	const { flashcards } = props
+export function Flashcards(props: { metadata: Metadata | null; flashcards: Flashcard[] }) {
+	const { metadata, flashcards } = props
 	const status = useSignal<Status[]>(Array(flashcards.length).fill(Status.None))
 	const isFlipped = useSignal(false)
 
@@ -53,6 +53,17 @@ export function Flashcards(props: { flashcards: Flashcard[] }) {
 
 	return (
 		<div class="relative flex flex-col w-full gap-4">
+			{metadata && (
+				<div className="flex items-center gap-4">
+					<h2 class="text-center font-semibold text-balance">{metadata.name}</h2>
+					<div class="inline-flex h-full items-center gap-4 overflow-x-auto whitespace-nowrap max-w-full">
+						<a href="/" class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">&larr; Hub</a>
+						<a href={`/quiz/${metadata.name}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+							Làm quiz &rarr;
+						</a>
+					</div>
+				</div>
+			)}
 			<div class="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 				{flashcards.map((_, i) => (
 					<div key={i} class={cn(

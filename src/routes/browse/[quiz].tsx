@@ -6,7 +6,7 @@ export const handler: Handlers = {
 		const { quiz } = ctx.params
 		try {
 			const questions = readQuizJson<Question[]>(quiz, "data.json")
-			return ctx.render({ questions })
+			return ctx.render({ quiz, questions })
 		} catch {
 			return ctx.renderNotFound()
 		}
@@ -15,9 +15,17 @@ export const handler: Handlers = {
 
 export default function QuizPage(props: PageProps) {
 	const questions = props.data.questions as Question[]
+	const quiz = props.data.quiz as string
 
 	return (
 		<div class="flex flex-col gap-4 max-w-screen-lg mx-auto">
+			<div className="flex justify-center items-center overflow-x-auto gap-4">
+				<a href="/" class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">&larr; Hub</a>
+				<h2 class="text-center font-semibold">{decodeURIComponent(quiz)}</h2>
+				<a href={`/quiz/${quiz}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+					Làm quiz &rarr;
+				</a>
+			</div>
 			{questions.map((q, i) => (
 				<div key={i} class="flex flex-col gap-3 p-4 rounded-lg border border-zinc-700 shadow-md w-full">
 					<h2 class="text-xl whitespace-pre-wrap font-semibold leading-snug">

@@ -1,7 +1,7 @@
 import { Signal, useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
 import { Kbd } from "../components/KeyboardButton.tsx"
-import { cn, fisherYatesShuffle, Question } from "../utils.ts"
+import { cn, fisherYatesShuffle, Metadata, Question } from "../utils.ts"
 
 const colorMap = [
 	"bg-red-700 shadow-red-800 active:bg-red-800",
@@ -43,8 +43,8 @@ const Config = (props: { colorblind: Signal<boolean>; autoSubmit: Signal<boolean
 	)
 }
 
-export function Quiz(props: { questions: Question[] }) {
-	const { questions } = props
+export function Quiz(props: { metadata: Metadata | null; questions: Question[] }) {
+	const { metadata, questions } = props
 	const remainingQuestions = useSignal<number[]>(Array.from({ length: questions.length }, (_, i) => i))
 
 	const autoSubmit = useSignal(true)
@@ -147,6 +147,22 @@ export function Quiz(props: { questions: Question[] }) {
 	return remainingQuestions.value.length
 		? (
 			<div class="relative flex flex-col w-full gap-4">
+				{metadata && (
+					<div className="flex items-center gap-4">
+						<h2 class="text-center font-semibold text-balance">{metadata.name}</h2>
+						<div class="inline-flex h-full items-center gap-4 overflow-x-auto whitespace-nowrap max-w-full">
+							<a href="/" class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">&larr; Hub</a>
+							<a href={`/browse/${metadata.name}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+								Xem đáp án &rarr;
+							</a>
+							{metadata.hasFlashcard && (
+								<a href={`/flashcards/${metadata.name}`} class="text-sm text-zinc-400 hover:text-zinc-200 transition-all">
+									Flashcards &rarr;
+								</a>
+							)}
+						</div>
+					</div>
+				)}
 				<div class="grid grid-cols-[repeat(auto-fit,minmax(5px,1fr))] gap-1">
 					{questions.map((_, i) => (
 						<div key={i} class={cn(
@@ -251,10 +267,10 @@ export function Quiz(props: { questions: Question[] }) {
 				{questions
 					.map((q, i) => (
 						<div key={i} class="flex flex-col gap-3 p-4 rounded-lg border border-zinc-700 shadow-md w-full">
-							<h2 class="text-xl whitespace-pre-wrap font-semibold leading-snug">
+							<p class="text-xl whitespace-pre-wrap font-semibold leading-snug">
 								<span class="float-right ms-2 mb-2 text-sm text-zinc-400">#{q.id}</span>
 								<span>{q.question}</span>
-							</h2>
+							</p>
 							{q.image && <img src={q.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />}
 							<ul class="grid grid-cols-1 md:grid-cols-2 gap-2">
 								{q.choices?.map((choice, ci) => (
