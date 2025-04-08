@@ -80,22 +80,6 @@
     ]
   },
   {
-    "question":"Câu 7: Nhận định nào sau đây không đúng về giai đoạn dầu của cuộc kháng chiến chống Mỹ (1954 - 1960) của nhân dân Việt Nam?",
-    "type":"Multiple Choice",
-    "answer":[
-      3
-    ],
-    "image":null,
-    "explanation":null,
-    "id":7,
-    "choices":[
-      "A. Con đường thống đất nước của Việt Nam bằng hòa bình bị Mỹ phá hoại.",
-      "B. Pháp vừa rút quân, Mỹ nhảy vào dựng lên chính quyền tay sai thân Mỹ.",
-      "C. Miền Bắc vừa đầy mạnh sản xuất, vừa trực tiếp chiến đấu chống Mỹ.",
-      "D. Cách mạng miền Nam chuyển từ giữ gìn lực lượng sang thể tiến công."
-    ]
-  },
-  {
     "question":"Câu 8: Phong trào \"Đồng khởi\" (1959 - 1960) nổ ra trong hoàn cảnh cách mạng miền Nam Việt Nam đang",
     "type":"Multiple Choice",
     "answer":[
@@ -1373,22 +1357,6 @@
       "B. Thành lập thành phố Tam Sa, tự cho mình quyền quản lí hai quần đảo của Việt Nam.",
       "C. Đưa giản khoan Hải Dương - 981 xâm phạm vào đặc quyền kinh tế của Việt Nam.",
       "D. Cho quân vào vùng Biển Đông, sau đó đánh chiếm các đào trên quần đào Hoàng Sa."
-    ]
-  },
-  {
-    "question":"Câu 93: Những cuộc khởi nghĩa của dẫn tộc Việt Nam thời Bắc thuộc (179 TCN - đầu thế kí X), khởi nghĩa Lam Sơn (1418- 1427), khởi nghĩa Hương Khẻ (1885 - 1896), khởi nghĩa Yên Thể (1884 - 1913), khởi nghĩa tháng Tâm (1945)... có chung tính chất nào sau đây?",
-    "type":"Multiple Choice",
-    "answer":[
-      1
-    ],
-    "image":null,
-    "explanation":null,
-    "id":93,
-    "choices":[
-      "A. Chiến tranh giải phóng dân tộc.",
-      "B. Chiến tranh bảo vệ Tổ quốc.",
-      "C. Chiến tranh dân tộc dân chú.",
-      "D. Chiến tranh chống xâm lược."
     ]
   },
   {
