@@ -18,7 +18,7 @@ export const handler: Handlers = {
 }
 
 export default function QuizPage(props: PageProps) {
-	const flashcards = fisherYatesShuffle(props.data.flashcards as Flashcard[] | null || [])
+	const flashcards = props.data.flashcards as Flashcard[] | null || []
 	const metadata = props.data.metadata as Metadata | null
 
 	const title = `${decodeURIComponent(metadata?.name ?? props.data.quiz ?? "Flashcards")} | CTin2225 Quiz`
