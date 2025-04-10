@@ -5,7 +5,8 @@
 	"timestamp": 2,
 	"questionCount": {
 		"total": 60,
-		"mc": 54,
+		"mc": 52,
+		"tf": 2,
 		"fc": 6
 	}
 }
