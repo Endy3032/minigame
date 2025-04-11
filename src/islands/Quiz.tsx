@@ -70,7 +70,7 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 	const isCorrect = (qi: number, ans: number[]) => {
 		const q = questions[qi]
 		if (!q.answer) return false
-		return ans.toSorted().join(",") === q.answer.toSorted().join(",")
+		return ans.sort().join(",") === q.answer.sort().join(",")
 	}
 
 	const nextQuestion = () => {
@@ -93,7 +93,7 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 			const set = new Set(answer.value)
 			if (set.has(choice)) set.delete(choice)
 			else set.add(choice)
-			answer.value = [...set].toSorted()
+			answer.value = [...set].sort()
 		}
 	}
 
