@@ -80,6 +80,22 @@
     ]
   },
   {
+    "question":"Câu 7: Nhận định nào sau đây không đúng về giai đoạn dầu của cuộc kháng chiến chống Mỹ (1954 - 1960) của nhân dân Việt Nam?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "A. Con đường thống đất nước của Việt Nam bằng hòa bình bị Mỹ phá hoại.",
+      "B. Pháp vừa rút quân, Mỹ nhảy vào dựng lên chính quyền tay sai thân Mỹ.",
+      "C. Miền Bắc vừa đầy mạnh sản xuất, vừa trực tiếp chiến đấu chống Mỹ.",
+      "D. Cách mạng miền Nam chuyển từ giữ gìn lực lượng sang thể tiến công."
+    ]
+  },
+  {
     "question":"Câu 8: Phong trào \"Đồng khởi\" (1959 - 1960) nổ ra trong hoàn cảnh cách mạng miền Nam Việt Nam đang",
     "type":"Multiple Choice",
     "answer":[
@@ -320,7 +336,7 @@
     ]
   },
   {
-    "question":"Câu 27: Trong 21 năm kháng chiến chống M9, cửu nước (1954 - 1975), tuyển đường nào sau đây đã trở thành nỗi ảm ánh lớn đổi với quản đội Mỹ và quân đội Sải Gòn?",
+    "question":"Câu 27: Trong 21 năm kháng chiến chống Mỹ, cứu nước (1954 - 1975), tuyển đường nào sau đây đã trở thành nỗi ảm ánh lớn đổi với quản đội Mỹ và quân đội Sải Gòn?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1360,6 +1376,22 @@
     ]
   },
   {
+    "question":"Câu 93: Những cuộc khởi nghĩa của dẫn tộc Việt Nam thời Bắc thuộc (179 TCN - đầu thế kí X), khởi nghĩa Lam Sơn (1418- 1427), khởi nghĩa Hương Khẻ (1885 - 1896), khởi nghĩa Yên Thể (1884 - 1913), khởi nghĩa tháng Tâm (1945)... có chung tính chất nào sau đây?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":93,
+    "choices":[
+      "A. Chiến tranh giải phóng dân tộc.",
+      "B. Chiến tranh bảo vệ Tổ quốc.",
+      "C. Chiến tranh dân tộc dân chú.",
+      "D. Chiến tranh chống xâm lược."
+    ]
+  },
+  {
     "question":"Câu 94: Nội dung dung nào sau đây phản ánh đúng thông tin liên quan đến lịch sử chống giặc ngoai xâm của dân tộc Việt Nam?",
     "type":"Multiple Choice",
     "answer":[
@@ -1744,7 +1776,7 @@
     ]
   },
   {
-    "question":"Câu 119: Nội dung nào sau đây thể hiện sự chuyển biến tích cực của kinh tế ngoại thương ở Việt Nam, giai đoạn 2016 -",
+    "question":"Câu 119: Nội dung nào sau đây thể hiện sự chuyển biến tích cực của kinh tế ngoại thương ở Việt Nam, giai đoạn 2016 - 2020",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2076,7 +2108,7 @@
       "A. Luôn coi trọng đổi mới chính trị là trọng tâm.",
       "B. Đảng lãnh đạo phát huy sức mạnh tổng hợp.",
       "C. Mềm déo về nguyên tắc với các nước láng giềng.",
-      "D. Không coi M9, phương Tây là đổi tác chiến lược."
+      "D. Không coi Mỹ, phương Tây là đổi tác chiến lược."
     ]
   },
   {
@@ -2269,6 +2301,369 @@
       "B. thực hiện đường lối vũ trang bạo động.",
       "C. chủ trương nâng cao tinh thần dân chủ, khai dân trí.",
       "D. xây dựng các tổ chức chính trị riêng."
+    ]
+  },
+  {
+    "question":"\"...(không biết text đằng trước)... Trong cuốn hồi kí, Mắc-na-ma-ra đã thú nhận với Tổng thống Gion xơn khi rời lầu Năm Góc: “Chúng ta không thể đạt được ở Việt Nam bằng bắt cứ cách nào và vì thế chúng ta phải tìm kiếm một mục tiêu chính trị nhỏ bé hơn thông qua đàm phán\"",
+    "type":"Checkbox",
+    "answer":[
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":152,
+    "choices":[
+      "A. Sau sự kiện năm 1968, nước Mỹ đã phải giảm viện trợ cho chính quyền và quân đội Sài Gòn.",
+      "B. Ý chí xâm lược của Mỹ ở Việt Nam đã sụp đồ hoàn toàn sau sự kiện năm 1968 ở miền Nam.",
+      "C. Đoạn tư liệu là hồi kí của cựu Bộ trưởng Quốc phòng Mỹ dưới hai đời tổng thống, thừa nhận sự thất bại của Mỹ trong cuộc chiến tranh ở Việt Nam.",
+      "D. Theo đoạn tư liệu, sau sự kiện cuộc Tổng tiến và nổi dậy năm 1968, Mỹ buộc phải “xuống thang” trong chiến tranh xâm lược Việt Nam"
+    ]
+  },
+  {
+    "question":"\"Cuộc đàm phán Pari là cuộc đấu tranh cực kì gay go, quyết liệt giữa ta [Việt Nam] và Mĩ,... Phía Mĩ phản ứng quyết liệt. Họ buộc phải xuống thang chiến tranh, rút dẫn quân Mĩ về nước, nhưng vẫn ngoan cố đẩy mạnh chiến tranh “Việt Nam hóa“, thương lượng trên thế mạnh...\nBị thất bại thảm hại trong cuộc tập kích chiến lược đường không bằng máy bay B.52 cuối năm 1972, âm mưu đàm phán trên thế mạnh của Mĩ bị phá sản, ý chí xâm lược của Mĩ bị bẻ gãy. Không còn con bài nào nữa để mặc cả, Mĩ buộc phải kí Hiệp định Pari [27 – 1 – 1973), chấp nhận đơn phương rút hết quân Mĩ và quân các nước phụ thuộc về nước...\"\nViệc Mĩ không thành công về “thương lượng trên thế mạnh”; “bị thất bại thảm hại” trong cuộc tập kích chiến lược đường không bằng máy bay B.52 vào Hà Nội, Hải Phòng... (cuối năm 1972); phải trở lại bàn đàm phán và kí Hiệp định Pari (1973) về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam, chứng tỏ",
+    "type":"Checkbox",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":153,
+    "choices":[
+      "A. Sau những thất bại về quân sự, Mĩ đã từ bỏ các mục tiêu chiến lược ở Việt Nam.",
+      "B. Sức mạnh, bản lĩnh và trí tuệ của Việt Nam trong việc “đánh và đàm” với Mĩ.",
+      "C. Nước Mĩ đã suy giảm vị thế và không còn là cường quốc giàu mạnh nhất thế giới.",
+      "D. Những điều kiện, “thời cơ tiến công chiến lược” cho giải phóng miền Nam đã đến."
+    ]
+  },
+  {
+    "question":"\"Từ tháng 8-1964 đến tháng 1-1973, Mỹ đã hai lần tiến hành cuộc chiến tranh phá hoại miền Bắc Việt Nam bằng không quân và hải quân. Ngay từ những ngày đầu Mỹ mở rộng chiến tranh phá hoại, quân dân miền Bắc đã kịp thời chuyển mọi hoạt động sang thời chiến để hạn chế thấp nhất thiệt hại về người và của, vừa duy trì các hoạt động sản xuất và chiến đấu, vừa nỗ lực chi viện cho cách mạng miền Nam.\nSau thắng lợi của Quân Giải phóng miền Nam trong cuộc Tiến công chiến lược (1972), quân dân miền Bắc cũng lập nên chiến công vang dội trong 12 ngày đêm cuối năm 1972: đánh bại cuộc tập kích đường không chiến lược bằng máy bay B-52 của Mỹ vào Hà Nội, Hải Phòng,... Mỹ đã phải quay trở lại bàn đàm phán và kí Hiệp định Pa-ri về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam (27-1-1973).\"",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":154,
+    "choices":[
+      "A. Để cứu nguy cho các chiến lược chiến tranh ở miền Nam Việt Nam từ năm 1965 đến năm 1973, Mỹ đã hai lần mở rộng chiến tranh phá hoại miền Bắc bằng không quân và hải quân.",
+      "B. Trong hai lần chiến đấu chống chiến tranh phá hoại của Mỹ, quân dân miền Bắc có sự chủ động và chuẩn bị chu đáo nên không bị tổn thất bởi chiến tranh phá hoại của Mỹ gây nên.",
+      "C. Để làm thất bại hành động của Mỹ trong các cuộc chiến tranh phá hoại bằng không quân và hải quân, quân dân miền Bắc đã mỡ cuộc Tiến công chiến lược (1972).",
+      "D. Thắng lợi của quân dân miền Bắc cuối năm 1972 có ý nghĩa quyết định, đã mở ra cục diện \"vừa đánh, vừa đâm\" trong cuộc kháng chiến chống Mỹ cứu nước."
+    ]
+  },
+  {
+    "question":"\"Cái mới và sáng tạo đặc biệt của chiến tranh cách mạng Việt Nam là sự phát triển ngày càng cao của sự kết hợp giữa hai hình thức đấu tranh quân sự và chính trị, chiến tranh và khởi nghĩa, tiến công và nổi dậy, tiêu diệt địch và giành quyền làm chủ, trong đó đấu tranh quân sự là đặc trưng cơ bản, vì không có nó không còn là chiến tranh.\nTrong cuộc kháng chiến chống Mỹ, sự kết hợp quân sự với chính trị, chiến tranh và khởi nghĩa đã có hình thái phát triển khác với cuộc Tổng khởi nghĩa tháng Tám 1945, với kháng chiến chống Pháp là từ khởi nghĩa lên chiến tranh và trong chiến tranh vẫn có khởi nghĩa, từ đấu tranh chính trị lên kết hợp chính trị và quân sự song song, và càng về sau, nhất là vào giai đoạn cuối cuộc kháng chiến, vai trò của đấu tranh quân sự được từng bước nâng lên và cuối cùng đã giữ vị trí chi phối và quyết định\"",
+    "type":"Checkbox",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":155,
+    "choices":[
+      "A. Trong thời kì 1954 – 1975, Đảng Lao động Việt Nam bước đầu nghiên cứu và vận dụng sáng tạo các hình thức đấu tranh để đưa tới thắng lợi cuối cùng.",
+      "B. “Chiến tranh ở Việt Nam” không phải là một cuộc chiến tranh thông thường, nó mang tính chất là “Chiến tranh nhân dân” — cuộc chiến tranh giải phóng và kết hợp với bảo vệ.",
+      "C. Xuyên suốt thời kỳ 1954 - 1975, đấu tranh chính trị đã phát huy bài học kinh nghiệm từ Cách mạng tháng 8 năm 1945, đó là giữ vai trò nòng cốt, quyết định cho sự thắng lợi.",
+      "D. Thắng lợi về quân sự đã chi phối và quyết định việc kết thúc cuộc kháng chiến chống Pháp (1945-1954) và cuộc kháng chiến chống Mỹ, cứu nước (1954-1975) của VN."
+    ]
+  },
+  {
+    "question":"\"Ngay sau khi cuộc kháng chiến chống Mỹ kết thúc thắng lợi, chính quyền Cam-pu-chia Dân chủ do Pôn Pốt cầm đầu đã thực hiện chính sách diệt chủng đối với đồng bào Cam-pu-chia, đồng thời tiến hành những hành động phiêu lưu quân sự chống Việt Nam.\nMiền Nam Việt Nam vừa được giải phóng thì tập đoàn Pôn Pốt đã mở ngay những cuộc hành quân khiêu khích, lấn chiếm lãnh thổ Việt Nam như chiếm đảo Phú Quốc ngày 3-5-1975, Thổ Chu ngày 10-5-1975 và xâm phạm nhiều vùng lãnh thổ khác dọc biên giới từ Hà Tiên đến Tây Ninh. Từ tháng 4-1977, tập đoàn Pôn Pốt tăng cường những cuộc hành quân lấn chiếm, mở rộng dần thành cuộc chiến tranh lớn trên toàn tuyến biên giới Tây Nam...\nĐể bảo vệ chủ quyền và toàn vẹn lãnh thổ, quân và dân Việt Nam đã đánh trả quyết liệt, tiêu diệt toàn bộ cánh quân xâm lược. Cuộc tiến công quy mô lớn của tập đoàn Pôn Pốt hoàn toàn bị đập tan. Chiến thắng biên giới Tây Nam đã đè bẹp ý đồ xâm lược của tập đoàn Pôn Pốt, giảng một đòn mạnh vào lực lượng quân đội của chúng, tạo thời cơ thuận lợi cho cách mạng Cam-pu-chia thắng lợi\"",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":156,
+    "choices":[
+      "A. Theo đoạn trích, chính quyền Pôn Pốt đã xâm phạm vùng biên giới Tây Nam của Việt Nam",
+      "B. Cuộc đấu tranh bảo vệ biên giới Tây Nam của Việt Nam đã tạo thời cơ thuận lọi cho nhân dân Campuchia lật đổ ách cai trị của tập đoàn Pôn Pốt.",
+      "C. Cuộc chiến đấu bảo vệ vùng biên giới Tây Nam mang tính chất là cuộc chiến tranh ủy nhiệm",
+      "D. Đoạn trích cho thấy sức mạnh chính nghĩa của dân tộc VN, vừa bảo vệ vững chắc Tổ quốc, vừa góp phần duy trì hòa bình và ổn định khu vực."
+    ]
+  },
+  {
+    "question":"“Tôi đã đến thăm Trường trung học Tuol Seng từ nay trở nên nổi tiếng, và ở ngoại ô Phnôm Pênh trên khu đất rộng có những hồ chôn người chung. Một số hổ vẫn còn chưa đào hẳn, nhưng bị lún, tạo thành vùng trũng lớn. Những hồ khác đã bị bật lên, ... Việc Việt Nam đã chẩm dứt được những hành động man rợ này là một trong những điều quan trọng mà thế giới phải thể hiện sự biết ơn đổi với Việt Nam”.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":157,
+    "choices":[
+      "A. Đoạn trích là tư liệu của người ngoại quốc phản ánh về tội ác của quân pôn pốt ở campuchia",
+      "B. Nhân dân Cam sẽ tiếp tục phải gánh chịu tội ác của quân pôn pốt, nếu ko có sự giúp đỡ kịp thời của quân tình nguyện VN",
+      "C. Những năm 1975-1979, nhiều ng dân VN dọc biên giới Tây Nam cx là nạn nhân của nạn diệt chủng pôn pốt, do Khmer đứng đầu",
+      "D. Đây là lần đầu tiên quân đội VN làm nhiệm vụ quốc tế giúp đỡ nhân dân Cam"
+    ]
+  },
+  {
+    "question":"“Chiến sự xảy ra ác liệt ở xã Thanh Thuỷ, Minh Tân, Thanh Đức, ... thuộc huyện Vị Xuyên; xã Bạch Đích, Phú Lũng thuộc huyện Yên Minh. Tại mặt trận Vị Xuyên đã có hơn một chục sư đoàn bộ bình luân phiên tham gia chiến đấu. Các đơn vị bộ đội chủ lực của Bộ và Quân khu cùng với bộ đội địa phương, dân quân tự vệ của tỉnh và nhân dân đã quyết tâm chiến đấu giành giật với địch từng chiến hào, từng điểm cao để giữ vững chủ quyền biên giới quốc gia ... gần chục năm ròng, chưa khi nào Vị Xuyên ngớt tiếng phảo, đạn súng cổi từ bên kia biên giới rót sang\".",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":158,
+    "choices":[
+      "A. Sau khi TQ rút quân khỏi VN (18\/3\/1789), huyện Vị Xuyên (Hà Giang) là chiến trường duy nhất diễn ra cuộc chiến đấu ác liệt của quân đội VN chống lại TQ",
+      "B. Những cuộc chiến đấu cam go, quyết liệt của qđội VN với quân TQ ở chiến trường Vị Xuyên nối tiếp truyền thống dựng nước đi đôi với giữ nước của dân tộc VN",
+      "C. Các nghĩa trang liệt sĩ, đặc biệt là nghĩa trang qgia Vị Xuyên ngày nay, là bằng chứng về tội ác của quân TQ đối với quân đội VN và các dân tộc ở biên giới phía Bắc",
+      "D. Thực tiễn các cuộc chiến tranh bảo vệ biên giới Tây Nam và biên giới phía Bắc để lại bài học kinh nghiệm là luôn phải đề phòng cảnh giác để bào vệ tổ quốc từ sớm, từ xa"
+    ]
+  },
+  {
+    "question":"Lịch sử chống giặc ngoại xâm vừa thử thách, vừa tối luyện dân tọc tả. Những cuộc chiến tranh yêu nước đã tạo nên cho dân tộc ta một bản lĩnh kiên cường, một sức sống bền bi, mãnh liệt, đã hun đúc nên nhiều truyền thống tốt đẹp, tiêu biểu là lòng yêu nước tha thiết, ý chí độc lập tự chủ mạnh mẽ, tinh thần đoàn kết keo sơn, chí quật cường bất khuất, trí thông minh sáng tạo,...",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":159,
+    "choices":[
+      "A. Theo đoạn trích, những cuộc chiến tranh của VN chống lại các thế lực ngoại xâm đều là chiến tranh yêu nước",
+      "B. Đối chiếu với thông tin của đoạn trích, khởi nghĩa Lam Sơn là 1 cuộc chiến tranh bảo vệ Tổ quốc",
+      "C. Các cuộc chiến tranh bảo vệ tổ quốc trong lịch sử VN đều thực hiện \"mục tiêp kép\" là giải phóng và bảo vệ Tổ quốc",
+      "D. Những cuộc chiến tranh yêu nước của VN thành công được quyết định bởi giai cấp lãnh đạo biết phát huy truyền thống dân tộc"
+    ]
+  },
+  {
+    "question":"Khối đại đoàn kết toàn dân tuy có phạm vi rộng rãi nhưng lại được tổ chức một cách có hệ thống để phối hợp hành động, do đó sức mạnh của đoàn kết toàn dần được tăng lên gấp bội. Cuộc đấu tranh giải phóng dân tộc đã được toàn tiến hành một cách có tổ chức,... nên dù trải qua nhiều hy sinh, gian khổ lâu dài nhưng cuối cùng đã giành được thắng lợi",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":160,
+    "choices":[
+      "A. Sức mạnh của khối đoàn kết dân tộc VN là cội nguồn tạo nên thắng lợi trong TK20",
+      "B. Đoạn tư liệu là bài học cần phát huy hơn nữa khối đại đoạn kết dân tộc trong đổi mới đất nước",
+      "C. Sức mạnh của khối đại đoàn kết dân tộc là nhân tố duy nhất tạo nên thắng lợi trong lịch sử đấu tranh giải phóng dân tộc và bảo vệ Tổ quốc VN",
+      "D. Thực tiễn từ CMT8 1945 cho thất khối đại đoàn kết dân tộc sẽ được phát huy hiệu quả hơn nếu biết kết hợp với sức mạnh thời đại"
+    ]
+  },
+  {
+    "question":"Ngày nay, trước cuộc đấu tranh của nhân dân thế giới vì hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội, trước sự phát triển vũ bão của cuộc cách mạng khoa học và công nghệ hiện đại và quá trình quốc tế hóa mạnh mẽ nền kinh tế thế giới, càng cần phải kết hợp chặt chẽ yếu tố dân tộc với yếu tố quốc tế, yếu tố truyền thống với yếu tố hiện đại để đưa đất nước tiến lên",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":161,
+    "choices":[
+      "A. Đoạn trích đã là định hướng chiến lược của Đảng trong công cuộc xây dựng và bảo vệ Tổ quốc",
+      "B. Sau khi chiến tranh lạnh kết thúc và trật tự thế giới 2 cực I-an-ta sụp đổ, thực tiễn chứng minh yếu tố thời đại là quan trọng nhưng nội lực luôn đóng vai trò quyết định",
+      "C. Thực tiễn chiến tranh giải phóng và chiến tranh bảo vệ Tổ quốc từ 1945 đến nay đã chứng minh cách mạng VN luôn nhận đc sự ủng hộ giúp đỡ của các nước dân chủ tiến bộ",
+      "D. Đảng cộng sản VN quyết định tiến hành đổi mới đất nước từ 12\/1986 trên cơ sở nhận được sức mạnh của thời đại sau khi thành công trong việc phá vây"
+    ]
+  },
+  {
+    "question":"trong cuộc tấn công của quân đội Trung Quốc và các tỉnh phía Bắc Việt Nam năm 1979 các thị xã Cao Bằng, lạng Sơn, cam đường, Lào Cai gần như bị hủy diệt hoàn toàn. tổng cộng có 320 xã, 735 trường học, 41 nông trường, 81 xí nghiệp hầm mỏ và 38 làm trường bị tàn phá: 400.000 gia súc bị giết, bị cướp .khoảng 50% trong tổng số 3,5 triệu người ở 6 tỉnh biên giới bị mất nhà cửa, tài sản và phương tiện sinh sống",
+    "type":"Checkbox",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":162,
+    "choices":[
+      "A. toàn bộ cơ sở kinh tế, văn hóa miền Bắc VN bị hủy diệt bởi cuộc tấn công của TQ",
+      "B. cuộc tấn công của quân TQ làm đảo lộn, trì hoãn mọi hoạt động sản xuất ở VN",
+      "C. quan hệ Việt Trung trở nên căng thẳng bắt nguồn từ cuộc tấn công biên giới của TQ",
+      "D. những hành động xâm phạm lãnh thổ VN của quân TQ có sự ủng hộ của phía Mỹ"
+    ]
+  },
+  {
+    "question":"“Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kinh tế hàng hoá nhiều thành phần vận hành theo cơ chế thị trường có sự quản lí của Nhà nước dưới sự lãnh đạo của Đảng Cộng sản. Đây là một hình thái kinh tế thị trường vừa tuân theo những quy luật của kinh tế thị trường, vừa dựa trên cơ sở và được dẫn dắt, chi phối bởi các nguyên tắc và bản chất của chủ nghĩa xã hội”.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":163,
+    "choices":[
+      "A. Giai đoạn đầu của công cuộc Đổi mới, Việt Nam vừa duy trì nền kinh tế bao cấp, vừa bước đầu vận dụng mô hình kinh tế hàng hóa nhiều thành phần.",
+      "B. Nền kinh tế thị trường dịnh hướng xã hội chủ nghĩa ở Việt Nam là nền kinh tế hàng hóa nhiều thành phần, vận hành theo cơ chế thị trưởng có sự quản lý của Nhà nước.",
+      "C. Trong nền kinh tế thị trường dịnh hướng xã hội chủ nghĩa, không có thành phần kinh tế tư nhân và kinh tế có vốn đầu tư của nước ngoài.",
+      "D. Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa có sự quán lý, điều tiết của Nhà nước, người làm chủ chính là nhân dân lao động."
+    ]
+  },
+  {
+    "question":"“Đổi mới ở Việt Nam là quá trình thử nghiệm trong quá trình đó cái mới và cái cũ xen kẽ nhau, cái cũ không mất đi ngay mà lùi dần, có lúc, có nơi còn chiếm ưu thế hơn so với cái mới, nhưng xu hướng chung là cái mới dần được khẳng định và đưa tới thành công”.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":164,
+    "choices":[
+      "A. Đoạn trích là nhận định của nhà nghiên cứu về thành tựu trong hơn 20 năm đổi mới của Việt Nam.",
+      "B. Đổi mới ở Việt Nam là một quá trình thừ nghiệm: vừa đổi mới vừa nghiên cứu để thay đổi phương hướng chiến lược trong xây dựng và bảo vệ Tổ quốc",
+      "C. Cần phê phán quan điểm nhận thức không đúng về đổi mới, cho rắng đổi mới phải xóa bỏ những cái cũ có yếu tố tích cực đổi với sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "D. Đầy mạnh công nghiệp hóa, hiện đại hóa đất nước là nhiệm vụ có ý nghĩa chiến lược; đồng thời cũng là một trong những nhiệm vụ trọng tâm của công cuộc đổi mới đất nước"
+    ]
+  },
+  {
+    "question":"“Tăng trưởng kinh tế là điều kiện và tiền đề vật chất để thực hiện tiến bộ, công bằng xã hội. Đến lượt mình, thực hiện tiến bộ, công bằng xã hội là nhân tổ và động lực thúc đẩy tăng trưởng kinh tế cao và bền vững. Tăng trưởng kinh tế và tiền bộ, công bằng xã hội phải được kết hợp ngay từ đầu và trong suốt quả trình phát triển; phải thống nhất chính sách kinh tế với chính sách xã hội trong lãnh đạo của Đảng và quản li của Nhà nước”.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":165,
+    "choices":[
+      "A. Đoạn tư liệu đề cập đến mối quan hệ giữa mục tiêu phát triển kinh tế và phát triển xã hội.",
+      "B. Việt Nam đã thành công trong việc tập trung phát triển kinh tế trước, phát triển xã hội sau.",
+      "C. Công bằng xã hội chính là nhân tố, động lực thúc đẩy tăng trưởng kinh tế cao và bền vững.",
+      "D. Chính sách an sinh xã hội của Việt nam hiện nay đang tập trung vào mục tiêu giảm hội tái nghèo."
+    ]
+  },
+  {
+    "question":"“Dân chủ trong lĩnh vực chính trị, xã hội có những bước tiến mởi. Dân chủ trong Đảng, trong các tổ chức nhà nước, đoàn thể và xã hội, trong tổ chức và hoạt động của các cơ quan dân cử được mở rộng và có những bước tiến mới. Việc bảo vệ quyền và lợi ich hợp pháp của công dân, xử li các hành vi vi phạm quyền dân chủ được chủ trọng hơn“.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":166,
+    "choices":[
+      "A. Đoạn tư liệu phản ánh thành tựu của công cuộc Đổi mới ở Việt Nam trên lĩnh vực chính trị.",
+      "B. Nhờ có cống cuộc Đồi mới (từ năm 1986), lần đầu tiên nhân dân được hướng nền dân chủ.",
+      "C. Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa sẽ bảo vệ quyền dân chủ cho nhân dân.",
+      "D. Chính sách và pháp luật của Việt Nam đã góp phẩn bảo đảm những lợi ích của người dân."
+    ]
+  },
+  {
+    "question":"“... Chúng ta đã mở rộng hợp tác về chính trị, quốc phòng, an ninh và các lĩnh vực khác; từng bước khẳng định được hình ảnh và vị thể của một quốc gia tích cực và có trách nhiệm; tăng cường sự hiểu biết của cộng đồng quốc tế về văn hóa, con người và đất nước Việt Nam; đóng góp tích cực cho việc duy trì, bảo vệ nền hoà bình chung thông qua các cơ chế, diễn đàn an ninh quốc tế và khu vực, thông qua xây dựng các chuẩn mực, quy tắc ứng xử chung quốc tế và khu vực”",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":167,
+    "choices":[
+      "A. Đoạn tư liệu ghi nhận công cuộc đổi mới của Việt Nam đạt được nhiều thành tựu về hội nhập quóc tế.",
+      "B. Việt Nam đạt được thành tưu về hội nhập quốc tế trên nhiều phương diện.",
+      "C. Trong hội nhập quốc tế, Việt Nam đã kế thừa và phát huy bản sắc văn hóa dân tộc, đồng thời tiếp thu có chọn lọc những yếu tố văn hóa tích cực từ bên ngoài.",
+      "D. Thực tiễn công cuộc đổi mới cho thấy, để thành công trong hội nhập khu vực và quốc tế, trước tiên Việt Nam đã đáp ứng yêu cầu là đổi mới cà hệ thống chính trị."
+    ]
+  },
+  {
+    "question":"“Theo nhận thức của chúng ta, kinh tế thị trường định hướng xã hội chủ nghĩa là nền kinh tế thị trường hiện đại, hội nhập quốc tế, vận hành đầy đủ, đồng bộ theo các quy luật của kinh tế thị trường, có sự quản lí của nhà nước pháp quyền xã hội chủ nghĩa, do Đảng Cộng sản Việt Nam lãnh đạo; bảo đảm định hướng xã hội chủ nghĩa, nhằm mục tiêu “dân giàu, nước mạnh, công bằng, dân chủ, văn minh...”",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":168,
+    "choices":[
+      "A. Xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa là một sáng tạo của Việt Nam được vận dụng bước đầu ở miền Bắc trong cuộc kháng chiến chống Mĩ cứu nước.",
+      "B. Nền kinh tế thị  trường định hướng xã hội chủ nghĩa có sự khác biệt với nền kinh tế thị trường ở Mĩ và các nước tư bản phương Tây.",
+      "C. Nền kinh tế thị trường định hướng xã hội chủ nghĩa được hình thành và phát triển khi VN bước vào công cuộc đổi mới đất nước (1986).",
+      "D. Hướng tới mục tiêu “dân giàu, nước mạnh, công bằng, dân chủ, văn minh”."
+    ]
+  },
+  {
+    "question":"“Tính sáng tạo và chủ động tiến công của ngoại giao Việt Nam hiện đại còn được thể hiện qua các hoạt động hết sức năng động của ta trong thời kỳ có cuộc khủng hoảng Campuchia. Ngoại giao đã góp phần làm thất bại kế hoạch của các thế lực thù địch thành lập cái gọi là mặt trận quốc tế chống Việt Nam về vấn đề Campuchia. Ta đã chủ động mở các cuộc đối thoại đối với nước ASEAN, đặc biệt là In-đô-nê-xia và Ma-lai-xia về vấn đề Campuchia và hoà bình, ổn định ở Đông Nam Á,… Các hoạt động ngoại giao trong thời kì này đã góp phần phá âm mưu của đối phương bao vây, cô lập Việt Nam và đã chứng tỏ không thể giải quyết vấn đề liên quan đến Đông Nam Á mà không tính đến vai trò của Việt Nam”",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":169,
+    "choices":[
+      "A. “Vấn đề Cam pu chia” được giải quyết (1990) đã thúc đẩy nhanh hơn tiến độ “phá vây” của VN để hội nhập với khu vực và quốc tế.",
+      "B. Trong công cuộc đổi mới từ năm 1986, chính sách ngoại giao của VN là “đa phương hoá”, “vấn đề Campuchia” được giải quyết đã thực hiện hoá chính sách đó.",
+      "C. Một bài học kinh nghiệm từ “vấn đề Campuchia” là giương cao ngọn cờ độc lập, tự chủ và thực hiện “dĩ bất biến, ứng vạn biến”.",
+      "D. Việt Nam đã chủ động và thành công trong quá trình giải quyết “vấn đề Campuchia”, trước khi tiến hành công cuộc đổi mới."
+    ]
+  },
+  {
+    "question":"“Mục tiêu cơ bản của công nghiệp hóa, hiện đại hóa là cải biến nước ta thành một nước công nghiệp có cơ sở vật chất - kỹ thuật hiện đại, có cơ cấu kinh tế hợp lý, quan hệ sản xuất tiến bộ, phù hợp với trình độ phát triển của lực lượng sản xuất, mức sống vật chất và tinh thần cao, quốc phòng - an ninh vững chắc, dân giàu, nước mạnh, dân chủ, công bằng, văn minh.”",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":170,
+    "choices":[
+      "A. Đoạn tư liệu phản ánh mục tiêu của công cuộc đổi mới ở VN, được đề ra tại đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản VN.",
+      "B. Nội dung đường mới đổi mới trong đoạn trích trên phản ánh sự kế thừa và phát triển đường lối và đổi mới toàn diện và đồng bộ đất nước từ đại hội VI (1986 ) của Đảng.",
+      "C. Công cuộc đổi mới giai đoạn từ 1996-2006 đã tạo nền tảng cho Việt Nam đẩy mạnh công nghiệp hoá, hiện đại hoá và hội nhập quốc tế sâu rộng trong giai đoạn tiếp theo.",
+      "D. Nhờ có đổi mới, từ giữa những năm 90 của thế kỉ XX, Việt Nam đã thành công “phá vây” và trở thành quốc gia đang phát triển, có mức thu nhập trung bình trên thế giới."
+    ]
+  },
+  {
+    "question":"“Việt Nam là một câu chuyện phát triển thành công. Những cải cách kinh tế từ năm 1986 kết hợp với những xu hướng toàn cầu thuận lợi đã nhanh chóng giúp Việt Nam phát triển từ một trong những quốc gia nghèo nhất trên thế giới trở thành quốc gia thu nhập trung bình thấp chỉ trong vòng một thế hệ.”",
+    "type":"Checkbox",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":171,
+    "choices":[
+      "A. Ngân hang Thế giới ghi nhận: Việt Nam từ chỗ là một trong những quốc gia nghèo nhất thế giới đã trở thành quốc gia thu nhập trung bình là nhờ thực hiện công cuộc đổi mới.",
+      "B. Đoạn tư liệu chia sẻ câu chuyện Việt Nam phát triển thành công ngay từ năm đầu đổi mới.",
+      "C. Công cuộc đổi mới ở VN được khởi đầu khi cuộc chiến tranh lạnh giữa Liên Xô-Mỹ chấm dứt và xu thế toàn cầu hoá, hội nhập quốc tế diễn ra mạnh mẽ.",
+      "D. Thành tựu đổi mới của Việt Nam từ năm 1986 có tác động của xu hướng toàn cầu. Tuy nhiên yếu tố nội lực luôn đóng vai trò quyết định đối với “câu chuyện phát triển thành công”."
+    ]
+  },
+  {
+    "question":"Cho bảng dữ kiện về thành tựu đổi mới về kinh tế ở Việt Nam (từ năm 1968)",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":"\/quizzes\/Sử CK2\/a.png",
+    "explanation":null,
+    "id":172,
+    "choices":[
+      "A. Từ khi đổi mới, nền kinh tế VN đã có chuyển biến tích cực trên nhiều phương diện.",
+      "B. Trong công cuộc đổi mới, “tam nông” được coi trọng là chiến lược then chốt, bền vững.",
+      "C. Trước khi đất nước đổi mới, thành phần kinh tế tư nhân chưa được nhà nước khuyến khích.",
+      "D. Đổi mới là một sự thử nghiệm: vừa đổi mới, vừa nghiên cứu để thay đổi mục tiêu chiến lược."
     ]
   }
 ]
