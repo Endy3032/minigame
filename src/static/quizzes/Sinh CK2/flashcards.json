@@ -56,11 +56,59 @@
     "answerimage":null
   },
   {
+    "question":"Câu 1. Có bao nhiêu đặc điểm sau đây không thể có ở một quần thể sinh vật?\n(1) Quần thể bao gồm nhiều cá thể sinh vật.\n(2) Quần thể là tập hợp các cá thể cùng loài.\n(3) Các cá thể trong quần thể có khả năng giao phối với nhau.\n(4) Quần thể gồm nhiều cá thể cùng loài phân bố ở các nơi xa.\n(5) Các cá thể trong quần thể có kiểu gen hoàn toàn giống nhau.\n(6) Quần thể có khu phân bố rộng, giới hạn bởi các chướng ngại của thiên nhiên như sông núi, eo biển.\n",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":135,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2. Xét tập hợp sinh vật sau:\n(1) Cá rô phi đơn tính ở trong hồ.    \n(2) Cá trắm cỏ trong ao.    \n(3) Sen trong đầm.\n(4) Cây ở ven hồ.    \n(5) Chuột trong vườn.    \n(6) Bèo tấm trên mặt ao.\nCó bao nhiêu tập hợp sinh vật là quần thể?",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":136,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3. Có 1200 cá thể chim, để 1200 cá thể chim này trở thành một quần thể thì cần bao nhiêu điều kiện trong những điều kiện dưới đây?\n(1) Cùng sống với nhau trong một khoảng thời gian dài.\n(2) Các cá thể chim này phải cùng một loài.\n(3) Cùng sống trong một môi trường vào một khoảng thời điểm xác định.\n(4) Có khả năng giao phối với nhau để sinh con hữu thụ.\nSố điều kiện cần là:",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":137,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4. Cho các hiện tượng sau\n(1) Hai con sói đang săn một con lợn rừng.\n(2) Những con chim hồng hạc đang di cư thành đàn về phương Nam.\n(3) Những con sư tử đuổi bắt bầy nai rừng.\n(9) Hiện tượng tự tỉa cành của thực vật trong rừng.\n(4) Các cây chò trong rừng cử động cuống lá để đón ánh sáng.\n(6) Gà ăn ngay trứng của mình sau khi vừa đẻ xong.\n(7) Khi gặp kẻ thù, trâu rừng xếp thành vòng tròn, đưa con già yếu và con non vào giữa.\n(8) Các cây cùng loài mọc thành đám và liền rễ nhau trong lòng đất.\nCó bao nhiêu hiện tượng là quan hệ hỗ trợ?",
+    "type":"Open-Ended",
+    "answer":4,
+    "image":null,
+    "id":138,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5. Có bao nhiêu tượng sau đây không thuộc quan hệ đấu tranh cùng loài?\n(1) Tự tỉa cành ở thực vật.\n(2) Ăn thịt đồng loại.\n(3) Cạnh tranh sinh học cùng loài.\n(4) Quan hệ cộng sinh.\n(5) Ức chế cảm nhiễm.",
+    "type":"Open-Ended",
+    "answer":2,
+    "image":null,
+    "id":139,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 6. Quần thể sống trong môi trường có diện tích 80m2 và có mật độ 34 cá thể \/1m2 . Kích thước của quần thể trên là bao nhiêu?",
+    "type":"Open-Ended",
+    "answer":2720,
+    "image":null,
+    "id":140,
+    "answerimage":null
+  },
+  {
     "question":"Câu 7. Có bao nhiêu đặc điểm về kiểu phân bố đều của các cá thể trong quần thể?\n(1) Các cá thể không tập hợp thành từng nhóm.\n(2) Xuất hiện phổ biến trong tự nhiên.\n(3) Xảy ra khi điều kiện sống phân bố đồng đều trong môi trường.\n(4) Xảy ra ở các quần thể chim cánh cụt, dã tràng, hươu, nai.\n(5) Làm tăng cường sự hợp tác giữa các cá thể trong quần thể.\n(6) Sinh vật tận dụng nguồn sống tiềm tàng trong môi trường.",
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":127,
+    "id":141,
     "answerimage":null
   },
   {
@@ -68,7 +116,7 @@
     "type":"Open-Ended",
     "answer":3,
     "image":null,
-    "id":128,
+    "id":142,
     "answerimage":null
   },
   {
@@ -76,7 +124,7 @@
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":207,
+    "id":221,
     "answerimage":null
   },
   {
@@ -84,7 +132,7 @@
     "type":"Open-Ended",
     "answer":4,
     "image":null,
-    "id":208,
+    "id":222,
     "answerimage":null
   },
   {
@@ -92,7 +140,7 @@
     "type":"Open-Ended",
     "answer":3,
     "image":null,
-    "id":209,
+    "id":223,
     "answerimage":null
   },
   {
@@ -100,7 +148,7 @@
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":210,
+    "id":224,
     "answerimage":null
   },
   {
@@ -108,7 +156,7 @@
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":211,
+    "id":225,
     "answerimage":null
   },
   {
@@ -116,7 +164,7 @@
     "type":"Open-Ended",
     "answer":1,
     "image":null,
-    "id":212,
+    "id":226,
     "answerimage":null
   },
   {
@@ -124,7 +172,7 @@
     "type":"Open-Ended",
     "answer":3,
     "image":null,
-    "id":213,
+    "id":227,
     "answerimage":null
   },
   {
@@ -132,7 +180,7 @@
     "type":"Open-Ended",
     "answer":3,
     "image":null,
-    "id":214,
+    "id":228,
     "answerimage":null
   },
   {
@@ -140,7 +188,7 @@
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":215,
+    "id":229,
     "answerimage":null
   },
   {
@@ -148,7 +196,7 @@
     "type":"Open-Ended",
     "answer":2,
     "image":null,
-    "id":216,
+    "id":230,
     "answerimage":null
   }
 ]

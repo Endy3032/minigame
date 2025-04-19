@@ -2,11 +2,11 @@
   "name":"Sinh CK2",
   "hasQuiz":true,
   "hasFlashcard":true,
-  "timestamp":1745070243,
+  "timestamp":1745078245,
   "questionCount":{
-    "total":216,
+    "total":230,
     "mc":175,
-    "tf":22,
-    "fc":19
+    "tf":30,
+    "fc":25
   }
 }
