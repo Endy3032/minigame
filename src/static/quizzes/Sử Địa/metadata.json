@@ -1,0 +1,10 @@
+{
+  "name":"Sử Địa",
+  "hasQuiz":true,
+  "hasFlashcard":false,
+  "timestamp":1745118328,
+  "questionCount":{
+    "total":55,
+    "mc":55
+  }
+}
