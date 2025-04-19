@@ -1,0 +1,1232 @@
+[
+  {
+    "question":"Câu 1. Quần thể là một tập hợp cá thể",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "cùng loài, sống trong 1 khoảng không gian xác định, có khả năng sinh sản tạo thế hệ mới",
+      "B. khác loài, sống trong 1 khoảng không gian xác định, vào 1 thời điểm xác định",
+      "C. cùng loài, cùng sống trong 1 khoảng không gian xác định, vào 1 thời điểm xác định",
+      "D. cùng loài, cùng sống trong 1 khoảng không gian xác định, vào 1 thời điểm xác định, có khả năng sinh sản tạo thế hệ mới"
+    ]
+  },
+  {
+    "question":"Câu 2. Hiện tượng cá thể tách ra khỏi nhóm nhằm",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "làm tăng khả năng cạnh tranh giữa các cá thể.",
+      "B. làm tăng mức độ sinh sản.",
+      "C. làm giảm nhẹ cạnh tranh giữa các cá thể, hạn chế sự cạn kiệt nguồn thức ăn trong vùng.",
+      "D. làm cho nguồn thức ăn cạn kiệt nhanh chóng.\n"
+    ]
+  },
+  {
+    "question":"Câu 3. Nếu mật độ của một quần thể sinh vật tăng quá mức tối đa thì",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "sự cạnh tranh giữa các cá thể trong quần thể tăng lên.",
+      "B. sự cạnh tranh giữa các cá thể trong quần thể giảm xuống.",
+      "C. sự hỗ trợ giữa các cá thể trong quần thể tăng lên.",
+      "D. sự xuất cư của các cá thể trong quần thể giảm tới mức tối thiểu."
+    ]
+  },
+  {
+    "question":"Câu 4. Nhóm cá thể nào dưới đây là một quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "Cây trong vườn.",
+      "B. Cây cỏ ven bờ hồ.",
+      "C. Cá chép và cá vàng trong bể cá cảnh.\n",
+      "D. Đàn cá rô trong ao.\n"
+    ]
+  },
+  {
+    "question":"Câu 5. Tập hợp sinh vật nào sau đây gọi là quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "Tập hợp cá sống trong Hồ Tây.",
+      "B. Tập hợp cá Cóc sống trong Vườn Quốc Gia Tam Đảo.",
+      "C. Tập hợp cây thân leo trong rừng mưa nhiệt đới.",
+      "D. Tập hợp cỏ dại trên một cánh đồng.\n"
+    ]
+  },
+  {
+    "question":"Câu 6. Xét tập hợp sinh vật sau:\n(1) Cá rô phi đơn tính ở trong hồ.    \n(2) Cá trắm cỏ trong ao.    \n(3) Sen trong đầm.\n(4) Cây ở ven hồ.    \n(5) Chuột trong vườn.    \n(6) Bèo tấm trên mặt ao.\nCác tập hợp sinh vật là quần thể gồm có:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "(1), (2), (3), (4), (5) và (6)",
+      "B. (2), (3), (4), (5) và (6)",
+      "C. (2), (3) và (6)",
+      "D. (2), (3), (4) và (6)"
+    ]
+  },
+  {
+    "question":"Câu 7. Có 1200 cá thể chim, để 1200 cá thể chim này trở thành một quần thể thì cần bao nhiêu điều kiện trong những điều kiện dưới đây:\n(1) Cùng sống với nhau trong một khoảng thời gian dài.\n(2) Các cá thể chim này phải cùng một loài.\n(3) Cùng sống trong một môi trường vào một khoảng thời điểm xác định.\n(4) Có khả năng giao phối với nhau để sinh con hữu thụ.\nSố điều kiện cần là:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      1,
+      "B. 2",
+      "C. 4",
+      "D. 3\n"
+    ]
+  },
+  {
+    "question":"Câu 8. Quan hệ hỗ trợ giữa các cá thể trong quần thể là?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "Là mối quan hệ giữa các cá thể cùng loài hỗ trợ lẫn nhau trong các hoạt động sống.",
+      "B. Là mối quan hệ giữa các cá thể cùng loài cạnh tranh lẫn nhau trong các hoạt động sống",
+      "C. Là mối quan hệ giữa các cá thể cùng loài ăn lẫn nhau trong các hoạt động sống.\n",
+      "D. Là mối quan hệ giữa các cá thể cùng loài tranh giành lẫn nhau trong các hoạt động sống.\n"
+    ]
+  },
+  {
+    "question":"Câu 9. Hiện tượng liền rễ ở các cây thông thể hiện mối quan hệ\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "hỗ trợ.",
+      "B. cạnh tranh.",
+      "C. cộng sinh.",
+      "D. hợp tác"
+    ]
+  },
+  {
+    "question":"Câu 10. Sự khác nhau giữa cây thông nhựa liền rễ với cây không liền rễ như thế nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "Các cây liền rễ tuy sinh trưởng chậm hơn nhưng có khả năng chịu hạn tốt hơn và khi bị chặt ngọn sẽ nảy chồi mới sớm và tốt hơn cây không liền rễ.\n",
+      "B. Các cây liền rễ sinh trưởng nhanh hơn nhưng khả năng chịu hạn kém hơn và khi bị chặt ngọn sẽ nảy chồi mới sớm và tốt hơn cây không liền rễ.\n",
+      "C. Các cây liền rễ sinh trưởng nhanh hơn và có khả năng chịu hạn tốt hơn, nhưng khi bị chặt ngọn sẽ nảy chồi mới muộn hơn cây không liền rễ.",
+      "D. Các cây liền rễ sinh trưởng nhanh hơn, có khả năng chịu hạn tốt hơn và khi bị chặt ngọn sẽ nảy chồi mới sớm và tốt hơn cây không liền rễ.\n"
+    ]
+  },
+  {
+    "question":"Câu 11. Khi nói về quan hệ hỗ trợ cùng loài, phát biểu nào sau đây sai",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "A. Ở nhiều quần thể thực vật, những cây sống theo nhóm chịu đựng được gió bão tốt hơn những cây cùng loài sống riêng rẽ.",
+      "B. Hỗ trợ cùng loài chỉ xuất hiện khi mật độ cá thể trong quần thể tăng lên quá cao.",
+      "C. Quan hệ hỗ trợ giữa các cá thể trong quần thể đảm bảo cho quần thể tồn tại một cách ổn định và khai thác được tối ưu nguồn sống của môi trường.",
+      "D. Quan hệ hỗ trợ cùng loài thể hiện qua hiệu quả nhóm"
+    ]
+  },
+  {
+    "question":"Câu 12. Ý nào không đúng đối với động vật sống thành bầy đàn trong tự nhiên?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "A. Có lợi trong công việc tìm kiếm thức ăn.",
+      "B. Phát hiện kẻ thù nhanh hơn.",
+      "C. Tự vệ tốt hơn.",
+      "D. Thường xuyên diễn ra sự cạnh tranh."
+    ]
+  },
+  {
+    "question":"Câu 13. Quan hệ cạnh tranh giữa các cá thể trong quần thể là?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "A. Là mối quan hệ giữa các cá thể cùng loài hỗ trợ lẫn nhau trong các hoạt động sống",
+      "B. Là mối quan hệ giữa các cá thể cùng loài tranh giành lẫn nhau trong các hoạt động sống.",
+      "C. Là mối quan hệ giữa các cá thể cùng loài liên kết với nhau trong các hoạt động sống.",
+      "D. Là các hiện tượng liền rễ, săn mồi theo nhóm..."
+    ]
+  },
+  {
+    "question":"Câu 14. Một số cây cùng loài sống gần nhau có hiện tượng rễ của chúng nối liền với nhau (liền rễ). Hiện tượng này thể hiện mới quan hệ:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "A. Cạnh tranh cùng loài",
+      "B. Hỗ trợ cùng loài",
+      "C. Cộng sinh",
+      "D. Hỗ trợ khác loài"
+    ]
+  },
+  {
+    "question":"Câu 15. Theo quan niệm hiện đại thì đặc trưng về mặt sinh thái của quần thể bao gồm",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "A. Kích thước quần thể, tần số allele, tần số kiểu gene, kiểu phân bố.",
+      "B. Kích thước quần thể, sự phân bố, cấu trúc nhóm tuổi, tỉ lệ giới tính.",
+      "C. Tần số allele, tần số kiểu gene, kiểu tăng trưởng, cấu trúc nhóm tuổi.",
+      "D. Tần số kiểu gene, kiểu phân bố, tỉ lệ giới tính."
+    ]
+  },
+  {
+    "question":"Câu 16. Ý nào sau đây không đúng về quan hệ cạnh tranh giữa các cá thể trong quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "A. Cạnh tranh cùng loài lâu dần sẽ dẫn đến phân hóa ổ sinh thái.",
+      "B. Cạnh tranh cùng loài là một trong những động lực thúc đẩy cho sự tiến hóa.",
+      "C. Cạnh tranh đôi khi chỉ xảy ra ở một giới trong loài.",
+      "D. Cạnh tranh thường xảy ra ở động vật, ít xảy ra ở thực vật."
+    ]
+  },
+  {
+    "question":"Câu 17. Hiện tượng nào sau đây không thuộc quan hệ đấu tranh cùng loài?\n(1) Tự tỉa cành ở thực vật.\n(2) Ăn thịt đồng loại.\n(3) Cạnh tranh sinh học cùng loài.\n(4) Quan hệ cộng sinh.\n(5) Ức chế cảm nhiễm.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "A. 1, 2, 3",
+      "B. 4, 5",
+      "C. 3, 4, 5",
+      "D. 1, 3, 4, 5"
+    ]
+  },
+  {
+    "question":"Câu 18. Quan hệ hỗ trợ và quan hệ cạnh tranh giữa các cá thể trong quần thể có điểm chung là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "A. Chỉ xuất hiện khi mật độ quần thể tăng cao.",
+      "B. Đều có lợi cho sự tồn tại và phát triển của quần thể.",
+      "C. Đều làm tăng khả năng sống sót và sinh sản của các cá thể.",
+      "D. Đều giúp duy trì giới tính của quần thể ổn định qua các thế hệ.\n"
+    ]
+  },
+  {
+    "question":"Câu 19. Tỉ lệ giới tính là?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "A. tỉ số giữa số lượng cá thể đực và cá thể cái trong quần thể.",
+      "B. tỉ số giữa số lượng cá thể đực trên tổng số cá thể trong quần thể.\n",
+      "C. tỉ số giữa số lượng cá thể cái trên tổng số cá thể trong quần thể..\n",
+      "D. không xác định được vì chúng thay đổi liên tục."
+    ]
+  },
+  {
+    "question":"Câu 20. Khi nói về tuổi thọ, kết luận nào sau đây không đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "A. Tuổi của quần thể là tuổi trung bình của các cá thể trong quần thể.",
+      "B. Tuổi thọ sinh thái được tính từ lúc cá thể sinh ra đến khi chết vì các nguyên nhân sinh thái.",
+      "C. Tuổi thọ sinh thái cao hơn tuổi thọ sinh lí và đặc trưng cho loài sinh vật.",
+      "D. Tuổi thọ sinh lí được tính từ lúc cá thể sinh ra cho đến khi chết đi vì già.\n"
+    ]
+  },
+  {
+    "question":"Câu 21. Ở một quần thể cá chép trong một hồ cá tự nhiên, sau khi khảo sát thì thấy có 10% cá thể ở tuổi trước sinh sản, 40% cá thể ở tuổi đang sinh sản, 50% cá thể ở tuổi sau sinh sản. Kết luận nào sau đây là đúng về quần thể này?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "A. Quần thể đang có xu hướng tăng số lượng cá thể.",
+      "B. Quần thể thuộc dạng đang suy thoái.",
+      "C. Quần thể thuộc dạng đang phát triển.",
+      "D. Quần thể có cấu trúc tuổi ổn định."
+    ]
+  },
+  {
+    "question":"Câu 22. Khi đánh cá, nếu đa số các mẻ lưới có cá lớn chiếm tỷ lệ nhiều thì",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "A. Nghề cá đã rơi vào tình trạng khai thác quá mức",
+      "B. Tiếp tục đánh bắt với mức độ ít",
+      "C. Không nên tiếp tục khai thác",
+      "D. Nghề cá chưa khai thác hết tiềm năng"
+    ]
+  },
+  {
+    "question":"Câu 23. Ở một quần thể cá chép, sau khi khảo sát thì thấy có 15% cá thể ở tuổi trước sinh sản 50% cá thể ở tuổi đang sinh sản, 35% cá thể ở tuổi sau sinh sản. Làm thế nào để trong thời gian tới, tỉ lệ cá thể thuộc nhóm tuổi trước sinh sản sẽ tăng lên?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "A. Đánh bắt các cá thể cá chép ở tuổi sau sinh sản",
+      "B. Thả vào ao nuôi các cá chép đang ở tuổi sinh sản",
+      "C. Thả vào ao nuôi các cá chép ở tuổi đang sinh sản và trước sinh sản",
+      "D. Thả vào ao nuôi các cá thể cá chép con"
+    ]
+  },
+  {
+    "question":"Câu 24. Phân bố đồng đều giữa các cá thể trong quần thể thường gặp khi",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "A. Điều kiện sống phân bố một cách đồng đều và có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "B. Điều kiện sống phân bố không đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "C. Điều kiện sống trong môi trường phân bố đồng đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "D. Các cá thể của quần thể sống thành bầy đàn ở những nơi có nguồn sống dồi dào nhất."
+    ]
+  },
+  {
+    "question":"Câu 25. Loài nào sau đây có kiểu phân bố đồng đều",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "Đàn gà rừng.",
+      "Các loài sò sống trong phù sa.",
+      "Các loài sâu trên tán cây rừng.",
+      "Cây thông trong rừng"
+    ]
+  },
+  {
+    "question":"Câu 26. Về mặt sinh thái, sự phân bố đồng đều của cá thể cùng loài trong khu vực phân bố có ý nghĩa:",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "Tăng khả năng khai thác nguồn sống tiềm tàng từ môi trường.",
+      "Tăng cường cạnh tranh nhau dẫn tới làm tăng tốc độ tiến hóa của loài.",
+      "Hỗ trợ lẫn nhau để chống chọi với điều kiện bất lợi của môi trường.",
+      "Giảm sự cạnh tranh gay gắt giữa các cá thể trong quần thể"
+    ]
+  },
+  {
+    "question":"Câu 27. Kiểu phân bố ngẫu nhiên của các cá thể trong quần thể thường gặp khi",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "Điều kiện sống phân bố không đồng đều, không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "Điều kiện sống phân bố không đồng đều, có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "Điều kiện sống phân bố đồng đều, có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+      "Điều kiện sống phân bố đồng đều, không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể."
+    ]
+  },
+  {
+    "question":"Câu 28. Ví dụ nào sau đây cho thấy quần thể của loài có kiểu phân bố ngẫu nhiên?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "Các cây thông trong rừng thông và các loài sò sống trong phù sa vùng triều",
+      "Nhóm cây bụi mọc hoang dại, đàn trâu rừng, bầy chim cánh cụt ở Nam cực",
+      "Các cây thông trong rừng thông, chim hải âu làm tổ",
+      "Các con sâu sống trên tán lá cây, các cây gỗ trong rừng mưa nhiệt đới"
+    ]
+  },
+  {
+    "question":"Câu 29. Khi nói về kiểu phân bố theo nhóm của các cá thể trong quần thể, phát biểu nào sau đây đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "Thường gặp khi điều kiện sống phân bố đồng đều trong môi trường.",
+      "Thường gặp khi điều kiện sống phân bố đồng đều trong môi trường.",
+      "Kiểu phân bố này thường ít gặp.",
+      "Các cá thể hỗ trợ nhau chống lại các điều kiện bất lợi của môi trường."
+    ]
+  },
+  {
+    "question":"Câu 30. Sự phân bố theo nhóm cá thể trong quần thể có ý nghĩa gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "Làm giảm sự cạnh tranh gay gắt giữa các cá thể",
+      "Làm tăng sự cạnh tranh gay gắt giữa các cá thể",
+      "Giúp sinh vật tận dụng được nguồn sống từ môi trường.",
+      "Giúp sinh vật hỗ trợ nhau chống chọi với bất lợi từ môi trường"
+    ]
+  },
+  {
+    "question":"Câu 31. Thời gian sống thực tế của 1 cá thể trong quần thể được gọi là:",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "tuổi sinh thái.",
+      "tuổi đang sinh sản.",
+      "tuổi quần thể.",
+      "tuổi sinh lí."
+    ]
+  },
+  {
+    "question":"Câu 32. Trong một ao nuôi cá trắm cỏ, người ta tính được trung bình có 3 con\/m2 nước. Số liệu trên cho biết về đặc trưng nào của quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "Sự phân bố cá thể.",
+      "Mật độ cá thể.",
+      "Tỷ lệ đực\/cái.",
+      "Thành phần nhóm tuổi."
+    ]
+  },
+  {
+    "question":"Câu 33. Các cá thể của quần thể trâu rừng sống thành bầy đàn ở những nơi có điều kiện sống tốt, Đây là đặc điểm của kiểu phân bố?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "đồng đều.",
+      "theo nhóm.",
+      "ngẫu nhiên",
+      "phân tầng"
+    ]
+  },
+  {
+    "question":"Câu 34. Mật độ của quần thể là",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "số lượng cá thể trung bình của quần thể được xác định trong một khoảng thời gian xác định nào đó.",
+      "số lượng cá thể cao nhất ở một thời điểm xác định nào đó trong một đơn vị diện tích nào đó của quần tể.",
+      "khối lượng sinh vật thấp nhất ở một thời điểm xác định trong một đơn vị thể tích của quần thể.",
+      "số lượng cá thể có trên một đơn vị diện tích hay thể tích của quần thể."
+    ]
+  },
+  {
+    "question":"Câu 35. Mật độ cá thể của quần thể có ảnh hưởng tới",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "khối lượng nguồn sống trong môi trường phân bố của quần thể.",
+      "mức độ sử dụng nguồn sống, khả năng sinh sản và tử vong của quần thể.",
+      "mức độ sử dụng nguồn sống, khả năng sinh sản và tử vong của quần thể.",
+      "tập tính sống bầy đàn và hình thức di cư của các cá thể trng quần thể."
+    ]
+  },
+  {
+    "question":"Câu 36. Phát biểu nào sau đây sai khi nói về mật độ cá thể của quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "Mật độ cá thể của quần thể là số lượng cá thể trên một đơn vị diện tích hay thể tích của quần thể",
+      "Mật độ cá thể của quần thể ảnh hưởng đến mức độ sử dụng nguồn sống, mức độ tử vong và mức độ sinh sản của các cá thể trong quần thể",
+      "Mật độ cá thể của quần thể có thể thay đổi theo mùa, năm hoặc tùy theo điều kiện của môi trường sống",
+      "Mật độ cá thể của quần thể tăng lên quá cao so với sức chứa của môi trường sẽ làm tăng khả năng sinh sản của cá thể trong quần thể"
+    ]
+  },
+  {
+    "question":"Câu 37. Kích thước của quần thể sinh vật là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "số lượng cá thể hoặc khối lượng sinh vật hoặc năng lượng tích luỹ trong các cá thể của quần thể.",
+      "độ lớn của khoảng không gian mà quần thể đó phân bố.",
+      "thành phần các kiểu gen biểu hiện thành cấu trúc di truyền của quần thể.",
+      "tương quan tỉ lệ giữa tỉ lệ tử vong với tỉ lệ sinh sản biểu thị tốc độ sinh trưởng của quần thể."
+    ]
+  },
+  {
+    "question":"Câu 38. Có 4 quần thể của cùng một loài cỏ sống ở 4 môi trường khác nhau, quần thể sống ở môi trường nào sau đây có kích thước lớn nhất.",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "Quần thể sống trong môi trường có diện tích 800m2 và có mật độ 34 cá thể \/1m2",
+      "Quần thể sống trong môi trường có diện tích 2150m2 và có mật độ 12 cá thể\/m2",
+      "Quần thể sống trong môi trường có diện tích 835m2 và có mật độ 33 cá thể\/m2",
+      "Quần thể sống trong môi trường có diện tích 3050m2 và có mật độ 9 cá thể\/m2"
+    ]
+  },
+  {
+    "question":"Câu 39. Kích thước của quần thể không phụ thuộc vào",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "Sức sinh sản",
+      "Mức độ tử vong.",
+      "Cá thể nhập cư và xuất cư.",
+      "Tỷ lệ đực\/cái"
+    ]
+  },
+  {
+    "question":"Cho sơ đồ các nhân tố chi phối kích thước quần thể, biết (1) là Mức sinh sản, chọn phương án đúng",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":"\/quizzes\/Sinh B21\/21_TN_40.png",
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "(2) là mức tử vong, (3) là mức nhập cư, (4) là mức xuất cư.",
+      "(4) là mức tử vong, (2) là mức nhập cư, (3) là mức xuất cư.",
+      "(3) là mức tử vong, (4) là mức nhập cư, (2) là mức xuất cư",
+      " (3) là mức tử vong, (2) là mức nhập cư, (4) là mức xuất cư"
+    ]
+  },
+  {
+    "question":"Câu 41. Nghiên cứu tốc độ gia tăng dân số ở một quần thể người với quy mô 1 triệu dân vào năm 2016. Biết rằng tốc độ sinh trung bình hàng năm là 3%, tỷ lệ tử là 1%, tốc độ xuất cư là 2% và vận tốc nhập cư là 1% so với dân số của thành phố. Dân số của thành phố sẽ đạt giá trị bao nhiêu vào năm 2026?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "A. 1104622 người",
+      "B. 1218994 người",
+      "C. 1105952 người",
+      "D. 1203889 người"
+    ]
+  },
+  {
+    "question":"Câu 42. Khi nguồn sống trong môi trường dồi dào, điều kiện tự nhiên thuận lợi, quần thể có trạng thái sinh lý tốt, quần thể sinh vật tăng trưởng theo",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "A. Đường cong hình chữ S",
+      "B. Đường cong hình chữ K.",
+      "C. Đường cong hình chữ J.",
+      "D. Tới khi số cá thể đạt mức ổn định."
+    ]
+  },
+  {
+    "question":"Câu 43. Quần thể có kiểu tăng trưởng theo tiềm năng sinh học có đặc điểm",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "A. Kích thước cơ thể lớn, sinh sản ít.",
+      "B. Kích thước cơ thể nhỏ, sinh sản nhanh",
+      "C. Kích thước cơ thể lớn, sử dụng nhiều thức ăn",
+      "D. Kích thước cơ thể nhỏ, sử dụng nhiều thức ăn."
+    ]
+  },
+  {
+    "question":"Câu 44. Phần lớn quần thể sinh vật trong tự nhiên tăng trưởng theo dạng",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "A. tăng dần đều.",
+      "B. đường cong chữ J.",
+      "C. đường cong chữ S.",
+      "D. giảm dần đều."
+    ]
+  },
+  {
+    "question":"Câu 45. Nếu mật độ cá thể của 1 quần thể động vật tăng lên quá cao, nguồn sống của môi trường không đủ cung cấp cho mọi cá thể trong quần thể thì thường dẫn tới làm tăng",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "A. Mức nhập cư.",
+      "B. Kích thước quần thể.",
+      "C. Mức sinh sản.",
+      "D. Mức cạnh tranh.\n"
+    ]
+  },
+  {
+    "question":"Câu 46. Giả sử kết quả khảo sát về diện tích khu phân bố (tính theo m2) và kích thước quần thể (tính theo số lượng cá thể) của 4 quần thể sinh vật cùng loài ở cùng một thời điểm như sau:\n Xét tại thời điểm khảo sát, mật độ cá thể của quần thể nào trong 4 quần thể trên là cao nhất?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":"\/quizzes\/Sinh B21\/21_TN_46.png",
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "A. Quần thể I.",
+      "B. Quần thể III.",
+      "C. Quần thể II.",
+      "D. Quần thể IV."
+    ]
+  },
+  {
+    "question":"Câu 47. Những đặc trưng của quần thể giao phối là:\n(1) Tỉ lệ giới tính.\n(2) Cấu trúc nhóm tuổi.\n(3) Sự đa dạng về thành phần loài.\n(4) Đặc trưng về mối quan hệ dinh dưỡng giữa các loài.\n(5) Kiểu phân bố.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "A. (1), (2), (5)",
+      "B. (1), (2), (4)\t",
+      "C. (2), (3), (4)",
+      "D. (2), (4), (5)\n"
+    ]
+  },
+  {
+    "question":"Câu 48. Ban ngày tảo ở biển được chiếu sáng, sinh sản tăng, dẫn đến số lượng cá thể trong quần thể tăng. Nhưng khi về đêm số lượng cá thể trong quần thể giảm xuống. Ví dụ trên đề cập đến hiện tượng:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":48,
+    "choices":[
+      "A. Nhịp sinh học theo chu kì ngày đêm.",
+      "B. Biến động số lượng theo chu kì ngày đêm.\n",
+      "C. Biến động số lượng không theo chu kì.\n",
+      "D. Thường biến."
+    ]
+  },
+  {
+    "question":"Câu 49. Phát biểu đúng về cấu trúc tuổi của quần thể trẻ là",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":49,
+    "choices":[
+      "A. Đáy tháp rộng, nhóm tuổi trước sinh sản chiếm tỉ lệ cao.",
+      "B. Đáy tháp hẹp, nhóm tuổi đang sinh sản nhiều hơn nhóm tuổi trước sinh sản.\n",
+      "C. Đáy tháp rộng, cạnh tháp có chiều thẳng đứng.\n",
+      "D. Đáy tháp rộng vừa phải, tỉ lệ sinh cân bằng với tỉ lệ tử vong."
+    ]
+  },
+  {
+    "question":"Câu 50. Quần thể ruồi nhà thường xuất hiện nhiều vào mùa hè trong năm, còn vào thời gian khác thì hầu như giảm hẳn. Quần thể này:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":50,
+    "choices":[
+      "A. Biến động số lượng theo chu kì năm.\n",
+      "B. Không phải biến động số lượng.\n",
+      "C. Biến động số lượng theo chu kì mùa.\n",
+      "D. Biến động số lượng không theo chu kì.\n"
+    ]
+  },
+  {
+    "question":"Câu 51. Nguyên nhân của hiện tượng biến động số lượng theo chu kì là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":51,
+    "choices":[
+      "A. Do mỗi năm lại có sự thay đổi của các loại dịch bệnh tấn công sinh vật.\n",
+      "B. Do những thay đổi có tính chu kì của môi trường\t.\n",
+      "C. Do những thay đổi có tính chu kì xảy ra hàng năm.\n",
+      "D. Do hoạt động của thiên tai.\n"
+    ]
+  },
+  {
+    "question":"Câu 52. Kiểu phân bố nào phổ biến nhất trong tự nhiên:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":52,
+    "choices":[
+      "A. Phân bố ngẫu nhiên",
+      "B. Phân bố theo nhóm",
+      "C. Phân bố đồng đều",
+      "D. Phân bố theo độ tuổi\n"
+    ]
+  },
+  {
+    "question":"Câu 53. Hiện tượng nào sau đây phản ánh dạng biến động số lượng cá thể của quần thể sinh vật không theo chu kì?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":53,
+    "choices":[
+      "A. Ở miền Bắc Việt Nam, số lượng ếch nhái giảm vào những năm có mùa đông giá rét, nhiệt độ xuống dưới 8 độ C.",
+      "B. Ở Việt Nam, hàng năm vào thời gian thu hoạch lúa, ngô… Chim cu gáy thường xuất hiện nhiều.",
+      "C. Ở đồng rêu phương Bắc, cứ 3 năm đến 4 năm, số lượng cáo lại tăng lên gấp 100 lần và sau đó lại giảm.",
+      "D. Ở Việt Nam, vào mùa xuân khi hậu ấm áp, sâu hại thường xuất hiện nhiều."
+    ]
+  },
+  {
+    "question":"Câu 54. Hãy sắp xếp lại thứ tự theo kích thước quần thể lớn dần của các loài sau đây: Chó sói, chuột cống, bọ dừa, nhái bén, voi, thỏ?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":54,
+    "choices":[
+      "A. Bọ dừa, nhái bén, chuột cống, thỏ, chó sói, voi.\n",
+      "B. Voi, thỏ, chó sói, chuột cống, nhái bén, bọ dừa.\n",
+      "C. Nhái bén, chuột cống, bọ dừa, chó sói, thỏ, voi.\n",
+      "D. Voi, chó sói, thỏ, chuột cống, nhái bén, bọ dừa.\n"
+    ]
+  },
+  {
+    "question":"Câu 55. Nói về kích thước quần thể, ý nào sau đây không đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":55,
+    "choices":[
+      "A. Kích thước quần thể có 2 cực trị.\n",
+      "B. Kích thước tối đa của quần thể đạt được khi cân bằng sức chứa với môi trường.\n",
+      "C. Kích thước tối thiểu là số lượng cá thể mà ở đó đủ để quần thể tồn tại.\n",
+      "D. Kích thước tối đa mang đặc tính của loài.\n"
+    ]
+  },
+  {
+    "question":"Câu 56. Cho các nguyên nhân sau đây:\n(1) Xảy ra giao phối cận huyết.\n(2) Thiếu sự hỗ trợ, kiếm ăn và tự vệ không tốt.\n(3) Sinh sản nhanh, dẫn đến thiếu thức ăn, chỗ ở, xuất hiện dịch bệnh.\n(4) Cơ hội gặp nhau giữa các cá thể đực và cái ít, làm giảm khả năng sinh sản.\nSố nguyên nhân mà nếu kích thước quần thể dưới mức tối thiểu sẽ dẫn đến diệt vong?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":56,
+    "choices":[
+      1,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "question":"Câu 57: Cho hình ảnh. \nMột số nhận xét được đưa ra như sau\n1. Đường cong tăng trưởng theo tiềm năng sinh học có dạng chữ J.\n2. Trong điều kiện môi trường lý tưởng thì mức sinh sản là tối đa và mức tử vong là tối thiểu, do đó sự tăng trưởng đạt tối đa.\n3. Trong điều kiện môi trường bị giới hạn, đường cong tăng trưởng có dạng chữ J.\n4. Sự tăng trưởng kích thước quần thể của các loài trong thực tế bị giới hạn bởi các nhân tố môi trường. Do đó, quần thể chỉ đạt được số lượng tối đa, cân bằng với sức chịu đựng của môi trường.\nTrong số những nhận xét trên, có bao nhiêu nhận xét sai?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":"\/quizzes\/Sinh B21\/21_TN_57.png",
+    "explanation":null,
+    "id":57,
+    "choices":[
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question":"Câu 58. Dạng biến động số lượng cá thể nào sau đây thuộc dạng không theo chu kỳ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":58,
+    "choices":[
+      "Nhiệt độ tăng đột ngột làm sâu bọ trên đồng cỏ chết hàng loạt.",
+      "Trung bình khoảng 7 năm cá cơm ở vùng biển Peru chết hàng loạt.",
+      "Số lượng tảo trên mặt nước Hồ Gươm tăng cao vào ban ngày, giảm vào ban đêm",
+      "Muỗi xuất hiện nhiều vào mùa mưa, giảm vào mùa khô."
+    ]
+  },
+  {
+    "question":"Câu 59. Nhân tố nào là nhân tố hữu sinh gây biến động số lượng cá thể của quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":59,
+    "choices":[
+      "Khí hậu",
+      "Sự cạnh tranh giữa các cá thể trong đêm",
+      "Lũ lụt",
+      "Nhiệt độ xuống quá thấp"
+    ]
+  },
+  {
+    "question":"Câu 60. Khi nào quần thể cần điều chỉnh số lượng cá thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":60,
+    "choices":[
+      "Khi số lượng cá thể tăng lên quá cao hoặc giảm xuống quá thấp",
+      "Khi quần thể ở trạng thái cân bằng",
+      "Khi có biến động di truyền",
+      "Quần thể không thể điều chỉnh số lượng cá thể được"
+    ]
+  },
+  {
+    "question":"Câu 61. Vì sao nói: “Trong tự nhiên, quần thể sinh vật có xu hướng điều chỉnh số lượng cá thể của mình ở mức cân bằng”?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":61,
+    "choices":[
+      "Vì mật độ cá thể của quần thể có ảnh hưởng đến mức độ sử dụng nguồn sống trong môi trường",
+      "Vì mật độ cá thể của quần thể có ảnh hưởng đến mức độ sử dụng nguồn sống trong môi trường, tới mức độ sinh sản và tử vong của cá thể",
+      "Vì mật độ cá thể của quần thể không ảnh hưởng đến mức độ sử dụng nguồn sống trong môi trường, tới mức độ sinh sản và tử vong của cá thể",
+      "Vì mật độ cá thể của quần thể không ảnh hưởng tới mức độ sinh sản và tử vong của cá thể"
+    ]
+  },
+  {
+    "question":"Câu 62. Khả năng tự điều chỉnh số lượng cá thể khi số cá thể của quần thể tăng quá cao hoặc giảm xuống quá thấp được gọi là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":62,
+    "choices":[
+      "Khống chế sinh học",
+      "Trạng thái cân bằng của quần thể",
+      "Cân bằng sinh học",
+      "Biến động số lượng cá thể của quần thể"
+    ]
+  },
+  {
+    "question":"Câu 1. Cho các tập hợp sinh vật sau\nCác tập hợp sinh vật trên là quần thể đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":63,
+    "choices":[
+      "a) Những con cá cùng sống trong một con sông.",
+      "b) Những con ong vò vẽ cùng làm tổ trên cây.",
+      "c) Những con chuột cùng sống trong một đám lúa.",
+      "d) Những cây bạch đàn cùng sống trên một sườn đồi."
+    ]
+  },
+  {
+    "question":"Câu 2. Dưới dây là những đặc điểm của quần thể sinh vật:\nCác đặc điểm trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":64,
+    "choices":[
+      "a) Quần thể là tập hợp các cá thể cùng loài.",
+      "b) Các cá thể trong quần thể có khả năng giao phối với nhau.",
+      "c) Các cá thể trong quần thể có kiểu gen hoàn toàn giống nhau.",
+      "d) Quần thể có khu phân bố rộng, giới hạn bởi các chướng ngại của thiên nhiên như sông núi, eo biển."
+    ]
+  },
+  {
+    "question":"Câu 3. Các ví dụ sau đây là biểu hiện của quan hệ cạnh tranh trong quần thể là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":65,
+    "choices":[
+      "a) Bồ nông xếp thành hàng để bắt được nhiều cá hơn.",
+      "b) Các cây bạch đàn mọc dày khiến khiến nhiều cây bị còi cọc và chết dần.",
+      "c) Linh dương và bò rừng cùng ăn cỏ trên một thảo nguyên.",
+      "d) Cá mập con sử dụng trứng chưa nở làm thức ăn."
+    ]
+  },
+  {
+    "question":"Câu 4. Phát biểu sau đây về mối quan hệ giữa các cá thể trong quần thể là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":66,
+    "choices":[
+      "a) Hiện tượng ăn thịt đồng loại luôn dẫn đến sự diệt vong của loài.",
+      "b) Quan hệ hỗ trợ giúp quần thể thích nghi tốt hơn với môi trường,",
+      "c) Quan hệ cạnh tranh có thể xảy ra ở các quần thể thực vật.",
+      "d) Sự cạnh tranh trong quần thể chỉ xảy ra khi môi trường thiếu thức ăn."
+    ]
+  },
+  {
+    "question":"Câu 5. Hiện tượng sau đây thuộc quan hệ cạnh tranh cùng loài là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":67,
+    "choices":[
+      "a) Tự tỉa cành ở thực vật.",
+      "b) Ăn thịt đồng loại.",
+      "c) Quan hệ cộng sinh.",
+      "d) Ức chế cảm nhiễm."
+    ]
+  },
+  {
+    "question":"Câu 6. Cho ví dụ: cây sống theo nhóm chịu đựng bão và hạn chế thoát hơi nước tốt hơn cây sống riêng rẽ.\nCác hiện tượng dưới đây tương tự với ví dụ trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":68,
+    "choices":[
+      "a) Nhiều con quạ cùng loài tranh nhau xác một con thú.",
+      "b) Hổ đuổi bắt một bầy sơn dương.",
+      "c) Một con linh cẩu không hạ được một con trâu rừng nhưng nhiều con thì được.",
+      "d) Nhiều con báo cùng ăn thịt một con nai rừng."
+    ]
+  },
+  {
+    "question":"Câu 7. Khi nói về kích thước quần thể sinh vật, các phát biểu sau đây là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":69,
+    "choices":[
+      "a) Nếu kích thước quần thể xuống dưới mức tối thiểu, quần thể dễ rơi vào trạng thái suy giảm dẫn tới diệt vong.",
+      "b) Kích thước quần thể dao động từ giá trị tối thiểu tới giá trị tối đa và sự dao động này là khác nhau giữa các loài.",
+      "c) Kích thước quần thể (tính theo số lượng cá thể) luôn tỉ lệ thuận với kích thước của cá thể trong quần thể.",
+      "d) Nếu kích thước quần thể vượt quá mức tối thiểu thì cạnh tranh giữa các cá thể trong quần thể tăng cao"
+    ]
+  },
+  {
+    "question":"Câu 8. Những đặc trưng của quần thể giao phối dưới đây là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":70,
+    "choices":[
+      "a) Tỉ lệ giới tính.",
+      "b) Cấu trúc nhóm tuổi.",
+      "c) Sự đa dạng về thành phần loài.",
+      "d) Đặc trưng về mối quan hệ dinh dưỡng giữa các loài."
+    ]
+  },
+  {
+    "question":"Câu 9. Các đặc điểm về kiểu phân bố đều của các cá thể trong quần thể sau là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":71,
+    "choices":[
+      "a) Các cá thể không tập hợp thành từng nhóm.",
+      "b) Xuất hiện phổ biến trong tự nhiên.",
+      "c) Xảy ra khi điều kiện sống phân bố đồng đều trong môi trường.",
+      "d) Xảy ra ở các quần thể chim cánh cụt, dã tràng, hươu, nai."
+    ]
+  },
+  {
+    "question":"Câu 10. Cho các phát biểu sau\nCác phát biểu trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":72,
+    "choices":[
+      "a) Người ta ứng dụng quan hệ hỗ trợ giữa các cá thể của quần thể trong việc phòng hộ, chắn cát.",
+      "b) Người ta ứng dụng mối quan hệ cạnh tranh giữa các cá thể của quần thể trong cả chăn nuôi và trồng trọt.",
+      "c) Các cây thông trong rừng thông, đàn bò rừng, các loài cây gỗ sống trong rừng có các kiểu phân bố cùng là phân bố theo nhóm.",
+      "d) Đặc điểm được xem là cơ bản nhất đối với quần thể là các cá thể cùng sinh sống trong một khoảng không gian xác định."
+    ]
+  },
+  {
+    "question":"Câu 11. Hình ảnh sau diễn tả kiểu phân bố của cá thể trong quần thể. Các phát biểu trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3
+    ],
+    "image":"\/quizzes\/Sinh B21\/21_DS_11.png",
+    "explanation":null,
+    "id":73,
+    "choices":[
+      "Hình 1 là kiểu phân bố đồng đều, hình 2 là kiểu phân bố theo nhóm và hình 3 là kiểu phân bố ngẫu nhiên",
+      "Hình 3 là kiểu phân bố phổ biến nhất, thường gặp khi điều kiện sống phân bố không đồng đều trong môi trường.",
+      "Cây thông trong rừng thông hay chim hải âu làm tổ là một số ví dụ của kiểu phân bố được nói đến ở hình 1.",
+      "Hình 2 là kiểu phân bố thường gặp khi điều kiện sống được phân bố một cách đồng đều trong một môi trường và khi có sự cạnh tranh gay gắt giữa các cá thể trong quần thể."
+    ]
+  },
+  {
+    "question":"Câu 12. Hình ảnh sau diễn tả kiểu phân bố của cá thể trong quần thể. Các phát biểu trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":"\/quizzes\/Sinh B21\/21_DS_12.png",
+    "explanation":null,
+    "id":74,
+    "choices":[
+      "a) Hình 2 là kiểu phân bố giúp sinh vật tân dụng được nguồn sống tiềm tàng trong môi trường.",
+      "b) Hình 3 là kiểu phân bố giúp các cá thể hỗ trợ nhau chống lại điều kiện bất lợi của môi trường.",
+      "c) Nhóm cây bụi mọc hoang dại và đàn trâu rừng là một số ví dụ của kiểu phân bố được nói đến ở hình 3",
+      "d) Hình 1 là kiểu phân bố thường gặp khi điều kiện sống phân bố một cách đồng đều trong môi trường và khi giữa các cá thể trong quần thể không có sự cạnh tranh gay gắt."
+    ]
+  },
+  {
+    "question":"Câu 13. Cho các nhận xét sau. Các nhận xét trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":75,
+    "choices":[
+      "a) Tỉ lệ giới tính của quần thể là đặc trưng quan trọng đảm bảo hiệu quả sinh sản của quần thể trong điều kiện môi trường thay đổi.",
+      "b) Tuổi sinh lí là thời gian sống thực tế của cá thể.",
+      "c) Tuổi sinh thái là thời gian sống có thể đạt tới của một cá thể trong quần thể.",
+      "d) Mật độ cá thể của quần thể không cố định mà thay đổi theo mùa, năm hoặc tùy điều kiện môi trường sống."
+    ]
+  },
+  {
+    "question":"Câu 14. Nếu kích thước của quần thể xuống dưới mức tối thiểu, quần thể dễ rơi vào trạng thái suy giảm dẫn tới diệt vong. Xét các nguyên nhân sau đây. Các nhận xét trên là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":76,
+    "choices":[
+      "a) Số lượng cá thể quá ít nên sự giao phối gần thường xảy ra, đe dọa sự tồn tại của quần thể.",
+      "b) Sự hỗ trợ giữa các cá thể bị giảm, quần thể không có khả năng chống chọi với những thay đổi của môi trường.",
+      "c) Khả năng sinh sản giảm do cá thể đực ít có cơ hội gặp nhau với cá thể cái.",
+      "d) Sự cạnh tranh cùng loài làm giảm số lượng cá thể của loài dẫn tới diệt vong."
+    ]
+  }
+]

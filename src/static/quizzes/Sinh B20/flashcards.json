@@ -1,0 +1,58 @@
+[
+  {
+    "question":"Câu 1. Cho các yếu tố\/cấu trúc\/sinh vật sau đây\n(1) Lớp lá rụng nền rừng\n(2) Cây phong lan bám trên thân cây gỗ\n(3) Đất\n(4) Hơi ấm\n(5) Chim làm tổ trên cây\n(6) Gió\n(7) Nước biển\n(8) Con người\nCó bao nhiêu yếu tố kể trên là yếu tố vô sinh?\n",
+    "type":"Open-Ended",
+    "answer":5,
+    "image":null,
+    "id":52,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 2. Trong các phát biểu sau, có bao nhiêu phát biểu đúng về các nhân tố sinh thái?\n(1) Khi tất cả các nhân tố sinh thái của môi trường đều nằm trong giới hạn sinh thái cho phép loài tồn tại và phát triển thì làm thành ổ sinh thái của loài đó.\n(2) Nhóm nhân tố sinh thái vô sinh gồm tất cả các nhân tố vật lý, hóa học và sinh học trong môi trường xung quanh sinh vật.\n(3) Nhóm nhân tố sinh thái hữu sinh bao gồm thế giới hữu cơ của môi trường và mối quan hệ giữa sinh vật với sinh vật.\n(4) Trong nhóm nhân tố sinh thái hữu sinh, nhân tố con người có ảnh hưởng lớn tới đời sống của nhiều sinh vật\n",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":53,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 3. Cho các nội dung sau:\n(1) Các loài sinh vật phản ứng khác nhau đối với nhiệt độ môi trường.\n(2) Động vật hằng nhiệt có vùng phân bố rộng hơn động vật biến nhiệt.\n(3) Chỉ có động vật mới phản ứng với nhiệt độ môi trường còn thực vật thì không phản ứng.\n(4) Động vật biến nhiệt có khả năng thay đổi nhiệt độ cơ thể theo nhiệt độ môi trường nên có khả năng thích nghi hơn so với động vật hằng nhiệt.\n(5) Nhiệt độ không ảnh hưởng đến lượng thức ăn và tốc độ tiêu hóa của sinh vật.\nCó bao nhiêu nội dung đúng?\n",
+    "type":"Open-Ended",
+    "answer":2,
+    "image":null,
+    "id":54,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 4. Cá rô phi Việt Nam có giới hạn sinh thái về nhiệt độ từ 5,60C đến 420C. Giới hạn trên về nhiệt độ ở cá Rô Phi là bao nhiêu?",
+    "type":"Open-Ended",
+    "answer":42,
+    "image":null,
+    "id":55,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 5. Con người đã ứng dụng những hiểu biết về ổ sinh thái vào bao nhiêu hoạt động sau đây?\n(1) Trồng xen các loại cây ưa bóng và cây ưa sáng trong cùng một khu vườn .\n(2) Khai thác vật nuôi ở độ tuổi càng nhỏ để thu được năng suất càng cao.\n(3) Trồng các loài cây đúng thời vụ.\n(4) Nuôi ghép các loài cá ở các tầng nước khác nhau trong cùng một ao nuôi.",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":56,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 6. Có bao nhiêu phát biểu sau đây đúng về ổ sinh thái của các loài?\n(1) Ổ sinh thái của một loài biểu hiện cách sinh sống còn nơi ở chỉ nơi cư trú.\n(2) Chim ăn sâu và chim ăn hạt sống trên cùng một cây thì có cùng nơi ở nhưng ổ sinh thái khác nhau.\n(3) Cạnh tranh là một trong những nguyên nhân chủ yếu dẫn đến sự hình thành các ổ sinh thái.\n(4) Nhờ có sự phân hoá ổ sinh thái nên giảm bớt sự cạnh tranh về thức ăn và nơi ở.\n",
+    "type":"Open-Ended",
+    "answer":4,
+    "image":null,
+    "id":57,
+    "answerimage":null
+  },
+  {
+    "question":"Câu 7. Bao nhiêu sinh vật sau đây không thuộc nhóm sinh vật biến nhiệt?\nI. Vi sinh vật\tII. Chim\nIII. Con người\tIV. Thực vật\nV. Thú\tVI. Ếch nhái, bò sát\n",
+    "type":"Open-Ended",
+    "answer":3,
+    "image":null,
+    "id":58,
+    "answerimage":null
+  }
+]

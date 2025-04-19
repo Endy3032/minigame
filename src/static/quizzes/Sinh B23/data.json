@@ -1,0 +1,1265 @@
+[
+  {
+    "question":"Câu 1. Quần xã sinh vật là:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "Tập hợp các quần thể sinh vật cùng loài, cùng sống trong một không gian nhất định, giữa chúng có mối quan hệ chặt chẽ với nhau và với môi trường, tạo thành một cấu trúc tương đối ổn định, có khả năng tự điều chỉnh.",
+      "Tập hợp các cá thể sinh vật khác loài, cùng sống trong một không gian nhất định, giữa chúng có mối quan hệ chặt chẽ với nhau và với môi trường, tạo thành một cấu trúc tương đối ổn định, có khả năng tự điều chỉnh.",
+      "Tập hợp các quần thể sinh vật khác loài, cùng sống trong một không gian nhất định, giữa chúng có mối quan hệ chặt chẽ với nhau và với môi trường, tạo thành một cấu trúc tương đối ổn định, có khả năng tự điều chỉnh.",
+      "Tập hợp toàn bộ các sinh vật trong tự nhiên, cùng sống trong một không gian nhất định, giữa chúng có mối quan hệ chặt chẽ với nhau và với môi trường, tạo thành một cấu trúc tương đối ổn định, có khả năng tự điều chỉnh."
+    ]
+  },
+  {
+    "question":"Câu 2. Đặc điểm có ở quần xã mà không có ở quần thể sinh vật là:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "Có số cá thể cùng một loài",
+      "Cùng phân bố trong một khoảng không gian xác định",
+      "Tập hợp các quần thể thuộc nhiều loài sinh vật",
+      "Xảy ra hiện tượng giao phối và sinh sản"
+    ]
+  },
+  {
+    "question":"Câu 3. Điểm giống nhau giữa quần xã sinh vật và quần thể sinh vật là:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "Tập hợp nhiều quần thể sinh vật",
+      "Tập hợp nhiều cá thể sinh vật",
+      "Gồm các sinh vật trong cùng một loài",
+      "Gồm các sinh vật khác loài"
+    ]
+  },
+  {
+    "question":"Câu 4. Ý nào sau đây là không đúng khi nói về quần xã sinh vật?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "Quần xã sinh vật có cấu trúc động",
+      "Trong lòng mỗi quần xã thường xuyên xảy ra các mối quan hệ: hỗ trợ, đối địch.",
+      "Cấu trúc thường gặp của quần xã sinh vật là kiểu phân tầng nằm ngang",
+      "Khi điều kiện môi trường thuận lợi thì quần xã có nhiều quần thể khác nhau cùng tồn tại."
+    ]
+  },
+  {
+    "question":"Câu 5. Khi nói về quần xã sinh vật, phát biểu nào sau đây là không đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "Các quần xã thường khác nhau về số lượng loài trong sinh cảnh mà chúng cư trú.",
+      "Rừng cây ngập mặn vườn quốc gia Xuân Thủy, Nam Định là một quần xã.",
+      "Quần xã là tập hợp các quần thể sinh vật cùng loài sống trong một không gian xác định, ở đó chúng có quan hệ chặt chẽ với nhau và với môi trường để tồn tại và phát triển ổn định theo thời gian.",
+      "Các loài sinh vật trong quần xã thường phân bố thành nhiều tầng theo chiều thẳng đứng hoặc tập trung ở những nơi thuận lợi theo mặt phẳng ngang."
+    ]
+  },
+  {
+    "question":"Câu 6. Tập hợp nào sau đây không phải là quần xã sinh vật?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "Một khu rừng",
+      "Một hồ tự nhiên",
+      "Một đàn chuột đồng",
+      "Một ao cá"
+    ]
+  },
+  {
+    "question":"Câu 7. Thành phần không thuộc quần xã là",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "Sinh vật phân giải",
+      "Sinh vật tiêu thụ.",
+      "Sinh vật sản xuất.",
+      "Xác sinh vật, chất hữu cơ.\n"
+    ]
+  },
+  {
+    "question":"Câu 8. Quần xã sinh vật có những dấu hiệu điển hình nào?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "Số lượng các loài trong quần xã\n",
+      " Thành phần loài trong quần xã",
+      "Số lượng các cá thể của từng loài trong quần xã\n",
+      "Số lượng và thành phần loài trong quần xã\n"
+    ]
+  },
+  {
+    "question":"Câu 9. Rừng mưa nhiệt đới là: \n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "Một loài",
+      "Một quần thể",
+      "Một giới",
+      "Một quần xã\n"
+    ]
+  },
+  {
+    "question":"Câu 10. Đặc trưng nào sau đây là của quần xã sinh vật?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "Mật độ cá thể",
+      "Kiểu tăng trưởng.",
+      "Nhóm tuổi.",
+      "Thành phần loài."
+    ]
+  },
+  {
+    "question":"Câu 11. Đặc điểm nào sau đây không phải là đặc trưng cơ bản của quần xã?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "Thành phần loài của quần xã biểu thị qua nhóm các loài ưu thế, loài đặc trưng, số lượng cá thể của mỗi loài",
+      "Quan hệ của các loài luôn đối kháng\n",
+      "Sự phân bố cá thể trong không gian của quần xã theo chiều thẳng đứng và chiều ngang.\n",
+      "Giữa các nhóm loài có quan hệ về mặt dinh dưỡng, trong quần xã các cá thể chia thành các nhóm: sinh vật sản xuất, sinh vật tiều thụ và sinh vật phân giải.\n"
+    ]
+  },
+  {
+    "question":"Câu 12. Khi nói về độ đa dạng của quần xã sinh vật, phát biểu nào sau đây đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "Các quần xã sinh vật khác nhau nhưng có độ đa dạng giống nhau.\n",
+      "Số lượng loài trong quần xã là một chỉ tiêu biểu thị độ đa dạng của quần xã đó.\n",
+      "Quần xã có độ đa dạng cao khi có số lượng loài lớn và số cá thể của mỗi loài thấp.\n",
+      "Mức độ đa dạng của quần xã không biểu thị sự ổn định hay suy thoái của quần xã.\n"
+    ]
+  },
+  {
+    "question":"Câu 13. Trong quần xã sinh vật, loài có số lượng cá thể nhiều và hoạt động mạnh được gọi là.",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "Loài đặc trưng",
+      "Loài đặc hữu",
+      " Loài ưu thế",
+      "Loài ngẫu nhiên"
+    ]
+  },
+  {
+    "question":"Câu 14. Trong các hệ sinh thái trên cạn, loài ưu thế thường thuộc về",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "giới động vật",
+      "giới thực vật",
+      "giới nấm",
+      "giới nhân sơ (vi khuẩn)"
+    ]
+  },
+  {
+    "question":"Câu 15. Cho các nhóm sinh vật sau:\n(1) Thực vật có hạt trong các quần xã trên cạn\n(2) Cây tràm trong quần xã rừng U Minh\n(3) Bò rừng Bizông sống trong các quần xã ở đồng cỏ Bắc Mĩ\n(4) Cây cọ trong quần xã vùng đồi Phú Thọ\n(5) Cây lau, cây lách thường gặp trong các quần xã rừng mưa nhiệt đới\nDạng sinh vật nào thuộc loài ưu thế?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "(5)",
+      "(1), (3) và (5)",
+      "(2), (4) và (5)",
+      "(1) và (3)\n"
+    ]
+  },
+  {
+    "question":"Câu 16. Trong quần xã loài ưu thế là loài:",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      "Có số lượng ít nhất trong quần xã",
+      " Có số lượng nhiều trong quần xã",
+      "Phân bố nhiều nơi trong quần xã",
+      "Có vai trò quan trọng trong quần xã"
+    ]
+  },
+  {
+    "question":"Câu 17. Số lượng các loài trong quần xã thể hiện chỉ số nào sau đây:",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "Độ nhiều, độ đa dạng, độ tập trung",
+      "Độ đa dạng, độ thường gặp, độ tập trung",
+      "Độ thường gặp, độ nhiều, độ tập trung",
+      "Độ đa dạng, độ thường gặp, độ nhiều"
+    ]
+  },
+  {
+    "question":"Câu 18. Chỉ số thể hiện mật độ cá thể của từng loài trong quần xã là:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      "Độ đa dạng",
+      " Độ nhiều",
+      "Độ thường gặp",
+      "Độ tập trung"
+    ]
+  },
+  {
+    "question":"Câu 19. Chỉ số thể hiện tỉ lệ % số địa điểm bắt gặp một loài trong tổng số địa điểm quan sát ở quần xã là:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "A. Độ đa dạng",
+      "B. Độ nhiều        ",
+      "C. Độ thường gặp",
+      "D. Độ tập trung"
+    ]
+  },
+  {
+    "question":"Câu 20. Các sinh vật trong quần xã phân bố",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "\tA. Theo chiều thẳng đứng và chiều ngang.",
+      "\tB. Đồng đều và theo nhóm.",
+      "\tC. Ngẫu nhiên và đồng đều.",
+      "\tD. Theo chiều thẳng đứng và theo nhóm."
+    ]
+  },
+  {
+    "question":"Câu 21. Nguyên nhân dẫn tới sự phân tầng trong quần xã",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "\tA. Do sự phân bố các nhân tố sinh thái không giống nhau, đồng thời mỗi loài thích nghi với các điều kiện sống khác nhau",
+      "\tB. Để tăng khả năng sử dụng nguồn sống, do các loài có nhu cầu ánh sáng khác nhau.",
+      "\tC. Để tiết kiệm diện tích, do các loài có nhu cầu nhiệt độ khác nhau và tăng không gian phân bố của các cá thể sinh vật.",
+      "\tD. Để giảm sự cạnh tranh nguồn sống, tiết kiệm diện tích và tạo ra sự giao thoa ổ sinh thái giữa các quần thể sinh vật."
+    ]
+  },
+  {
+    "question":"Câu 22. Thảm thực vật của rừng mưa nhiệt đới được phân thành 4 tầng như sau:\n(1) Tầng thảm xanh\n(2) Tầng tán rừng\n(3) Tầng vượt tán\n(4) Tầng dưới tán rừng\nThứ tự nào sau đây của các tầng nêu trên là đúng, nếu tính từ dưới lên?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "A. (2)-(1)-(3)-(4)\t",
+      "B. (1)-(4)-(2)-(3)",
+      "C. (3)-(2)-(1)-(4)",
+      "D. (1)-(2)-(3)-(4)"
+    ]
+  },
+  {
+    "question":"Câu 23. Sự phân tầng theo phương thẳng đứng trong quần xã sinh vật có ý nghĩa gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":23,
+    "choices":[
+      "\tA. Tăng hiệu quả sử dụng nguồn sống, tăng sự canh tranh giữa các quần thể.",
+      "\tB. Giảm mức độ canh tranh giữa các loài, giảm khả năng tận dụng nguồn sống.",
+      "\tC. Giảm khả năng tận dụng nguồn sống, tăng sự canh tranh giữa các quần thể.",
+      "\tD. Giảm mức độ canh tranh giữa các loài, nâng cao hiệu quả sử dụng nguồn sống."
+    ]
+  },
+  {
+    "question":"Câu 24. Khi nói về độ đa dạng của quần xã sinh vật, kết luận nào sau đây không đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "\tA. Độ đa dạng của quần xã phụ thuộc vào điều kiện sống của môi trường.",
+      "\tB. Mức độ đa dạng của quần xã biểu thị sự ổn định hay suy thoái của quần xã.",
+      "\tC. Quần xã có độ đa dạng càng cao thì thành phần loài càng dễ bị biến động.",
+      "\tD. Độ đa dạng của quần xã càng cao thì sự phân hóa ổ sinh thái càng mạnh."
+    ]
+  },
+  {
+    "question":"25. Câu 25. Trong 1 ao nuôi cá, người ta thường nuôi ghép các loài cá sống ở các tầng nước khác nhau. Kĩ thuật nuôi ghép này đem lai bao nhiêu lợi ích sau đây?\n(1) Tận dụng diện tích ao nuôi.\n(2) Có thể tiết kiệm chi phí sản xuất.\n(3) Tận dụng nguồn sống của môi trường.\n(4) Rút ngắn thời gian sinh trưởng của tất cả các loại cá trong ao.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "A. 4   \n",
+      "B. 3  \n",
+      "C. 2        \n",
+      "D. 1\n"
+    ]
+  },
+  {
+    "question":"26. Sự phân bố theo chiều thẳng đứng của nhiều tầng cây trong rừng thể hiện:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "A. Tận dụng diện tích rừng và tận dụng triệt để nguồn thức ăn trong rừng.\n        ",
+      "B. Sự thích nghi của thực vật với điều kiện chiếu sáng khác nhau.\n\t\n",
+      " C. Sự thích nghi của thực vật với điều kiện độ ẩm khác nhau.\n       \n",
+      " D. Sự hỗ trợ nhau của các loài cây để cùng nhau lấy được nhiều chất dinh dưỡng và khoáng chất."
+    ]
+  },
+  {
+    "question":"27. Vùng chuyển tiếp giữa các quần xã thường có số lượng loài phong phú là do:\n        ",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "A. Môi trường thuận lợi.",
+      "B. Sự định cư của các quần thể tới vùng đệm.",
+      "C. Ngoài các loài vùng rìa còn có những loài đặc trưng.\n       ",
+      " D. Diện tích rộng."
+    ]
+  },
+  {
+    "question":"28. Khi đi từ mặt đất lên đỉnh núi cao hay đi từ mặt nước xuống vùng sâu của đại dương thì số lượng loài và số lượng cá thể mỗi loài:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "A. Đều giảm.      ",
+      "B. Đều tăng.\n",
+      "C. Số lượng loài giảm, cá thể mỗi loài tăng.     ",
+      " D. Số lượng loài tăng, cá thể mỗi loài giảm.\n"
+    ]
+  },
+  {
+    "question":"29. Trong quần xã có tối thiểu:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "A. 2 loài.",
+      "B. 1 loài.",
+      "C. 3 loài.",
+      "D. Nhiều loài."
+    ]
+  },
+  {
+    "question":"30. Cho các nhận xét sau:\n(1) Các tầng cây trong rừng mưa nhiệt đới thường phân thành 5 tầng.\n(2) Trong tự nhiên, sự phân bố cá thể theo chiều dọc thường ưu thế hơn so với chiều ngang.\n(3) Sự phân tầng của thực vật kéo theo sự phân tầng của động vật.\n(4) Phân bố từ đỉnh núi, sườn núi, tới chân núi là sự phân bố theo chiều dọc.\n(5) Sinh vật phân bố theo chiều ngang thường tập trung tại những nơi có điều kiện sống thuận lợi. \nCó bao nhận xét đúng khi nói về quần xã sinh vật?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "A. 1\t\n",
+      "B. 2\t\n",
+      "C. 3\n",
+      "D. 4\n"
+    ]
+  },
+  {
+    "question":"Câu 31. Theo một nghiên cứu cho thấy, sự phân tầng của loài tảo biển tùy theo độ sâu có sự khác nhau. Trên bề mặt nông, người ta tìm thấy loài tảo lục là nhiều nhất, xuống càng sâu, thì tỷ lệ tìm thấy các loài tảo khác tăng lên, như 10m - 40m người ta tìm thấy nhiều tảo nâu, 60m ~ 100m tảo đỏ là loài có số lượng nhiều nhất. Nhận xét nào đúng về nghiên cứu trên?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "A. Đây là sự phân tầng theo chiều chéo của quần xã sinh vật.",
+      "B. Đây là sự phân tầng theo chiều dọc của quần xã sinh vật.",
+      "C. Đây là sự phân tầng theo chiều ngang của quần xã sinh vật.",
+      "D. Tất cả đều sai."
+    ]
+  },
+  {
+    "question":"Câu 32. Cho các dạng sinh vật sau:\n(1) Những con ếch sống trong các ao, hồ.\n(2) Một đám ruộng lúa.\n(3) Một ao cá nước ngọt.\n(4) Những loài sinh vật cùng sống trong một vườn bách thú.\n(5) Những loài sinh vật cùng sống trên một cây đại thụ.\n(6) Các loài sinh vật sống trong sa mạc.\n(7) Những cây phong lan được chăm sóc trong một vườn phong lan rộng lớn ở Đà Lạt.\n(8) Các loài sinh vật sống trong một cái ao và trên bờ ao.\n(9) Các loài sinh vật trong con sông Hồng.\nNhững dạng sinh vật nào là quần xã?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "A. 1,2,4,9.",
+      "B. 2,3,6,7.",
+      "C. 1,4,5,6.",
+      "D. 2,3,5,8."
+    ]
+  },
+  {
+    "question":"Câu 33. Để chia độ phong phú của các loài trong quần xã người ta dùng các kí hiệu: 0; +; ++; +++; ++++. Các kí hiệu trên được biểu thị lần lượt là:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "A. Không có; hiếm; nhiều; rất nhiều; quá nhiều.",
+      "B. Không có; hiếm; không nhiều; nhiều; rất nhiều.",
+      "C. Ít gặp; hiếm gặp; hay gặp; gặp nhiều; gặp rất nhiều.",
+      "D. Không có; rất hiếm; hiếm; nhiều; rất nhiều."
+    ]
+  },
+  {
+    "question":"Câu 34. Khi nói về độ đa dạng của quần xã, cho các kết luận như sau:\n(1) Quần xã có độ đa dạng càng cao thì cấu trúc càng đễ bị thay đổi.\n(2) Độ đa dạng của quần xã phụ thuộc vào điều kiện sống của môi trường.\n(3) Độ đa dạng của quần xã càng cao thì quần xã càng ổn định.\n(4) Độ đa dạng của quần xã càng cao thì sự phân hóa ổ sinh thái càng mạnh. \nSố phát biểu đúng là:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      3,
+      2,
+      1,
+      4
+    ]
+  },
+  {
+    "question":"Câu 35. Ốc sống dưới đáy hồ thuộc về:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "A. Quần thể sinh vật.",
+      "B. Quần xã sinh vật.",
+      "C. Đàn ốc.",
+      "D. Một nhóm hỗn hợp cũng không phải quần xã cũng không phải quần thể."
+    ]
+  },
+  {
+    "question":"Câu 36. Cho các nhóm sinh vật sau đây:\n(1) Thực vật có hạt trong các quần xã trên cạn\n(2) Cây tràm trong rừng xã quần U Minh\n(3) Bò rừng Bizong sống trong các đồng cỏ ở Bắc Mĩ\n(4) Cây cọ trong vùng đồi Vĩnh Phú\n(5) Cây Lim trong quần xã rừng Lim xã Hữu Lũng, tỉnh Lạng Sơn\n(6) Cây lau, lách thường gặp trong các quần xã mưa nhiệt đới \nCó bao nhiêu dạng sinh vật là loài đặc trưng?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "question":"Câu 37: Cho các phát biểu sau:\n(1) Nếu vì một lí do nào đó mà loài ưu thế bị mất đi thì loài sẽ thay thế là loài chủ chốt.\n(2) Loài ngẫu nhiên có vai trò thay thế cho một nhóm loài khác khi nhóm này suy vong vì một lí do nào đó.\n(3) Nhóm loài ưu thế là loài có vai trò kiểm soát và khống chế sự phát triển của các loài khác, duy trì sự ổn định của quần xã.\n(4) Nhóm loài ngẫu nhiên là nhóm loài có tần suất xuất hiện và độ phong phú thấp, nhưng sự có mặt của chúng lại làm tăng mức đa dạng cho quần xã.\n(5) Vai trò của nhóm loài chủ chốt là quyết định chiều hướng phát triển của quần xã.\n(6) Loài đặc trưng là loài chỉ có ở một vài quần xã, có thể có số lượng nhiều và có vai trò quan trọng so với các loài khác.\nNhững phát biểu đúng là:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "A. 2,6",
+      "B. 1, 3",
+      "C. 4, 6",
+      "D. 3, 5"
+    ]
+  },
+  {
+    "question":"Câu 38. Mức đa dạng của quần xã không phụ thuộc vào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "A. Sự cạnh tranh giữa các loài.",
+      "B. Kích thước cá thể của quần thể.",
+      "C. Mối quan hệ giữa con mồi và vật ăn thịt.",
+      "D. Mức độ thay đổi của các nhân tố vô sinh."
+    ]
+  },
+  {
+    "question":"Câu 39. Cho các dạng sinh vật sau:\n(1) Một tổ kiến càng.\n(2) Một đồng cỏ.\n(3) Một ao nuôi cá nước ngọt.\n(4) Một thân cây đổ lâu năm.\n(5) Các loài hổ khác nhau trong một thảo cầm viên. \nNhững dạng sinh vật được coi là quần xã sinh vật là:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "A. 1,2,4.",
+      "B. 1,3,5.",
+      "C. 2,3,4",
+      "D. 3,4,5."
+    ]
+  },
+  {
+    "question":"Câu 40. Loài chủ chốt trong rừng nhiệt đới là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "A. Thực vật",
+      "B. Giun đất",
+      "C. Hổ, báo, sư tử",
+      "D. Động vật ăn cỏ"
+    ]
+  },
+  {
+    "question":"Câu 41. Trong quần xã sinh vật đồng cỏ, loài chiếm ưu thế là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "A. cỏ bợ",
+      "B. trâu, bò",
+      "C. sâu ăn cỏ",
+      "D. bướm"
+    ]
+  },
+  {
+    "question":"Câu 42. Trong một ao cá, mối quan hệ có thể xảy ra khi hai loài cá có cùng nhu cầu thức ăn là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      "A. Vật ăn thịt con mồi",
+      "B. Ức chế - cảm nhiễm",
+      "C. Cạnh tranh",
+      "D. Kí sinh"
+    ]
+  },
+  {
+    "question":"Câu 43. Trong quần xã sinh vật, những mối quan hệ nào sau đây một loài được lợi và loài kia bị hại?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "\nA. Sinh vật này ăn sinh vật khác, ức chế cảm nhiễm\n",
+      "B. Kí sinh vật chủ, sinh vật này ăn sinh vật khác\n",
+      "\nC. Kí sinh vật chủ, ức chế cảm nhiễm\n",
+      "\nD. Ức chế cảm nhiễm, cạnh tranh\n"
+    ]
+  },
+  {
+    "question":"Câu 44. Quan hệ giữa hai loài sống chung với nhau, cả hai cùng có lợi và không nhất thiết phải xảy ra là:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "\nA. quan hệ hợp tác",
+      "B. quan hệ cộng sinh",
+      "C. quan hệ hội sinh",
+      "D. quan hệ kí sinh."
+    ]
+  },
+  {
+    "question":"Câu 45. Trong các mối quan hệ sau, có bao nhiêu mối quan hệ mà trong đó chỉ có 1 loài có lợi?\n(1) Cây tỏi tiết chất gây ức chế hoạt động của vi sinh vật ở môi trường xung quanh.\n(2) Cây tầm gửi sống trên thân cây gỗ.\n(3) Cây phong lan sống bám trên cây gỗ trong rừng\n(4) Cây nắp ấm bắt ruồi làm thức ăn\n(5) Cá ép sống bám trên cá lớn.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5\n"
+    ]
+  },
+  {
+    "question":"Câu 46. Sắp xếp các mối quan hệ sau theo nguyên tắc: Mối quan hệ chỉ có loài có lợi → Mối quan hệ có loài bị hại → Mối quan hệ có nhiều loài bị hại.\n(1) Tảo giáp nở hoa gây độc cho cá.\n(2) Chim mỏ đỏ và linh dương.\n(3) Cá ép sống bám cá lớn.\n(4) Cú và chồn.\n(5) Cây nắp ấm bắt ruồi.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "A. (2) → (3) → (5) → (4) → (1)\t",
+      "B. (2) → (1) → (5) → (3) → (4).\n",
+      "C. (2) → (3) → (5) → (1) → (4).",
+      "D. (3) → (2) → (5) → (1) → (4).\n"
+    ]
+  },
+  {
+    "question":"Trên một thảo nguyên, các con ngựa vằn mỗi khi di chuyển thường đánh động và làm các con côn trùng bay khỏi tổ. Lúc này các con chim diệc sẽ bắt các con côn trùng bay khỏi tổ làm thức ăn. Việc côn trùng bay khỏi tổ, cũng như việc chim diệc bắt côn trùng không ảnh hưởng gì đến ngựa vằn. Chim mỏ đỏ (một loài chim nhỏ) thường bắt ve bét trên lưng ngựa vằn làm thức ăn.\nKhi xác định các mối quan hệ (1), (2), (3), (4), (5), (6) giữa từng cặp loài sinh vật, có 6 kết luận dưới đây.\n(1) Quan hệ giữa ve bét và chim mỏ đỏ là mối quan hệ vật dữ - con mồi\n(2) Quan hệ giữa chim mỏ đỏ và ngựa vằn là mối quan hệ hợp tác.\n(3) Quan hệ giữa ngựa vằn và côn trùng là mối quan hệ ức chế cảm nhiễm ( hãm sinh).\n(4) Quan hệ giữa côn trùng và chim diệc là mối quan hệ vật dữ - con mồi.\n(5) Quan hệ giữa chim diệc và ngựa vằn là mối quan hệ hội sinh.\n(6) Quan hệ giữa ngựa vằn và ve bét là mối quan hệ ký sinh – vật chủ.\nSố phát biểu đúng là:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 3\n"
+    ]
+  },
+  {
+    "question":"Loài nấm penixilin trong quá trình sống tiết ra kháng sinh penixilin giết chết nhiều loài vi sinh vật và vi khuẩn xung quanh loài nấm đó sinh sống. Ví dụ này minh họa mối quan hệ\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":48,
+    "choices":[
+      "A. cạnh tranh.",
+      "B. ức chế - cảm nhiễm.",
+      "C. hội sinh.",
+      "D. hợp tác.\n"
+    ]
+  },
+  {
+    "question":"Câu 49. Cho biết dấu (+): loài được lợi, dấu (-): loài bị hại.\n\nCho biết dấu (+): loài được lợi, dấu (-): loài bị hại. Sơ đồ trên biểu diễn cho mối quan hệ:\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":"\/quizzes\/Sinh B23\/23_TN_49.png",
+    "explanation":null,
+    "id":49,
+    "choices":[
+      "A. Ký sinh và ức chế cảm nhiễm.\n",
+      "B. Cạnh tranh và vật ăn thịt – con mồi.\n",
+      "C. Hợp tác và hội sinh.",
+      "D. Ký sinh và sinh vật này ăn sinh vật khác.\n"
+    ]
+  },
+  {
+    "question":"Câu 50. Khi nói về sự khác nhau cơ bản giữa mối quan hệ vật chủ- ký sinh và mối quan hệ vật ăn thịt con mồi, phát biểu nào sau đây là đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":50,
+    "choices":[
+      "A. Vật ký sinh thường có số lượng ít hơn vật chủ, còn vật ăn thịt thường có số lượng nhiều hơn con mồi.",
+      "B. Vật ký sinh thường không giết chết vật chủ, còn vật ăn thịt thì giết chết con mồi.\n\t\n",
+      "C. Vật ký sinh thường có kích thước cơ thể lớn hơn vật chủ, còn vật ăn thịt thì luôn có kích thước cơ thể nhỏ hơn con mồi.\n\t",
+      "D. Trong thiên nhiên, mối quan hệ vật ký sinh – vật chủ đóng vai trò kiểm soát và khống chế số lượng cá thể của các loài, còn mối quan hệ vật ăn thịt- con mồi không có vai trò đó.\n"
+    ]
+  },
+  {
+    "question":"Câu 51. Mối quan hệ giữa 2 loài mà một loài có lợi và một loài không bị hại, bao gồm:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":51,
+    "choices":[
+      "A. Hội sinh và ức chế cảm nhiễm",
+      "B. Ức chế cảm nhiễm và cạnh tranh\n",
+      "C. Hội sinh và hợp tác",
+      "D. Hội sinh và kí sinh"
+    ]
+  },
+  {
+    "question":"Câu 52. Bảng dưới đây biểu hiện các mối quan hệ giữa 2 loài A và B:\n\nHãy sắp xếp các mối quan hệ trên tương thích với các ví dụ dưới đây.",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":"\/quizzes\/Sinh B23\/23_TN_52.png",
+    "explanation":null,
+    "id":52,
+    "choices":[
+      "A. (1): tảo nở hoa và cá, (2): chim sáo và trâu sừng, (3): vi khuẩn và tảo thành địa y, (4): bò ăn cỏ.",
+      "B. (1): lúa và cây dại, (2): hải quỳ và cua, (3): cây phong lan và cây gỗ, (4): hổ ăn thỏ.",
+      "C. (1): dây tơ hồng bám lên cây khác, (2): rêu bám lên thân cây (3): vi khuẩn nốt sần và rễ cây họ Đậu (4): loài kiến sống trên cây kiến.",
+      "D. (1): thỏ và chuột (2): nhạn bể và chim cò làm tổ tập đoàn, (3): cá ép sống bám trên cá lớn (4): tảo nở hoa và cá.\n"
+    ]
+  },
+  {
+    "question":"Câu 53. Đặc điểm chung của các mối quan hệ đối kháng giữa hai loài trong quần xã là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":53,
+    "choices":[
+      "A. tất cả các loài đều bị hại.\n",
+      "B. tất cả các loài đều không có lợi, cũng không bị hại gì.\n",
+      "C. ít nhất có một loài bị hại.",
+      "D. cả hai loài đều có lợi.\n"
+    ]
+  },
+  {
+    "question":"Câu 54. Trùng roi (Trichomonas) sống trong ruột mối tiết enzim phân giải xenlulôzơ trong thức ăn của mối thành đường để nuôi sống cả hai. Đây là ví dụ về mối quan hệ\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":54,
+    "choices":[
+      "A. Hợp tác.",
+      "B. Hội sinh.",
+      "C. Cộng sinh.",
+      "D. Kí sinh."
+    ]
+  },
+  {
+    "question":"Câu 55. Mối quan hệ giữa hai loài nào sau đây là mối quan hệ kí sinh – vật chủ?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":55,
+    "choices":[
+      "A. Cây tầm gửi và cây thân gỗ.",
+      "B. Cá ép sống bám trên cá lớn\n",
+      "C. Hải quỳ và cua.",
+      "D. Chim mỏ đỏ và linh dương\n"
+    ]
+  },
+  {
+    "question":"Câu 56. Điều nào sau đây sai khi nói về mối quan hệ cạnh tranh?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":56,
+    "choices":[
+      "A. Trong quần xã, các loài có cùng nguồn thức ăn, chỗ ở, thường có quan hệ cạnh tranh với nhau.",
+      "B. Trong quan hệ cạnh tranh, các loài sinh vật đều bị ảnh hưởng bất lợi, trong đó có loài yếu thế, có loài thắng thế.",
+      "C. Chỉ những cá thể khác loài mới có cạnh tranh gay gắt với nhau còn những cá thể cùng loài sẽ rất ít hoặc không cạnh tranh với nhau.",
+      "D. Cạnh tranh là động lực thúc đẩy các loài tồn tại trong thiên nhiên phát triển một cách ổn định."
+    ]
+  },
+  {
+    "question":"Câu 57. Mối quan hệ giữa loài A và B được biểu diễn bằng sự biến động số lượng của chúng theo hình bên. Có bao nhiêu phát biểu sau đây là đúng?\n\tMối quan hệ giữa hai loài này là quan hệ cạnh tranh.\n\tKích thước cơ thể của loài A thường lớn hơn loài B.\n\tSự biến động số lượng của loài A dẫn đến sự biến động số lượng của loài B và ngược lại.\n\tLoài B có thường xu hướng tiêu diệt loài A.\n\tMối quan hệ giữa 2 loài A và B được xem là động lực cho quá trình tiến hóa.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":"\/quizzes\/Sinh B23\/23_TN_57.png",
+    "explanation":null,
+    "id":57,
+    "choices":[
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ]
+  },
+  {
+    "question":"Câu 58. Mối quan hệ nào sau đây sẽ làm tăng cường lượng đạm cho đất?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":58,
+    "choices":[
+      "A. Quan hệ giữa cây lúa và rong rêu trong ruộng lúa.",
+      "B. Quan hệ giữa loài thực vật với các loài vi khuẩn ký sinh trong quần thể sinh vật",
+      "C. Quan hệ giữa tảo và nấm trong địa y.",
+      "D. Quan hệ giữa cây họ đậu và vi khuẩn trong nốt sần cây họ đậu."
+    ]
+  },
+  {
+    "question":"Câu 59. Ổ sinh thái là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":59,
+    "choices":[
+      "A. khu vực sinh sống của sinh vật ",
+      "B. nơi thường gặp của loài",
+      "C. khoảng không gian sinh thái có tất cả các điều kiện quy đinh cho sự tồn tại phát triển ổn định lâu dài của loài",
+      "D. nơi có đầy đủ các yếu tố thuận lợi cho sự tồn tại của sinh vật"
+    ]
+  },
+  {
+    "question":"Câu 60. Nhận định nào là đúng về đặc điểm của các loài sinh vật ở rừng mưa nhiệt đới?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":60,
+    "choices":[
+      "A. Có ổ sinh thái hẹp, mật độ cao",
+      "B. Có ổ sinh thái rộng, mật độ thấp.",
+      "C. Có ổ sinh thái hẹp, mật độ thấp.",
+      "D. Có ổ sinh thái rộng, mật độ cao"
+    ]
+  },
+  {
+    "question":"Câu 61. Nguyên nhân dẫn tới sự phân ly ổ sinh thái của các loài trong quần xã là:",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":61,
+    "choices":[
+      "A. Mỗi loài ăn một loại thức ăn khác nhau.",
+      "B. Mỗi loài cư trú ở một vị trí khác nhau trong không gian",
+      "C. Phân chia thời gian kiếm ăn khác nhau trong ngày",
+      "D. Mức độ cạnh tranh khác loài."
+    ]
+  },
+  {
+    "question":"Câu 62. Điều nào không đúng về sự liên quan giữa ổ sinh thái và sự cạnh tranh giữa các loài",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":62,
+    "choices":[
+      "A. Những loài có ổ sinh thái giao nhau càng lớn thì cạnh tranh với nhau càng mạnh",
+      "B. Những loài có ổ sinh thái giao nhau càng ít thì cạnh tranh với nhau càng yếu",
+      "C. Những loài có ổ sinh thái không giao nhau thì không cạnh tranh với nhau",
+      "D. Những loài có ổ sinh thái giao nhau càng lớn thì cạnh tranh với nhau càng yếu"
+    ]
+  },
+  {
+    "question":"Câu 63. Trong một ao, người ta có thể nuôi kết hợp nhiều loại cá: mè trắng, mè hoa, trắm cỏ, trắm đen, trôi, chép vì",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":63,
+    "choices":[
+      "A. Mỗi loài có một ổ sinh thái riêng nên sẽ giảm mức độ cạnh tranh gay gắt với nhau.",
+      "​B. Tận dụng được nguồn thức ăn là các loài động vật nổi và tảo.",
+      "​C. Tận dụng được nguồn thức ăn là các loài động vật đáy.",
+      "​D. Tạo ra sự đa dạng loài trong hệ sinh thái ao."
+    ]
+  },
+  {
+    "question":"Câu 64. Khi nói về giới hạn sinh thái, phát biểu nào sau đây đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":64,
+    "choices":[
+      "​A. Trong khoảng chống chịu, sinh vật thực hiện các chức năng sống tốt nhất.",
+      "B. Giới hạn sinh thái về nhiệt độ của các loài đều giống nhau.",
+      "C. Trong khoảng thuận lợi, nhân tố sinh thái gây ức chế cho hoạt động sinh lí của sinh vật.\n",
+      "D. Ngoài giới hạn sinh thái, sinh vật sẽ không thể tồn tại được."
+    ]
+  },
+  {
+    "question":"Câu 65. Có bao nhiêu phát biểu sau đây đúng về các loài ngoại lai đến thời điểm này ở Việt Nam?\n(1) Loài xuất hiện và phát triển ở khu vực vốn không phải là môi trường sống tự nhiên của chúng.\n(2) Loài ngoại lai lấn chiếm nơi sinh sống hoặc gây hại đối với các loài sinh vật bản địa gọi là loài ngoại lai xâm hại.\n(3) Loài ngoại lai xâm hại gây mất cân bằng sinh thái tại nơi chúng xuất hiện và phát triển.\n(4) Một số loài ngoại lai xâm hại là: Rùa tai đỏ, cá dọn bể, ốc bươu vàng, cây mai dương, cây ngũ sắc, bèo tây.",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":65,
+    "choices":[
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ]
+  },
+  {
+    "question":"Câu 66. Để giảm kích thước của quần thể ốc bươu vàng trong tự nhiên. Xét về mặt lí thuyết, cách nào trong số các cách nêu dưới đây đem lại hiệu quả kinh tế cao nhất:",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":66,
+    "choices":[
+      "​A. Thu nhặt, tiêu hủy càng nhiều ổ trứng của chúng càng tốt ",
+      "B. Tìm kiếm và tiêu diệt ở tuổi trưởng thành ",
+      "C. Nhân nuôi thiên địch (nếu có) và thả vào tự nhiên nơi có ốc bươu vàng sinh sống ",
+      "D. Hạn chế nguồn thức ăn của chúng "
+    ]
+  },
+  {
+    "question":"Câu 67. Có bao nhiêu nguyên nhân sau gây suy giảm đa dạng trong quần xã?\n(1) Ô nhiễm môi trường\n(2) Thời tiết bất lợi: Lũ lụt, hạn hán.\n(3) Con người khai thác tài nguyên quá mức.\n(4) Loài ngoại lai xâm hại.",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":67,
+    "choices":[
+      "A. 2 ",
+      "B. 1",
+      "C. 4",
+      "D. 3"
+    ]
+  },
+  {
+    "question":"Câu 68. Có bao nhiêu biện pháp sau là đúng để bảo vệ quần xã?\n(1) Nâng cao ý thức trách nhiệm bảo vệ môi trường trong cộng đồng\n(2) Hạn chế ô nhiễm môi trường\n(3) Bảo tồn các hệ sinh thái\n(4) Ngăn chặn khai thác tài nguyên thiên nhiên",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":68,
+    "choices":[
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ]
+  },
+  {
+    "question":"1. Các mối quan hệ dưới đây chỉ có 1 loài có lợi là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":69,
+    "choices":[
+      "a) Cây tầm gửi sống trên thân cây gỗ.",
+      "b) Tảo và nấm trong địa y",
+      "c) Cây nắp ấm bắt ruồi làm thức ăn",
+      "d) Trầu leo lên thân cây cau"
+    ]
+  },
+  {
+    "question":"2. Trên một thảo nguyên, các con ngựa vằn mỗi khi di chuyển thường đánh động và làm các con côn trùng bay khỏi tổ. Lúc này các con chim diệc sẽ bắt các con côn trùng bay khỏi tổ làm thức ăn. Việc côn trùng bay khỏi tổ, cũng như việc chim diệc bắt côn trùng không ảnh hưởng gì đến ngựa vằn. Chim mỏ đỏ (một loài chim nhỏ) thường bắt ve bét trên lưng ngựa vằn làm thức ăn.\nKhi xác định các mối quan hệ (a), (b), (c), (d) giữa từng cặp loài sinh vật, có 4 kết luận dưới đây.",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":70,
+    "choices":[
+      "a) Quan hệ giữa ve bét và chim mỏ đỏ là mối quan hệ vật dữ - con mồi",
+      "b) Quan hệ giữa chim mỏ đỏ và ngựa vằn là mối quan hệ hợp tác.",
+      "c) Quan hệ giữa ngựa vằn và côn trùng là mối quan hệ ức chế cảm nhiễm ( hãm sinh).",
+      "d) Quan hệ giữa côn trùng và chim diệc là mối quan hệ vật dữ - con mồi."
+    ]
+  },
+  {
+    "question":"3. Những ví dụ thể hiện mối quan hệ hỗ trợ giữa các loài trong quần xã sinh vật đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":71,
+    "choices":[
+      "a) Tảo giáp nở hoa gây độc cho cá, tôm sống trong cùng môi trường.",
+      "b) Cây tầm gửi kí sinh trên thân cây gỗ sống trong rừng.",
+      "c) Cây phong lan bám trên thân cây gỗ sống trong rừng.",
+      "d) Nấm sợi và vi khuẩn lam cộng sinh trong địa y."
+    ]
+  },
+  {
+    "question":"4. Có bao nhiêu nhận định sau đây là đúng hay sai về ưu điểm của biện pháp sử dụng loài thiên địch so với biện pháp sử dụng thuốc trừ sâu hóa học?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":72,
+    "choices":[
+      "a) Thường không gây ảnh hưởng xấu đến sức khỏe con người.",
+      "b) Không gây ô nhiễm môi trường.",
+      "c) Không phụ thuộc vào điều kiện khí hậu và thời tiết.",
+      "d) Nhanh chóng dấp tắt tất cả các loại bệnh dịch."
+    ]
+  },
+  {
+    "question":"5. Cho các mối quan hệ sinh thái sau:\n(1) Tảo nước ngọt nở hoa cùng sống với các loài tôm, cua.\n(2) Cây nắp ấm bắt côn trùng.\n(3) Cây phong lan sống bám trên cây gỗ lớn.\n(4) Trùng roi sống trong ruột mối.\n(5) Loài cá ép sống bám trên cá lớn.\n(6) Chim sáo đậu trên lưng trâu rừng bắt cháy rận.\n(7) Dây tơ hồng sống bám trên các cây trong vườn.\n(8) Địa ý sống bám trên cây thân gỗ.\nTừ các mối quan hệ sinh thái trên có các nhận định dưới đây:",
+    "type":"Checkbox",
+    "answer":[
+      2,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":73,
+    "choices":[
+      "a) Có 4 mối quan hệ là quan hệ hội sinh.",
+      "b) Có 6 mối quan hệ sinh thái giữa các loài đã được đề cập đến.",
+      "c) Có 2 mối quan hệ là quan hệ cộng sinh.",
+      "d) Có 3 mối quan hệ gây hại cho ít nhất một loài tham gia."
+    ]
+  },
+  {
+    "question":"6. Cho các mối quan hệ sau đây.\nCác mối quan hệ t rên là ức chế - cảm nhiễm đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":74,
+    "choices":[
+      "a. Tảo giáp nở hoa gây độc cho tôm ăn cá",
+      "b. Cây phong lan sống bám trên cây thân gỗ",
+      "c. Cây tỏi tiết chất gây ức chế hoạt động của các vi sinh vật xung quanh",
+      "d. Cú và chồn cùng sống trong rừng, cùng bắt chuột làm thức ăn"
+    ]
+  },
+  {
+    "question":"7. Trong một quần xã rừng tự nhiên ở vùng Đông Nam Á, các loài động vật ăn cỏ cỡ lớn như bò rừng mỗi khi di chuyển thường đánh động và làm các loài côn trùng bay khỏi tổ\/ Lúc này, loài chim diệc bạc sẽ bắt các côn trùng bay khỏi tổ làm thức ăn. Việc côn trùng bay khỏi tổ cũng như việc chim diệc bạc bắt côn trùng không ảnh hưởng gì đến đời sống bò rừng. Chim gõ bò có thể bắt ve bét trên da bò rừng làm thức ăn. Xét các mối quan hệ: Bò rừng với côn trùng, chim gõ bò, chim diệc bạc, ve bét; Chim diệc bạc với côn trùng; Chim gõ bò với ve bét. Các phát biểu sau là đúng hay sai về các mối quan hệ trên?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":75,
+    "choices":[
+      "a. Chỉ có 1 mối quan hệ ức chế cảm nhiễm",
+      "b. Quần xã có nhiều hơn 1 mối quan hệ động vật ăn thịt con mồi",
+      "c. Có tối đa 3 mối quan hệ mà trong mỗi mối quan hệ chỉ có 1 loài có lợi",
+      "d. Bò rừng đều không có hại trong mọi mối quan hệ"
+    ]
+  },
+  {
+    "question":"8. Cho các mối quan hệ sau. Các mối quan hệ trên là quan hệ cộng sinh đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":76,
+    "choices":[
+      "a. Vi khuẩn Rhizobium và rễ cây họ đậu",
+      "b. Cây phong lan sống bám trên cây gỗ",
+      "c. Chim tu hú đẻ trứng mình vào tổ chim khác",
+      "d. Vi khuẩn lam và nấm sống chung tạo địa y"
+    ]
+  },
+  {
+    "question":"9, Cho một số loài có đặc điểm sinh thái như sau: \n(1). Cá rô: ăn tạp, sống ở tầng mặt, tầng giữa\n(2). Cá chạch: ăn mùn, sống ở tầng đáy\n(3). Cá mè hoa: ăn động vật nổi, sống ở tầng mặt\n(4). Cá lóc: ăn thực vật thủy sinh, sống ở tầng giữa và tầng mặt\n(5). Cá trắm cỏ: ăn thực vật thủy sinh, sống ở tầng giữa và tầng mặt\n(6). Cá mè trắng: ăn thực vật nổi, sống ở tầng mặt\n(7). Cá trắm đen: ăn thân mềm, sống ở tầng đáy\nCác nhận xét sau đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":77,
+    "choices":[
+      "a. Không thể nuôi chung tất cả các loài ở trong 1 ao mà không có sự cạnh tranh",
+      "b. Có thể nuôi chung nhiều nhất 6 loài ở cùng 1 ao mà không có sự cạnh tranh",
+      "c. Có thể nuôi chung cá rô với 3 loài khác trong 1 ao mà không có sự cạnh tranh",
+      "d. Cá rô và cá trắm đen tuy cùng ăn tạp nhưng vẫn có thể nuôi chung 1 ao mà không xảy ra cạnh tranh"
+    ]
+  },
+  {
+    "question":"10. Cho các mối quan hệ sinh thái như sau:\n(1). Hải quỳ và cua\n(2). Cây nắp ấm bắt mồi\n(3). Kiến và cây kiến\n(4). Virus và tế bào chủ\n(5). Cây tầm gửi và cây chủ\n(6). Cá mẹ ăn cá con\n(7). Địa y\n(8). Tự tỉa cành ở thực vật\n(9). Sáo đậu trên lưng trâu\n(10). Cây mọc theo nhóm\n(11). Tảo hiển vi làm chết cá nhỏ xung quanh\n(12). Khi gặp nguy hiểm, đàn ngựa rừng xếp thành vòng tròn, đưa con non và con già vào giữa.\nHãy cho biết nhận định sau đúng hay sai",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":78,
+    "choices":[
+      "a. Các mối quan hệ trên vừa có những mối quan hệ quần xã, vừa có các mối quan hệ xảy ra trong quần thể",
+      "b. Số mối quan hệ cộng sinh nhiều hơn hỗ trợ cùng loài",
+      "c. Không có mối quan hệ nào ở trên là mối quan hệ hội sinh",
+      "d. Có 2 mối quan hệ là kí sinh"
+    ]
+  }
+]

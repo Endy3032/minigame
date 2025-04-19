@@ -1,0 +1,812 @@
+[
+  {
+    "question":"Câu 1. Môi trường sống của sinh vật gồm có",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":1,
+    "choices":[
+      "Đất - nước - không khí",
+      "Đất - nước - không khí - sinh vật",
+      "Đất - nước - không khí - trên cạn",
+      " Đất - nước - trên cạn - sinh vật\n"
+    ]
+  },
+  {
+    "question":"Câu 2. Ổ sinh thái là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":2,
+    "choices":[
+      "khu vự sinh sống của sinh vật",
+      "nơi thường gặp của loài",
+      "khoảng không gian sinh thái có tất cả các điều kiện quy đinh cho sự tồn tại phát triển ổn định lâu dài của loài",
+      "nơi có đầy đủ các yếu tố thuận lợi cho sự tồn tại của sinh vật"
+    ]
+  },
+  {
+    "question":"Câu 3. Khái niệm môi trường nào sau đây là đúng?\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":3,
+    "choices":[
+      "Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố hữu sinh ở xung quanh sinh vật.",
+      "Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố vô sinh và hữu sinh ở xung quanh sinh vật, trừ nhân tố con người.",
+      "Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố vô sinh xung quanh sinh vật.\n",
+      "Môi trường gồm tất cả các nhân tố xung quanh sinh vật, có tác động trực tiếp hoặc gián tiếp tới sinh vật; làm ảnh hưởng đến sự tồn tại, sinh trưởng, phát triển và những hoạt động khác của sinh vật.\n"
+    ]
+  },
+  {
+    "question":"Câu 4. Nhận định nào là đúng về đặc điểm của các loài sinh vật ở rừng mưa nhiệt đới?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":4,
+    "choices":[
+      "Có ổ sinh thái hẹp, mật độ cao",
+      "Có ổ sinh thái rộng, mật độ thấp.\n",
+      "Có ổ sinh thái hẹp, mật độ thấp.",
+      "Có ổ sinh thái rộng, mật độ cao\n"
+    ]
+  },
+  {
+    "question":"Câu 5. Điều nào không đúng về sự liên quan giữa ổ sinh thái và sự cạnh tranh giữa các loài\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":5,
+    "choices":[
+      "Những loại có ổ sinh thái giao nhau càng lớn thì cạnh tranh với nhau càng yếu\n",
+      "Những loài có ổ sinh thái giao nhau càng lớn thì cạnh tranh với nhau càng mạnh\n",
+      "Những loài có ổ sinh thái giao nhau càng ít thì cạnh tranh với nhau càng yếu\n",
+      "Những loài có ổ sinh thái không giao nhau thì không cạnh tranh với nhau\n"
+    ]
+  },
+  {
+    "question":"Câu 6. Loài vi khuẩn Rhizobium sống cộng sinh với cây họ Đậu để đảm bảo cung cấp môi trường kị khí cho việc cố định nitrogen, chúng có môi trường sống là\n",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":6,
+    "choices":[
+      "Trên cạn",
+      "Sinh vật",
+      "Đất",
+      "Nước "
+    ]
+  },
+  {
+    "question":"Câu 7. Các loài thực vật thủy sinh có môi trường sống là",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":7,
+    "choices":[
+      "Trên cạn",
+      "Sinh vật",
+      "Đất",
+      "Nước "
+    ]
+  },
+  {
+    "question":"Câu 8. Môi trường sống của cây xanh là",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":8,
+    "choices":[
+      "Đất và không khí",
+      "Đất và nước",
+      "Không khí và nước",
+      "Đất"
+    ]
+  },
+  {
+    "question":"Câu 9. Da người có thể là môi trường sống của:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":9,
+    "choices":[
+      "Giun đũa kí sinh",
+      "Chấy, rận, nấm",
+      "Sâu",
+      "Thực vật bậc thấp"
+    ]
+  },
+  {
+    "question":"Câu 10. Các loại môi trường sống chủ yếu của sinh vật là\nI. Môi trường không khí\t\tII. Môi trường trên cạn\nIII. Môi trường đất\t\tIV. Môi trường xã hội\nV. Môi trường nước\t\tVI. Môi trường sinh vật\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":10,
+    "choices":[
+      "I, II, IV, VI",
+      "I, III, V, VI",
+      "II, III, V, VI",
+      "II, III, IV, V"
+    ]
+  },
+  {
+    "question":"Câu 11. Loài sinh vật A có giới hạn chịu đựng về nhiệt độ từ  đến . Giới hạn chịu đựng về độ ẩm từ 74% đến 96%. Trong số các loại môi trường dưới đây thì có bao nhiêu loại môi trường mà sinh vật A có thể sống?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":11,
+    "choices":[
+      "Môi trường có nhiệt độ dao động từ  đến 350C, độ ẩm từ 75% đến 95%",
+      "Môi trường có nhiệt độ dao động từ  đến 400C, độ ẩm từ 85% đến 95%\n",
+      "Môi trường có nhiệt độ dao động từ  đến 300C, độ ẩm từ 85% đến 95%\n",
+      "Môi trường có nhiệt độ dao động từ  đến 300C, độ ẩm từ 90% đến 100%\n"
+    ]
+  },
+  {
+    "question":"Câu 12. Các nhân tố sinh thái được chia thành hai nhóm sau",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":12,
+    "choices":[
+      "Nhóm nhân tố sinh thái sinh vật và con người.\n",
+      "Nhóm nhân tố sinh thái vô sinh và hữu sinh\n",
+      "Nhóm nhân tố sinh thái trên cạn và dưới nước.",
+      "Nhóm nhân tố sinh thái bất lợi và có lợi.\n"
+    ]
+  },
+  {
+    "question":"Câu 13. Các nhân tố sau đây, nhân tố nào là nhân tố sinh thái vô sinh tác động lên sinh vật:",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":13,
+    "choices":[
+      "Là các nhân tố sinh thái mà tác động của nó lên sinh vật không bị chi phối bởi mật độ cá thể của quần thể.",
+      "Là các nhân tố sinh thái mà tác động của nó lên sinh vật bị chi phối bởi mật độ cá thể của quần thể.",
+      "Là các yếu tố môi trường không liên quan đến khí hậu, thời tiết…",
+      "Là các nhân tố sinh thái phụ thuộc vào mật độ quần thể."
+    ]
+  },
+  {
+    "question":"Câu 14. Nhân tố sinh thái vô sinh bao gồm",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":14,
+    "choices":[
+      "Tất cả các nhân tố vật lý hoá học của môi trường xung quanh sinh vật",
+      "Đất, nước, không khí, độ ẩm, ánh sáng, các nhân tố vật lý bao quanh sinh vật",
+      "Đất, nước, không khí, độ ẩm, ánh sáng, các chất hoá học của môi trường xung quanh sinh vật.",
+      "Đất, nước, không khí, độ ẩm, ánh sáng, nhiệt độ của môi trường xung quanh sinh vật"
+    ]
+  },
+  {
+    "question":"Câu 15. Nhân tố sinh thái hữu sinh bao gồm",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":15,
+    "choices":[
+      "Thực vật, động vật và con người.",
+      "Vi sinh vật, thực vật, động vật và con người.",
+      "Vi sinh vật, nấm, tảo, thực vật, động vật và con người.",
+      "Những mối quan hệ giữa các sinh vật với nhau"
+    ]
+  },
+  {
+    "question":"Câu 16. Cho các yếu tố\/cấu trúc\/sinh vật sau đây\n(1). Lớp lá rụng nền rừng        (2). Cây phong lan bám trên thân cây gỗ\n(3). Đất                         (4). Hơi ấm\n(5). Chim làm tổ trên cây        (6). Gió\n(7). Nước biển                        (8). Con người\n",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":16,
+    "choices":[
+      3,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "question":"Câu 17. Con người đã ứng dụng những hiểu biết về ổ sinh thái vào những hoạt động nào sau đây:\n(1) Trồng xen các loại cây ưa bóng và cây ưa sáng trong cùng một khu vườn .\n(2) Khai thác vật nuôi ở độ tuổi càng nhỏ để thu được năng suất càng cao.\n(3) Trồng các loài cây đúng thời vụ.\n(4) Nuôi ghép các loài cá ở các tầng nước khác nhau trong cùng một ao nuôi.\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":17,
+    "choices":[
+      "(1), (3), (4) .",
+      "(1), (2), (4).",
+      "(2), (3), (4).",
+      "(1), (2), (3)."
+    ]
+  },
+  {
+    "question":"Câu 18. Trong các phát biểu sau, có bao nhiêu phát biểu đúng về các nhân tố sinh thái?\n(1) Khi tất cả các nhân tố sinh thái của môi trường đều nằm trong giới hạn sinh thái cho phép loài tồn tại và phát triển thì làm thành ổ sinh thái của loài đó.\n(2) Nhóm nhân tố sinh thái vô sinh gồm tất cả các nhân tố vật lý, hóa học và sinh học trong môi trường xung quanh sinh vật.\n(3) Nhóm nhân tố sinh thái hữu sinh bao gồm thế giới hữu cơ của môi trường và mối quan hệ giữa sinh vật với sinh vật.\n(4) Trong nhóm nhân tố sinh thái hữu sinh, nhân tố con người có ảnh hưởng lớn tới đời sống của nhiều sinh vật\n",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":18,
+    "choices":[
+      2,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "question":"Câu 19. Khi nói về các nhân tố sinh thái, điều nào dưới đây không đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":19,
+    "choices":[
+      "Cơ thể thường xuyên phải phản ứng tức thời với tổ hợp tác động của nhiều nhân tố sinh thái",
+      "Các loài sinh vật có phản ứng như nhau với cùng một tác động của một nhân tố sinh thái",
+      "Khi tác động lên cơ thể, các nhân tố sinh thái có thể thúc đẩy hoặc gây ảnh hưởng trái ngược nhau.",
+      "Các giai đoạn khác nhau của một cơ thể có phản ứng khác nhau trước cùng mọt nhân tố sinh thái."
+    ]
+  },
+  {
+    "question":"Câu 20. Dựa vào sự thích nghi của động vật với nhân tố sinh thái nào sau đây, người ta chia động vật thành nhóm động vật hằng nhiệt và nhóm động vật biến nhiệt?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":20,
+    "choices":[
+      "Độ ẩm ",
+      "Gió",
+      "Nhiệt độ",
+      "Ánh sáng"
+    ]
+  },
+  {
+    "question":"Câu 21. Nhân tố sinh thái là gì?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":21,
+    "choices":[
+      "Là các yếu tố của môi trường có ảnh hưởng trực tiếp hoặc gián tiếp đến đời sống của sinh vật",
+      "Là các yếu tố vô sinh của môi trường có ảnh hưởng trực tiếp hoặc gián tiếp đến đời sống của sinh vật",
+      "Là các yếu tố hữu sinh của môi trường có ảnh hưởng trực tiếp hoặc gián tiếp đến đời sống của sinh vật",
+      "Là các mối quan hệ của sinh vật có ảnh hưởng trực tiếp hoặc gián tiếp đến đời sống của sinh vật"
+    ]
+  },
+  {
+    "question":"Câu 22. Giới hạn sinh thái là:",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":22,
+    "choices":[
+      "Khoảng giá trị xác định của nhiều nhân tố sinh thái tác động qua lại lẫn nhau mà ở đó sinh vật có thể tồn tại và phát triển được theo thời gian.",
+      "Khoảng giá trị xác định của một nhân tố sinh thái mà ở đó sinh vật có thể tồn tại và phát triển được theo thời gian.",
+      "Là khoảng không gian sinh thái ở đó chứa đựng tất cả các nhân tố sinh thái cùng tác động qua lại với nhau giúp cho sinh vật có thể tồn tại và phát triển qua thời gian.",
+      "Là giá trị cực đại của một nhân tố sinh thái mà ở đó sinh vật có thể tồn tại và phát triển qua thời gian."
+    ]
+  },
+  {
+    "question":"Câu 24. Những nội dung nào sau đây là đúng?\n\n(1) Các loài sinh vật phản ứng khác nhau đối với nhiệt độ môi trường.\n(2) Động vật hằng nhiệt có vùng phân bố rộng hơn động vật biến nhiệt.\n(3) Chỉ có động vật mới phản ứng với nhiệt độ môi trường còn thực vật thì không phản ứng.\n(4) Động vật biến nhiệt có khả năng thay đổi nhiệt độ cơ thể theo nhiệt độ môi trường nên có khả năng thích nghi hơn so với động vật hằng nhiệt.\n(5) Nhiệt độ không ảnh hưởng đến lượng thức ăn và tốc độ tiêu hóa của sinh vật.",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":24,
+    "choices":[
+      "(1), (2), (4), (5)",
+      "(1), (2)",
+      "(1), (4), (5)",
+      "(3), (2), (4)"
+    ]
+  },
+  {
+    "question":"Câu 25. Yếu tố ánh sáng thuộc nhóm nhân tố sinh thái:",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":25,
+    "choices":[
+      "Vô sinh",
+      "Hữu sinh",
+      "Vô cơ",
+      "Chất hữu cơ"
+    ]
+  },
+  {
+    "question":"Câu 26. Có thể xếp con người vào nhóm nhân tố sinh thái",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":26,
+    "choices":[
+      "Vô sinh",
+      "Hữu sinh",
+      "Hữu sinh và vô sinh",
+      "Hữu cơ"
+    ]
+  },
+  {
+    "question":"Câu 27. Giới hạn chịu đựng của cơ thể sinh vật đối với một nhân tố sinh thái nhất định được gọi:",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":27,
+    "choices":[
+      "Giới hạn sinh thái",
+      "Tác động sinh thái",
+      "Khả năng cơ thể",
+      "Sức bền cơ thể"
+    ]
+  },
+  {
+    "question":"Câu 28. Những loài có giới hạn sinh thái rộng đối với nhiều nhân tố sinh thái, thì chúng có vùng phân bố như thế nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":28,
+    "choices":[
+      "Có vùng phân bố rộng",
+      "Có vùng phân bố hạn chế",
+      "Có vùng phân bố hẹp",
+      "Không xác định được vùng phân bố"
+    ]
+  },
+  {
+    "question":"Câu 29. Cá chép có giới hạn chịu đựng về nhiệt độ là: 20C đến 440C. điểm cực thuận là 280C. Cá rô phi có giới hạn chịu đựng về nhiệt độ là: 50C đến 420C. điểm cực thuận là 300C. Nhận định nào sau đây là đúng?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":29,
+    "choices":[
+      "Vùng phân bố cá chép hẹp hơn cá rô phi vì có điểm cực thuận thấp hơn",
+      "Vùng phân bố cá rô phi rộng hơn cá chép vì có giới hạn dưới cao hơn",
+      "Cá chép có vùng phân bố rộng hơn cá rô phi vì có giới hạn chịu nhiệt rộng hơn",
+      "Cá chép có vùng phân bố rộng hơn cá rô phi vì có giới hạn dưới thấp hơn"
+    ]
+  },
+  {
+    "question":"Câu 30. Những loài có giới hạn sinh thái hẹp đối với nhiều nhân tố sinh thái chúng có vùng phân bố",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":30,
+    "choices":[
+      "phổ biến",
+      "rộng",
+      "vừa phải",
+      "hẹp"
+    ]
+  },
+  {
+    "question":"Câu 31. Thời gian sống thực tế của 1 cá thể trong quần thể được gọi là:",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":31,
+    "choices":[
+      "tuổi sinh thái",
+      "tuổi đang sinh sản",
+      "tuổi quần thể",
+      "tuổi sinh lí"
+    ]
+  },
+  {
+    "question":"Câu 32. Trong một ao nuôi cá trắm cỏ, người ta tính được trung bình có 3 con\/m2 nước. Số liệu trên cho biết về đặc trưng nào của quần thể?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":32,
+    "choices":[
+      "sự phân bố cá thể",
+      "mật độ cá thể",
+      "tỷ lệ đực\/cái",
+      "thành phần nhóm tuổi"
+    ]
+  },
+  {
+    "question":"Câu 33. Các cá thể của quần thể trâu rừng sống thành bầy đàn ở những nơi có điều kiện sống tốt, Đây là đặc điểm của kiểu phân bố?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":33,
+    "choices":[
+      "đồng đều",
+      "theo nhóm",
+      "ngẫu nhiên",
+      "phân tầng"
+    ]
+  },
+  {
+    "question":"Câu 34. Mật độ của quần thể là",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":34,
+    "choices":[
+      "số lượng cá thể trung bình của quần thể được xác định trong một khoảng thời gian xác định nào đó.",
+      "số lượng cá thể cao nhất ở một thời điểm xác định nào đó trong một đơn vị diện tích nào đó của quần tể.",
+      "khối lượng sinh vật thấp nhất ở một thời điểm xác định trong một đơn vị thể tích của quần thể.",
+      "số lượng cá thể có trên một đơn vị diện tích hay thể tích của quần thể."
+    ]
+  },
+  {
+    "question":"Câu 35. Mật độ cá thể của quần thể có ảnh hưởng tới",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":35,
+    "choices":[
+      "khối lượng nguồn sống trong môi trường phân bố của quần thể.",
+      "mức độ sử dụng nguồn sống, khả năng sinh sản và tử vong của quần thể.",
+      "hình thức khai thác nguồn sống của quần thể.",
+      "tập tính sống bầy đàn và hình thức di cư của các cá thể trng quần thể."
+    ]
+  },
+  {
+    "question":"Câu 36. Nhóm sinh vật nào có giới hạn sinh thái về \nnhiệt độ rộng nhất?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":36,
+    "choices":[
+      "Cá",
+      "Ốc",
+      "Lưỡng cư",
+      "Chim"
+    ]
+  },
+  {
+    "question":"Câu 37. Những loài có giới hạn sinh thái rộng đối với nhiều nhân tố sinh thái chúng có vùng phân bố",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":37,
+    "choices":[
+      "Hạn chế",
+      "Rộng",
+      "Vừa phải",
+      "Hẹp"
+    ]
+  },
+  {
+    "question":"Câu 38. Loài chuột cát ở đài nguyên có giới hạn chịu nhiệt từ  và có khoảng thuận lợi từ . Ví dụ đã cho nói đến quy luật sinh thái nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":38,
+    "choices":[
+      "Tác động qua lại giữa sinh vật với môi trường",
+      "Quy luật giới hạn sinh thái",
+      "Quy luật tác động không đồng đều của các nhân tố sinh thái.",
+      "Quy luật tác động tổng hợp của các nhân tố sinh thái"
+    ]
+  },
+  {
+    "question":"Câu 39. “Khi trồng rau xanh, cần phải bón phân đạm để lá phát triển tốt. Trong lúc trồng cây lấy củ thì đạm chỉ cần cho giai đoạn đầu, sau đó cần bón kali”. Đây là ứng dụng quy luật sinh thái cơ bản nào?",
+    "type":"Multiple Choice",
+    "answer":[
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":39,
+    "choices":[
+      "Quy luật giới hạn sinh thái",
+      "Quy luật tác động qua lại giữa \nsinh vật với môi trường ",
+      "Quy luật tác động tổng hợp các nhân tô sinh thái",
+      "Quy luật tác động không đều của\n các nhân tố sinh thái"
+    ]
+  },
+  {
+    "question":"Câu 40. Nếu gọi S = diện tích bề mặt, V = thể tích cơ thể, thì quy tắc tương ứng giữa S và V của động vật hằng nhiệt với nhiệt độ môi trường là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":40,
+    "choices":[
+      "Sống nơi càng nóng, S càng lớn",
+      "Sống nơi càng lạnh, V càng lớn",
+      "Sống nơi càng lạnh, \ntỉ số S\/V càng giảm",
+      "Sống nơi càng nóng, \ntỉ số S\/V càng giảm"
+    ]
+  },
+  {
+    "question":"Câu 41. Loài voi phân bố ở vùng ôn đới và vùng nhiệt đới ấm áp. Theo quy tắc Becman, điều nào sau đây là đúng\n",
+    "type":"Multiple Choice",
+    "answer":[
+      1
+    ],
+    "image":null,
+    "explanation":null,
+    "id":41,
+    "choices":[
+      "Kích thước voi vùng ôn đới lớn hơn vùng nhiệt đới,\n lớp mỡ voi ôn đới dày hơn voi nhiệt đới",
+      "Kích thước voi vùng ôn đới nhỏ hơn vùng nhiệt đới, lớp mỡ voi ôn đới dày hơn voi nhiệt đới",
+      "Da voi vùng nhiệt đới dày hơn vùng ôn đới",
+      "Kích thước voi vùng ôn đới lớn hơn vùng nhiệt đới, lớp mỡ voi ôn đới mỏng hơn voi nhiệt đới."
+    ]
+  },
+  {
+    "question":"Câu 42. Nhịp sinh học là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":42,
+    "choices":[
+      " khả năng phản ứng của sinh vật trước sự thay đổi nhất thời của môi trường.",
+      "khả năng phản ứng của sinh vật trước sự thay đổi mang tính chu kì của môi trường.",
+      "khả năng phản ứng của sinh vật một cách nhịp nhàng trước sự thay đổi theo chu kì của môi trường.",
+      "sự thay đổi theo chu kì của sinh vật trước môi trường."
+    ]
+  },
+  {
+    "question":"Câu 43. Hoạt động của muỗi và chim cú theo nhịp điệu",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":43,
+    "choices":[
+      "Mùa ",
+      "Thủy triều",
+      "Ngày, đêm",
+      "Tuần trăng"
+    ]
+  },
+  {
+    "question":"Câu 44. Hiện tượng không phải nhịp sinh học là",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":44,
+    "choices":[
+      "Lá một số cây họ đậu xếp lại lúc hoàng hôn và mở ra vào lúc sáng sớm",
+      "Dơi ngủ ban ngày và hoạt động về đêm",
+      "Cây trinh nữ xếp lá khi có vật chạm vào",
+      "Cây ôn đới rụng là vào mùa đông"
+    ]
+  },
+  {
+    "question":"Câu 45. Hiện tượng nào sau đây không phải là nhịp sinh học?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":45,
+    "choices":[
+      "Nhím ban ngày cuộn mình nằm ",
+      "Vào mùa đông, ở những vùng có băng tuyết, phần lớn cây xanh rụng lá và sống ở trạng thái giả chết",
+      "Cây mọc trong môi trường có ánh sáng khi chiếu từ một phía thường có thân uốn cong, ngọn cây câ vươn về phía nguồn sáng",
+      "Khi mùa đông đến, chim én rời bỏ nơi giá lạnh, khan hiếm thức ăn đến những nơi ấm áp, có niều thức ăn"
+    ]
+  },
+  {
+    "question":"Câu 1. Các phát biểu sau về các nhân tố sinh thái là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":46,
+    "choices":[
+      "a) Khi tất cả các nhân tố sinh thái của môi trường đều nằm trong giới hạn sinh thái cho phép loài tồn tại và phát triển thì làm thành ổ sinh thái của loài đó.",
+      "b) Nhóm nhân tố sinh thái vô sinh gồm tất cả các nhân tố vật lý, hóa học và sinh học trong môi trường xung quanh sinh vật",
+      "c) Nhóm nhân tố sinh thái hữu sinh bao gồm thế giới hữu cơ của môi trường và mối quan hệ giữa sinh vật với sinh vật.",
+      "d) Trong nhóm nhân tố sinh thái hữu sinh, nhân tố con người có ảnh hưởng lớn tới đời sống của nhiều sinh vật"
+    ]
+  },
+  {
+    "question":"Câu 2. Những nội dung sau đây là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2
+    ],
+    "image":null,
+    "explanation":null,
+    "id":47,
+    "choices":[
+      "a) Các loài sinh vật phản ứng khác nhau đối với nhiệt độ môi trường.",
+      "b) Động vật hằng nhiệt có vùng phân bố rộng hơn động vật biến nhiệt.",
+      "c) Chỉ có động vật mới phản ứng với nhiệt độ môi trường còn thực vật thì không phản ứng.",
+      "d) Động vật biến nhiệt có khả năng thay đổi nhiệt độ cơ thể theo nhiệt độ môi trường nên có khả năng thích nghi hơn so với động vật hằng nhiệt."
+    ]
+  },
+  {
+    "question":"Câu 3. Con người đã ứng dụng những hiểu biết về ổ sinh thái vào những hoạt động dưới đây là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":48,
+    "choices":[
+      "a) Trồng xen các loại cây ưa bóng và cây ưa sáng trong cùng một khu vườn .",
+      "b) Khai thác vật nuôi ở độ tuổi càng nhỏ để thu được năng suất càng cao.",
+      "c) Trồng các loài cây đúng thời vụ.",
+      "d) Nuôi ghép các loài cá ở các tầng nước khác nhau trong cùng một ao nuôi."
+    ]
+  },
+  {
+    "question":"Câu 4. Khi nói về giới hạn sinh thái, phát biểu nào sau đây đúng?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":49,
+    "choices":[
+      "a) Trong khoảng chống chịu, hoạt động sinh lí của sinh vật bị ức chế.",
+      "b) Giới hạn sinh thái về nhiệt độ của các loài đều giống nhau.",
+      "c) Trong khoảng thuận lợi, nhân tố sinh thái gây ức chế cho hoạt động sinh lí của sinh vật.",
+      "d) Ngoài giới hạn sinh thái, sinh vật sẽ không thể tồn tại được."
+    ]
+  },
+  {
+    "question":"Câu 5. Các phát biểu sau đây về ổ sinh thái của các loài là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      2,
+      3,
+      4
+    ],
+    "image":null,
+    "explanation":null,
+    "id":50,
+    "choices":[
+      "a) Ổ sinh thái của một loài biểu hiện cách sinh sống còn nơi ở chỉ nơi cư trú.",
+      "b) Chim ăn sâu và chim ăn hạt sống trên cùng một cây thì có cùng nơi ở nhưng ổ sinh thái khác nhau.",
+      "c) Cạnh tranh là một trong những nguyên nhân chủ yếu dẫn đến sự hình thành các ổ sinh thái.",
+      "d) Nhờ có sự phân hoá ổ sinh thái nên giảm bớt sự cạnh tranh về thức ăn và nơi ở."
+    ]
+  },
+  {
+    "question":"Câu 6. Các kết luận sau đây về vai trò của việc nghiên cứu giới hạn sinh thái là đúng hay sai?",
+    "type":"Checkbox",
+    "answer":[
+      1,
+      3
+    ],
+    "image":null,
+    "explanation":null,
+    "id":51,
+    "choices":[
+      "a) Tạo điều kiện tối thuận cho vật nuôi, cây trồng về mỗi nhân tố sinh thái.",
+      "b) Mỗi loài có giới hạn sinh thái đặc trưng về mỗi nhân tố sinh thái. Do vậy trong công tác nuôi trồng, ta không phải bận tâm đến khu phân bố.",
+      "c) Khi biết được giới hạn sinh thái từng loài đối với mỗi nhân tố sinh thái, ta phân bố chúng một cách hợp lí. Điều này còn có ý nghĩa trong tác di nhập vật nuôi, cây trồng.",
+      "d) Nên giữ môi trường ở giới hạn dưới hoặc giới hạn trên để sinh vật khỏi bị chết."
+    ]
+  }
+]
