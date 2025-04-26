@@ -743,7 +743,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":52,
+    "id":53,
     "choices":[
       "A. Một.",
       "B. Hai.",
@@ -759,7 +759,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":53,
+    "id":54,
     "choices":[
       "A. Lên kế hoạch tiết kiệm chi tiêu hợp lí.",
       "B. Thực hiện những mục tiêu tài chính của cá nhân.",
@@ -775,7 +775,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":54,
+    "id":55,
     "choices":[
       "A. tài chính cá nhân.",
       "B. tiền sinh hoạt.",
@@ -791,7 +791,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":55,
+    "id":56,
     "choices":[
       "A. ngắn hạn.",
       "B. trung hạn.",
@@ -807,7 +807,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":56,
+    "id":57,
     "choices":[
       "A. Dưới 2 tháng.",
       "B. Dưới 3 tháng.",
@@ -823,7 +823,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":57,
+    "id":58,
     "choices":[
       "A. Thu nhập thực tế của các thành viên trong gia đình.",
       "B. Số lượng thành viên trong gia đình.",
@@ -839,7 +839,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":58,
+    "id":59,
     "choices":[
       "A. Chi phí sinh hoạt hàng tháng.",
       "B. Các nguồn thu và tổng thu nhập.",
@@ -855,7 +855,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":59,
+    "id":60,
     "choices":[
       "A. Thu nhập hàng tháng, số lượng thành viên trong gia đình, chi phí học tập và giải trí",
       "B. Chi phí sinh hoạt, chi phí mua sắm, chi phí y tế và chi phí đi lại",
@@ -871,7 +871,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":60,
+    "id":61,
     "choices":[
       "A. Tập trung vào khoản chi thiết yếu và giảm thiểu khoản chi linh hoạt",
       "B. Phân bổ đều giữa tất cả các khoản chi mà không cần cân nhắc tỉ lệ",
@@ -887,7 +887,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":61,
+    "id":62,
     "choices":[
       "A. Giúp tính toán, cân nhắc nên dành những khoản chi phí cần thiết cho đời sống, học tập.",
       "B. Chủ động nắm chắc tình hình tài chính của bản thân để điều chỉnh cho phù hợp.",
@@ -903,7 +903,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":62,
+    "id":63,
     "choices":[
       "A. Lập kế hoạch chi tiêu tài chính.",
       "B. Nhờ người giữ hộ tiền lương.",
@@ -919,7 +919,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":63,
+    "id":64,
     "choices":[
       "A. Tiết kiệm điện.",
       "B. Mua đồ mình thích.",
@@ -935,7 +935,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":64,
+    "id":65,
     "choices":[
       "A. làm đất, làm cỏ, làm cây giống, thu hoạch, bảo quản, bán,...",
       "B. tìm kiếm thức ăn, cho ăn, vệ sinh chuồng trại,...",
@@ -951,7 +951,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":65,
+    "id":66,
     "choices":[
       "A. làm đất, làm cỏ, làm cây giống, thu hoạch, bảo quản, bán,...",
       "B. tìm kiếm thức ăn, cho ăn, vệ sinh chuồng trại,...",
@@ -967,7 +967,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":66,
+    "id":67,
     "choices":[
       "A. làm đất, làm cỏ, làm cây giống, thu hoạch, bảo quản, bán,...",
       "B. phụ bếp, phụ bàn, thu tiền, rửa bát, giao hàng,...",
@@ -983,7 +983,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":67,
+    "id":68,
     "choices":[
       "A. làm đất, làm cỏ, làm cây giống, thu hoạch, bảo quản, bán,...",
       "B. phụ bếp, phụ bàn, thu tiền, rửa bát, giao hàng,...",
@@ -999,7 +999,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":68,
+    "id":69,
     "choices":[
       "A. Việc mua xe mới có thể làm tăng chi phí nhiên liệu và bảo trì, dẫn đến tăng tổng chi phí sinh hoạt.",
       "B. Việc mua xe mới không ảnh hưởng đến chi phí sinh hoạt hàng tháng vì gia đình sẽ sử dụng nó để tiết kiệm tiền cho phương tiện công cộng.",
@@ -1015,7 +1015,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":69,
+    "id":70,
     "choices":[
       "A. Chi phí sinh hoạt sẽ giảm sau khi đầu tư ban đầu được bù đắp bởi việc tiết kiệm năng lượng.",
       "B. Chi phí sinh hoạt sẽ không thay đổi vì tiết kiệm năng lượng không ảnh hưởng lớn đến hóa đơn điện.",
@@ -1031,7 +1031,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":70,
+    "id":71,
     "choices":[
       "A. Chi phí sinh hoạt sẽ giảm vì thực phẩm hữu cơ có thể làm giảm chi phí y tế trong dài hạn.",
       "B. Chi phí sinh hoạt sẽ không thay đổi vì việc mua thực phẩm hữu cơ không làm thay đổi ngân sách hàng tháng.",
@@ -1047,7 +1047,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":71,
+    "id":72,
     "choices":[
       "A. Bảo đảm hoàn thành các công việc được giao.",
       "B. Nhu cầu và khả năng số tiền có thể thu được.",
@@ -1063,7 +1063,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":72,
+    "id":73,
     "choices":[
       "A. Chi tiêu không vượt mức thu cho phép.",
       "B. Phân bổ thu nhập hợp lí sao cho không ảnh hưởng đến các khoản chi thiết yếu.",
@@ -1079,7 +1079,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":73,
+    "id":74,
     "choices":[
       "A. Giúp tính toán, cân nhắc nên dành những khoản chi phí cần thiết cho đời sống, học tập.",
       "B. Chủ động nắm chắc tình hình tài chính của bản thân để điều chỉnh cho phù hợp.",
@@ -1095,7 +1095,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":74,
+    "id":75,
     "choices":[
       "A. Ngắn hạn.",
       "B. Trung hạn.",
@@ -1111,7 +1111,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":75,
+    "id":76,
     "choices":[
       "A. 2 - 5 - 3 - 1 - 6 – 4",
       "B. 2 - 4 - 3 - 5 - 1 – 6",
@@ -1127,7 +1127,7 @@
     ],
     "image":"\/quizzes\/HDTNHN - GDDP\/HDTNHN.png",
     "explanation":null,
-    "id":76,
+    "id":77,
     "choices":[
       "A. M. không có mục tiêu rõ ràng, chi tiêu không kiểm soát.",
       "B. M. có mục tiêu rõ ràng, ghi lại các khoản thu chi đầy đủ để đưa ra những quyết định chi tiêu và tiết kiệm hợp lí.",
@@ -1143,7 +1143,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":77,
+    "id":78,
     "choices":[
       "A. Mức thu nhập của gia đình.",
       "B. Tăng trưởng kinh tế.",
@@ -1159,7 +1159,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":78,
+    "id":79,
     "choices":[
       "A. Mua thêm nhiều đồ dùng cần thiết.",
       "B. Cắt giảm các chi phí không cần thiết.",
@@ -1175,7 +1175,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":79,
+    "id":80,
     "choices":[
       "A. Lối sống hoang phí.",
       "B. Lối sống tiết kiệm.",
@@ -1191,7 +1191,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":80,
+    "id":81,
     "choices":[
       "A. Ba bước.",
       "B. Bốn bước.",
@@ -1207,7 +1207,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":81,
+    "id":82,
     "choices":[
       "A. không kiên trì trong việc lập kế hoạch.",
       "B. thực hiện kế hoạch không như dự định.",
@@ -1223,7 +1223,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":82,
+    "id":83,
     "choices":[
       "A. Mức tiêu dùng của các thành viên trong gia đình.",
       "B. Mức thu nhập gia đình.",
@@ -1239,7 +1239,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":83,
+    "id":84,
     "choices":[
       "A. Mua sắm thêm các đồ dùng khác.",
       "B. Để phát triển kinh tế gia đình.",
@@ -1255,7 +1255,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":84,
+    "id":85,
     "choices":[
       "A. Lập kế hoạch chi tiêu hàng tuần.",
       "B. Bật nóng lạnh cả ngày.",
@@ -1271,7 +1271,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":85,
+    "id":86,
     "choices":[
       "A. Xác định mục tiêu phát triển tài chính.",
       "B. Xác định chi tiêu tiền học.",
@@ -1287,7 +1287,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":86,
+    "id":87,
     "choices":[
       "A. Tạo nên sự hỗ trợ, chia sẻ giữa các thành viên.",
       "B. Cuộc sống có khuôn khổ cần tuân theo.",
@@ -1303,7 +1303,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":87,
+    "id":88,
     "choices":[
       "A. Sống và làm việc theo đúng quy định của pháp luật.",
       "B. Phấn đấu trở thành học sinh giỏi, trò ngoan, người con hiếu thảo.",
@@ -1319,7 +1319,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":88,
+    "id":89,
     "choices":[
       "A. Giúp đỡ những người có hoàn cảnh khó khăn.",
       "B. Tham gia hoạt động “An toàn giao thông”.",
@@ -1335,7 +1335,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":89,
+    "id":90,
     "choices":[
       "A. Giúp chúng ta trau dồi được nhiều kiến thức mới.",
       "B. Giúp chúng ta hiểu và tôn trọng những giá trị, quan niệm và phong tục tập quán của mỗi dân tộc.",
@@ -1351,7 +1351,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":90,
+    "id":91,
     "choices":[
       "A. Xác định được những khó khăn, những vấn đề cộng đồng cần giúp đỡ.",
       "B. Tìm cách huy động nguồn lực chia sẻ giúp đỡ cộng đồng.",
@@ -1367,7 +1367,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":91,
+    "id":92,
     "choices":[
       "A. Tiểu phẩm tuyên truyền.",
       "B. Quyên góp giúp đỡ trẻ em vùng cao.",
@@ -1383,7 +1383,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":92,
+    "id":93,
     "choices":[
       "A. Tự nguyện chia sẻ, hỗ trợ những người khác.",
       "B. Tích cực tham gia các hoạt động quyên góp, ủng hộ.",
@@ -1399,7 +1399,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":93,
+    "id":94,
     "choices":[
       "A. Vệ sinh đường làng, ngõ xóm.",
       "B. Tuyên truyền bảo vệ môi trường.",
@@ -1415,7 +1415,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":94,
+    "id":95,
     "choices":[
       "A. Say mê tìm hiểu phong tục, tập quán của các dân tộc.",
       "B. Thường xuyên tìm hiểu và tham gia các lễ hội truyền thống.",
@@ -1431,7 +1431,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":95,
+    "id":96,
     "choices":[
       "A. Xác định mục đích thiết lập các mối quan hệ xã hội.",
       "B. Biết rõ đối tượng mà mình muốn thiết lập mối quan hệ.",
@@ -1447,7 +1447,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":96,
+    "id":97,
     "choices":[
       "A. Tìm hiểu về quan hệ hữu nghị giữa các dân tộc.",
       "B. Vẽ tranh cổ động.",
@@ -1463,7 +1463,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":97,
+    "id":98,
     "choices":[
       "A. Mạnh dạn trong giao tiếp.",
       "B. Thể hiện thái độ thiện chí khi làm quen với người khác.",
@@ -1479,7 +1479,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":98,
+    "id":99,
     "choices":[
       "A. lắng nghe tích cực để hiểu người cùng giao tiếp.",
       "B. không tôn trọng đối phương.",
@@ -1495,7 +1495,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":99,
+    "id":100,
     "choices":[
       "A. Tham gia biểu diễn văn nghệ của lớp.",
       "B. Tình nguyện vì an sinh xã hội.",
@@ -1511,7 +1511,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":100,
+    "id":101,
     "choices":[
       "A. Xác định được mục đích thiết lập mối quan hệ.",
       "B. Xác định được khó khăn của cộng đồng.",
@@ -1527,7 +1527,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":101,
+    "id":102,
     "choices":[
       "A. Tham gia hoạt động của lớp.",
       "B. Quyên góp ủng hộ trẻ em vùng cao.",
@@ -1543,7 +1543,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":102,
+    "id":103,
     "choices":[
       "A. Tham gia các hoạt động vui chơi ở trường.",
       "B. Giúp đỡ bạn làm bài tập.",
@@ -1559,7 +1559,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":103,
+    "id":104,
     "choices":[
       "A. Nản chí và từ bỏ",
       "B. Xác định người có thể hỗ trợ và mong muốn được hỗ trợ",
@@ -1575,7 +1575,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":104,
+    "id":105,
     "choices":[
       "A. Phát triển kĩ năng xã hội.",
       "B. Có thêm nhiều niềm vui trong cuộc sống.",
@@ -1591,7 +1591,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":105,
+    "id":106,
     "choices":[
       "A. trau dồi kĩ năng sống.",
       "B. chủ động và tự tin khi thiết lập các mối quan hệ xã hội.",
@@ -1607,7 +1607,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":106,
+    "id":107,
     "choices":[
       "A. giúp đỡ những người khó khăn (do bệnh tật, nghèo khó, thiên tai…)",
       "B. mang tính cộng đồng, làm để đánh bóng tên tuổi.",
@@ -1623,7 +1623,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":107,
+    "id":108,
     "choices":[
       "A. tổng vệ sinh trường học, địa bàn nơi em sinh sống",
       "B. tham gia các hoạt động thiện nguyện ở địa phương",
@@ -1639,7 +1639,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":108,
+    "id":109,
     "choices":[
       "A. Mở rộng các mối quan hệ xã hội của bản thân.",
       "B. Phát huy tinh thần đoàn kết, tương thân tương ái trong cộng đồng.",
@@ -1655,7 +1655,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":109,
+    "id":110,
     "choices":[
       "A. Xây dựng nếp sống văn minh.",
       "B. Xóa bỏ nghệ thuật truyền thống từ xa xưa",
@@ -1671,7 +1671,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":110,
+    "id":111,
     "choices":[
       "A. Thực hiện đầy đủ các nhiệm vụ được giao trong quá trình hoạt động",
       "B. Thiếu ý chí và nghị lực.",
@@ -1687,7 +1687,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":111,
+    "id":112,
     "choices":[
       "A. Hà là người sống tình cảm, có trách nhiệm.",
       "B. Hà là người không biết nghĩ.",
@@ -1703,7 +1703,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":112,
+    "id":113,
     "choices":[
       "A. Đồng tình với việc làm của Trung",
       "B. Không đồng tình với việc làm của Trung",
@@ -1719,7 +1719,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":113,
+    "id":114,
     "choices":[
       "A. quyền lợi, trách nhiệm của mỗi cá nhân.",
       "B. trách nhiệm của cơ quan địa phương.",
@@ -1735,7 +1735,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":114,
+    "id":115,
     "choices":[
       "A. Tạo sự đa dạng về đời sống của nhân dân.",
       "B. Thu hút tính tò mò.",
@@ -1751,7 +1751,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":115,
+    "id":116,
     "choices":[
       "A. Trao đổi sinh viên.",
       "B. Giao hữu bóng đá.",
@@ -1767,7 +1767,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":116,
+    "id":117,
     "choices":[
       "A. Xác định được mục đích thiết lập mối quan hệ.",
       "B. Xác định được khó khăn của cộng đồng.",
@@ -1783,7 +1783,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":117,
+    "id":118,
     "choices":[
       "A. Tham gia hoạt động của lớp.",
       "B. Quyên góp ủng hộ trẻ em vùng cao.",
@@ -1799,7 +1799,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":118,
+    "id":119,
     "choices":[
       "A. Tạo ra sự phong phú, đa dạng văn hóa mỗi quốc gia.",
       "B. Thể hiện tính độc đáo đặc trưng của mỗi nền văn hóa.",
@@ -1815,7 +1815,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":119,
+    "id":120,
     "choices":[
       "A. Tiếp thu những giá trị tích cực, những nét đẹp của các nền văn hóa.",
       "B. Phán xét sự khác biệt của các nền văn hóa.",
@@ -1831,7 +1831,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":120,
+    "id":121,
     "choices":[
       "A. Giúp đỡ những người có hoàn cảnh khó khăn.",
       "B. Tham gia hoạt động “An toàn giao thông”.",
@@ -1847,7 +1847,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":121,
+    "id":122,
     "choices":[
       "A. Say mê tìm hiểu phong tục, tập quán của các dân tộc.",
       "B. Thường xuyên tìm hiểu và tham gia các lễ hội truyền thống.",
@@ -1863,7 +1863,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":122,
+    "id":123,
     "choices":[
       "A. Giúp chúng ta trau dồi được nhiều kiến thức mới.",
       "B. Giúp chúng ta hiểu và tôn trọng những giá trị, quan niệm và phong tục tập quán của mỗi dân tộc.",
@@ -1879,7 +1879,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":123,
+    "id":124,
     "choices":[
       "A. Xác định mục đích thiết lập các mối quan hệ xã hội.",
       "B. Biết rõ đối tượng mà mình muốn thiết lập mối quan hệ.",
@@ -1895,7 +1895,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":124,
+    "id":125,
     "choices":[
       "A. Tiểu phẩm tuyên truyền.",
       "B. Quyên góp giúp đỡ trẻ em vùng cao.",
@@ -1911,7 +1911,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":125,
+    "id":126,
     "choices":[
       "A. Mở rộng các mối quan hệ xã hội của bản thân.",
       "B. Phát huy tinh thần đoàn kết, tương thân tương ái trong cộng đồng.",
@@ -1927,7 +1927,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":126,
+    "id":127,
     "choices":[
       "A. trau dồi kĩ năng sống.",
       "B. chủ động và tự tin khi thiết lập các mối quan hệ xã hội.",
@@ -1943,7 +1943,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":127,
+    "id":128,
     "choices":[
       "A. Tìm hiểu về quan hệ hữu nghị giữa các dân tộc.",
       "B. Vẽ tranh cổ động.",
@@ -1959,7 +1959,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":128,
+    "id":129,
     "choices":[
       "A. Dân tộc Mông.",
       "B. Dân tộc Dao.",
@@ -1975,7 +1975,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":129,
+    "id":130,
     "choices":[
       "A. Lao động.",
       "B. Làm việc.",
@@ -1991,7 +1991,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":130,
+    "id":131,
     "choices":[
       "A. Có tính sáng tạo.",
       "B. Trung thực.",
@@ -2007,7 +2007,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":131,
+    "id":132,
     "choices":[
       "A. Nhân viên giao dịch ngân hàng.",
       "B. Giáo viên.",
@@ -2023,7 +2023,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":132,
+    "id":133,
     "choices":[
       "A. Lĩnh vực Chăm sóc sức khỏe.",
       "B. Lĩnh vực An ninh mạng.",
@@ -2039,7 +2039,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":133,
+    "id":134,
     "choices":[
       "A. Sự phát triển mạnh mẽ của khoa học – công nghệ.",
       "B. Chất lượng cuộc sống ngày càng cao của người dân.",
@@ -2055,7 +2055,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":134,
+    "id":135,
     "choices":[
       "A. Nhân hậu, thương người, cảm thông, chia sẻ.",
       "B. Nhanh nhẹn, có tính sáng tạo.",
@@ -2071,7 +2071,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":135,
+    "id":136,
     "choices":[
       "A. Kiến thức, kĩ năng chuyên môn sâu.",
       "B. Tinh thần trách nhiệm cao.",
@@ -2087,7 +2087,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":136,
+    "id":137,
     "choices":[
       "A. Tinh thần trách nhiệm kém.",
       "B. Tư duy nhạy bén.",
@@ -2103,7 +2103,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":137,
+    "id":138,
     "choices":[
       "A. Chỉ có những nghề lao động trí óc mới đáng tôn vinh.",
       "B. Bất cứ nghề nào trong xã hội cũng đáng quý và đáng được trân trọng như nhau.",
@@ -2119,7 +2119,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":138,
+    "id":139,
     "choices":[
       "A. Lao động giản đơn sẽ trở nên yếu thế.",
       "B. Xu hướng lao động \"phi chính thức\" gia tăng.",
@@ -2135,7 +2135,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":139,
+    "id":140,
     "choices":[
       "A. Khả năng thích ứng và học hỏi liên tục",
       "B. Thích làm việc một mình mà không cần giao tiếp",
@@ -2151,7 +2151,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":140,
+    "id":141,
     "choices":[
       "A. Khả năng thích ứng và học hỏi liên tục",
       "B. Thích làm việc một mình mà không cần giao tiếp",
@@ -2167,7 +2167,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":141,
+    "id":142,
     "choices":[
       "A. thị trường việc làm.",
       "B. thị trường lao động.",
@@ -2183,7 +2183,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":142,
+    "id":143,
     "choices":[
       "A. 3 yếu tố.",
       "B. 4 yếu tố.",
@@ -2199,7 +2199,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":143,
+    "id":144,
     "choices":[
       "A. Lượng cung.",
       "B. Lượng cầu.",
@@ -2215,7 +2215,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":144,
+    "id":145,
     "choices":[
       "A. Nguồn cung lao động nhỏ hơn so với nhu cầu tuyển dụng việc làm.",
       "B. Có sự cân bằng giữa nguồn cung lao động với nhu cầu tuyển dụng.",
@@ -2231,7 +2231,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":145,
+    "id":146,
     "choices":[
       "A. Lao động trong nông nghiệp giảm, lao động trong công nghiệp và dịch vụ tăng.",
       "B. Lao động chưa qua đào tạo tăng lên và chiếm ưu thế so với lao động được đào tạo.",
@@ -2247,7 +2247,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":146,
+    "id":147,
     "choices":[
       "A. Cắt giảm số lượng lao động trên các nền tảng công nghệ, chuyển dịch nghề nghiệp gắn với kĩ năng mềm, lao động đơn giản sẽ trở nên yếu thế, lao động “phi chính thức” gia tăng",
       "B. Cắt giảm số lượng lao động trên các nền tảng công nghệ, chuyển dịch nghề nghiệp gắn với kĩ năng mềm, lao động đơn giản sẽ trở thành thế mạnh, lao động “phi chính thức” giảm",
@@ -2263,7 +2263,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":147,
+    "id":148,
     "choices":[
       "A. Chiến lược, chủ trương, chính sách phát triển kinh tế - xã hội của Đảng và Nhà nước",
       "B. Các ý tưởng tiềm năng của các nhà sử dụng lao động thành công",
@@ -2279,7 +2279,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":148,
+    "id":149,
     "choices":[
       "A. Làm việc theo cảm hứng.",
       "B. Làm việc một cách tự phát và không theo kế hoạch.",
@@ -2295,7 +2295,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":149,
+    "id":150,
     "choices":[
       "A. Tinh thần trách nhiệm.",
       "B. Tính chính trực.",
@@ -2311,7 +2311,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":150,
+    "id":151,
     "choices":[
       "A. Từ bỏ và tìm việc khác.",
       "B. Tìm cách đổ lỗi cho người khác.",
@@ -2327,7 +2327,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":151,
+    "id":152,
     "choices":[
       "A. Thợ điện.",
       "B. Nông dân",
@@ -2343,7 +2343,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":152,
+    "id":153,
     "choices":[
       "A. Nhân viên văn phòng.",
       "B. Nhà báo.",
@@ -2359,7 +2359,7 @@
     ],
     "image":null,
     "explanation":null,
-    "id":153,
+    "id":154,
     "choices":[
       "A. Cảnh sát.",
       "B. Thợ xây.",
