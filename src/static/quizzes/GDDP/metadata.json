@@ -1,11 +1,11 @@
 {
-  "name":"HDTNHN - GDDP",
+  "name":"GDDP",
   "hasQuiz":true,
   "hasFlashcard":true,
   "timestamp":1745683748,
   "questionCount":{
-    "total":141,
-    "mc":135,
+    "total":51,
+    "mc":45,
     "fc":6
   }
 }

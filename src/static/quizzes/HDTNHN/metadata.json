@@ -1,0 +1,10 @@
+{
+  "name":"HDTNHN",
+  "hasQuiz":true,
+  "hasFlashcard":false,
+  "timestamp":1745683748,
+  "questionCount":{
+    "total":90,
+    "mc":90
+  }
+}
