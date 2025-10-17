@@ -1,0 +1,10 @@
+{
+  "name":"Cap Toc",
+  "hasQuiz":true,
+  "hasFlashcard":false,
+  "timestamp":1760748647,
+  "questionCount":{
+    "total":300,
+    "mc":300
+  }
+}
