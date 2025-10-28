@@ -9,10 +9,10 @@
     "explanation":null,
     "id":1,
     "choices":[
-      4,
-      6,
-      8,
-      10
+      "4",
+      "6",
+      "8",
+      "10"
     ]
   },
   {
@@ -665,8 +665,8 @@
     "explanation":null,
     "id":42,
     "choices":[
-      1010000,
-      120000,
+      "01010000",
+      "00120000",
       "00fe0001",
       "000A110"
     ]
@@ -793,10 +793,10 @@
     "explanation":null,
     "id":50,
     "choices":[
-      1995,
-      1996,
-      1997,
-      1998
+      "1995",
+      "1996",
+      "1997",
+      "1998"
     ]
   },
   {
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "question":"55. Để định vị Taskbar trong trạng thái được định vị tùy ý ta chọn",
+    "question":"55. Để định vị Taskbar trong trạng thái [✅ Lock the taskbar] được định vị tùy ý ta chọn",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1145,10 +1145,10 @@
     "explanation":null,
     "id":72,
     "choices":[
-      3,
-      4,
-      5,
-      6
+      "3",
+      "4",
+      "5",
+      "6"
     ]
   },
   {
@@ -1337,10 +1337,10 @@
     "explanation":null,
     "id":84,
     "choices":[
-      64,
-      128,
-      255,
-      256
+      "64",
+      "128",
+      "255",
+      "256"
     ]
   },
   {
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "question":"120. Sắp xếp theo thứ tự các thao tác để đăng nhập vào hộp thư điện tử đã có:\n1. Gõ tên đăng nhập và mật khẩu\n2. Truy cập vào trang Web cung cấp dịch vụ thư điện tử\n3. Mở Internet\n4. Nháy chuột vào nút Đăng nhập",
+    "question":"120. Sắp xếp theo thứ tự các thao tác để đăng nhập vào hộp thư điện tử đã có: 1. Gõ tên đăng nhập và mật khẩu 2. Truy cập vào trang Web cung cấp dịch vụ thư điện tử 3. Mở Internet 4. Nháy chuột vào nút Đăng nhập",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3353,7 +3353,9 @@
     "explanation":null,
     "id":210,
     "choices":[
-
+      "#VALUE!",
+      "#NAME?",
+      "#DIV\/0!"
     ]
   },
   {
@@ -3606,10 +3608,10 @@
     "explanation":null,
     "id":226,
     "choices":[
-      "#ERROR!",
-      "#ERROR!",
-      "#ERROR!",
-      "#ERROR!"
+      "=TODAY() có kết quả 31\/12\/2016",
+      "=NOW() có kết quả 31\/12\/2016 10:32:00",
+      "=DATE(TODAY()) có kết quả 31",
+      "=MONTH(NOW()) có kế quả là 12"
     ]
   },
   {
@@ -3622,7 +3624,10 @@
     "explanation":null,
     "id":227,
     "choices":[
-
+      "=$A3 + D$1",
+      "=$B3 + E$1",
+      "=$C3 + F$1",
+      "=$A3 + D1"
     ]
   },
   {
@@ -3650,10 +3655,10 @@
     "explanation":null,
     "id":229,
     "choices":[
-      "#ERROR!",
-      "#ERROR!",
-      "#ERROR!",
-      "#ERROR!"
+      "=COUNT(“A”, “B”, 1,2) là 4",
+      "=COUNTA(“A”, “B”, 1,2) là 2",
+      "=COUNTA(“A”, “B”, 1,2) là 4",
+      "=COUNT(“A”, “B”, 1, 2) là 3"
     ]
   },
   {
@@ -3682,10 +3687,10 @@
     "explanation":null,
     "id":231,
     "choices":[
-      8,
-      6,
-      4,
-      24
+      "8",
+      "6",
+      "4",
+      "24"
     ]
   },
   {
@@ -3714,10 +3719,10 @@
     "explanation":null,
     "id":233,
     "choices":[
-      2,
-      3,
+      "2",
+      "3",
       "Công thức có lỗi cú pháp",
-      false
+      "FALSE"
     ]
   },
   {
@@ -3746,10 +3751,10 @@
     "explanation":null,
     "id":235,
     "choices":[
-      0,
-      3,
-      1,
-      6
+      "0",
+      "3",
+      "1",
+      "6"
     ]
   },
   {
@@ -3762,10 +3767,10 @@
     "explanation":null,
     "id":236,
     "choices":[
-      15,
-      16,
-      17,
-      18
+      "15",
+      "16",
+      "17",
+      "18"
     ]
   },
   {
@@ -3778,9 +3783,10 @@
     "explanation":null,
     "id":237,
     "choices":[
-      2,
-      10,
-      50
+      "#VALUE!",
+      "2",
+      "10",
+      "50"
     ]
   },
   {
@@ -3810,6 +3816,7 @@
     "id":239,
     "choices":[
       "18\/9\/2013",
+      "#VALUE!",
       "#NAME!",
       "20\/9\/2013"
     ]
@@ -3872,9 +3879,10 @@
     "explanation":null,
     "id":243,
     "choices":[
-      15,
-      10,
-      20
+      "#VALUE!",
+      "15",
+      "10",
+      "20"
     ]
   },
   {
@@ -3887,9 +3895,9 @@
     "explanation":null,
     "id":244,
     "choices":[
-      5,
-      100,
-      20
+      "5",
+      "100",
+      "20"
     ]
   },
   {
@@ -3902,9 +3910,10 @@
     "explanation":null,
     "id":245,
     "choices":[
-      0,
-      4,
-      2018
+      "#Value!",
+      "0",
+      "4",
+      "2018"
     ]
   },
   {
@@ -3917,7 +3926,10 @@
     "explanation":null,
     "id":246,
     "choices":[
-
+      "=ROUND(B2 *B$4,-4)",
+      "=ROUND(B2 *B$4,3)",
+      "=ROUND(B2 *B4, -3)",
+      "=ROUND(B2 *B$4, -3)"
     ]
   },
   {
@@ -3930,9 +3942,10 @@
     "explanation":null,
     "id":247,
     "choices":[
-      0,
-      3,
-      17
+      "=MAX(\"A\",13,4)",
+      "=COUNTIF(D7:D18,\"A\")",
+      "=COUNTA(\"A\",13,4)",
+      "=SUM(13,4)"
     ]
   },
   {
@@ -4761,10 +4774,10 @@
     "explanation":null,
     "id":299,
     "choices":[
-      7,
-      8,
-      9,
-      10
+      "7",
+      "8",
+      "9",
+      "10"
     ]
   },
   {
