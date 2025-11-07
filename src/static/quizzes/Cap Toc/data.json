@@ -3077,7 +3077,7 @@
     "answer":[
       3
     ],
-    "image":null,
+    "image":"\/quizzes\/Cap Toc\/193.png",
     "explanation":null,
     "id":193,
     "choices":[
@@ -3093,7 +3093,7 @@
     "answer":[
       3
     ],
-    "image":null,
+    "image":"\/quizzes\/Cap Toc\/194.png",
     "explanation":null,
     "id":194,
     "choices":[
@@ -3109,7 +3109,7 @@
     "answer":[
       4
     ],
-    "image":null,
+    "image":"\/quizzes\/Cap Toc\/195.png",
     "explanation":null,
     "id":195,
     "choices":[
@@ -3642,8 +3642,7 @@
     "choices":[
       "TB",
       "Khá",
-      "Yếu",
-      "#N/A"
+      "Yếu"
     ]
   },
   {
