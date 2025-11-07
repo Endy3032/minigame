@@ -1,6 +1,6 @@
 [
   {
-    "question":"1. Theo đơn vi đo thông tin trong máy tính thì 1 byte bằng bao nhiêu bit ?",
+    "question":"Theo đơn vị đo thông tin trong máy tính thì 1 byte bằng bao nhiêu bit?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "question":"2. Thiết bị nào sau đây dùng để kết nối mạng?",
+    "question":"Thiết bị nào sau đây dùng để kết nối mạng?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "question":"3. Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
+    "question":"Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "question":"4. Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?",
+    "question":"Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -57,14 +57,14 @@
     "explanation":null,
     "id":4,
     "choices":[
-      "Bàn phím (Keyboard), Chuột (Mouse), Máy in (Printer)",
+      "Bàn phím (keyboard), Chuột (Mouse), Máy in (Printer)",
       "Máy quét ảnh (Scaner)",
-      "Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scaner)",
-      "Máy quét ảnh (Scaner), Chuột(Mouse)"
+      "Bàn phím (Keyboard), Chuột (Mouse) và máy quét ảnh (Scaner)",
+      "Máy quét ảnh (Scaner), Chuột (Mouse)"
     ]
   },
   {
-    "question":"5. Khả năng xử lý của máy tính phụ thuộc vào … bạn sử dụng lựa chọn nào?",
+    "question":"Khả năng xử lý của máy tính phụ thuộc vào ... bạn sử dụng lựa chọn nào?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "question":"6. Máy tính là gì?",
+    "question":"Máy tính là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -91,12 +91,12 @@
     "choices":[
       "Là công cụ chỉ dùng để tính toán các phép tính thông thường",
       "Là công cụ cho phép xử lý thông tin một cách tự động",
-      "Là công cụ cho phép xử lý thông tin một cách thủ công",
+      "Là công cụ cho phép xử lý thoông tin một cách thủ công",
       "Là công cụ không dùng để tính toán"
     ]
   },
   {
-    "question":"7. Trình tự xử lý thông tin của máy tính điện tử",
+    "question":"Trình tự xử lý thông tin của máy tính điện tử",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -105,14 +105,14 @@
     "explanation":null,
     "id":7,
     "choices":[
-      "Màn hình → CPU → Đĩa cứng",
-      "Đĩa cứng → Màn hình → CPU",
-      "Nhập thông tin → Xử lý thông tin → Xuất thông tin",
-      "Màn hình → Máy in → CPU"
+      "Màn hình ⟶⟶ CPU ⟶⟶ Đĩa cứng",
+      "Đĩa cứng ⟶ Màn hình ⟶ CPU",
+      "Nhập thông tin ⟶ Xử lý thông tin ⟶ Xuất thông tin",
+      "Màn hình ⟶ Máy in ⟶ CPU"
     ]
   },
   {
-    "question":"8. Cấu tạo của máy tính bao gồm _____",
+    "question":"Cấu tạo của máy tính bao gồm______",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "question":"9. Trong phân loại mạng máy tính theo qui mô, loại mạng nào là nhỏ nhất?",
+    "question":"Trong phân loại mạng máy tính theo quy mô, loại mạng nào là nhỏ nhất?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "question":"10. Câu nào sau đây đúng?",
+    "question":"Câu nào sau đay đúng?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -154,13 +154,13 @@
     "id":10,
     "choices":[
       "Các máy tính gần nhau mặc định sẽ thấy nhau dù không cùng lớp mạng",
-      "Nếu chỉ có một máy tính thì nó không thể chia sẽ dữ liệu",
-      "Máy khác có thể thay đổi các tập tin chia sẽ khi chưa được phép",
-      "Hai máy tính vẫn có thể kết nối với nhau mà không quan tâm đến khoảng cách địa lý là bao xa"
+      "Nếu chỉ có một máy tính thì nó sẽ không thể chia sẻ dữ liệu",
+      "Máy khác có thể thay đổi các tập tin chia sẻ khi chưa được phép",
+      "Hai máy tính vẫn có thể kết nối với nau mà không quan tâm đến địa lý là bao xa"
     ]
   },
   {
-    "question":"11. Tường lửa là _________ .",
+    "question":"Tường lửa là ________.",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -170,13 +170,13 @@
     "id":11,
     "choices":[
       "Là sự kết hợp của một phần mềm và một thiết bị phần cứng",
-      "Kiểm soát lưu thông dữ liệu giữa 2 vùng có độ tin cậy khác nhau trên mạng",
-      "Có thể dùng để chặn các truy cập hợp pháp đến một thiết bị\/dịch vụ",
-      "Là một thuật ngữ ám chỉ máy tính không còn an toàn nữa"
+      "Kiểm soát lưu thông dữ liệu giữa 2 vùng có độ tin cậy khác nhau trên mạng.",
+      "Có thể dùng để chặn các truy cập hợp pháp đến một thiết bị\/dịch vụ.",
+      "Là một thuật ngữ ám chỉ máy tính không còn an toàn nữa."
     ]
   },
   {
-    "question":"12. Mạng máy tính là _______",
+    "question":"Mạng máy tính là _______.",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -187,12 +187,12 @@
     "choices":[
       "Các máy tính cùng chung một nhà sản xuất.",
       "Các máy tính độc lập và được kết nối với nhau.",
-      "Các mạng do loài nhện tạo ra bên trong thùng máy.",
+      "Các mạng do nhện tạo ra bên trong thùng máy.",
       "Các máy tính được đặt chung trong một phòng."
     ]
   },
   {
-    "question":"13. Phát biểu nào là sai về Virus máy tính ?",
+    "question":"Phát biểu nào là sai về Virus máy tính?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -203,28 +203,28 @@
     "choices":[
       "Có khả năng phá hoại đối với các sản phẩm tin học",
       "Có khả năng tự giấu kín và tự sao chép",
-      "Là một chương trình máy tính do con người tạo ra",
-      "Tự động biến mất sau một khoản thời gian"
+      "Là một chương trình máy tính do con người tạo ra.",
+      "Tự động biến mất sau một khoản thời gian."
     ]
   },
   {
-    "question":"14. TCP\/IP là _____",
+    "question":"TCP\/IP là _____.",
     "type":"Multiple Choice",
     "answer":[
-      2
+      3
     ],
     "image":null,
     "explanation":null,
     "id":14,
     "choices":[
       "1 giao thức",
-      "1 bộ giao thức",
       "1 thiết bị mạng",
+      "1 bộ giao thức",
       "1 phần mềm"
     ]
   },
   {
-    "question":"15. Hình thức lây nhiễm virus máy tính nào không phổ biến?",
+    "question":"Hình thức lây nhiễm virus máy tính nào không phổ biến?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -233,14 +233,14 @@
     "explanation":null,
     "id":15,
     "choices":[
-      "Qua các thiết bị di động như đĩa cứng rời, thẻ nhớ, …",
+      "Qua các thiết bị di động như đĩa cứng rời, thẻ nhớ,...",
       "Qua thư điện tử",
-      "Qua mạng internet: vào trang web độc hại, tải phần mềm trên mạng, …",
+      "Qua mạng internet: vao trang web độc hại, tải phần mềm trên mạng,...",
       "Tự cài đặt lên máy nội bộ"
     ]
   },
   {
-    "question":"16. Các tác vụ nào sau đây dùng trong phòng chống virus?",
+    "question":"Các tác vụ nào sau đây dùng trong phòng chống virus?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -249,14 +249,14 @@
     "explanation":null,
     "id":16,
     "choices":[
-      "Không dùng hoặc dùng rất nhanh máy tính nên sẽ không có virus",
+      "Không dùng hoặc dùng rất nhanh mấy tính nên sẽ không có virus",
       "Dùng các phần mềm chuyên nghiệp trong phòng chống virus và cập nhật các bản vá lỗi thường xuyên",
-      "Không bao giờ kết nối máy tính với các thiết bị ngoại vi để tránh lây nhiễm",
-      "Không cần phòng chống, virus sẽ tự động biến mất khi tắt máy"
+      "Không bao giới kết nối máy tính với cá thiết bị ngoại vi để tránh lây nhiễm",
+      "Không cần phòng chống, virus sẽ tự động biến mất khi tắt máy."
     ]
   },
   {
-    "question":"17. Một chương trình máy tính là gì?",
+    "question":"Một chương trình máy tính là gì?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -266,13 +266,13 @@
     "id":17,
     "choices":[
       "Một tập các bước mà người sử dụng phải tuân theo để mua phần mềm",
-      "một tập hợp các quy tắc về việc sử dụng hợp pháp của phần mềm ứng dụng",
+      "Một tập hợp các quy tắt về việc sử dụng hợp pháp của phần mềm ứng dụng",
       "Thiết lập các quy tắc về việc sử dụng hợp pháp của phần mềm ứng dụng",
-      "Chuỗi các hướng dẫn được viết để thực hiện các nhiệm vụ cụ thể"
+      "Chuỗi các hướng dẫn được viết để thực hiện các nhiệm vụ cụ thể."
     ]
   },
   {
-    "question":"18. Ta nhận được gì khi mua một chương trình phần mềm?",
+    "question":"Ta nhận được gì khi mua một chương trình phần mềm?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -282,13 +282,13 @@
     "id":18,
     "choices":[
       "Các quyền chia sẻ chương trình với người dùng khác",
-      "Giấy pháp cho phép cài đặt và sử dụng chương trình phần mềm",
+      "GIấy phép cho phép cài đặt và sử dụng chương trình phần mềm",
       "Mã nguồn của chương trình",
-      "Quyền bán các chương trình phần mềm cho người khác"
+      "Quyền bán các chương trình phần mềm cho người khác."
     ]
   },
   {
-    "question":"19. Firmware là gì?",
+    "question":"Firmware là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "question":"20. Phát biểu nào sau đây là đúng về bộ nhớ RAM?",
+    "question":"Phát biểu nào sau đây là đúng về bộ nhớ RAM?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -314,13 +314,13 @@
     "id":20,
     "choices":[
       "Không thể nâng cấp",
-      "Cho phép đọc ghi xoá thông tin",
+      "Cho phép đọc ghi xóa thông tin",
       "Khi mất điện dữ liệu trong RAM không bị mất",
-      "Hệ thống vẫn hoạt động khi thiếu RAM"
+      "Hệ thông vẫn hoạtđộng khi thiếu RAM"
     ]
   },
   {
-    "question":"21. Cho các đơn vị đo lường sau: MegaByte (MB), Byte (B), GigaByte (GB), KiloByte (KB). Hãy sắp xếp các đơn vị đo lường từ nhỏ đến lớn.",
+    "question":"Cho cấc đơn vị đo lường sau: MegaByte (MB), Byte (B), GigaByte (GB), KiloByte (KB). Hãy sắp xếp các đơn vị đo lường từ nhỏ đến lớn.",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "question":"22. Đâu không phải là đơn vị thể hiện dung lượng bộ nhớ trong máy tính?",
+    "question":"Đâu không phải là đơn vị thể hiện dung lượng bộ nhớ trong máy tính?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -347,12 +347,12 @@
     "choices":[
       "GigaByte (GB)",
       "ZettaByte (ZB)",
-      "Bit (b)",
-      "GigaHertz (GHz)"
+      "Bit (B)",
+      "GigaHertz (Ghz)"
     ]
   },
   {
-    "question":"23. Nhìn vào các tham số cấu hình của một máy tính: 1.8Ghz, 20GB, 1GB. Con số 20Gb là thống số gì?",
+    "question":"Nhìn vào các tham số cấu hình của một máy tính: 1.8 Ghz, 20GB, 1 GB. Con số 20 GB là thông số gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -364,11 +364,11 @@
       "Tốc độ xử lý của CPU",
       "Tốc độ vòng quay của ổ cứng",
       "Dung lượng của ổ đĩa cứng",
-      "Dung của tối đa của đĩa DVD mà máy có thể đọc được"
+      "Dung lượng tối đa của đĩa DVD mà máy có thể đọc được"
     ]
   },
   {
-    "question":"24. ROM là từ viết tắt của ________",
+    "question":"ROM là từ viết tắt của________",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -377,14 +377,14 @@
     "explanation":null,
     "id":24,
     "choices":[
-      "Storage Of Memory",
+      "Storage Ò Memory",
       "Resources Of Memory",
       "Read Only Memory",
       "Random Output Measure"
     ]
   },
   {
-    "question":"25. Bộ nhớ truy nhập trực tiếp RAM được viết tắt từ, bạn sử dụng lựa chọn nào?",
+    "question":"Bộ nhớ truy nhập trực tiếp RAM được viết tắt từ, bạn sử dụng lựa chọn nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -393,14 +393,14 @@
     "explanation":null,
     "id":25,
     "choices":[
-      "Read Access Memory",
+      "Read Acces Memory",
       "Random Access Memory",
       "Rewrite Access Memory",
       "Cả 3 câu đều đúng"
     ]
   },
   {
-    "question":"26. Bộ nhớ RAM và ROM là bộ nhớ gì?",
+    "question":"Bộ nhớ RAM và ROM là bộ nhớ gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "question":"27. GUI cho phép giao tiếp với máy tính bằng hình ảnh và chữ viết. GUI là viết tắt của ___",
+    "question":"GUI cho phép giao tiếp với máy tính bằng hình ảnh và chữ viết. GUI là viết tắt của_______",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "question":"28. Phát biểu nào sau đây sai?",
+    "question":"Phát biểu nào sau đây sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -444,11 +444,11 @@
       "Mạng là môi trường nhiều người dùng",
       "Mạng là môi trường đa nhiệm",
       "Mạng là môi trường phân tán",
-      "Việc chia sẽ dữ liệu trên mạng là không an toàn"
+      "Việc chia sẻ dữ liệu trên mạng là không an toàn"
     ]
   },
   {
-    "question":"29. Hệ thống số nào được Máy tính sử dụng chính?",
+    "question":"Hệ thống số nào được Máy tính sử dụng chính?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -460,11 +460,11 @@
       "Hệ Nhị phân",
       "Hệ Bát phân",
       "Hệ Thập lục phân",
-      "Hệ Thập phân"
+      "Hệ Thập Phân"
     ]
   },
   {
-    "question":"30. Đâu không phải là trách nhiệm cá nhân của người dùng?",
+    "question":"Đâu không phải là trách nhiệm cá nhân của người dùng?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -474,13 +474,13 @@
     "id":30,
     "choices":[
       "Đảm bảo bảo mật thông tin cá nhân",
-      "Đảm bảo độ mạnh của mật khẩu (nếu có) và đổi mật khẩu thường xuyên",
+      "Đảm bảo độ mạnh của mật khẩu (nếu có) và đổi mật khẩu thường xuyên.",
       "Đảm bảo chia sẻ tài nguyên đúng người và đúng việc",
       "Quản lý các người dùng khác"
     ]
   },
   {
-    "question":"31. Phát biểu nào sau đây về thiết bị nhập (input)\/xuất (output) của một hệ thống máy tính là sai?",
+    "question":"Phát biểu nào sau đây về thiết bị nhập (input)\/xuất (output) của một hệ thống máy tính là sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "question":"32. Loại máy tính nào được dùng để chạy những phần mềm chuyên môn hóa hoặc để chia sẽ tài nguyên, quản lý nguồn dữ liệu lớn?",
+    "question":"Loại máy tính nào được dùng để chạy những phần mềm chuyên môn hóa hoặc để chia sẻ tài nguyên, quản lý người dữ liệu lớn?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -512,7 +512,7 @@
     ]
   },
   {
-    "question":"33. Ngôn ngữ nào sau đây không thuộc Ngôn ngữ được lập trình trên máy tính:",
+    "question":"Ngôn ngữ nào sau đây không thuộc Ngôn ngữ được lập trình trên máy tính:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "question":"34. Mục đích chủ yếu của chính sách an ninh thông tin của một tổ chức là gì?",
+    "question":"Mục đích chủ yếu của chính sách an ninh thông tin của một tổ chức là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -540,11 +540,11 @@
       "Quản lý việc đầu tư của công ty",
       "Theo dõi và kiểm soát thông tin, dữ liệu nhạy cảm",
       "Mô tả hoạt động kinh doanh",
-      "Thu nhập thông tin thị trường"
+      "Thu thập thông tin thị trường"
     ]
   },
   {
-    "question":"35. Nếu một máy tính bị nghi ngờ là nhiễm virus thì cách thức tốt nhất để kiểm tra và diệt virus là gì?",
+    "question":"Nếu một máy tính bị nghi ngờ là nhiễm virus thì cách thức tốt nhất để kiểm tra và diệt virus là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -553,14 +553,14 @@
     "explanation":null,
     "id":35,
     "choices":[
-      "Cài đặt lại hệ điều hành, sau đó cài đặt lại tất cả các chương trình ứng dụng khác",
-      "Cài đặt một chương trình chống virus, quét virus các ổ đĩa của máy tính và cho chương trình này loại bỏ virus",
-      "Lưu trữ dự phòng các tệp tin của máy tính và hồi phục chúng bằng việc sử dụng những tập tin dự phòng này",
-      "Khởi động lại máy tính và sau đó xóa tất cả những tập tin bị nghi ngờ nhiễm virus"
+      "Cài đặt lại hệ điều hành, sau đó cài đặt tất cả các chương trình ứng dụng khác",
+      "Cài đặt một chương trình chống virus, quét virus các ổ đĩa của máy tính và cho chương trình này loại bỏ virus.",
+      "Lưu trữ dự phòng các tệp tin của máy tính và hồi phục chúng bằng việc sử dụng những tập tin dự phòng này.",
+      "Khởi động lại máy tính và sau đó xóa tất cả những tập tin bị nghi ngờ nhiễm virus."
     ]
   },
   {
-    "question":"36. Vấn đề sức khỏe phổ biến của người sử dụng máy tính là các chấn thương cổ tay. Nguyên nhân của chấn thương thông thường là gì?",
+    "question":"Vấm đề sức khỏe phổ biến của người sử dụng máy tính là các chấn thương cổ tay. Nguyên nhân của chấn thương thông thường là?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "question":"37. Trong những tình huống hoặc lĩnh vực nào sau đây, con người làm việc tốt hơn máy tính",
+    "question":"Trong những tình huống hoặc lĩnh vực nào sau đây, con người làm việc tốt hơn máy tính",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "question":"38. Theo bạn, câu nào sau đây không thể hiện ưu điểm của làm việc từ xa (Tele-working)",
+    "question":"Theo bạn, câu nào sau đây không thể hiện ưu điểm của làm việc từ xa (Tele-working)",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -604,14 +604,14 @@
       "Giảm thời gian đi lại",
       "Khả năng tập trung vào công việc",
       "Tăng cường sự liên hệ trực tiếp",
-      "Giảm không gian văn phòng"
+      "GIảm không gian văn phòng"
     ]
   },
   {
-    "question":"39. Lựa chọn nào sau đây chỉ ra sự khác biệt chính xác giữa phần mềm ứng dụng và phần mềm hệ điều hành",
+    "question":"Lựa chọn nào sau đây chỉ ra sự khác biệt chính xác giữa phần mềm ứng dụng và phần mềm hệ điều hành",
     "type":"Multiple Choice",
     "answer":[
-      4
+      3
     ],
     "image":null,
     "explanation":null,
@@ -620,11 +620,11 @@
       "Phần mềm ứng dụng cần nhiều không gian trong ổ cứng hơn phần mềm hệ điều hành để chạy",
       "Phần mềm hệ điều hành cần phần mềm ứng dụng để chạy",
       "Phần mềm hệ điều hành cần nhiều bộ nhớ hơn phần mềm ứng dụng để chạy",
-      "Phần mềm ứng dụng cần phần mềm hệ điều hành để chạy"
+      "Phần mềm ứng dụng cần phền mềm hệ điều hành để chạy"
     ]
   },
   {
-    "question":"40. Lợi thế của mua hàng trực tuyến so với mua hàng bình thường ở cửa hàng là gì?",
+    "question":"Lợi thể của mua hàng trực tuyến so với mua hàng bình thường ở cửa hàng là gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "question":"41. Máy tính có thể giúp con người thực hiện",
+    "question":"Máy tính có thể giúp con người thực hiện",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -650,13 +650,13 @@
     "id":41,
     "choices":[
       "Chuyển tiền qua mạng máy tính của ngân hàng",
-      "Học tập mọi nơi, mọi lúc.",
       "Hệ thống thẻ tín dụng",
+      "Học tập mọi nơi, mọi lúc",
       "Tất cả các mục trên."
     ]
   },
   {
-    "question":"42. Dãy số nào biểu diễn dữ liệu hệ nhị phân",
+    "question":"Dãy số nào biểu diễn dữ liệu hệ nhị phân",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -666,13 +666,13 @@
     "id":42,
     "choices":[
       "01010000",
-      "00120000",
       "00fe0001",
+      "00120000",
       "000A110"
     ]
   },
   {
-    "question":"43. CPU có nghĩa là",
+    "question":"CPU có nghĩa là",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -682,13 +682,13 @@
     "id":43,
     "choices":[
       "Mạch điện tử nhỏ bé của máy tính",
-      "Phần mềm quyết định các bước thao tác của máy tính",
+      "Phần mềm quyết định các thao tác của máy tính",
       "Control Processing Unit",
       "Central Processing Unit"
     ]
   },
   {
-    "question":"44. Virus máy tính",
+    "question":"Virus máy tính",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -697,14 +697,14 @@
     "explanation":null,
     "id":44,
     "choices":[
-      "Chỉ hoạt động khi phần mềm bị sao chép trái phép.",
+      "Chỉ hoạt động khi phần mềm bị sao chép trái phép",
       "Là một chương trình máy tính",
       "Là phần cứng chỉ phá hoại các phần khác",
-      "Là một loại nấm mốc trên bề mặt đĩa"
+      "Là một nấm mốc trên bề mặt đĩa"
     ]
   },
   {
-    "question":"45. Trong những tình huống nào sau đây, máy tính thực thi công việc tốt hơn con người",
+    "question":"Trong những tình huống nào sau đây, máy tính thực thi công việc tốt hơn con người",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -716,11 +716,11 @@
       "Khi dịch một cuốn sách",
       "Khi chẩn đoán bệnh",
       "Khi phân tích tâm lý một con người",
-      "Khi thực hiện một phép toán phức tạp"
+      "Khi thực một phép toán phức tạp"
     ]
   },
   {
-    "question":"46. Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer",
+    "question":"Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -730,13 +730,13 @@
     "id":46,
     "choices":[
       "Nhóm phần mềm ứng dụng",
-      "Nhóm phần mềm hệ thống",
+      "NHóm phần mềm hệ thống",
       "Nhóm phần mềm CSDL",
-      "Nhóm phần mềm hệ điều hành"
+      "NHóm phần mềm hệ điều hành"
     ]
   },
   {
-    "question":"47. Câu nào chưa đúng trong số các câu sau?",
+    "question":"Câu nào chưa đúng trong số các câu sau?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -745,14 +745,14 @@
     "explanation":null,
     "id":47,
     "choices":[
-      "Phần mềm thương mại - commercial software: có đăng ký bản quyền : không cho phép sao chép dưới bất kỳ hình thức nào.",
+      "Phần mềm thương mại - commercial software: có đăng ký bản quyền: không cho phép sao chép dưới bất kỳ hình thức nào.",
       "Phần mềm chia sẻ - Shareware: có bản quyền, dùng thử trước khi mua. Nếu muốn tiếp tục sử dụng chương trình thì được khuyến khích trả tiền cho tác giả.",
-      "Phần mềm miễn phí - Freeware: cho phép người khác tự do sử dụng hoàn toàn hoặc theo một số yêu cầu bắt buộc. Ví dụ phải kèm tên tác giả …",
-      "Phần mềm nguồn mở - Open source software: công bố một phần mã nguồn để mọi người tham gia phát triển"
+      "Phần mềm miễn phí - Freeware: cho phép người khác tự do sử dụng hoàn toàn hoặc theo một số yêu cầu bắt buộc. Ví dụ phải kèm tên tác giả...",
+      "Phần mềm nguồn mở - Open source software: công bố một phần mã nguồn để mọi người tham gia phát triển."
     ]
   },
   {
-    "question":"48. Đâu là một ví dụ của chính sách mật khẩu tốt",
+    "question":"Đâu là một ví dụ của chính sách mật khẩu tốt",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -762,13 +762,13 @@
     "id":48,
     "choices":[
       "Chọn một mật khẩu có ít hơn 6 mẫu tự",
-      "Mật khẩu phải giống lý lịch người sử dụng (ví dụ ngày tháng năm sinh, quê quán)",
+      "Mật khẩu phải giống lý lịch người sử dụng (ví dụ ngày tháng năm sinh, quê quán).",
       "Không bao giờ cho người khác biết mật khẩu của bạn",
       "Chỉ thay đổi mật khẩu sau một thời gian dài"
     ]
   },
   {
-    "question":"49. Ký hiệu Hz có nghĩa là gì?",
+    "question":"Ký hiệu Hz có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "question":"50. Dịch vụ Internet được chính thức cung cấp tại Việt Nam vào năm nào?",
+    "question":"Dịch vụ INternet được chính thức cung cấp tại Việt Nam vào năm nào?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -800,7 +800,7 @@
     ]
   },
   {
-    "question":"51. Trong Windows, thao tác nào sẽ xóa hẳn các tập tin được chọn?",
+    "question":"Trong Windows, thao tấc nào sẽ xóa hẳn các tập tin được chọn?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -809,14 +809,14 @@
     "explanation":null,
     "id":51,
     "choices":[
-      "Bấm chuột phải vào các tập tin đựơc chọn và chọn lệnh Delete",
+      "Bấm chuột phải vào các tập tin được chọn và chọn lệnh Delete",
       "Nhấn phím Delete trên bàn phím",
       "Giữ phím Shift và nhấn phím Delete trên bàn phím",
       "Giữ phím Alt và nhấn phím Delete trên bàn phím"
     ]
   },
   {
-    "question":"52. My Computer không có chức năng nào dưới đây?",
+    "question":"My Computer không có chức năng nào dưới đây?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -832,7 +832,7 @@
     ]
   },
   {
-    "question":"53. Phím, tổ hợp phím nào dùng để chụp màn hình?",
+    "question":"Phím, tổ hợp phím nào dùng để chụp màn hình?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "question":"54. Để chụp hình ảnh của một hộp thoại bằng bàn phím ta nhấn tổ hợp phím nào?",
+    "question":"Để chụp hình ảnh của một hộp thoại bằng bàn phím ta nhấn tổ hợp phím nào?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "question":"55. Để định vị Taskbar trong trạng thái [✅ Lock the taskbar] được định vị tùy ý ta chọn",
+    "question":"Để định vị Taskbar trong trạng thái (hình bên) được định vị tùy ý ta chọn",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -876,11 +876,11 @@
       "Taskbar định vị ở bottom là cố định và không thể di chuyển",
       "Dùng chuột kéo thẻ Taskbar tùy ý trên 4 cạnh màn hình",
       "Nhấn phải chuột vào Taskbar chọn Show Desktop",
-      "Nhấn phải chuột vào Taskbar chọn Properties - tại dòng Taskbar location on screen và chọn vị trí tùy ý"
+      "Nhấn phải chuột vào Taskbar chọn Properties – tại dòng Taskbar location on screen và chọn vị trí tùy ý"
     ]
   },
   {
-    "question":"56. Khái niệm Desktop là gì ?",
+    "question":"Khái niệm Desktop là gì ?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "question":"57. Trong Window để chọn nhiều tập tin hay thư mục liên tục ta thực hiện thao tác kết hợp phím ____ với bấm chuột trái.",
+    "question":"Trong Window để chọn nhiều tập tin hay thư mục liên tục ta thực hiện thao tác kết hợp phím ____ với bấm chuột trái.",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "question":"58. Bộ phím tắt nào được sử dụng để chuyển sang các cửa sổ đang mở khác?",
+    "question":"Bộ phím tắt nào được sử dụng để chuyển sang các cửa sổ đang mở khác?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -928,7 +928,7 @@
     ]
   },
   {
-    "question":"59. Trong Windows để chọn nhiều tập tin không nằm liền nhau, ta bấm chuột trái và phím _____",
+    "question":"Trong Windows để chọn nhiều tập tin không nằm liền nhau, ta bấm chuột trái và phím____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "question":"60. Phím tắt để sao chép một đối tượng vào ClipBoard là _____",
+    "question":"Phím tắt để sao chép một đối tượng vào ClipBoard là _____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -960,7 +960,7 @@
     ]
   },
   {
-    "question":"61. Phím tắt để cắt một đối tượng vào ClipBoard là _____",
+    "question":"Phím tắt để cắt một đối tượng vào ClipBoard là _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -976,7 +976,7 @@
     ]
   },
   {
-    "question":"62. Phím tắt để dán một đối tượng từ ClipBoard là _____",
+    "question":"Phím tắt để dán một đối tượng từ ClipBoard là _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -992,7 +992,7 @@
     ]
   },
   {
-    "question":"63. Để đóng ứng dụng ta dùng tổ hợp phím:",
+    "question":"Để đóng ứng dụng ta dùng tổ hợp phím:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "question":"64. Các thông số 1280x1024, 1280x720, 1152x864 trong tính năng Screen Resolution là những thông số thiết lập _____",
+    "question":"Các thông số 1280x1024, 1280x720, 1152x864 trong tính năng Screen Resolution là những thông số thiết lập_____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1024,7 +1024,7 @@
     ]
   },
   {
-    "question":"65. Để xem nội dung thư mục với các thông tin mặc định: Name, Types, Size, Date modified, … ta chọn chế độ hiển thị nào?",
+    "question":"Để xem nội dung thư mục với các thông tin mặc định: Name, Types, Size, Date modified,… ta chọn chế độ hiển thị nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1040,7 +1040,7 @@
     ]
   },
   {
-    "question":"66. Windows Explorer dùng để",
+    "question":"Windows Explorer dùng để",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "question":"67. Cách tắt máy nào sau đây có thể gây hại cho máy tính ?",
+    "question":"Cách tắt máy nào sau đây có thể gây hại cho máy tính ?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1072,7 +1072,7 @@
     ]
   },
   {
-    "question":"68. Hệ điều hành là ________",
+    "question":"Hệ điều hành là ________",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1088,7 +1088,7 @@
     ]
   },
   {
-    "question":"69. Hệ điều hành không có nhiệm vụ nào ?",
+    "question":"Hệ điều hành không có nhiệm vụ nào ?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "question":"70. Thư mục nào không phải là thư mục của hệ thống?",
+    "question":"Thư mục nào không phải là thư mục của hệ thống?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1120,12 +1120,12 @@
     ]
   },
   {
-    "question":"71. Trong hình sau, máy in mặc định được đánh số mấy?",
+    "question":"Trong hình sau, máy in mặc định được đánh số mấy?",
     "type":"Multiple Choice",
     "answer":[
       2
     ],
-    "image":"\/quizzes\/Cap Toc\/71.jpeg",
+    "image":null,
     "explanation":null,
     "id":71,
     "choices":[
@@ -1136,12 +1136,12 @@
     ]
   },
   {
-    "question":"72. Số phân vùng ổ cứng nhiều nhất trong máy tính thể hiện ở hình sau là bao nhiêu?",
+    "question":"Số phân vùng ổ cứng nhiều nhất trong máy tính thể hiện ở hình sau là bao nhiêu?",
     "type":"Multiple Choice",
     "answer":[
       1
     ],
-    "image":"\/quizzes\/Cap Toc\/72.jpeg",
+    "image":null,
     "explanation":null,
     "id":72,
     "choices":[
@@ -1152,12 +1152,12 @@
     ]
   },
   {
-    "question":"73. Trong hình sau, ổ đĩa nào là ổ đĩa quang?",
+    "question":"Trong hình sau, ổ đĩa nào là ổ đĩa quang?",
     "type":"Multiple Choice",
     "answer":[
       3
     ],
-    "image":"\/quizzes\/Cap Toc\/73.jpeg",
+    "image":null,
     "explanation":null,
     "id":73,
     "choices":[
@@ -1168,7 +1168,7 @@
     ]
   },
   {
-    "question":"74. Tệp tin có phần mở rộng là JPG cho ta biết đây là loại tệp tin gì?",
+    "question":"Tệp tin có phần mở rộng là JPG cho ta biết đây là loại tệp tin gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1184,7 +1184,7 @@
     ]
   },
   {
-    "question":"75. Tệp tin có phần mở rộng là EXE cho ta biết đây là loại tệp tin gi ?",
+    "question":"Tệp tin có phần mở rộng là EXE cho ta biết đây là loại tệp tin gi ?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1200,39 +1200,39 @@
     ]
   },
   {
-    "question":"76. Microsoft Windows là một _____",
-    "type":"Multiple Choice",
-    "answer":[
-      3
-    ],
-    "image":null,
-    "explanation":null,
-    "id":76,
-    "choices":[
-      "Chương trình xử lý văn bản.",
-      "Chương quản lý cơ sở dữ liệu",
-      "Hệ điều hành (Operating System).",
-      "Chương trình đồ hoạ (Graphics Program)."
-    ]
-  },
-  {
-    "question":"77. Phím Caps Lock có chức năng gì ?",
+    "question":"Microsoft Windows là một _____",
     "type":"Multiple Choice",
     "answer":[
       2
     ],
     "image":null,
     "explanation":null,
+    "id":76,
+    "choices":[
+      "Chương trình xử lý văn bản.",
+      "Hệ điều hành (Operating System).",
+      "Chương quản lý cơ sở dữ liệu",
+      "Chương trình đồ hoạ (Graphics Program)."
+    ]
+  },
+  {
+    "question":"Phím Caps Lock có chức năng gì ?",
+    "type":"Multiple Choice",
+    "answer":[
+      3
+    ],
+    "image":null,
+    "explanation":null,
     "id":77,
     "choices":[
       "Bật\/Tắt chức năng cuộn trang trong Excel bằng phím mũi tên",
-      "Bật\/Tắt cách gõ văn bản bằng chữ in hoa",
       "Bật\/Tắt dãy phím số bên phải",
+      "Bật\/Tắt cách gõ văn bản bằng chữ in hoa",
       "Bật\/Tắt bàn phím ảo"
     ]
   },
   {
-    "question":"78. Phím Num Lock có chức năng gì ?",
+    "question":"Phím Num Lock có chức năng gì ?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "question":"79. Có bao nhiêu tài liệu khác nhau có thể mở trong cùng một thời điểm ?",
+    "question":"Có bao nhiêu tài liệu khác nhau có thể mở trong cùng một thời điểm ?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1258,13 +1258,13 @@
     "id":79,
     "choices":[
       "Không hơn 3",
-      "Không nhiều hơn thanh Taskbar có thể",
-      "Chỉ có 1 hiển thị",
+      "Không nhiều hơn thanh Taskbar có thể hiển thị",
+      "Chỉ có 1",
       "Mở cho đến khi bộ nhớ máy tính không cho phép"
     ]
   },
   {
-    "question":"80. Quá trình Sleep trong máy tính nghĩa là ____",
+    "question":"Quá trình Sleep trong máy tính nghĩa là ____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1280,7 +1280,7 @@
     ]
   },
   {
-    "question":"81. Quá trình Hibernate trong máy tính nghĩa là ____",
+    "question":"Quá trình Hibernate trong máy tính nghĩa là ____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "question":"82. Quá trình Shut down trong máy tính nghĩa là ____",
+    "question":"Quá trình Shut down trong máy tính nghĩa là ____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1312,7 +1312,7 @@
     ]
   },
   {
-    "question":"83. Quá trình Restart trong máy tính nghĩa là ____",
+    "question":"Quá trình Restart trong máy tính nghĩa là ____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1328,7 +1328,7 @@
     ]
   },
   {
-    "question":"84. Số ký tự tối đa mà một tên tập tin có thể có là _____",
+    "question":"Số ký tự tối đa mà một tên tập tin có thể có là _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1339,12 +1339,12 @@
     "choices":[
       "64",
       "128",
-      "255",
+      "225",
       "256"
     ]
   },
   {
-    "question":"85. Đường dẫn trong máy tính có nghĩa gì?",
+    "question":". Đường dẫn trong máy tính có nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1360,23 +1360,23 @@
     ]
   },
   {
-    "question":"86. Phím tắt nào được dùng để đổi tên tập tin\/thư mục?",
+    "question":"Phím tắt nào được dùng để đổi tên tập tin\/thư mục?",
     "type":"Multiple Choice",
     "answer":[
-      2
+      3
     ],
     "image":null,
     "explanation":null,
     "id":86,
     "choices":[
       "F1",
-      "F2",
       "F3",
+      "F2",
       "F4"
     ]
   },
   {
-    "question":"87. Ý nghĩa của Recycle Bin (thùng rác) là gì?",
+    "question":"Ý nghĩa của Recycle Bin (thùng rác) là gì?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1392,7 +1392,7 @@
     ]
   },
   {
-    "question":"88. Việc cài đặt một ngôn ngữ khác trên máy tính nhằm mục đích gì?",
+    "question":"Việc cài đặt một ngôn ngữ khác trên máy tính nhằm mục đích gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1408,12 +1408,12 @@
     ]
   },
   {
-    "question":"89. Thông báo sau cho biết điều gì?",
+    "question":"Thông báo sau cho biết điều gì?",
     "type":"Multiple Choice",
     "answer":[
       2
     ],
-    "image":"\/quizzes\/Cap Toc\/89.jpeg",
+    "image":null,
     "explanation":null,
     "id":89,
     "choices":[
@@ -1424,7 +1424,7 @@
     ]
   },
   {
-    "question":"90. Người và máy tính giao tiếp với nhau thông qua",
+    "question":"Người và máy tính giao tiếp với nhau thông qua",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1434,13 +1434,13 @@
     "id":90,
     "choices":[
       "Hệ điều hành",
-      "Đĩa cứng",
       "Chuột",
+      "Đĩa cứng",
       "Bàn phím"
     ]
   },
   {
-    "question":"91. Phần mềm nào dưới đây không phải là phần mềm hệ thống?",
+    "question":"Phần mềm nào dưới đây không phải là phần mềm hệ thống?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1456,12 +1456,12 @@
     ]
   },
   {
-    "question":"92. Thông báo sau cho biết điều gì?",
+    "question":"Thông báo sau cho biết điều gì?",
     "type":"Multiple Choice",
     "answer":[
       1
     ],
-    "image":"\/quizzes\/Cap Toc\/92.jpeg",
+    "image":null,
     "explanation":null,
     "id":92,
     "choices":[
@@ -1472,7 +1472,7 @@
     ]
   },
   {
-    "question":"93. Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng trong Recycle Bin (thùng rác) ta nháy phải chuột tại Recycle Bin và chọn lệnh:",
+    "question":"Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng trong Recycle Bin (thùng rác) ta nháy phải chuột tại Recycle Bin và chọn lệnh:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1488,7 +1488,7 @@
     ]
   },
   {
-    "question":"94. Tìm câu sai trong các câu dưới đây:",
+    "question":"Tìm câu sai trong các câu dưới đây:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1500,11 +1500,11 @@
       "Hệ điều hành đảm bảo giao tiếp giữa người dùng và máy tính",
       "Chức năng chính của hệ điều hành là thực hiện tìm kiếm thông tin trên Internet",
       "Hệ điều hành cung cấp các phương tiện và dịch vụ để người sử dụng dễ dàng thực hiện chương trình, quản lí chặt chẽ, khai thác các tài nguyên của máy tính một cách tối ưu",
-      "Hệ điều hành Windows là hệ điều hành dùng cho máy tính cá nhân của hãng Microsoft"
+      "Hệ điều hành Windows là hệ điều hành dùng cho máy tính cá nhân của hãng Microsof"
     ]
   },
   {
-    "question":"95. Control Panel trong hệ điều hành Windows là gi?",
+    "question":"Control Panel trong hệ điều hành Windows là gi?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "question":"96. Muốn thay đổi các thông số khu vực trong hệ điều hành Windows như múi giờ, đơn vị tiền tệ, cách viết số, ... ta sử dụng chương trình nào trong các chương trình sau?",
+    "question":"Muốn thay đổi các thông số khu vực trong hệ điều hành Windows như múi giờ, đơn vị tiền tệ, cách viết số, ... ta sử dụng chương trình nào trong các chương trình sau?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "question":"97. Trong các phát biểu sau, phát biểu nào không chính xác?",
+    "question":"Trong các phát biểu sau, phát biểu nào không chính xác?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1552,7 +1552,7 @@
     ]
   },
   {
-    "question":"98. Trong hệ điều hành Windows, thanh hiển thị tên chương trình và nằm trên cùng của một cửa sổ được gọi là",
+    "question":"Trong hệ điều hành Windows, thanh hiển thị tên chương trình và nằm trên cùng của một cửa sổ được gọi là",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "question":"99. Trong hệ điều hành Windows, thao tác Drag and Drop (kéo thả chuột) được sử dụng khi ta:",
+    "question":"Trong hệ điều hành Windows, thao tác Drag and Drop (kéo thả chuột) được sử dụng khi ta:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "question":"100. Đường tắt (Shortcut) là gì?",
+    "question":"Đường tắt (Shortcut) là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1600,7 +1600,7 @@
     ]
   },
   {
-    "question":"101. WWW là viết tắt của _____",
+    "question":"WWW là viết tắt của _____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1616,10 +1616,10 @@
     ]
   },
   {
-    "question":"102. World Wide Web là gì?",
+    "question":"World Wide Web là gì?",
     "type":"Multiple Choice",
     "answer":[
-      3
+      2
     ],
     "image":null,
     "explanation":null,
@@ -1632,7 +1632,7 @@
     ]
   },
   {
-    "question":"103. Chương trình dùng để xem các trang Web được gọi là _____",
+    "question":"Chương trình dùng để xem các trang Web được gọi là _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "question":"104. Tên miền gov.vn được dùng cho _____",
+    "question":"Tên miền gov.vn được dùng cho _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1664,7 +1664,7 @@
     ]
   },
   {
-    "question":"105. Mục đích chính của việc đưa ra tên miền",
+    "question":"Mục đích chính của việc đưa ra tên miền",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1680,23 +1680,23 @@
     ]
   },
   {
-    "question":"106. Địa chỉ Website nào sau đây không hợp lệ?",
+    "question":"Địa chỉ Website nào sau đây không hợp lệ?",
     "type":"Multiple Choice",
     "answer":[
-      3
+      2
     ],
     "image":null,
     "explanation":null,
     "id":106,
     "choices":[
       "www.hochiminh.gov.vn",
-      "dhbk.hochiminh.edu.vn",
       "www@hochiminh.net.vn",
+      "dhbk.hochiminh.edu.vn",
       "www.hochiminh.com.vn"
     ]
   },
   {
-    "question":"107. Đâu không phải là Trình duyệt Web?",
+    "question":"Đâu không phải là Trình duyệt Web?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1712,7 +1712,7 @@
     ]
   },
   {
-    "question":"108. Tên miền edu.vn được dùng cho _____",
+    "question":"Tên miền edu.vn được dùng cho _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -1728,7 +1728,7 @@
     ]
   },
   {
-    "question":"109. Trong lĩnh vực Công nghệ thông tin, ISP là viết tắt của _____",
+    "question":"Trong lĩnh vực Công nghệ thông tin, ISP là viết tắt của _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1744,7 +1744,7 @@
     ]
   },
   {
-    "question":"110. Trang chủ là gì?",
+    "question":"Trang chủ là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1760,7 +1760,7 @@
     ]
   },
   {
-    "question":"111. Web Server là gì?",
+    "question":"Web Server là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1776,7 +1776,7 @@
     ]
   },
   {
-    "question":"112. IAP(Internet Access Provider) là gì?",
+    "question":"IAP(Internet Access Provider) là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1792,7 +1792,7 @@
     ]
   },
   {
-    "question":"113. ISP(Internet Service Provider) là gì?",
+    "question":"ISP(Internet Service Provider) là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1808,7 +1808,7 @@
     ]
   },
   {
-    "question":"114. Web site là _____",
+    "question":"Web site là _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "question":"115. Điều kiện để kết nối vào Internet qua đường dây điện thoại cố định là:",
+    "question":"Điều kiện để kết nối vào Internet qua đường dây điện thoại cố định là:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "question":"116. Mạng lntranet là gì?",
+    "question":"Mạng lntranet là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "question":"117. HTTP là gì?",
+    "question":"HTTP là gì?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -1872,7 +1872,7 @@
     ]
   },
   {
-    "question":"118. Khi làm việc trên một dự án của trường học, việc làm một bài thuyết trình trực tuyến cho những đối tượng khác cùng biết là một ví dụ của ______",
+    "question":"Khi làm việc trên một dự án của trường học, việc làm một bài thuyết trình trực tuyến cho những đối tượng khác cùng biết là một ví dụ của ______",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1888,7 +1888,7 @@
     ]
   },
   {
-    "question":"119. Khi muốn lấy các nội dung từ mạng xuống máy tính, ta sử dụng lựa chọn nào?",
+    "question":"Khi muốn lấy các nội dung từ mạng xuống máy tính, ta sử dụng lựa chọn nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "question":"120. Sắp xếp theo thứ tự các thao tác để đăng nhập vào hộp thư điện tử đã có: 1. Gõ tên đăng nhập và mật khẩu 2. Truy cập vào trang Web cung cấp dịch vụ thư điện tử 3. Mở Internet 4. Nháy chuột vào nút Đăng nhập",
+    "question":"Sắp xếp theo thứ tự các thao tác để đăng nhập vào hộp thư điện tử đã có: 1. Gõ tên đăng nhập và mật khẩu 2. Truy cập vào trang Web cung cấp dịch vụ thư điện tử 3. Mở Internet 4. Nháy chuột vào nút Đăng nhập",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1920,7 +1920,7 @@
     ]
   },
   {
-    "question":"121. Trình bày cú pháp địa chỉ thư điện tử tổng quát?",
+    "question":"Trình bày cú pháp địa chỉ thư điện tử tổng quát?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1936,7 +1936,7 @@
     ]
   },
   {
-    "question":"122. Nhà cung cấp dịch vụ thư điện tử là:",
+    "question":"Nhà cung cấp dịch vụ thư điện tử là:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1952,7 +1952,7 @@
     ]
   },
   {
-    "question":"123. Địa chỉ thư điện tử được phân cách bởi kí hiệu:",
+    "question":"Địa chỉ thư điện tử được phân cách bởi kí hiệu:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -1968,7 +1968,7 @@
     ]
   },
   {
-    "question":"124. Để tạo một hộp thư điện tử mới:",
+    "question":"Để tạo một hộp thư điện tử mới:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -1984,23 +1984,23 @@
     ]
   },
   {
-    "question":"125. Email là viết tắt của",
+    "question":"Email là viết tắt của",
     "type":"Multiple Choice",
     "answer":[
-      2
+      3
     ],
     "image":null,
     "explanation":null,
     "id":125,
     "choices":[
       "Exchange Mail",
-      "Electronic Mail",
       "Electrical Mail",
+      "Electronic Mail",
       "Else Mail"
     ]
   },
   {
-    "question":"126. Thư mục mặc định được hiển thi sau khi đăng nhập thành công vào hộp thư cá nhân",
+    "question":"Thư mục mặc định được hiển thi sau khi đăng nhập thành công vào hộp thư cá nhân",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "question":"127. Trong soạn thảo Email, muốn đính kèm tập tin ta bấm nút nào?",
+    "question":"Trong soạn thảo Email, muốn đính kèm tập tin ta bấm nút nào?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2025,14 +2025,14 @@
     "explanation":null,
     "id":127,
     "choices":[
-      "File - Save",
+      "File – Save",
       "Copy",
       "Attachment",
       "Send"
     ]
   },
   {
-    "question":"128. Thư điện tử là gì?",
+    "question":"Thư điện tử là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2048,7 +2048,7 @@
     ]
   },
   {
-    "question":"129. Lợi thế nổi trội của thư điện tử so với thư gửi qua đường bưu điện là gì?",
+    "question":"Lợi thế nổi trội của thư điện tử so với thư gửi qua đường bưu điện là gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2064,7 +2064,7 @@
     ]
   },
   {
-    "question":"130. Địa chỉ email nào sau đây đúng định dạng?",
+    "question":"Địa chỉ email nào sau đây đúng định dạng?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2074,13 +2074,13 @@
     "id":130,
     "choices":[
       "Internet.@.gmail.com",
-      "Trungtamdientoan@$.yahoo.com",
       "photoshop@t5#.ymail.com",
+      "Trungtamdientoan@$.yahoo.com",
       "bachkhoa@hotmail.com"
     ]
   },
   {
-    "question":"131. Mục To khi gửi email có ý nghĩa gì?",
+    "question":"Mục To khi gửi email có ý nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2096,10 +2096,10 @@
     ]
   },
   {
-    "question":"132. Điền địa chỉ email vào mục Cc - Carbon Copy để làm gì?",
+    "question":"Điền địa chỉ email vào mục Cc - Carbon Copy để làm gì?",
     "type":"Multiple Choice",
     "answer":[
-      2
+      1
     ],
     "image":null,
     "explanation":null,
@@ -2112,7 +2112,7 @@
     ]
   },
   {
-    "question":"133. Điền địa chỉ email vào mục Bcc - Blind Carbon Copy thì sao?",
+    "question":"Điền địa chỉ email vào mục Bcc - Blind Carbon Copy thì sao?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2128,7 +2128,7 @@
     ]
   },
   {
-    "question":"134. Điều gì xảy ra khi chuyển tiếp - Forward một email bạn nhận được?",
+    "question":"Điều gì xảy ra khi chuyển tiếp - Forward một email bạn nhận được?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2144,7 +2144,7 @@
     ]
   },
   {
-    "question":"135. Khi bạn chuyển tiếp email, những ai sẽ nhận được bản sao này?",
+    "question":"Khi bạn chuyển tiếp email, những ai sẽ nhận được bản sao này?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2160,7 +2160,7 @@
     ]
   },
   {
-    "question":"136. Khi chuyển tiếp email có đính kèm tập tin, điều gì sẽ xảy ra?",
+    "question":"Khi chuyển tiếp email có đính kèm tập tin, điều gì sẽ xảy ra?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2176,7 +2176,7 @@
     ]
   },
   {
-    "question":"137. Khi trả lời email, tiêu đề - Subject của email thường có thêm tiền tố gì?",
+    "question":"Khi trả lời email, tiêu đề - Subject của email thường có thêm tiền tố gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2188,11 +2188,11 @@
       "Tiêu đề không thay đổi",
       "RE - Viết tắt của từ Reply - Đáp lại",
       "AN - Viết tắt của từ Answer - Trả lời",
-      "FW - Viết tắt của từ Forward - Chuyển tiếp"
+      "FW – Viết tắt của từ Forward – Chuyển tiếp"
     ]
   },
   {
-    "question":"138. Tiêu đề khi chuyển tiếp email thường có thêm tiền tố gì?",
+    "question":"Tiêu đề khi chuyển tiếp email thường có thêm tiền tố gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2208,7 +2208,7 @@
     ]
   },
   {
-    "question":"139. Nếu \"Reply\" người gửi ban đầu sau khi đã chuyển tiếp email đó cho người khác, liệu người gửi ban đầu có xem được email chuyển tiếp không?",
+    "question":"Nếu \"Reply\" người gửi ban đầu sau khi đã chuyển tiếp email đó cho người khác, liệu người gửi ban đầu có xem được email chuyển tiếp không?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2224,7 +2224,7 @@
     ]
   },
   {
-    "question":"140. Tôi muốn gửi email giống nhau cho nhiều người, nhưng mỗi người đều nhận được lời chào đúng tên riêng của họ, thì làm thế nào?",
+    "question":"Tôi muốn gửi email giống nhau cho nhiều người, nhưng mỗi người đều nhận được lời chào đúng tên riêng của họ, thì làm thế nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2240,7 +2240,7 @@
     ]
   },
   {
-    "question":"141. Web tĩnh là các trang web _____",
+    "question":"Web tĩnh là các trang web _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2256,7 +2256,7 @@
     ]
   },
   {
-    "question":"142. Web động là các trang web _____",
+    "question":"Web động là các trang web _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2272,7 +2272,7 @@
     ]
   },
   {
-    "question":"143. Người sử dụng không thể tự lập được hộp thư điện tử nào:",
+    "question":"Người sử dụng không thể tự lập được hộp thư điện tử nào:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2288,7 +2288,7 @@
     ]
   },
   {
-    "question":"144. Với thư điện tử, phát biểu nào là sai?",
+    "question":"Với thư điện tử, phát biểu nào là sai?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2300,11 +2300,11 @@
       "Có thể gửi 1 thư đến 10 địa chỉ khác nhau .",
       "1 người có thể gửi thư cho chính mình, nhiều lần.",
       "Hai người có thể có địa chỉ thư giống nhau.",
-      "Tệp tin đính kèm theo thư có thể chứa virút, vậy nên cần kiểm tra virút trước khi sử dụng."
+      "Tệp tin đính kèm theo thư có thể chứa virút, vậy nên cần kiểm tra virút trước khi sử dụng"
     ]
   },
   {
-    "question":"145. Chức năng nào không hỗ trợ khi dùng email miễn phí tại gmail.com",
+    "question":"Chức năng nào không hỗ trợ khi dùng email miễn phí tại gmail.com",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2320,7 +2320,7 @@
     ]
   },
   {
-    "question":"146. Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ gmail.com. Phát biểu nào là sai?",
+    "question":"Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ gmail.com. Phát biểu nào là sai?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2329,14 +2329,14 @@
     "explanation":null,
     "id":146,
     "choices":[
-      "Hộp thư của cả hai đều nằm trên máy Mail Server của công ty Google.",
-      "Mật khẩu mở hộp thư của hai người này phải khác nhau.",
+      "Hộp thư của cả hai đều nằm trên máy Mail Server của công ty Google",
+      "Mật khẩu mở hộp thư của hai người này phải khác nhau",
       "Hai người này buộc phải lựa chọn hai tên đăng nhập khác nhau.",
       "Người này có thể mở được hộp thư của người kia và ngược lại nếu như 2 người biết tên đăng nhập và mật khẩu của nhau."
     ]
   },
   {
-    "question":"147. Chọn ra khẳng định sai: “Tên miền của các website có máy chủ đặt tại Việt Nam thì _____”",
+    "question":"Chọn ra khẳng định sai: “Tên miền của các website có máy chủ đặt tại Việt Nam thì _____”",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2352,7 +2352,7 @@
     ]
   },
   {
-    "question":"148. Thuật ngữ kỹ thuật trong mua và bán hàng qua mạng Internet là gì ?",
+    "question":"Thuật ngữ kỹ thuật trong mua và bán hàng qua mạng Internet là gì ?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2368,7 +2368,7 @@
     ]
   },
   {
-    "question":"149. Internet ảnh hưởng vấn đề gì đến môi trường học tập?",
+    "question":"Internet ảnh hưởng vấn đề gì đến môi trường học tập?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2384,7 +2384,7 @@
     ]
   },
   {
-    "question":"150. Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra. Những bước hành động tốt nhất nào bạn sẽ thực hiện từ khía cạnh an ninh",
+    "question":"Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra. Những bước hành động tốt nhất nào bạn sẽ thực hiện từ khía cạnh an ninh",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2400,7 +2400,7 @@
     ]
   },
   {
-    "question":"151. Trong Microsoft Word, tổ hợp phím nào sau đây chọn toàn bộ tài liệu?",
+    "question":"Trong Microsoft Word, tổ hợp phím nào sau đây chọn toàn bộ tài liệu?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2416,7 +2416,7 @@
     ]
   },
   {
-    "question":"152. Trong Microsoft Word, tổ hợp phím tắt để di chuyển con trỏ về cuối tài liệu?",
+    "question":"Trong Microsoft Word, tổ hợp phím tắt để di chuyển con trỏ về cuối tài liệu?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2432,7 +2432,7 @@
     ]
   },
   {
-    "question":"153. Phím nào sau đây đưa con nháy về đầu dòng hiện hành trong Microsoft Word?",
+    "question":"Phím nào sau đây đưa con nháy về đầu dòng hiện hành trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2444,11 +2444,11 @@
       "Ctrl+Home",
       "Home",
       "Ctrl+Page Up",
-      "End."
+      "End"
     ]
   },
   {
-    "question":"154. Phím tắt để di chuyển con trỏ về đầu tài liệu trong Microsoft Word?",
+    "question":"Phím tắt để di chuyển con trỏ về đầu tài liệu trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2464,7 +2464,7 @@
     ]
   },
   {
-    "question":"155. Trong Microsoft Word, câu nào sau đây là không đúng trong trường hợp định dạng đoạn - Paragraph?",
+    "question":"Trong Microsoft Word, câu nào sau đây là không đúng trong trường hợp định dạng đoạn - Paragraph?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2474,13 +2474,13 @@
     "id":155,
     "choices":[
       "Bấm nút Center trên thanh công cụ sẽ canh đoạn hiện hành hoặc đã chọn vào giữa trang.",
-      "Khoảng cách canh cột mặc nhiên là ½ inch.",
+      "Khoảng cách canh cột mặc nhiên là ½ inch",
       "Khi đặt một nút canh cột nó sẽ có tác dụng trên tất cả các đoạn văn bản trong tài liệu.",
       "Hai loại canh lề đặc biệt là: First Line và Hanging trong Paragraph."
     ]
   },
   {
-    "question":"156. Với Microsoft Word, để định dạng hình ảnh với văn bản, ta ấn chuột phải vào hình ành và chọn _____",
+    "question":"Với Microsoft Word, để định dạng hình ảnh với văn bản, ta ấn chuột phải vào hình ảnh và chọn _____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2496,7 +2496,7 @@
     ]
   },
   {
-    "question":"157. Cách nhanh nhất để chọn một từ trong Microsoft Word?",
+    "question":"Cách nhanh nhất để chọn một từ trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2512,7 +2512,7 @@
     ]
   },
   {
-    "question":"158. Trong Microsoft Word, thao tác nào để sao chép định dạng và áp đặt định dạng cho nhiều dòng liên tiếp ?",
+    "question":"Trong Microsoft Word, thao tác nào để sao chép định dạng và áp đặt định dạng cho nhiều dòng liên tiếp ?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2521,14 +2521,14 @@
     "explanation":null,
     "id":158,
     "choices":[
-      "Bấm nút Format Painter trên thanh công cụ.",
-      "Bấm đúp nút Format Painter trên thanh công cụ. .",
+      "Bấm nút Format Painter trên thanh công cụ",
+      "Bấm đúp nút Format Painter trên thanh công cụ",
       "Không thực hiện được.",
       "Mở hộp thoại Copy and Apply Formatting bắng cách dùng lệnh Format - Copy Formatting từ menu."
     ]
   },
   {
-    "question":"159. Phát biểu nào sau đây là đúng khi sử dụng phím Enter trong Microsoft Word?",
+    "question":"Phát biểu nào sau đây là đúng khi sử dụng phím Enter trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2544,7 +2544,7 @@
     ]
   },
   {
-    "question":"160. Trong Microsoft Word, sử dụng tổ hợp phím Shift+Enter có chức năng gì?",
+    "question":"Trong Microsoft Word, sử dụng tổ hợp phím Shift+Enter có chức năng gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2556,11 +2556,11 @@
       "Kết thúc đoạn văn hiện tại và bắt đầu một đoạn văn mới.",
       "Tài liệu sẽ sang trang mới.",
       "Đoạn văn sẽ qua dòng mới nhưng chưa kết thúc đoạn.",
-      "Nếu đã chia cột thì đoạn văn sẽ bị cắt qua cột mới."
+      "Nếu đã chia cột thì đoạn văn sẽ bị cắt qua cột mới"
     ]
   },
   {
-    "question":"161. Trong Microsoft Word, sử dụng tổ hợp phím Ctrl+Enter có chức năng gì?",
+    "question":"Trong Microsoft Word, sử dụng tổ hợp phím Ctrl+Enter có chức năng gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2569,14 +2569,14 @@
     "explanation":null,
     "id":161,
     "choices":[
-      "Kết thúc đoạn văn hiện tại và bắt đầu một đoạn văn mới.",
+      "Kết thúc đoạn văn hiện tại và bắt đầu một đoạn văn mới",
       "Tài liệu sẽ sang trang mới.",
-      "Đoạn văn sẽ qua dòng mới nhưng chưa kết thúc đoạn.",
+      "Đoạn văn sẽ qua dòng mới nhưng chưa kết thúc đoạn",
       "Nếu đã chia cột thì đoạn văn sẽ bị cắt qua cột mới."
     ]
   },
   {
-    "question":"162. Trong Microsoft Word, để nhập dữ liệu và di chuyển trong table, phát biểu nào sau đây là đúng?",
+    "question":"Trong Microsoft Word, để nhập dữ liệu và di chuyển trong table, phát biểu nào sau đây là đúng?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2586,13 +2586,14 @@
     "id":162,
     "choices":[
       "Tab để di chuyển qua ô kế tiếp, Shift+Tab để đi theo hướng ngược lại.",
-      "Enter để di chuyển qua ô kế tiếp, Shift+enter để đi theo hướng ngược lại.",
+      "Enter để di chuyển qua ô kế tiếp, Shift+enter để đi theo hướng ngược lại",
       "Mũi tên phải để di chuyển qua ô kế tiếp, mũi tên trái để đi theo hướng ngược lại.",
+      "Mũi tên lên để di chuyển qua ô kế tiếp, mũi tên xuống để đi theo hướng ngược lại.",
       "Mũi tên lên để di chuyển qua ô kế tiếp, mũi tên xuống để đi theo hướng ngược lại."
     ]
   },
   {
-    "question":"163. Trong Microsoft Word, Style là gì?",
+    "question":"Trong Microsoft Word, Style là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2608,7 +2609,7 @@
     ]
   },
   {
-    "question":"164. Cách nào sau đây dùng để chọn nhiều đối tượng trên tài liệu trong Microsoft Word?",
+    "question":"Cách nào sau đây dùng để chọn nhiều đối tượng trên tài liệu trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2624,7 +2625,7 @@
     ]
   },
   {
-    "question":"165. Trong Microsoft Word các thành phần Block Arrows, Stars and Banners, và Callouts là các ví dụ của _____",
+    "question":"Trong Microsoft Word các thành phần Block Arrows, Stars and Banners, và Callouts là các ví dụ của _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2640,7 +2641,7 @@
     ]
   },
   {
-    "question":"166. Khi soạn thảo văn bản trong Microsoft Word, để khai báo thời gian tự lưu văn bản, ta thực hiện _____",
+    "question":"Khi soạn thảo văn bản trong Microsoft Word, để khai báo thời gian tự lưu văn bản, ta thực hiện _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2656,7 +2657,7 @@
     ]
   },
   {
-    "question":"167. Trong Microsoft Word để chèn header hoặc footer trên trang văn bản, ta thực hiện _____",
+    "question":"Trong Microsoft Word để chèn header hoặc footer trên trang văn bản, ta thực hiện _____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2672,7 +2673,7 @@
     ]
   },
   {
-    "question":"168. Trong Microsoft Word để bật\/tắt hiển thị thanh thước kẻ trên của sổ soạn thảo, ta thực hiện _____",
+    "question":"Trong Microsoft Word để bật\/tắt hiển thị thanh thước kẻ trên của sổ soạn thảo, ta thực hiện _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2681,14 +2682,14 @@
     "explanation":null,
     "id":168,
     "choices":[
-      "View - Ruler",
+      "View – Ruler",
       "View - Outline",
       "View - Show\/Hide - đánh dấu\/bỏ đánh dấu vào mục Ruler",
       "Thẻ Insert - đánh dấu vào mục Ruler"
     ]
   },
   {
-    "question":"169. Trong Microsoft Word thao tác nào không thể tạo điểm dừng Tabs?",
+    "question":"Trong Microsoft Word thao tác nào không thể tạo điểm dừng Tabs?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2698,13 +2699,13 @@
     "id":169,
     "choices":[
       "Bấm chuột trái trên thanh thước tại vị trí muốn đặt Tab",
-      "Thẻ Page Layout - Paragraph - nhấn nút mũi tên bên dưới - Tabs",
+      "Thẻ Page Layout - Paragraph - nhấn nút mũi tên bên dưới – Tabs",
       "Thẻ Home - Paragraph - nhấn nút mũi tên bên dưới - Tabs",
-      "Thẻ View - Tabs"
+      "Thẻ View – Tabs"
     ]
   },
   {
-    "question":"170. Trong Microsoft Word khi lưu văn bản mới thì phần mở rộng của văn bản đó ở dạng nào?",
+    "question":"Trong Microsoft Word khi lưu văn bản mới thì phần mở rộng của văn bản đó ở dạng nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2720,7 +2721,7 @@
     ]
   },
   {
-    "question":"171. Tổ hợp phím Ctrl+Z trong Microsoft Word dùng để:",
+    "question":"Tổ hợp phím Ctrl+Z trong Microsoft Word dùng để:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2736,7 +2737,7 @@
     ]
   },
   {
-    "question":"172. Microsoft Word là một _____",
+    "question":"Microsoft Word là một _____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2752,7 +2753,7 @@
     ]
   },
   {
-    "question":"173. Tính năng nào sau đây không đúng là của Microsoft Word?",
+    "question":"Tính năng nào sau đây không đúng là của Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2768,7 +2769,7 @@
     ]
   },
   {
-    "question":"174. Tổ hợp phím tắt nào sau đây được dùng để lưu văn bản trong Microsoft Word?",
+    "question":"Tổ hợp phím tắt nào sau đây được dùng để lưu văn bản trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2784,7 +2785,7 @@
     ]
   },
   {
-    "question":"175. Trong Microsoft Word, nút nào sau đây được dùng để sử dụng chức năng Tab trong table",
+    "question":"Trong Microsoft Word, nút nào sau đây được dùng để sử dụng chức năng Tab trong table",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2800,7 +2801,7 @@
     ]
   },
   {
-    "question":"176. Trong Microsoft Word, khi giữ phím Ctrl và bấm chuột trái vào trong văn bản có tác dụng gì?",
+    "question":"Trong Microsoft Word, khi giữ phím Ctrl và bấm chuột trái vào trong văn bản có tác dụng gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2816,7 +2817,7 @@
     ]
   },
   {
-    "question":"177. Trong Microsoft Word, WordArt là _____",
+    "question":"Trong Microsoft Word, WordArt là _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2832,7 +2833,7 @@
     ]
   },
   {
-    "question":"178. Trong Microsoft Word, các đường gạch chân xanh-đỏ xuất hiện khi gõ văn bản có ý nghĩa gì?",
+    "question":"Trong Microsoft Word, các đường gạch chân xanh-đỏ xuất hiện khi gõ văn bản có ý nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2848,7 +2849,7 @@
     ]
   },
   {
-    "question":"179. Trong Microsoft Word, chức năng nào được dùng để trộn các ô trong bảng biểu?",
+    "question":"Trong Microsoft Word, chức năng nào được dùng để trộn các ô trong bảng biểu?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2858,13 +2859,13 @@
     "id":179,
     "choices":[
       "Cell Margins",
-      "Split Cells",
       "Mail Merge",
+      "Split Cells",
       "Merge Cells"
     ]
   },
   {
-    "question":"180. Chức năng Recent trong thẻ File của Microsoft Word có chức năng gì ?",
+    "question":"Chức năng Recent trong thẻ File của Microsoft Word có chức năng gì ?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2880,7 +2881,7 @@
     ]
   },
   {
-    "question":"181. Trong Microsoft Word, phát biểu nào sau đây là sai?",
+    "question":"Trong Microsoft Word, phát biểu nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2896,7 +2897,7 @@
     ]
   },
   {
-    "question":"182. Trong soạn thảo Microsoft Word, đơn vị đo lường nào của thước không hỗ trợ ?",
+    "question":"Trong soạn thảo Microsoft Word, đơn vị đo lường nào của thước không hỗ trợ ?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2912,7 +2913,7 @@
     ]
   },
   {
-    "question":"183. Trong soạn thảo Microsoft Word, muốn trình bày văn bản trong khổ giấy theo hướng ngang ta chọn mục",
+    "question":"Trong soạn thảo Microsoft Word, muốn trình bày văn bản trong khổ giấy theo hướng ngang ta chọn mục",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2928,7 +2929,7 @@
     ]
   },
   {
-    "question":"184. Trong soạn thảo Microsoft Word, nội dung của vùng header sẽ",
+    "question":"Trong soạn thảo Microsoft Word, nội dung của vùng header sẽ",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -2938,13 +2939,13 @@
     "id":184,
     "choices":[
       "Được in ở đầu mỗi trang",
-      "Được in ở bên phải mỗi trang",
+      "Được in ở đầu mỗi trang",
       "Được in ở bên trái mỗi trang",
       "Được in ở cuối mỗi trang"
     ]
   },
   {
-    "question":"185. Khả năng nào sau đây không có trong Microsoft Word?",
+    "question":"Khả năng nào sau đây không có trong Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -2960,7 +2961,7 @@
     ]
   },
   {
-    "question":"186. Có bao nhiêu kiểu margin(lề) trong một trang là Microsoft Word?",
+    "question":"Có bao nhiêu kiểu margin(lề) trong một trang là Microsoft Word?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -2976,7 +2977,7 @@
     ]
   },
   {
-    "question":"187. Trong Microsoft Word, câu nào sau đây sai?",
+    "question":"Trong Microsoft Word, câu nào sau đây sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -2992,7 +2993,7 @@
     ]
   },
   {
-    "question":"188. Trong Microsoft Word, câu nào sau đây sai?",
+    "question":"Trong Microsoft Word, câu nào sau đây sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3008,7 +3009,7 @@
     ]
   },
   {
-    "question":"189. Trong Microsoft Word, để ngắt trang ta thực hiện _____",
+    "question":"Trong Microsoft Word, để ngắt trang ta thực hiện _____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3018,13 +3019,13 @@
     "id":189,
     "choices":[
       "Thẻ View - Page Break",
-      "Thẻ References - Captions - Break",
+      "Thẻ References - Captions – Break",
       "Thẻ Review - Create - Page Break",
       "Thẻ Insert - Pages - Page Break"
     ]
   },
   {
-    "question":"190. Trong Microsoft Word, để chèn biểu đồ vào văn bản, ta thực hiện:",
+    "question":"Trong Microsoft Word, để chèn biểu đồ vào văn bản, ta thực hiện:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3040,7 +3041,7 @@
     ]
   },
   {
-    "question":"191. Trong Microsoft Word, có các chế độ in ấn nào?",
+    "question":"Trong Microsoft Word, có các chế độ in ấn nào?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3056,7 +3057,7 @@
     ]
   },
   {
-    "question":"192. Trong Microsoft Word, chức năng nào dùng để ngắt cột?",
+    "question":"Trong Microsoft Word, chức năng nào dùng để ngắt cột?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3066,13 +3067,13 @@
     "id":192,
     "choices":[
       "Chọn thẻ Insert - Page Break",
-      "Sử dụng phím tắt Ctrl+Enter",
+      "Chọn thẻ Insert - Page Break",
       "Chọn thẻ Page Layout - Breaks - Column",
       "Chọn thẻ Page Layout - Columns"
     ]
   },
   {
-    "question":"193. Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
+    "question":"Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3088,7 +3089,7 @@
     ]
   },
   {
-    "question":"194. Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
+    "question":"Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3104,7 +3105,7 @@
     ]
   },
   {
-    "question":"195. Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
+    "question":"Trong Microsoft Word, ký hiệu trên thanh thước có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3120,7 +3121,7 @@
     ]
   },
   {
-    "question":"196. Trong Microsoft Word, sau khi chọn toàn bộ văn bản trong bảng (table) và bấm nút Delete thì chuyện gì sẽ xảy ra?",
+    "question":"Trong Microsoft Word, sau khi chọn toàn bộ văn bản trong bảng (table) và bấm nút Delete thì chuyện gì sẽ xảy ra?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3136,7 +3137,7 @@
     ]
   },
   {
-    "question":"197. Trong Microsoft Word, muốn tạo chữ rơi cho văn bản, ta thực hiện",
+    "question":"Trong Microsoft Word, muốn tạo chữ rơi cho văn bản, ta thực hiện",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3145,14 +3146,14 @@
     "explanation":null,
     "id":197,
     "choices":[
-      "Page layout - Dropcap",
-      "View - Dropcap",
-      "Home - Dropcap",
-      "Insert - Dropcap"
+      "Page layout – Dropcap",
+      "View – Dropcap",
+      "Home – Dropcap",
+      "Insert – Dropcap"
     ]
   },
   {
-    "question":"198. Trong Microsoft Word, phát biểu nào sau đây là đúng nhất ?",
+    "question":"Trong Microsoft Word, phát biểu nào sau đây là đúng nhất ?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3168,7 +3169,7 @@
     ]
   },
   {
-    "question":"199. Trong Microsoft Word, tạo Header cho văn bản có nghĩa là?",
+    "question":"Trong Microsoft Word, tạo Header cho văn bản có nghĩa là?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3184,7 +3185,7 @@
     ]
   },
   {
-    "question":"200. Chức năng Home → Clear All Formatting được sử dụng để?",
+    "question":"Chức năng Home → Clear All Formatting được sử dụng để?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3200,7 +3201,7 @@
     ]
   },
   {
-    "question":"201. Tập hợp các bảng tính trong một file Excel được gọi là một",
+    "question":"Tập hợp các bảng tính trong một file Excel được gọi là mộ",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3216,7 +3217,7 @@
     ]
   },
   {
-    "question":"202. Trong Microsoft Excel, câu nào sau đây là đúng nhất?",
+    "question":"Trong Microsoft Excel, câu nào sau đây là đúng nhất?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3232,7 +3233,7 @@
     ]
   },
   {
-    "question":"203. Trong Microsoft Excel, câu nào sau đây sai?",
+    "question":"Trong Microsoft Excel, câu nào sau đây sai?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3248,7 +3249,7 @@
     ]
   },
   {
-    "question":"204. Khi nhập liệu ngày tháng trong Microsoft Excel ở Việt nam, cần phải nhập theo định dạng nào sau đây?",
+    "question":"Khi nhập liệu ngày tháng trong Microsoft Excel ở Việt nam, cần phải nhập theo định dạng nào sau đây?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3264,7 +3265,7 @@
     ]
   },
   {
-    "question":"205. Đáp án nào sau đây sai? Khi nhập dữ liệu vào bảng tính Microsoft Excel thì:",
+    "question":"Đáp án nào sau đây sai? Khi nhập dữ liệu vào bảng tính Microsoft Excel thì:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3280,7 +3281,7 @@
     ]
   },
   {
-    "question":"206. Trong bảng tính Microsoft Excel, các kiểu dữ liệu thông dụng là:",
+    "question":"Trong bảng tính Microsoft Excel, các kiểu dữ liệu thông dụng là:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3296,7 +3297,7 @@
     ]
   },
   {
-    "question":"207. Trong bảng tính Microsoft Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng ký hiệu nào?",
+    "question":"Trong bảng tính Microsoft Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng ký hiệu nào?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3312,7 +3313,7 @@
     ]
   },
   {
-    "question":"208. Trong khi làm việc với Microsoft Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ",
+    "question":"Trong khi làm việc với Microsoft Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3328,7 +3329,7 @@
     ]
   },
   {
-    "question":"209. Trong Microsoft Excel, địa chỉ $A3$ là địa chỉ _____",
+    "question":"Trong Microsoft Excel, địa chỉ $A3$ là địa chỉ _____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3344,7 +3345,7 @@
     ]
   },
   {
-    "question":"210. Trong Microsoft Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+    "question":"Trong Microsoft Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3359,23 +3360,23 @@
     ]
   },
   {
-    "question":"211. Trong Microsoft Excel, cho bảng tính có vùng dữ liệu sắp xếp dữ liệu theo chiều tăng dần, thứ tự sắp xếp nào sau đây là đúng?",
+    "question":"Trong Microsoft Excel, cho bảng tính có vùng dữ liệu sau. Khi thực hiện sắp xếp dữ liệu theo chiều tăng dần, thứ tự sắp xếp nào sau đây là đúng?",
     "type":"Multiple Choice",
     "answer":[
       2
     ],
-    "image":"\/quizzes\/Cap Toc\/211.jpeg",
+    "image":null,
     "explanation":null,
     "id":211,
     "choices":[
-      "A010 - A100 - A011 sau khi thực hiện",
+      "A010 - A100 - A011",
       "A010 - A011 - A100",
       "A100 - A010 - A011",
       "A011 - A010 - A100"
     ]
   },
   {
-    "question":"212. Trong Microsoft Excel, thành phần thứ 3 trong hàm VLOOKUP là gì?",
+    "question":"Trong Microsoft Excel, thành phần thứ 3 trong hàm VLOOKUP là gì?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3391,7 +3392,7 @@
     ]
   },
   {
-    "question":"213. Trong bảng tính Microsoft Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+    "question":"Trong bảng tính Microsoft Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3407,7 +3408,7 @@
     ]
   },
   {
-    "question":"214. Trong bảng tính Microsoft Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+    "question":"Trong bảng tính Microsoft Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3423,12 +3424,12 @@
     ]
   },
   {
-    "question":"215. Trên thẻ Home của thanh công cụ Riboon trong Microsoft Excel, biểu tượng (Increase Decimal) có ý nghĩa gì cho vùng dữ liệu được lựa chọn",
+    "question":"Trên thẻ Home của thanh công cụ Riboon trong Microsoft Excel, biểu tượng (Increase Decimal) có ý nghĩa gì cho vùng dữ liệu được lựa chọn",
     "type":"Multiple Choice",
     "answer":[
       1
     ],
-    "image":"\/quizzes\/Cap Toc\/215.jpeg",
+    "image":null,
     "explanation":null,
     "id":215,
     "choices":[
@@ -3439,12 +3440,12 @@
     ]
   },
   {
-    "question":"216. Trên thẻ Home của thanh công cụ Riboon trong Microsoft Excel, biểu tượng (Decrease Decimal) có ý nghĩa gì cho vùng dữ liệu được lựa chọn",
+    "question":"Trên thẻ Home của thanh công cụ Riboon trong Microsoft Excel, biểu tượng (Decrease Decimal) có ý nghĩa gì cho vùng dữ liệu được lựa chọn",
     "type":"Multiple Choice",
     "answer":[
       2
     ],
-    "image":"\/quizzes\/Cap Toc\/216.jpeg",
+    "image":null,
     "explanation":null,
     "id":216,
     "choices":[
@@ -3455,12 +3456,12 @@
     ]
   },
   {
-    "question":"217. Cho bảng số liệu như sau trong Microsoft Excel: Cho biết kiểu định dạng hiển thị dữ liệu ngày nào sau đây được áp dụng tại ô B1",
+    "question":"Cho bảng số liệu như sau trong Microsoft Excel. Cho biết kiểu định dạng hiển thị dữ liệu ngày nào sau đây được áp dụng tại ô B1",
     "type":"Multiple Choice",
     "answer":[
       4
     ],
-    "image":"\/quizzes\/Cap Toc\/217.jpeg",
+    "image":null,
     "explanation":null,
     "id":217,
     "choices":[
@@ -3471,7 +3472,7 @@
     ]
   },
   {
-    "question":"218. Trong Microsoft Excel, để tìm các số thỏa điều kiện =5 và =10, ta dùng :",
+    "question":"Trong Microsoft Excel, để tìm các số thỏa điều kiện =5 và =10, ta dùng :",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3487,7 +3488,7 @@
     ]
   },
   {
-    "question":"219. Trong bảng tính Microsoft Excel, để biểu diễn số liệu dạng phần trăm, sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất:",
+    "question":"Trong bảng tính Microsoft Excel, để biểu diễn số liệu dạng phần trăm, sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3497,13 +3498,13 @@
     "id":219,
     "choices":[
       "Biểu đồ cột đứng (Column)",
-      "Biểu đồ dạng thanh (Bar)",
       "Biểu đồ đường gấp khúc (Line)",
+      "Biểu đồ dạng thanh (Bar)",
       "Biểu đồ dạng quạt tròn (Pie)"
     ]
   },
   {
-    "question":"220. Trong Microsoft Excel, hàm OR là một hàm logic. Hàm cho giá trị đúng (true) khi?",
+    "question":"Trong Microsoft Excel, hàm OR là một hàm logic. Hàm cho giá trị đúng (true) khi?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3519,7 +3520,7 @@
     ]
   },
   {
-    "question":"221. Tính năng nào sau đây không đúng là của Microsoft Excel?",
+    "question":"Tính năng nào sau đây không đúng là của Microsoft Excel?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3535,7 +3536,7 @@
     ]
   },
   {
-    "question":"222. Khi quản lý sheet trong Microsoft Excel, có thể ________",
+    "question":"Khi quản lý sheet trong Microsoft Excel, có thể ________",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3551,7 +3552,7 @@
     ]
   },
   {
-    "question":"223. Trong Microsoft Excel, câu nào sau đây là sai?",
+    "question":"Trong Microsoft Excel, câu nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3567,7 +3568,7 @@
     ]
   },
   {
-    "question":"224. Trong Microsoft Excel, giải thích nào sau đây là sai?",
+    "question":"Trong Microsoft Excel, giải thích nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3583,7 +3584,7 @@
     ]
   },
   {
-    "question":"225. Trong Microsoft Excel, giải thích nào sau đây là sai?",
+    "question":"Trong Microsoft Excel, giải thích nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3599,7 +3600,7 @@
     ]
   },
   {
-    "question":"226. Giả sử bây giờ đang là 10 giờ 32 phút 00 giây, ngày 31\/12\/2016, các công thức Microsoft Excel nào sau cho kết quả sai?",
+    "question":"Giả sử bây giờ đang là 10 giờ 32 phút 00 giây, ngày 31\/12\/2016, các công thức Microsoft Excel nào sau cho kết quả sai?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3615,7 +3616,7 @@
     ]
   },
   {
-    "question":"227. Trong Microsoft Excel, khi sao chép ô A3 đang chứa công thức =$A1 + B$1 đến ô C5, công thức trong ô C5 sẽ là:",
+    "question":"Trong Microsoft Excel, khi sao chép ô A3 đang chứa công thức =$A1 + B$1 đến ô C5, công thức trong ô C5 sẽ là:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3627,27 +3628,26 @@
       "=$A3 + D$1",
       "=$B3 + E$1",
       "=$C3 + F$1",
-      "=$A3 + D1"
+      ". =$A3 + D1"
     ]
   },
   {
-    "question":"228. Cho một worksheet như hình bên, kết quả của công thức =VLOOKUP(4, A1:B5, 2,0) là?",
+    "question":"Cho một worksheet như hình bên, kết quả của công thức =VLOOKUP(4, A1:B5, 2,0) là?",
     "type":"Multiple Choice",
     "answer":[
       4
     ],
-    "image":"\/quizzes\/Cap Toc\/228.jpeg",
+    "image":null,
     "explanation":null,
     "id":228,
     "choices":[
       "TB",
       "Khá",
-      "Yếu",
-      "#N/A"
+      "Yếu"
     ]
   },
   {
-    "question":"229. Trong Microsoft Excel, kết quả công thức nào sau đây là đúng nhất?",
+    "question":"Trong Microsoft Excel, kết quả công thức nào sau đây là đúng nhất?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3663,7 +3663,7 @@
     ]
   },
   {
-    "question":"230. Trong Microsoft Excel, để nhập một giá trị dạng ngày (date) vào một ô nào đó ta phải _____",
+    "question":"Trong Microsoft Excel, để nhập một giá trị dạng ngày (date) vào một ô nào đó ta phải _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3679,7 +3679,7 @@
     ]
   },
   {
-    "question":"231. Công thức MIN(2*4,24,6,9-3) cho kết quả là:",
+    "question":"Công thức MIN(2*4,24,6,9-3) cho kết quả là:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3695,7 +3695,7 @@
     ]
   },
   {
-    "question":"232. Cho biết kết quả công thức sau đây: LEFT (\"DANG THI TIN HOC\", 3)",
+    "question":"Cho biết kết quả công thức sau đây: LEFT (\"DANG THI TIN HOC\", 3)",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3711,7 +3711,7 @@
     ]
   },
   {
-    "question":"233. Cho biết giá trị của công thức sau đây: IF(AND(5>3,2>=2),2,3)",
+    "question":"Cho biết giá trị của công thức sau đây: IF(AND(5>3,2>=2),2,3)",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3722,44 +3722,43 @@
     "choices":[
       "2",
       "3",
-      "Công thức có lỗi cú pháp",
-      "FALSE"
+      "Công thức có lỗi cú pháp"
     ]
   },
   {
-    "question":"234. Cho biết kết quả công thức sau đây: RIGHT(\"TIN HOC CAN BAN\",3)",
+    "question":"Cho biết kết quả công thức sau đây: RIGHT(\"TIN HOC CAN BAN\",3)",
     "type":"Multiple Choice",
     "answer":[
-      2
+      3
     ],
     "image":null,
     "explanation":null,
     "id":234,
     "choices":[
+      "TIN",
       "CAN",
       "BAN",
-      "TIN",
       "HOC CAN BAN"
     ]
   },
   {
-    "question":"235. Giá trị của công thức MOD(45,7)",
+    "question":"Giá trị của công thức MOD(45,7)",
     "type":"Multiple Choice",
     "answer":[
-      2
+      3
     ],
     "image":null,
     "explanation":null,
     "id":235,
     "choices":[
+      "6",
       "0",
       "3",
-      "1",
-      "6"
+      "1"
     ]
   },
   {
-    "question":"236. Trong Microsoft Excel, câu lệnh =SUM(7, 5, -3, 2, 9, -4) có kết quả là:",
+    "question":"Trong Microsoft Excel, câu lệnh =SUM(7, 5, -3, 2, 9, -4) có kết quả là: =PRODUCT(A2,5) thì nhận được kết quả:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3775,7 +3774,7 @@
     ]
   },
   {
-    "question":"237. Trong bảng tính Microsoft Excel, tại ô A2 có sẵn giá trị số 10; tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:",
+    "question":"Trong bảng tính Microsoft Excel, tại ô A2 có sẵn giá trị số 10; tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3791,7 +3790,7 @@
     ]
   },
   {
-    "question":"238. Trong bảng tính Microsoft Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc co ban\", tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?",
+    "question":"Trong bảng tính Microsoft Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc co ban\", tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3807,7 +3806,7 @@
     ]
   },
   {
-    "question":"239. Giả sử ngày hệ thống của máy tính là: 19\/9\/2013, khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là:",
+    "question":"Giả sử ngày hệ thống của máy tính là: 19\/9\/2013, khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3823,7 +3822,7 @@
     ]
   },
   {
-    "question":"240. Trong bảng tính Microsoft Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc co ban\" , tại ô B2 gõ vào công thức =LOWER(A2) thì nhận được kết quả?",
+    "question":"Trong bảng tính Microsoft Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc co ban\" , tại ô B2 gõ vào công thức =LOWER(A2) thì nhận được kết quả?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3839,7 +3838,7 @@
     ]
   },
   {
-    "question":"241. Trong bảng tính Microsoft Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?",
+    "question":"Trong bảng tính Microsoft Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -3855,7 +3854,7 @@
     ]
   },
   {
-    "question":"242. Trong Microsoft Excel cú pháp hàm SUMIF nào là đúng?",
+    "question":"Trong Microsoft Excel cú pháp hàm SUMIF nào là đúng?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3871,7 +3870,7 @@
     ]
   },
   {
-    "question":"243. Trong Microsoft Excel, giả sử ô A1 của bảng tính lưu trị ngày 15\/10\/2018. Kết quả hàm =MONTH(A1) là bao nhiêu?",
+    "question":"Trong Microsoft Excel, giả sử ô A1 của bảng tính lưu trị ngày 15\/10\/2018. Kết quả hàm =MONTH(A1) là bao nhiêu?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3887,7 +3886,7 @@
     ]
   },
   {
-    "question":"244. Với công thức = MAX(20,MIN(5,100)) cho kết quả là",
+    "question":"Với công thức = MAX(20,MIN(5,100)) cho kết quả là",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3902,7 +3901,7 @@
     ]
   },
   {
-    "question":"245. Trong Excel, tại ô A2 có giá trị là số 2018. Tại ô B2 gõ công thức =LEN(A2) thì nhận được kết quả?",
+    "question":"Trong Excel, tại ô A2 có giá trị là số 2018. Tại ô B2 gõ công thức =LEN(A2) thì nhận được kết quả?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3911,30 +3910,30 @@
     "explanation":null,
     "id":245,
     "choices":[
-      "#Value!",
+      "#VALUE!",
       "0",
       "4",
       "2018"
     ]
   },
   {
-    "question":"246. Với bảng số liệu dưới đay trong Microsoft Excel công thức để tính lương tại ô C2 như thế nào với yêu cầu. Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồng",
+    "question":"Với bảng số liệu dưới đay trong Microsoft Excel công thức để tính lương tại ô C2 như thế nào với yêu cầu. Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồng",
     "type":"Multiple Choice",
     "answer":[
       4
     ],
-    "image":"\/quizzes\/Cap Toc\/246.jpeg",
+    "image":null,
     "explanation":null,
     "id":246,
     "choices":[
       "=ROUND(B2 *B$4,-4)",
       "=ROUND(B2 *B$4,3)",
-      "=ROUND(B2 *B4, -3)",
-      "=ROUND(B2 *B$4, -3)"
+      "=ROUND(B2 *B4,-3)",
+      "=ROUND(B2 *B$4,-3)"
     ]
   },
   {
-    "question":"247. Trong Microsoft Excel, công thức nào sau đây sẽ cho lỗi #VALUE!?=COUNTA(\"A\",13,4)",
+    "question":"Trong Microsoft Excel, công thức nào sau đây sẽ cho lỗi #VALUE!?=COUNTA(\"A\",13,4)",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -3945,12 +3944,11 @@
     "choices":[
       "=MAX(\"A\",13,4)",
       "=COUNTIF(D7:D18,\"A\")",
-      "=COUNTA(\"A\",13,4)",
-      "=SUM(13,4)"
+      "=COUNTA(\"A\",13,4)"
     ]
   },
   {
-    "question":"248. Trong Microsoft Excel, để xóa dữ liệu trong các ô đang chọn thì ta dùng cách nào?",
+    "question":"Trong Microsoft Excel, để xóa dữ liệu trong các ô đang chọn thì ta dùng cách nào?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3966,7 +3964,7 @@
     ]
   },
   {
-    "question":"249. Phát biểu nào sau đây là sai?",
+    "question":"Phát biểu nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -3982,7 +3980,7 @@
     ]
   },
   {
-    "question":"250. Trong bảng tính Excel, muốn sắp xếp danh sách dữ liệu theo thứ tự tăng (giảm), ta thực hiện:",
+    "question":"Trong bảng tính Excel, muốn sắp xếp danh sách dữ liệu theo thứ tự tăng (giảm), ta thực hiện:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -3991,14 +3989,14 @@
     "explanation":null,
     "id":250,
     "choices":[
-      "Tools - Sort",
-      "File - Sort",
-      "Data - Sort",
+      "Tools – Sort",
+      "File – Sort",
+      "Data – Sort",
       "Format - Sort"
     ]
   },
   {
-    "question":"251. Trong PowerPoint, các hiệu ứng động dạng Entrance(màu xanh lá) là hiệu ứng _____",
+    "question":"Trong PowerPoint, các hiệu ứng động dạng Entrance(màu xanh lá) là hiệu ứng _____",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4014,7 +4012,7 @@
     ]
   },
   {
-    "question":"252. Trong PowerPoint, các hiệu ứng động dạng Emphasis(màu vàng) là hiệu ứng _____",
+    "question":"Trong PowerPoint, các hiệu ứng động dạng Emphasis(màu vàng) là hiệu ứng _____",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4030,7 +4028,7 @@
     ]
   },
   {
-    "question":"253. Trong PowerPoint, các hiệu ứng động dạng Exit (màu đỏ) là hiệu ứng _____",
+    "question":"Trong PowerPoint, các hiệu ứng động dạng Exit (màu đỏ) là hiệu ứng _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4046,7 +4044,7 @@
     ]
   },
   {
-    "question":"254. Trong PowerPoint, các hiệu ứng động dạng Motion Path là hiệu ứng _____",
+    "question":"Trong PowerPoint, các hiệu ứng động dạng Motion Path là hiệu ứng _____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4062,7 +4060,7 @@
     ]
   },
   {
-    "question":"255. Chức năng nào sau đây không có trong PowerPoint?",
+    "question":"Chức năng nào sau đây không có trong PowerPoint?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4078,7 +4076,7 @@
     ]
   },
   {
-    "question":"256. Trong PowerPoint, khẳng định nào sau đây là sai về vùng ghi chú (Note Page) của PowerPoint?",
+    "question":"Trong PowerPoint, khẳng định nào sau đây là sai về vùng ghi chú (Note Page) của PowerPoint?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4094,7 +4092,7 @@
     ]
   },
   {
-    "question":"257. Trong PowerPoint, thông số nào không có trong chức năng Animation - Timing của PowerPoint?",
+    "question":"Trong PowerPoint, thông số nào không có trong chức năng Animation - Timing của PowerPoint?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4110,7 +4108,7 @@
     ]
   },
   {
-    "question":"258. Trong PowerPoint, phát biểu nào sau đây là sai ?",
+    "question":"Trong PowerPoint, phát biểu nào sau đây là sai ?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4126,7 +4124,7 @@
     ]
   },
   {
-    "question":"259. Chức năng Photo Album trong PowerPoint được dùng để",
+    "question":"Chức năng Photo Album trong PowerPoint được dùng để",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4142,7 +4140,7 @@
     ]
   },
   {
-    "question":"260. PowerPoint không hỗ trợ lưu với định dạng nào dưới đây",
+    "question":"PowerPoint không hỗ trợ lưu với định dạng nào dưới đây",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4158,7 +4156,7 @@
     ]
   },
   {
-    "question":"261. Chức năng nào vừa có trong Word vừa có trong PowerPoint?",
+    "question":"Chức năng nào vừa có trong Word vừa có trong PowerPoint?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4174,7 +4172,7 @@
     ]
   },
   {
-    "question":"262. Trong PowerPoint, chức năng Duration trong hiệu ứng chuyển Slide có ý nghĩa gì?",
+    "question":"Trong PowerPoint, chức năng Duration trong hiệu ứng chuyển Slide có ý nghĩa gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4190,7 +4188,7 @@
     ]
   },
   {
-    "question":"263. Trong PowerPoint, Effect Option là chức năng dùng để _____",
+    "question":"Trong PowerPoint, Effect Option là chức năng dùng để _____",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4206,7 +4204,7 @@
     ]
   },
   {
-    "question":"264. Trong PowerPoint, phím nào được dùng để dừng bài trình chiếu khi đang trình diễn?",
+    "question":"Trong PowerPoint, phím nào được dùng để dừng bài trình chiếu khi đang trình diễn?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4222,7 +4220,7 @@
     ]
   },
   {
-    "question":"265. Trong PowerPoint, để chỉnh chiều của Slide, ta sử dụng chức năng",
+    "question":"Trong PowerPoint, để chỉnh chiều của Slide, ta sử dụng chức năng",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4238,7 +4236,7 @@
     ]
   },
   {
-    "question":"266. Trong PowerPoint, Để thiết lập các thông số trang in ta thực hiện",
+    "question":"rong PowerPoint, Để thiết lập các thông số trang in ta thực hiện",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4254,7 +4252,7 @@
     ]
   },
   {
-    "question":"267. Trong PowerPoint, khi chèn một đối tượng âm thanh vào Slide, chức năng nào trong thẻ PlayBack được dùng để chạy bài nhạc qua tất cả các Slide? Start - Automatically",
+    "question":"Trong PowerPoint, khi chèn một đối tượng âm thanh vào Slide, chức năng nào trong thẻ PlayBack được dùng để chạy bài nhạc qua tất cả các Slide? Start - Automatically",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4266,11 +4264,11 @@
       "Start - On Click",
       "Start - Play across slides",
       "Loop Until Stopped",
-      "Enter - Play across slides"
+      "Enter – Play across slides"
     ]
   },
   {
-    "question":"268. Trong Powerpoint, muốn tạo ra 1 slide mới ta dùng lệnh nào trong thẻ Home - Slides không thể sử dụng được?",
+    "question":"Trong Powerpoint, muốn tạo ra 1 slide mới ta dùng lệnh nào trong thẻ Home – Slides không thể sử dụng được?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4286,7 +4284,7 @@
     ]
   },
   {
-    "question":"269. Trong Powerpoint, thao tác chọn File - Close dùng để",
+    "question":"Trong Powerpoint, thao tác chọn File – Close dùng để",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4302,7 +4300,7 @@
     ]
   },
   {
-    "question":"270. Để tô màu nền cho Powerpoint ta thực hiện _____",
+    "question":"Để tô màu nền cho Powerpoint ta thực hiện _____",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4311,14 +4309,14 @@
     "explanation":null,
     "id":270,
     "choices":[
-      "Insert - Background - Background Style",
-      "Home - Background - Background Style",
-      "Design - Background - Background Style",
-      "View - Background - Background Style"
+      "Insert – Background – Background Style",
+      "Home – Background – Background Style",
+      "Design – Background – Background Style",
+      "View – Background – Background Style"
     ]
   },
   {
-    "question":"271. Trong Powerpoint, chế độ view nào giúp ta làm việc tốt nhất với các chuyển cảnh khi thiết kế (Slide transitions)?",
+    "question":"Trong Powerpoint, chế độ view nào giúp ta làm việc tốt nhất với các chuyển cảnh khi thiết kế (Slide transitions)?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4334,23 +4332,23 @@
     ]
   },
   {
-    "question":"272. Chức năng nào trong nhóm công cụ sau dùng để trình chiếu slide đang thiết kế trong Powerpoint",
+    "question":"Chức năng nào trong nhóm công cụ sau dùng để trình chiếu slide đang thiết kế trong Powerpoint",
     "type":"Multiple Choice",
     "answer":[
       4
     ],
-    "image":"\/quizzes\/Cap Toc\/272.jpeg",
+    "image":null,
     "explanation":null,
     "id":272,
     "choices":[
-      "Normal ( )",
-      "Slode sorter ( )",
-      "Reading view ( )",
-      "Slide show ( )"
+      "Normal",
+      "Slode sorter",
+      "Reading view",
+      "Slide show"
     ]
   },
   {
-    "question":"273. Một đối tượng Powerpoint có thể có bao nhiêu hiệu ứng?",
+    "question":"Một đối tượng Powerpoint có thể có bao nhiêu hiệu ứng?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4366,7 +4364,7 @@
     ]
   },
   {
-    "question":"274. Trong PowerPoint, các tính năng nào sau đây là không đúng?",
+    "question":"Trong PowerPoint, các tính năng nào sau đây là không đúng?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4382,7 +4380,7 @@
     ]
   },
   {
-    "question":"275. Trong PowerPoint, câu nào sau đây là sai.",
+    "question":"Trong PowerPoint, câu nào sau đây là sai",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4398,7 +4396,7 @@
     ]
   },
   {
-    "question":"276. Trong PowerPoint, câu nào sau đây là sai?",
+    "question":"Trong PowerPoint, câu nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4414,7 +4412,7 @@
     ]
   },
   {
-    "question":"277. Trong PowerPoint, câu nào sau đây sai?",
+    "question":"Trong PowerPoint, câu nào sau đây sai?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4430,7 +4428,7 @@
     ]
   },
   {
-    "question":"278. Trong PowerPoint, Thành phần nào không thuộc một slide?",
+    "question":"Trong PowerPoint, Thành phần nào không thuộc một slide?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4446,7 +4444,7 @@
     ]
   },
   {
-    "question":"279. Đâu không phải là cách để trình diễn một bài thuyết trình trong Powerpoint?",
+    "question":"Đâu không phải là cách để trình diễn một bài thuyết trình trong Powerpoint?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4455,14 +4453,14 @@
     "explanation":null,
     "id":279,
     "choices":[
-      "Bấm vào nút Slide show ( ) ở góc dưới bên phải",
-      "Thẻ Slide show - chọn From Beginning",
-      "Thẻ Slide show - chọn From Custom Slide show",
-      "Thẻ Slide show - chọn Set Up Slide show"
+      "Bấm vào nút Slide show",
+      "Thẻ Slide show – chọn From Beginning",
+      "Thẻ Slide show – chọn From Custom Slide show",
+      "Thẻ Slide show – chọn Set Up Slide show"
     ]
   },
   {
-    "question":"280. Mục đích chính của chế độ xem Slide Sorter trong Powerpoint là gì?",
+    "question":"Mục đích chính của chế độ xem Slide Sorter trong Powerpoint là gì?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4478,7 +4476,7 @@
     ]
   },
   {
-    "question":"281. Để trình chiếu từ slide 2 đến slide 4 trong một bài thuyết trình trong Powerpoint 2010, cách nào dưới đây là sai?",
+    "question":"Để trình chiếu từ slide 2 đến slide 4 trong một bài thuyết trình trong Powerpoint 2010, cách nào dưới đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4494,23 +4492,23 @@
     ]
   },
   {
-    "question":"282. Trong Powerpoint, chế độ trình chiếu Browsed by an individual (window) trong chức năng Set Up Slide Show tương đương với góc nhìn nào dưới đây ?",
+    "question":"rong Powerpoint, chế độ trình chiếu Browsed by an individual (window) trong chức năng Set Up Slide Show tương đương với góc nhìn nào dưới đây ?",
     "type":"Multiple Choice",
     "answer":[
-      3
+      2
     ],
     "image":null,
     "explanation":null,
     "id":282,
     "choices":[
       "Normal",
-      "Slide Sorter",
       "Reading View",
+      "Slide Sorter",
       "Slide Master"
     ]
   },
   {
-    "question":"283. Đang thiết kế giáo án điện tử, trước khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này?",
+    "question":"Đang thiết kế giáo án điện tử, trước khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này?",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4526,7 +4524,7 @@
     ]
   },
   {
-    "question":"284. Trong Powerpoint, Để lưu tập tin với một tên khác ta chọn lệnh nào sau đây",
+    "question":"Trong Powerpoint, Để lưu tập tin với một tên khác ta chọn lệnh nào sau đây",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4542,7 +4540,7 @@
     ]
   },
   {
-    "question":"285. Trong Powerpoint, Vào Transition -> tích vào after -> gõ vào 00:05 giây, bấm Apply to all slide sẽ thực hiện được lệnh trình chiếu:",
+    "question":"Trong Powerpoint, Vào Transition -> tích vào after -> gõ vào 00:05 giây, bấm Apply to all slide sẽ thực hiện được lệnh trình chiếu:",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4558,7 +4556,7 @@
     ]
   },
   {
-    "question":"286. Trong Powerpoint, Để in Slide 1, 3, 6, 9 ta chọn File -> Chọn print:",
+    "question":"Trong Powerpoint, Để in Slide 1, 3, 6, 9 ta chọn File -> Chọn print:",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4574,7 +4572,7 @@
     ]
   },
   {
-    "question":"287. Lệnh từ tổ hợp phím CTRL+N trong chương trình Microsoft Powerpoint nhằm để",
+    "question":"Lệnh từ tổ hợp phím CTRL+N trong chương trình Microsoft Powerpoint nhằm để",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4590,7 +4588,7 @@
     ]
   },
   {
-    "question":"288. Trong Powerpoint, phát biểu nào sau đây là sai?",
+    "question":"Trong Powerpoint, phát biểu nào sau đây là sai?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4606,7 +4604,7 @@
     ]
   },
   {
-    "question":"289. Trong Powerpoint, sau khi thiết kế xong bài trình diễn, cách nào sau đây để trình chiếu ngay bài trình diễn đó?",
+    "question":"Trong Powerpoint, sau khi thiết kế xong bài trình diễn, cách nào sau đây để trình chiếu ngay bài trình diễn đó?",
     "type":"Multiple Choice",
     "answer":[
       2
@@ -4622,7 +4620,7 @@
     ]
   },
   {
-    "question":"290. Trong Powerpoint, âm thanh đưa vào bài trình diễn",
+    "question":"Trong Powerpoint, âm thanh đưa vào bài trình diễn",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4638,7 +4636,7 @@
     ]
   },
   {
-    "question":"291. Trong Powerpoint, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến (trường hợp máy tính đang có kết nối Internet)",
+    "question":"Trong Powerpoint, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến (trường hợp máy tính đang có kết nối Internet)",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4654,7 +4652,7 @@
     ]
   },
   {
-    "question":"292. Trong Powerpoint, sau khi đã chèn một bảng biểu vào slide, muốn chia một ô nào đó thành 2 ô ta:",
+    "question":"Trong Powerpoint, sau khi đã chèn một bảng biểu vào slide, muốn chia một ô nào đó thành 2 ô ta:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4670,7 +4668,7 @@
     ]
   },
   {
-    "question":"293. Trong Powerpoint, cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải",
+    "question":"Trong Powerpoint, cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4686,7 +4684,7 @@
     ]
   },
   {
-    "question":"294. Trong Powerpoint, khi tạo hiệu ứng động cho 2 đối tượng A và B trong một Slide, người thiết kế đã xác lập thời gian để B tự động xuất hiện sau A là 5 giây. Vậy khi trình chiếu:",
+    "question":"Trong Powerpoint, khi tạo hiệu ứng động cho 2 đối tượng A và B trong một Slide, người thiết kế đã xác lập thời gian để B tự động xuất hiện sau A là 5 giây. Vậy khi trình chiếu:",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4702,7 +4700,7 @@
     ]
   },
   {
-    "question":"295. Trong Powerpoint, để tạo thêm một Slide giống với Slide đang chọn, ta sử dụng chức năng",
+    "question":"Trong Powerpoint, để tạo thêm một Slide giống với Slide đang chọn, ta sử dụng chức năng",
     "type":"Multiple Choice",
     "answer":[
       1
@@ -4712,13 +4710,13 @@
     "id":295,
     "choices":[
       "Duplicate Slide",
-      "New Slide",
       "Delete Slide",
+      "New Slide",
       "Add Section"
     ]
   },
   {
-    "question":"296. Trong Powerpoint, chức năng nào không có khi làm việc với Section?",
+    "question":"Trong Powerpoint, chức năng nào không có khi làm việc với Section",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4734,7 +4732,7 @@
     ]
   },
   {
-    "question":"297. Trong Powerpoint, nút công cụ nào không có khi trình chiếu?",
+    "question":"Trong Powerpoint, nút công cụ nào không có khi trình chiếu?",
     "type":"Multiple Choice",
     "answer":[
       4
@@ -4750,7 +4748,7 @@
     ]
   },
   {
-    "question":"298. Trong Powerpoint, chức năng nào sau đây không có?",
+    "question":"Trong Powerpoint, chức năng nào sau đây không có?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4766,7 +4764,7 @@
     ]
   },
   {
-    "question":"299. Trong PowerPoint, mặc định có bao nhiêu Layout?",
+    "question":"Trong PowerPoint, mặc định có bao nhiêu Layout?",
     "type":"Multiple Choice",
     "answer":[
       3
@@ -4782,7 +4780,7 @@
     ]
   },
   {
-    "question":"300. Trong PowerPoint, chức năng “Don’t show on title slide” trong Header & footer có tác dụng gì?",
+    "question":"Trong PowerPoint, chức năng “Don’t show on title slide” trong Header & footer có tác dụng gì?",
     "type":"Multiple Choice",
     "answer":[
       2
