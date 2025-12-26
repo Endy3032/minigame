@@ -1,5 +1,5 @@
 import { Handlers, PageProps } from "$fresh/server.ts"
-import { cn, Question, readQuizJson } from "../../utils.ts"
+import { cn, markify, Question, readQuizJson } from "../../utils.ts"
 
 export const handler: Handlers = {
 	GET(_req, ctx) {
@@ -32,7 +32,7 @@ export default function QuizPage(props: PageProps) {
 						<span class="float-right ms-2 mb-2 text-sm text-zinc-400">#{q.id}</span>
 						<span
 							// deno-lint-ignore react-no-danger
-							dangerouslySetInnerHTML={{ __html: q.question.replace(/`([^`]+)`/g, "<code>$1</code>") }}
+							dangerouslySetInnerHTML={{ __html: markify(q.question) }}
 						>
 						</span>
 					</h2>
@@ -47,7 +47,7 @@ export default function QuizPage(props: PageProps) {
 							)}>
 								<span
 									// deno-lint-ignore react-no-danger
-									dangerouslySetInnerHTML={{ __html: choice.toString().replace(/`([^`]+)`/g, "<code>$1</code>") }}
+									dangerouslySetInnerHTML={{ __html: markify(choice.toString()) }}
 								>
 								</span>
 							</li>

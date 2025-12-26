@@ -40,6 +40,12 @@ export function readQuizJson<T>(quiz: string, filename: string): T | null {
 	}
 }
 
+export function markify(text: string): string {
+	text = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+	text = text.replace(/&lt;br\s*\/?&gt;/gi, "<br/>").replace(/`([^`]+)`/g, "<code>$1</code>")
+	return text
+}
+
 export type Question = {
 	id: number
 	question: string

@@ -1,7 +1,7 @@
 import { Signal, useSignal } from "@preact/signals"
 import { useEffect, useRef } from "preact/hooks"
 import { Kbd } from "../components/KeyboardButton.tsx"
-import { cn, fisherYatesShuffle, Metadata, Question } from "../utils.ts"
+import { cn, fisherYatesShuffle, markify, Metadata, Question } from "../utils.ts"
 
 const colorMap = [
 	"bg-red-700 shadow-red-800 active:bg-red-800",
@@ -186,7 +186,7 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 						</div>
 						{q.question.split("\n").map((line, i) => (
 							// deno-lint-ignore react-no-danger
-							<p key={i} dangerouslySetInnerHTML={{ __html: line.replace(/`([^`]+)`/g, "<code>$1</code>") }}></p>
+							<p key={i} dangerouslySetInnerHTML={{ __html: markify(line) }}></p>
 						))}
 						{q.image && (
 							<img src={q.image!} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
@@ -243,7 +243,7 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 								</span>
 							)}
 							<p key={i} // deno-lint-ignore react-no-danger
-								dangerouslySetInnerHTML={{ __html: choice.text.toString().replace(/`([^`]+)`/g, "<code>$1</code>") }}
+								dangerouslySetInnerHTML={{ __html: markify(choice.text.toString()) }}
 							>
 							</p>
 						</button>
