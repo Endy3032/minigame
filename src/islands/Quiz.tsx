@@ -184,7 +184,10 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 						<div class="rounded-full bg-zinc-800 border border-zinc-600/50 py-1 px-2 text-sm">
 							{qi + 1}/{questions.length}
 						</div>
-						{q.question.split("\n").map((line, i) => <p key={i}>{line}</p>)}
+						{q.question.split("\n").map((line, i) => (
+							// deno-lint-ignore react-no-danger
+							<p key={i} dangerouslySetInnerHTML={{ __html: line.replace(/`([^`]+)`/g, "<code>$1</code>") }}></p>
+						))}
 						{q.image && (
 							<img src={q.image!} alt="Question Image" class="mt-2 rounded-md max-w-[min(64rem,100%)] max-h-[32rem] mx-auto" />
 						)}
@@ -239,7 +242,10 @@ export function Quiz(props: { metadata: Metadata | null; questions: Question[] }
 									{check(choice.index) ? "✓" : "✗"}
 								</span>
 							)}
-							{choice.text}
+							<p key={i} // deno-lint-ignore react-no-danger
+								dangerouslySetInnerHTML={{ __html: choice.text.toString().replace(/`([^`]+)`/g, "<code>$1</code>") }}
+							>
+							</p>
 						</button>
 					))}
 				</div>

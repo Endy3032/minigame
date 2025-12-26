@@ -1,0 +1,2310 @@
+[
+  {
+    "question":"1. Which of the following is a valid variable name in Python?",
+    "type":"Multiple Choice",
+    "a":"A) 1_num",
+    "b":"B) num-1",
+    "c":"C) num_1",
+    "d":"D) num 1",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Variable names can contain letters, numbers, and underscores but can't start with a number or contain spaces or dashes.",
+    "image":null,
+    "id":1,
+    "choices":[
+      "A) 1_num",
+      "B) num-1",
+      "C) num_1",
+      "D) num 1"
+    ]
+  },
+  {
+    "question":"2. What is the output of `type(3)`",
+    "type":"Multiple Choice",
+    "a":"A) `<class 'str'>`",
+    "b":"B) `<class 'int'>`",
+    "c":"C) `<class 'float'>`",
+    "d":"D) `<class 'number'>`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"type(3) returns <class 'int'>.",
+    "image":null,
+    "id":2,
+    "choices":[
+      "A) `<class 'str'>`",
+      "B) `<class 'int'>`",
+      "C) `<class 'float'>`",
+      "D) `<class 'number'>`"
+    ]
+  },
+  {
+    "question":"3. Which function is used to get user input in Python 3?",
+    "type":"Multiple Choice",
+    "a":"A) `get()`",
+    "b":"B) `input()`",
+    "c":"C) `read()`",
+    "d":"D) `readLine()`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"input() collects user input as a string.",
+    "image":null,
+    "id":3,
+    "choices":[
+      "A) `get()`",
+      "B) `input()`",
+      "C) `read()`",
+      "D) `readLine()`"
+    ]
+  },
+  {
+    "question":"4. What would be the output of `print(\"Hello\" + \"World\")`",
+    "type":"Multiple Choice",
+    "a":"A) Hello World",
+    "b":"B) HelloWorld",
+    "c":"C) Hello + World",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Strings concatenate: \"HelloWorld\".",
+    "image":null,
+    "id":4,
+    "choices":[
+      "A) Hello World",
+      "B) HelloWorld",
+      "C) Hello + World",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"5. What is the result of `print(7 \/\/ 2)`",
+    "type":"Multiple Choice",
+    "a":"A) 3",
+    "b":"B) 3.5",
+    "c":"C) 4",
+    "d":"D) 4.0",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"\/\/ is integer division (7 \/\/ 2 = 3).",
+    "image":null,
+    "id":5,
+    "choices":[
+      "A) 3",
+      "B) 3.5",
+      "C) 4",
+      "D) 4.0"
+    ]
+  },
+  {
+    "question":"6. What is the default data type returned by the function `input()`?",
+    "type":"Multiple Choice",
+    "a":"A) int",
+    "b":"B) str",
+    "c":"C) float",
+    "d":"D) Depends on input",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"input() always returns a string.",
+    "image":null,
+    "id":6,
+    "choices":[
+      "A) int",
+      "B) str",
+      "C) float",
+      "D) Depends on input"
+    ]
+  },
+  {
+    "question":"7. How do you write a comment in Python?",
+    "type":"Multiple Choice",
+    "a":"A) `\/\/ This is a comment`",
+    "b":"B) `\/* This is a comment *\/`",
+    "c":"C) `# This is a comment`",
+    "d":"D) `-- This is a comment`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Comments start with #.",
+    "image":null,
+    "id":7,
+    "choices":[
+      "A) `\/\/ This is a comment`",
+      "B) `\/* This is a comment *\/`",
+      "C) `# This is a comment`",
+      "D) `-- This is a comment`"
+    ]
+  },
+  {
+    "question":"8. Which of the following is NOT a built-in data type in Python?",
+    "type":"Multiple Choice",
+    "a":"A) int",
+    "b":"B) float",
+    "c":"C) real",
+    "d":"D) list",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"real is not a Python built-in data type.",
+    "image":null,
+    "id":8,
+    "choices":[
+      "A) int",
+      "B) float",
+      "C) real",
+      "D) list"
+    ]
+  },
+  {
+    "question":"9. What is the value of 'x' after these statements?<br>`x = 5; y = x; x = 3`",
+    "type":"Multiple Choice",
+    "a":"A) 3",
+    "b":"B) 5",
+    "c":"C) 8",
+    "d":"D) undefined",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"x is assigned 5, y is assigned 5, then x is reassigned to 3; x is 3.",
+    "image":null,
+    "id":9,
+    "choices":[
+      "A) 3",
+      "B) 5",
+      "C) 8",
+      "D) undefined"
+    ]
+  },
+  {
+    "question":"10. Which statement will print the data type of the variable x?",
+    "type":"Multiple Choice",
+    "a":"A) `print(datatype(x))`",
+    "b":"B) `print(type(x))`",
+    "c":"C) `print(typeOf(x))`",
+    "d":"D) `print(typeof(x))`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"type() prints the datatype.",
+    "image":null,
+    "id":10,
+    "choices":[
+      "A) `print(datatype(x))`",
+      "B) `print(type(x))`",
+      "C) `print(typeOf(x))`",
+      "D) `print(typeof(x))`"
+    ]
+  },
+  {
+    "question":"11. What will the code `print(2 ** 3)` output?",
+    "type":"Multiple Choice",
+    "a":"A) 8",
+    "b":"B) 6",
+    "c":"C) 9",
+    "d":"D) 5",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"** is exponentiation: 2 raised to 3 is 8.",
+    "image":null,
+    "id":11,
+    "choices":[
+      "A) 8",
+      "B) 6",
+      "C) 9",
+      "D) 5"
+    ]
+  },
+  {
+    "question":"12. A string in Python can be defined using:",
+    "type":"Multiple Choice",
+    "a":"A) Single quotes",
+    "b":"B) Double quotes",
+    "c":"C) Triple quotes",
+    "d":"D) All of the above",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"Any form of quotes can define a string.",
+    "image":null,
+    "id":12,
+    "choices":[
+      "A) Single quotes",
+      "B) Double quotes",
+      "C) Triple quotes",
+      "D) All of the above"
+    ]
+  },
+  {
+    "question":"13. What is the length of the string `s = \"Python\"`?",
+    "type":"Multiple Choice",
+    "a":"A) 5",
+    "b":"B) 6",
+    "c":"C) 7",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Six letters in \"Python\".",
+    "image":null,
+    "id":13,
+    "choices":[
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"14. Which editor is tailor-made for Python development?",
+    "type":"Multiple Choice",
+    "a":"A) PyCharm",
+    "b":"B) Adobe Photoshop",
+    "c":"C) MS Word",
+    "d":"D) Blender",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"PyCharm is a Python IDE\/editor.",
+    "image":null,
+    "id":14,
+    "choices":[
+      "A) PyCharm",
+      "B) Adobe Photoshop",
+      "C) MS Word",
+      "D) Blender"
+    ]
+  },
+  {
+    "question":"15. Which of these is an invalid variable name?",
+    "type":"Multiple Choice",
+    "a":"A) `_result`",
+    "b":"B) `total$`",
+    "c":"C) `result1`",
+    "d":"D) `Total`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"$ not allowed in variable names.",
+    "image":null,
+    "id":15,
+    "choices":[
+      "A) `_result`",
+      "B) `total$`",
+      "C) `result1`",
+      "D) `Total`"
+    ]
+  },
+  {
+    "question":"16. What does the following print? `print(type(3.0))`",
+    "type":"Multiple Choice",
+    "a":"A) `<class 'int'>`",
+    "b":"B) `<class 'str'>`",
+    "c":"C) `<class 'float'>`",
+    "d":"D) `<class 'number'>`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Float literals produce <class 'float'>.",
+    "image":null,
+    "id":16,
+    "choices":[
+      "A) `<class 'int'>`",
+      "B) `<class 'str'>`",
+      "C) `<class 'float'>`",
+      "D) `<class 'number'>`"
+    ]
+  },
+  {
+    "question":"17. Which option assigns the string \"abc\" to a variable correctly?",
+    "type":"Multiple Choice",
+    "a":"A) `str = \"abc\"`",
+    "b":"B) `str: \"abc\"`",
+    "c":"C) `str <- \"abc\"`",
+    "d":"D) `str << \"abc\"`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Assignment uses =.",
+    "image":null,
+    "id":17,
+    "choices":[
+      "A) `str = \"abc\"`",
+      "B) `str: \"abc\"`",
+      "C) `str <- \"abc\"`",
+      "D) `str << \"abc\"`"
+    ]
+  },
+  {
+    "question":"18. The keyword used to define a variable is:",
+    "type":"Multiple Choice",
+    "a":"A) var",
+    "b":"B) define",
+    "c":"C) let",
+    "d":"D) None",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"No keyword is necessary for variable assignment.",
+    "image":null,
+    "id":18,
+    "choices":[
+      "A) var",
+      "B) define",
+      "C) let",
+      "D) None"
+    ]
+  },
+  {
+    "question":"19. All variable names in Python:",
+    "type":"Multiple Choice",
+    "a":"A) Must start with a letter or underscore",
+    "b":"B) Can start with a number",
+    "c":"C) Can have spaces",
+    "d":"D) None of the above",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Cannot start with a number or have spaces.",
+    "image":null,
+    "id":19,
+    "choices":[
+      "A) Must start with a letter or underscore",
+      "B) Can start with a number",
+      "C) Can have spaces",
+      "D) None of the above"
+    ]
+  },
+  {
+    "question":"20. Which data type would you use to store yes\/no values?",
+    "type":"Multiple Choice",
+    "a":"A) int",
+    "b":"B) str",
+    "c":"C) bool",
+    "d":"D) dict",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Yes\/no is boolean (bool).",
+    "image":null,
+    "id":20,
+    "choices":[
+      "A) int",
+      "B) str",
+      "C) bool",
+      "D) dict"
+    ]
+  },
+  {
+    "question":"21. Which of the following is a correct way to start a for loop?",
+    "type":"Multiple Choice",
+    "a":"A) `for i=0; i<10; i++:`",
+    "b":"B) `for i in range(10):`",
+    "c":"C) `foreach i in 10:`",
+    "d":"D) `for (i = 0; i < 10; i++)`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"for with range() is standard.",
+    "image":null,
+    "id":21,
+    "choices":[
+      "A) `for i=0; i<10; i++:`",
+      "B) `for i in range(10):`",
+      "C) `foreach i in 10:`",
+      "D) `for (i = 0; i < 10; i++)`"
+    ]
+  },
+  {
+    "question":"22. What is output of:<br>`x = 1<br>if x < 2:<br>  print(\"A\")<br>else:<br>  print(\"B\")`",
+    "type":"Multiple Choice",
+    "a":"A) A",
+    "b":"B) B",
+    "c":"C) A B",
+    "d":"D) none",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Condition is true, so \"A\".",
+    "image":null,
+    "id":22,
+    "choices":[
+      "A) A",
+      "B) B",
+      "C) A B",
+      "D) none"
+    ]
+  },
+  {
+    "question":"23. Which of the following is a valid while loop in Python?",
+    "type":"Multiple Choice",
+    "a":"A) `while x < 5 {}`",
+    "b":"B) `while (x < 5):`",
+    "c":"C) `while x < 5:`",
+    "d":"D) Both B and C",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"Both B and C.",
+    "image":null,
+    "id":23,
+    "choices":[
+      "A) `while x < 5 {}`",
+      "B) `while (x < 5):`",
+      "C) `while x < 5:`",
+      "D) Both B and C"
+    ]
+  },
+  {
+    "question":"24. What is output?<br>`x = 0<br>while x < 3:<br>  print(x, end=\" \")<br>  x += 1`",
+    "type":"Multiple Choice",
+    "a":"A) 1 2 3",
+    "b":"B) 0 1 2 3",
+    "c":"C) 0 1 2",
+    "d":"D) 0 1",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Loops with x=0,1,2; then stops.",
+    "image":null,
+    "id":24,
+    "choices":[
+      "A) 1 2 3",
+      "B) 0 1 2 3",
+      "C) 0 1 2",
+      "D) 0 1"
+    ]
+  },
+  {
+    "question":"25. What will this code output? `for i in range(1,4): print(i)`",
+    "type":"Multiple Choice",
+    "a":"A) 1 2 3",
+    "b":"B) 1 2 3 4",
+    "c":"C) 0 1 2 3",
+    "d":"D) 0 1 2",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"range(1,4) → 1,2,3",
+    "image":null,
+    "id":25,
+    "choices":[
+      "A) 1 2 3",
+      "B) 1 2 3 4",
+      "C) 0 1 2 3",
+      "D) 0 1 2"
+    ]
+  },
+  {
+    "question":"26. Which keyword can be used to exit a loop early?",
+    "type":"Multiple Choice",
+    "a":"A) return",
+    "b":"B) break",
+    "c":"C) continue",
+    "d":"D) exit",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"break exits a loop.",
+    "image":null,
+    "id":26,
+    "choices":[
+      "A) return",
+      "B) break",
+      "C) continue",
+      "D) exit"
+    ]
+  },
+  {
+    "question":"27. What is output? `for x in \"hi\": print(x)`",
+    "type":"Multiple Choice",
+    "a":"A) h i",
+    "b":"B) hi",
+    "c":"C) h<br>i",
+    "d":"D) Both A and C",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"Each character printed on a new line.",
+    "image":null,
+    "id":27,
+    "choices":[
+      "A) h i",
+      "B) hi",
+      "C) h<br>i",
+      "D) Both A and C"
+    ]
+  },
+  {
+    "question":"28. What is output? `for i in range(3,7): print(i, end=\" \")`",
+    "type":"Multiple Choice",
+    "a":"A) 4 5 6 7",
+    "b":"B) 3 4 5 6 7",
+    "c":"C) 3 4 5 6",
+    "d":"D) 3 4 5",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"range(3,7) → 3,4,5,6",
+    "image":null,
+    "id":28,
+    "choices":[
+      "A) 4 5 6 7",
+      "B) 3 4 5 6 7",
+      "C) 3 4 5 6",
+      "D) 3 4 5"
+    ]
+  },
+  {
+    "question":"29. Which of these would be an infinite loop?",
+    "type":"Multiple Choice",
+    "a":"A) `while True: print(\"A\")`",
+    "b":"B) `for i in range(10): print(\"A\")`",
+    "c":"C) `while x > 0: print(\"B\"); x -= 1`",
+    "d":"D) `for i in [1,2,3]: print(i)`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Infinite loop with while True.",
+    "image":null,
+    "id":29,
+    "choices":[
+      "A) `while True: print(\"A\")`",
+      "B) `for i in range(10): print(\"A\")`",
+      "C) `while x > 0: print(\"B\"); x -= 1`",
+      "D) `for i in [1,2,3]: print(i)`"
+    ]
+  },
+  {
+    "question":"30. Which of the following will print 'done' at the end of the loop (not every iteration)?",
+    "type":"Multiple Choice",
+    "a":"A) `for i in range(3): print(\"done\")`",
+    "b":"B) `for i in range(3): pass<br>print(\"done\")`",
+    "c":"C) `print(\"done\")<br>for i in range(3): pass`",
+    "d":"D) None of the above",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Prints \"done\" at end, not every loop.",
+    "image":null,
+    "id":30,
+    "choices":[
+      "A) `for i in range(3): print(\"done\")`",
+      "B) `for i in range(3): pass<br>print(\"done\")`",
+      "C) `print(\"done\")<br>for i in range(3): pass`",
+      "D) None of the above"
+    ]
+  },
+  {
+    "question":"31. Which will print only even numbers from 1 to 6 inclusive?",
+    "type":"Multiple Choice",
+    "a":"A) `for i in range(1,7):<br>  if i%2==0: print(i)`",
+    "b":"B) `for i in range(2,7,2): print(i)`",
+    "c":"C) `for i in range(2,7): print(i)`",
+    "d":"D) Both A and B",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"Both A (conditional) and B (by-step) only print even numbers.",
+    "image":null,
+    "id":31,
+    "choices":[
+      "A) `for i in range(1,7):<br>  if i%2==0: print(i)`",
+      "B) `for i in range(2,7,2): print(i)`",
+      "C) `for i in range(2,7): print(i)`",
+      "D) Both A and B"
+    ]
+  },
+  {
+    "question":"32. What is the output?<br>`x = 10<br>if x > 5 and x < 15: print(\"OK\")<br>else: print(\"Not OK\")`",
+    "type":"Multiple Choice",
+    "a":"A) OK",
+    "b":"B) Not OK",
+    "c":"C) Error",
+    "d":"D) None",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"x is both >5 and <15, so \"OK\".",
+    "image":null,
+    "id":32,
+    "choices":[
+      "A) OK",
+      "B) Not OK",
+      "C) Error",
+      "D) None"
+    ]
+  },
+  {
+    "question":"33. Which statement is true?",
+    "type":"Multiple Choice",
+    "a":"A) \"elif\" can only be used once in an if-else chain",
+    "b":"B) \"else\" must always be used with \"if\"",
+    "c":"C) \"elif\" is used for multiple condition checks",
+    "d":"D) Parentheses are mandatory for if conditions in Python",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"elif is for multiple conditions.",
+    "image":null,
+    "id":33,
+    "choices":[
+      "A) \"elif\" can only be used once in an if-else chain",
+      "B) \"else\" must always be used with \"if\"",
+      "C) \"elif\" is used for multiple condition checks",
+      "D) Parentheses are mandatory for if conditions in Python"
+    ]
+  },
+  {
+    "question":"34. Which value will be printed by this code?<br>`x = 2<br>y = 4<br>if x > y: print(x)<br>else: print(y)`",
+    "type":"Multiple Choice",
+    "a":"A) 2",
+    "b":"B) 4",
+    "c":"C) 6",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"y is higher, so print(y).",
+    "image":null,
+    "id":34,
+    "choices":[
+      "A) 2",
+      "B) 4",
+      "C) 6",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"35. The continue statement:",
+    "type":"Multiple Choice",
+    "a":"A) Ends the loop immediately",
+    "b":"B) Skips to the next iteration",
+    "c":"C) Jumps to the next function",
+    "d":"D) None",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"continue jumps to next iteration.",
+    "image":null,
+    "id":35,
+    "choices":[
+      "A) Ends the loop immediately",
+      "B) Skips to the next iteration",
+      "C) Jumps to the next function",
+      "D) None"
+    ]
+  },
+  {
+    "question":"36. In range(2, 10, 2), what is the output?",
+    "type":"Multiple Choice",
+    "a":"A) 2 4 6 8",
+    "b":"B) 2 3 4 5 6 7 8 9",
+    "c":"C) 2 4 6 8 10",
+    "d":"D) 2 4 6 8 10 12",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"2 to 8 by 2 is 2,4,6,8.",
+    "image":null,
+    "id":36,
+    "choices":[
+      "A) 2 4 6 8",
+      "B) 2 3 4 5 6 7 8 9",
+      "C) 2 4 6 8 10",
+      "D) 2 4 6 8 10 12"
+    ]
+  },
+  {
+    "question":"37. How many times does the following loop execute? `for i in range(1,5): print(i)`",
+    "type":"Multiple Choice",
+    "a":"A) 3",
+    "b":"B) 4",
+    "c":"C) 5",
+    "d":"D) 6",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"range(1,5): 1,2,3,4 (4 times).",
+    "image":null,
+    "id":37,
+    "choices":[
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ]
+  },
+  {
+    "question":"38. What is the output?<br>`x = 0<br>while x < 2:<br>  print(\"Loop\")<br>  x += 1`",
+    "type":"Multiple Choice",
+    "a":"A) Loop Loop",
+    "b":"B) Loop",
+    "c":"C) No output",
+    "d":"D) Loop 0 Loop 1",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Loop printed twice.",
+    "image":null,
+    "id":38,
+    "choices":[
+      "A) Loop Loop",
+      "B) Loop",
+      "C) No output",
+      "D) Loop 0 Loop 1"
+    ]
+  },
+  {
+    "question":"39. If x = 1, what is the output?<br>`if x: print(\"True\")<br>else: print(\"False\")`",
+    "type":"Multiple Choice",
+    "a":"A) True",
+    "b":"B) False",
+    "c":"C) 1",
+    "d":"D) x",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"1 is truthy in Python.",
+    "image":null,
+    "id":39,
+    "choices":[
+      "A) True",
+      "B) False",
+      "C) 1",
+      "D) x"
+    ]
+  },
+  {
+    "question":"40. Which outputs only odd numbers from 1 to 7 inclusive?",
+    "type":"Multiple Choice",
+    "a":"A) `for i in range(1,8,2): print(i)`",
+    "b":"B) `for i in range(2,8,2): print(i)`",
+    "c":"C) `for i in [1,3,5,7]: print(i)`",
+    "d":"D) Both A and C",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"Both loop forms print odd numbers.",
+    "image":null,
+    "id":40,
+    "choices":[
+      "A) `for i in range(1,8,2): print(i)`",
+      "B) `for i in range(2,8,2): print(i)`",
+      "C) `for i in [1,3,5,7]: print(i)`",
+      "D) Both A and C"
+    ]
+  },
+  {
+    "question":"41. Which is the correct syntax to define a function?",
+    "type":"Multiple Choice",
+    "a":"A) `func foo():`",
+    "b":"B) `function foo():`",
+    "c":"C) `def foo():`",
+    "d":"D) `define foo():`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"def is the syntax.",
+    "image":null,
+    "id":41,
+    "choices":[
+      "A) `func foo():`",
+      "B) `function foo():`",
+      "C) `def foo():`",
+      "D) `define foo():`"
+    ]
+  },
+  {
+    "question":"42. What is the output?<br>`def f(): pass<br>print(type(f))`",
+    "type":"Multiple Choice",
+    "a":"A) <class 'function'>",
+    "b":"B) function",
+    "c":"C) None",
+    "d":"D) <type 'function'>",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"type(f) is function class.",
+    "image":null,
+    "id":42,
+    "choices":[
+      "A) <class 'function'>",
+      "B) function",
+      "C) None",
+      "D) <type 'function'>"
+    ]
+  },
+  {
+    "question":"43. What is returned from a function, if there is no return statement?",
+    "type":"Multiple Choice",
+    "a":"A) None",
+    "b":"B) 0",
+    "c":"C) Error",
+    "d":"D) \"\"",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Functions without return statement return None.",
+    "image":null,
+    "id":43,
+    "choices":[
+      "A) None",
+      "B) 0",
+      "C) Error",
+      "D) \"\""
+    ]
+  },
+  {
+    "question":"44. What is printed?<br>`def add(x, y):<br>  return x + y<br>print(add(2, 3))`",
+    "type":"Multiple Choice",
+    "a":"A) 5",
+    "b":"B) 2+3",
+    "c":"C) add",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"2+3 is 5.",
+    "image":null,
+    "id":44,
+    "choices":[
+      "A) 5",
+      "B) 2+3",
+      "C) add",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"45. What is output?<br>`def foo():<br>  print(\"Hi\")<br>a = foo()<br>print(a)`",
+    "type":"Multiple Choice",
+    "a":"A) Hi None",
+    "b":"B) Hi",
+    "c":"C) None",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Prints \"Hi\", and then prints None (return value).",
+    "image":null,
+    "id":45,
+    "choices":[
+      "A) Hi None",
+      "B) Hi",
+      "C) None",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"46. Which is required to call a function named bar?",
+    "type":"Multiple Choice",
+    "a":"A) bar",
+    "b":"B) bar[]",
+    "c":"C) bar()",
+    "d":"D) call bar",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Functions are called with ().",
+    "image":null,
+    "id":46,
+    "choices":[
+      "A) bar",
+      "B) bar[]",
+      "C) bar()",
+      "D) call bar"
+    ]
+  },
+  {
+    "question":"47. What is the output?<br>`def f(x=2):<br>  print(x)<br>f()<br>f(5)`",
+    "type":"Multiple Choice",
+    "a":"A) 2 2",
+    "b":"B) 2 5",
+    "c":"C) 5 2",
+    "d":"D) 5 5",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Default value used first; then overwritten.",
+    "image":null,
+    "id":47,
+    "choices":[
+      "A) 2 2",
+      "B) 2 5",
+      "C) 5 2",
+      "D) 5 5"
+    ]
+  },
+  {
+    "question":"48. Which statement defines a function with parameters a and b?",
+    "type":"Multiple Choice",
+    "a":"A) `def f(a, b):`",
+    "b":"B) `function f(a b):`",
+    "c":"C) `def f(a b):`",
+    "d":"D) `func f(a, b):`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"def with parameter names in parentheses.",
+    "image":null,
+    "id":48,
+    "choices":[
+      "A) `def f(a, b):`",
+      "B) `function f(a b):`",
+      "C) `def f(a b):`",
+      "D) `func f(a, b):`"
+    ]
+  },
+  {
+    "question":"49. When is a default parameter value used?",
+    "type":"Multiple Choice",
+    "a":"A) Whenever specified explicitly",
+    "b":"B) When no value is passed for that parameter",
+    "c":"C) Only with global variables",
+    "d":"D) Default values are not allowed",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"When value is not passed.",
+    "image":null,
+    "id":49,
+    "choices":[
+      "A) Whenever specified explicitly",
+      "B) When no value is passed for that parameter",
+      "C) Only with global variables",
+      "D) Default values are not allowed"
+    ]
+  },
+  {
+    "question":"50. Which is the right syntax to return a value from a function?",
+    "type":"Multiple Choice",
+    "a":"A) give value",
+    "b":"B) send value",
+    "c":"C) return value",
+    "d":"D) output value",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Use return to send result.",
+    "image":null,
+    "id":50,
+    "choices":[
+      "A) give value",
+      "B) send value",
+      "C) return value",
+      "D) output value"
+    ]
+  },
+  {
+    "question":"1. Which of the following is mutable?",
+    "type":"Multiple Choice",
+    "a":"A) Tuple",
+    "b":"B) List",
+    "c":"C) String",
+    "d":"D) Integer",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Lists are mutable, others are immutable",
+    "image":null,
+    "id":51,
+    "choices":[
+      "A) Tuple",
+      "B) List",
+      "C) String",
+      "D) Integer"
+    ]
+  },
+  {
+    "question":"2. What is the correct way to create a tuple?",
+    "type":"Multiple Choice",
+    "a":"A) `my_tuple = (1, 2, 3)`",
+    "b":"B) `my_tuple = [1, 2, 3]`",
+    "c":"C) `my_tuple = {1, 2, 3}`",
+    "d":"D) `my_tuple = tuple[1, 2, 3]`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Parentheses are for tuples",
+    "image":null,
+    "id":52,
+    "choices":[
+      "A) `my_tuple = (1, 2, 3)`",
+      "B) `my_tuple = [1, 2, 3]`",
+      "C) `my_tuple = {1, 2, 3}`",
+      "D) `my_tuple = tuple[1, 2, 3]`"
+    ]
+  },
+  {
+    "question":"3. What happens if you try to assign a new value to an index of a tuple?",
+    "type":"Multiple Choice",
+    "a":"A) The assignment happens",
+    "b":"B) The tuple changes its value",
+    "c":"C) Python raises an error",
+    "d":"D) Nothing happens",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Tuples do not support item assignment",
+    "image":null,
+    "id":53,
+    "choices":[
+      "A) The assignment happens",
+      "B) The tuple changes its value",
+      "C) Python raises an error",
+      "D) Nothing happens"
+    ]
+  },
+  {
+    "question":"4. What is the output of:<br>`t = (1, 2, 3)<br>print(t[1])`",
+    "type":"Multiple Choice",
+    "a":"A) 1",
+    "b":"B) 2",
+    "c":"C) 3",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Indexing starts from 0",
+    "image":null,
+    "id":54,
+    "choices":[
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"5. Lists can:",
+    "type":"Multiple Choice",
+    "a":"A) Contain elements of different types",
+    "b":"B) Be resized",
+    "c":"C) Be nested",
+    "d":"D) All of the above",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"All of the above are true",
+    "image":null,
+    "id":55,
+    "choices":[
+      "A) Contain elements of different types",
+      "B) Be resized",
+      "C) Be nested",
+      "D) All of the above"
+    ]
+  },
+  {
+    "question":"6. Which of the following list operations is invalid?",
+    "type":"Multiple Choice",
+    "a":"A) `my_list.append(5)`",
+    "b":"B) `my_list.pop()`",
+    "c":"C) `my_list[1] = 8`",
+    "d":"D) `my_list[0,1] = [2,3]`",
+    "e":null,
+    "answer":[
+      4
+    ],
+    "explanation":"This syntax is invalid, slicing assignment must use colon",
+    "image":null,
+    "id":56,
+    "choices":[
+      "A) `my_list.append(5)`",
+      "B) `my_list.pop()`",
+      "C) `my_list[1] = 8`",
+      "D) `my_list[0,1] = [2,3]`"
+    ]
+  },
+  {
+    "question":"7. Which of the following is NOT a valid tuple method?",
+    "type":"Multiple Choice",
+    "a":"A) `count()`",
+    "b":"B) `index()`",
+    "c":"C) `append()`",
+    "d":"D) `len()`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Tuples do not have append()",
+    "image":null,
+    "id":57,
+    "choices":[
+      "A) `count()`",
+      "B) `index()`",
+      "C) `append()`",
+      "D) `len()`"
+    ]
+  },
+  {
+    "question":"8. How do you convert a list into a tuple?",
+    "type":"Multiple Choice",
+    "a":"A) `tuple(list_var)`",
+    "b":"B) `list_var.tuple()`",
+    "c":"C) `to_tuple(list_var)`",
+    "d":"D) `tuple_of(list_var)`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"tuple(list_var)",
+    "image":null,
+    "id":58,
+    "choices":[
+      "A) `tuple(list_var)`",
+      "B) `list_var.tuple()`",
+      "C) `to_tuple(list_var)`",
+      "D) `tuple_of(list_var)`"
+    ]
+  },
+  {
+    "question":"9. Why are tuples considered safer than lists when used as keys in dictionaries?",
+    "type":"Multiple Choice",
+    "a":"A) Tuples are mutable",
+    "b":"B) Tuples are immutable",
+    "c":"C) Tuples are faster",
+    "d":"D) Tuples are longer",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Immutability makes them hashable (usable as dict keys)",
+    "image":null,
+    "id":59,
+    "choices":[
+      "A) Tuples are mutable",
+      "B) Tuples are immutable",
+      "C) Tuples are faster",
+      "D) Tuples are longer"
+    ]
+  },
+  {
+    "question":"10. Which will create an empty list?",
+    "type":"Multiple Choice",
+    "a":"A) []",
+    "b":"B) tuple()",
+    "c":"C) list[]",
+    "d":"D) ( )",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"[] creates a list",
+    "image":null,
+    "id":60,
+    "choices":[
+      "A) []",
+      "B) tuple()",
+      "C) list[]",
+      "D) ( )"
+    ]
+  },
+  {
+    "question":"11. Which data structure stores data as key-value pairs?",
+    "type":"Multiple Choice",
+    "a":"A) List",
+    "b":"B) Dictionary",
+    "c":"C) Set",
+    "d":"D) Tuple",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Key-value pairs for dictionaries",
+    "image":null,
+    "id":61,
+    "choices":[
+      "A) List",
+      "B) Dictionary",
+      "C) Set",
+      "D) Tuple"
+    ]
+  },
+  {
+    "question":"12. What is the correct way to add a new item to a dictionary?",
+    "type":"Multiple Choice",
+    "a":"A) `d[’key’] = value`",
+    "b":"B) `d.add(’key’, value)`",
+    "c":"C) `d.append(’key’, value)`",
+    "d":"D) `d.insert(’key’, value)`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Key assignment syntax",
+    "image":null,
+    "id":62,
+    "choices":[
+      "A) `d[’key’] = value`",
+      "B) `d.add(’key’, value)`",
+      "C) `d.append(’key’, value)`",
+      "D) `d.insert(’key’, value)`"
+    ]
+  },
+  {
+    "question":"13. What is the result of<br>`d = {'a':1, 'b':2}; print(d['c'])`?",
+    "type":"Multiple Choice",
+    "a":"A) `0`",
+    "b":"B) `''`",
+    "c":"C) `KeyError`",
+    "d":"D) `None`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"No such key; KeyError",
+    "image":null,
+    "id":63,
+    "choices":[
+      "A) `0`",
+      "B) `''`",
+      "C) `KeyError`",
+      "D) `None`"
+    ]
+  },
+  {
+    "question":"14. Which method removes a key-value pair from a dictionary?",
+    "type":"Multiple Choice",
+    "a":"A) `pop()`",
+    "b":"B) `remove()`",
+    "c":"C) `delete()`",
+    "d":"D) `discard()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"pop() removes items",
+    "image":null,
+    "id":64,
+    "choices":[
+      "A) `pop()`",
+      "B) `remove()`",
+      "C) `delete()`",
+      "D) `discard()`"
+    ]
+  },
+  {
+    "question":"15. What does `dict1.update(dict2)` do?",
+    "type":"Multiple Choice",
+    "a":"A) Replaces dict1 with dict2",
+    "b":"B) Adds key-value pairs from dict2 into dict1",
+    "c":"C) Deletes dict2",
+    "d":"D) Adds dict1 to dict2",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Adds (or updates) key-values from dict2 to dict1",
+    "image":null,
+    "id":65,
+    "choices":[
+      "A) Replaces dict1 with dict2",
+      "B) Adds key-value pairs from dict2 into dict1",
+      "C) Deletes dict2",
+      "D) Adds dict1 to dict2"
+    ]
+  },
+  {
+    "question":"16. What does the `keys()` method return?",
+    "type":"Multiple Choice",
+    "a":"A) An integer",
+    "b":"B) List of values",
+    "c":"C) List of keys",
+    "d":"D) A tuple",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Returns dict_keys of keys",
+    "image":null,
+    "id":66,
+    "choices":[
+      "A) An integer",
+      "B) List of values",
+      "C) List of keys",
+      "D) A tuple"
+    ]
+  },
+  {
+    "question":"17. Which is correct syntax to loop through all values in a dictionary d?",
+    "type":"Multiple Choice",
+    "a":"A) `for v in d.values():`",
+    "b":"B) `for v in d.get():`",
+    "c":"C) `for v in d.all():`",
+    "d":"D) `for v in d.items():`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"for v in d.values():",
+    "image":null,
+    "id":67,
+    "choices":[
+      "A) `for v in d.values():`",
+      "B) `for v in d.get():`",
+      "C) `for v in d.all():`",
+      "D) `for v in d.items():`"
+    ]
+  },
+  {
+    "question":"18. Can dictionary keys be mutable data types?",
+    "type":"Multiple Choice",
+    "a":"A) Yes",
+    "b":"B) No",
+    "c":null,
+    "d":null,
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Keys must be immutable",
+    "image":null,
+    "id":68,
+    "choices":[
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  {
+    "question":"19. Which will create an empty dictionary?",
+    "type":"Multiple Choice",
+    "a":"A) `{}`",
+    "b":"B) `[]`",
+    "c":"C) `()`",
+    "d":"D) `set()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"{} is empty dict",
+    "image":null,
+    "id":69,
+    "choices":[
+      "A) `{}`",
+      "B) `[]`",
+      "C) `()`",
+      "D) `set()`"
+    ]
+  },
+  {
+    "question":"20. What will `list({'x':1,'y':2}.values())` output?",
+    "type":"Multiple Choice",
+    "a":"A) `[‘x’, ‘y’]`",
+    "b":"B) `[1, 2]`",
+    "c":"C) `[(‘x’,1), (‘y’,2)]`",
+    "d":"D) `‘xy’`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"[1, 2] are the values",
+    "image":null,
+    "id":70,
+    "choices":[
+      "A) `[‘x’, ‘y’]`",
+      "B) `[1, 2]`",
+      "C) `[(‘x’,1), (‘y’,2)]`",
+      "D) `‘xy’`"
+    ]
+  },
+  {
+    "question":"21. What does the `input()` function do?",
+    "type":"Multiple Choice",
+    "a":"A) Reads from a file",
+    "b":"B) Writes to a file",
+    "c":"C) Takes input from the user",
+    "d":"D) Prints a value",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"input() is for user input",
+    "image":null,
+    "id":71,
+    "choices":[
+      "A) Reads from a file",
+      "B) Writes to a file",
+      "C) Takes input from the user",
+      "D) Prints a value"
+    ]
+  },
+  {
+    "question":"22. Given `input_str = input(\"Enter something: \")`, what will `input_str` contain?",
+    "type":"Multiple Choice",
+    "a":"A) The prompt message",
+    "b":"B) The user’s input",
+    "c":"C) Nothing",
+    "d":"D) An error",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"It stores user’s input",
+    "image":null,
+    "id":72,
+    "choices":[
+      "A) The prompt message",
+      "B) The user’s input",
+      "C) Nothing",
+      "D) An error"
+    ]
+  },
+  {
+    "question":"23. Which mode opens a file for writing (and truncates the file to zero length)?",
+    "type":"Multiple Choice",
+    "a":"A) ‘w’",
+    "b":"B) ‘r’",
+    "c":"C) ‘a’",
+    "d":"D) ‘r+’",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"w' is for writing",
+    "image":null,
+    "id":73,
+    "choices":[
+      "A) ‘w’",
+      "B) ‘r’",
+      "C) ‘a’",
+      "D) ‘r+’"
+    ]
+  },
+  {
+    "question":"24. To read all lines from a file into a list, you can use:",
+    "type":"Multiple Choice",
+    "a":"A) `file.read()`",
+    "b":"B) `file.input()`",
+    "c":"C) `file.readlines()`",
+    "d":"D) `file.readline()`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":".readlines() returns all lines as list",
+    "image":null,
+    "id":74,
+    "choices":[
+      "A) `file.read()`",
+      "B) `file.input()`",
+      "C) `file.readlines()`",
+      "D) `file.readline()`"
+    ]
+  },
+  {
+    "question":"25. What is the correct and safest way to open and work with a file?",
+    "type":"Multiple Choice",
+    "a":"A) `file = open('file.txt')`",
+    "b":"B) `open('file.txt').read()`",
+    "c":"C) `with open('file.txt', 'r') as file:`",
+    "d":"D) `open('file.txt', -r)`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"with' is best practice for closing files",
+    "image":null,
+    "id":75,
+    "choices":[
+      "A) `file = open('file.txt')`",
+      "B) `open('file.txt').read()`",
+      "C) `with open('file.txt', 'r') as file:`",
+      "D) `open('file.txt', -r)`"
+    ]
+  },
+  {
+    "question":"26. What happens if you try to open a non-existent file in read mode?",
+    "type":"Multiple Choice",
+    "a":"A) Returns empty string",
+    "b":"B) File is created",
+    "c":"C) Raises FileNotFoundError",
+    "d":"D) Opens an empty file",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Raises FileNotFoundError",
+    "image":null,
+    "id":76,
+    "choices":[
+      "A) Returns empty string",
+      "B) File is created",
+      "C) Raises FileNotFoundError",
+      "D) Opens an empty file"
+    ]
+  },
+  {
+    "question":"27. After reading a file, which method closes it?",
+    "type":"Multiple Choice",
+    "a":"A) `file.close()`",
+    "b":"B) `file.stop()`",
+    "c":"C) `file.finish()`",
+    "d":"D) `file.end()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":".close() closes",
+    "image":null,
+    "id":77,
+    "choices":[
+      "A) `file.close()`",
+      "B) `file.stop()`",
+      "C) `file.finish()`",
+      "D) `file.end()`"
+    ]
+  },
+  {
+    "question":"28. What is the output of:<br>`with open('test.txt', 'a') as f: f.write('Hello')`",
+    "type":"Multiple Choice",
+    "a":"A) 'Hello' is appended to 'test.txt'",
+    "b":"B) 'Hello' replaces content of 'test.txt'",
+    "c":"C) Nothing happens",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Appends 'Hello'",
+    "image":null,
+    "id":78,
+    "choices":[
+      "A) 'Hello' is appended to 'test.txt'",
+      "B) 'Hello' replaces content of 'test.txt'",
+      "C) Nothing happens",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"29. Which function prints output to the terminal?",
+    "type":"Multiple Choice",
+    "a":"A) `print()`",
+    "b":"B) `input()`",
+    "c":"C) `write()`",
+    "d":"D) `output()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"print() outputs",
+    "image":null,
+    "id":79,
+    "choices":[
+      "A) `print()`",
+      "B) `input()`",
+      "C) `write()`",
+      "D) `output()`"
+    ]
+  },
+  {
+    "question":"30. Which method will read the whole file content as a string?",
+    "type":"Multiple Choice",
+    "a":"A) `file.read()`",
+    "b":"B) `file.readlines()`",
+    "c":"C) `file.readline()`",
+    "d":"D) `file.input()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":".read() gives full content as string",
+    "image":null,
+    "id":80,
+    "choices":[
+      "A) `file.read()`",
+      "B) `file.readlines()`",
+      "C) `file.readline()`",
+      "D) `file.input()`"
+    ]
+  },
+  {
+    "question":"31. Which library is primarily used for numerical computing?",
+    "type":"Multiple Choice",
+    "a":"A) Matplotlib",
+    "b":"B) NumPy",
+    "c":"C) Pandas",
+    "d":"D) Turtle",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"NumPy for computation",
+    "image":null,
+    "id":81,
+    "choices":[
+      "A) Matplotlib",
+      "B) NumPy",
+      "C) Pandas",
+      "D) Turtle"
+    ]
+  },
+  {
+    "question":"32. What does import numpy as np allow you to do?",
+    "type":"Multiple Choice",
+    "a":"A) Use np as a variable",
+    "b":"B) Use NumPy functions with np as alias",
+    "c":"C) Use numpy as a string",
+    "d":"D) Nothing",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"np is commonly used alias",
+    "image":null,
+    "id":82,
+    "choices":[
+      "A) Use np as a variable",
+      "B) Use NumPy functions with np as alias",
+      "C) Use numpy as a string",
+      "D) Nothing"
+    ]
+  },
+  {
+    "question":"33. What is an ndarray in NumPy?",
+    "type":"Multiple Choice",
+    "a":"A) A number",
+    "b":"B) A multidimensional array",
+    "c":"C) A DataFrame",
+    "d":"D) A list",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Multidimensional array",
+    "image":null,
+    "id":83,
+    "choices":[
+      "A) A number",
+      "B) A multidimensional array",
+      "C) A DataFrame",
+      "D) A list"
+    ]
+  },
+  {
+    "question":"34. Which of the following creates a 2x2 array of zeros in NumPy?",
+    "type":"Multiple Choice",
+    "a":"A) `np.ones((2,2))`",
+    "b":"B) `np.zeros((2,2))`",
+    "c":"C) `np.empty((2,2))`",
+    "d":"D) `np.zeroes(2,2)`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"np.zeros((2,2))",
+    "image":null,
+    "id":84,
+    "choices":[
+      "A) `np.ones((2,2))`",
+      "B) `np.zeros((2,2))`",
+      "C) `np.empty((2,2))`",
+      "D) `np.zeroes(2,2)`"
+    ]
+  },
+  {
+    "question":"35. Which function in NumPy computes the mean of an array?",
+    "type":"Multiple Choice",
+    "a":"A) `np.sum()`",
+    "b":"B) `np.mean()`",
+    "c":"C) `np.avg()`",
+    "d":"D) `np.calculate_mean()`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"np.mean()",
+    "image":null,
+    "id":85,
+    "choices":[
+      "A) `np.sum()`",
+      "B) `np.mean()`",
+      "C) `np.avg()`",
+      "D) `np.calculate_mean()`"
+    ]
+  },
+  {
+    "question":"36. Which library helps in creating plots and visualizations in Python?",
+    "type":"Multiple Choice",
+    "a":"A) Matplotlib",
+    "b":"B) NumPy",
+    "c":"C) Turtle",
+    "d":"D) Pandas",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Matplotlib",
+    "image":null,
+    "id":86,
+    "choices":[
+      "A) Matplotlib",
+      "B) NumPy",
+      "C) Turtle",
+      "D) Pandas"
+    ]
+  },
+  {
+    "question":"37. What does `plt.plot([1,2,3],[4,5,6])` do in Matplotlib?",
+    "type":"Multiple Choice",
+    "a":"A) Makes a bar chart",
+    "b":"B) Makes a line graph",
+    "c":"C) Makes a pie chart",
+    "d":"D) Errors out",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Makes a line plot",
+    "image":null,
+    "id":87,
+    "choices":[
+      "A) Makes a bar chart",
+      "B) Makes a line graph",
+      "C) Makes a pie chart",
+      "D) Errors out"
+    ]
+  },
+  {
+    "question":"38. How do you display a plot using Matplotlib?",
+    "type":"Multiple Choice",
+    "a":"A) `plt.show()`",
+    "b":"B) `plt.display()`",
+    "c":"C) `plt.visualize()`",
+    "d":"D) `plt.open()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"plt.show() shows the plot",
+    "image":null,
+    "id":88,
+    "choices":[
+      "A) `plt.show()`",
+      "B) `plt.display()`",
+      "C) `plt.visualize()`",
+      "D) `plt.open()`"
+    ]
+  },
+  {
+    "question":"39. What does Pandas mainly provide?",
+    "type":"Multiple Choice",
+    "a":"A) Graphics",
+    "b":"B) Structured data analysis and manipulation",
+    "c":"C) File reading",
+    "d":"D) Animation",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Pandas is for data manipulation",
+    "image":null,
+    "id":89,
+    "choices":[
+      "A) Graphics",
+      "B) Structured data analysis and manipulation",
+      "C) File reading",
+      "D) Animation"
+    ]
+  },
+  {
+    "question":"40. How do you read a CSV file into a Pandas DataFrame?",
+    "type":"Multiple Choice",
+    "a":"A) `pd.load_csv('file.csv')`",
+    "b":"B) `pd.read_csv('file.csv')`",
+    "c":"C) `pd.input_csv('file.csv')`",
+    "d":"D) `pd.open_csv('file.csv')`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"pd.read_csv('file.csv')",
+    "image":null,
+    "id":90,
+    "choices":[
+      "A) `pd.load_csv('file.csv')`",
+      "B) `pd.read_csv('file.csv')`",
+      "C) `pd.input_csv('file.csv')`",
+      "D) `pd.open_csv('file.csv')`"
+    ]
+  },
+  {
+    "question":"41. What object is created by pd.Series([1,2,3])?",
+    "type":"Multiple Choice",
+    "a":"A) A list",
+    "b":"B) A NumPy array",
+    "c":"C) A Pandas Series",
+    "d":"D) A DataFrame",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Pandas Series",
+    "image":null,
+    "id":91,
+    "choices":[
+      "A) A list",
+      "B) A NumPy array",
+      "C) A Pandas Series",
+      "D) A DataFrame"
+    ]
+  },
+  {
+    "question":"42. How do you display the first N rows of a DataFrame df?",
+    "type":"Multiple Choice",
+    "a":"A) `df.head(N)`",
+    "b":"B) `df.top(N)`",
+    "c":"C) `df.slice(N)`",
+    "d":"D) `df.view(N)`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"df.head(N) shows first N rows",
+    "image":null,
+    "id":92,
+    "choices":[
+      "A) `df.head(N)`",
+      "B) `df.top(N)`",
+      "C) `df.slice(N)`",
+      "D) `df.view(N)`"
+    ]
+  },
+  {
+    "question":"43. How can you select a column named 'age' from a pandas DataFrame df?",
+    "type":"Multiple Choice",
+    "a":"A) `df.age`",
+    "b":"B) `df['age']`",
+    "c":"C) Both A and B",
+    "d":"D) `df.get('age')`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"Both df['age'] and df.age select the column (if no space\/special char in name)",
+    "image":null,
+    "id":93,
+    "choices":[
+      "A) `df.age`",
+      "B) `df['age']`",
+      "C) Both A and B",
+      "D) `df.get('age')`"
+    ]
+  },
+  {
+    "question":"44. What does `df.info()` show you about a DataFrame?",
+    "type":"Multiple Choice",
+    "a":"A) The first few rows",
+    "b":"B) Summary including data types and null counts",
+    "c":"C) Histogram",
+    "d":"D) The last few rows",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":".info() gives schema, data types, nulls, etc.",
+    "image":null,
+    "id":94,
+    "choices":[
+      "A) The first few rows",
+      "B) Summary including data types and null counts",
+      "C) Histogram",
+      "D) The last few rows"
+    ]
+  },
+  {
+    "question":"45. What is the result of `np.array([1, 2]) + np.array([3, 4])`?",
+    "type":"Multiple Choice",
+    "a":"A) `[4, 6]`",
+    "b":"B) `[1, 2, 3, 4]`",
+    "c":"C) `[3, 6]`",
+    "d":"D) Error",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Elementwise sum: [1+3, 2+4] → [4,6]",
+    "image":null,
+    "id":95,
+    "choices":[
+      "A) `[4, 6]`",
+      "B) `[1, 2, 3, 4]`",
+      "C) `[3, 6]`",
+      "D) Error"
+    ]
+  },
+  {
+    "question":"46. Which matplotlib method creates scatter plots?",
+    "type":"Multiple Choice",
+    "a":"A) `plt.bar()`",
+    "b":"B) `plt.scatter()`",
+    "c":"C) `plt.line()`",
+    "d":"D) `plt.pie()`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"plt.scatter() for scatter plots",
+    "image":null,
+    "id":96,
+    "choices":[
+      "A) `plt.bar()`",
+      "B) `plt.scatter()`",
+      "C) `plt.line()`",
+      "D) `plt.pie()`"
+    ]
+  },
+  {
+    "question":"47. What does the axis argument in many NumPy functions (like `np.sum(arr, axis=0)`) specify?",
+    "type":"Multiple Choice",
+    "a":"A) The data type",
+    "b":"B) Sum across columns\/rows",
+    "c":"C) The file name",
+    "d":"D) Whether data is modified in place",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"axis=0 means columns, axis=1 means rows (see docs for details)",
+    "image":null,
+    "id":97,
+    "choices":[
+      "A) The data type",
+      "B) Sum across columns\/rows",
+      "C) The file name",
+      "D) Whether data is modified in place"
+    ]
+  },
+  {
+    "question":"48. What does `df['age'].mean()` return if 'age' is a column of numbers in DataFrame `df`?",
+    "type":"Multiple Choice",
+    "a":"A) Maximum",
+    "b":"B) Minimum",
+    "c":"C) Average",
+    "d":"D) Median",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":".mean() gives column average",
+    "image":null,
+    "id":98,
+    "choices":[
+      "A) Maximum",
+      "B) Minimum",
+      "C) Average",
+      "D) Median"
+    ]
+  },
+  {
+    "question":"49. If `arr = np.array([[1,2],[3,4]])`, what is arr.shape?",
+    "type":"Multiple Choice",
+    "a":"A) 2",
+    "b":"B) `(2,2)`",
+    "c":"C) `[2,2]`",
+    "d":"D) `(4,)`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Shape (rows, columns), here it's a 2x2 array",
+    "image":null,
+    "id":99,
+    "choices":[
+      "A) 2",
+      "B) `(2,2)`",
+      "C) `[2,2]`",
+      "D) `(4,)`"
+    ]
+  },
+  {
+    "question":"50. Which of these will NOT work for installing a Python package?",
+    "type":"Multiple Choice",
+    "a":"A) `pip install pandas`",
+    "b":"B) `import pandas`",
+    "c":"C) `conda install pandas`",
+    "d":"D) Installing from PyPI",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"import pandas only imports, doesn't install",
+    "image":null,
+    "id":100,
+    "choices":[
+      "A) `pip install pandas`",
+      "B) `import pandas`",
+      "C) `conda install pandas`",
+      "D) Installing from PyPI"
+    ]
+  },
+  {
+    "question":"51. Which of the following is the correct way to create an empty set?",
+    "type":"Multiple Choice",
+    "a":"A) `s = {}`",
+    "b":"B) `s = set()`",
+    "c":"C) `s = []`",
+    "d":"D) `s = ()`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Use set() for empty set; {} creates an empty dict.",
+    "image":null,
+    "id":101,
+    "choices":[
+      "A) `s = {}`",
+      "B) `s = set()`",
+      "C) `s = []`",
+      "D) `s = ()`"
+    ]
+  },
+  {
+    "question":"52. What will the following code print? `s = {1, 2, 3, 2}<br>print(s)`",
+    "type":"Multiple Choice",
+    "a":"A) `{1, 2, 2, 3}`",
+    "b":"B) `{1, 2, 3}`",
+    "c":"C) `[1, 2, 3, 2]`",
+    "d":"D) `[1, 2, 3]`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"Sets don't allow duplicates; {1, 2, 3, 2} becomes {1, 2, 3}.",
+    "image":null,
+    "id":102,
+    "choices":[
+      "A) `{1, 2, 2, 3}`",
+      "B) `{1, 2, 3}`",
+      "C) `[1, 2, 3, 2]`",
+      "D) `[1, 2, 3]`"
+    ]
+  },
+  {
+    "question":"53. Which of these set operations will remove an arbitrary element?",
+    "type":"Multiple Choice",
+    "a":"A) `remove()`",
+    "b":"B) `discard()`",
+    "c":"C) `pop()`",
+    "d":"D) `clear()`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"pop() removes and returns an arbitrary element.",
+    "image":null,
+    "id":103,
+    "choices":[
+      "A) `remove()`",
+      "B) `discard()`",
+      "C) `pop()`",
+      "D) `clear()`"
+    ]
+  },
+  {
+    "question":"54. What is the result of `s1 = {1,2,3}; s2 = {3,4,5}; print(s1 & s2)`?",
+    "type":"Multiple Choice",
+    "a":"A) `{1, 2, 3, 4, 5}`",
+    "b":"B) `[3]`",
+    "c":"C) `{3}`",
+    "d":"D) `(3,)`",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"& is set intersection; only {3} is common.",
+    "image":null,
+    "id":104,
+    "choices":[
+      "A) `{1, 2, 3, 4, 5}`",
+      "B) `[3]`",
+      "C) `{3}`",
+      "D) `(3,)`"
+    ]
+  },
+  {
+    "question":"55. Which method adds a single element to a set?",
+    "type":"Multiple Choice",
+    "a":"A) `append()`",
+    "b":"B) `add()`",
+    "c":"C) `extend()`",
+    "d":"D) `insert()`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"add() method adds single elements.",
+    "image":null,
+    "id":105,
+    "choices":[
+      "A) `append()`",
+      "B) `add()`",
+      "C) `extend()`",
+      "D) `insert()`"
+    ]
+  },
+  {
+    "question":"56. What will be the output of:<br>`s = set([1,2,3])<br>s.add(4)<br>print(s)`",
+    "type":"Multiple Choice",
+    "a":"A) `[1, 2, 3, 4]`",
+    "b":"B) `{1, 2, 3, 4}`",
+    "c":"C) `(1, 2, 3, 4)`",
+    "d":"D) `{4, 3, 2, 1, 4}`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"After adding 4, set is {1, 2, 3, 4}.",
+    "image":null,
+    "id":106,
+    "choices":[
+      "A) `[1, 2, 3, 4]`",
+      "B) `{1, 2, 3, 4}`",
+      "C) `(1, 2, 3, 4)`",
+      "D) `{4, 3, 2, 1, 4}`"
+    ]
+  },
+  {
+    "question":"57. Which statement about sets is FALSE?",
+    "type":"Multiple Choice",
+    "a":"A) Sets are unordered",
+    "b":"B) Sets cannot have duplicate values",
+    "c":"C) Set items are accessed by index",
+    "d":"D) Sets are mutable",
+    "e":null,
+    "answer":[
+      3
+    ],
+    "explanation":"You cannot access set items by index (set is unordered).",
+    "image":null,
+    "id":107,
+    "choices":[
+      "A) Sets are unordered",
+      "B) Sets cannot have duplicate values",
+      "C) Set items are accessed by index",
+      "D) Sets are mutable"
+    ]
+  },
+  {
+    "question":"58. Which set method returns the number of elements in a set?",
+    "type":"Multiple Choice",
+    "a":"A) `len(s)`",
+    "b":"B) `count()`",
+    "c":"C) `size()`",
+    "d":"D) `length()`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"Use len(s) to get set size (not a method, but a function).",
+    "image":null,
+    "id":108,
+    "choices":[
+      "A) `len(s)`",
+      "B) `count()`",
+      "C) `size()`",
+      "D) `length()`"
+    ]
+  },
+  {
+    "question":"59. What is the output of:<br>`a = {1, 2}<br>b = {2, 3}<br>print(a | b)`",
+    "type":"Multiple Choice",
+    "a":"A) `{2}`",
+    "b":"B) `{1, 2, 3}`",
+    "c":"C) `[1, 2, 3]`",
+    "d":"D) `{1, 2}`",
+    "e":null,
+    "answer":[
+      2
+    ],
+    "explanation":"| is set union; combines all unique elements: {1, 2, 3}.",
+    "image":null,
+    "id":109,
+    "choices":[
+      "A) `{2}`",
+      "B) `{1, 2, 3}`",
+      "C) `[1, 2, 3]`",
+      "D) `{1, 2}`"
+    ]
+  },
+  {
+    "question":"60. Which is the result of s1 - s2 where `s1 = {1,2,3}` and `s2 = {2,3,4}`?",
+    "type":"Multiple Choice",
+    "a":"A) `{1}`",
+    "b":"B) `{4}`",
+    "c":"C) `{2, 3}`",
+    "d":"D) `{1, 4}`",
+    "e":null,
+    "answer":[
+      1
+    ],
+    "explanation":"s1 - s2 is set difference; {1,2,3} - {2,3,4} is {1}.",
+    "image":null,
+    "id":110,
+    "choices":[
+      "A) `{1}`",
+      "B) `{4}`",
+      "C) `{2, 3}`",
+      "D) `{1, 4}`"
+    ]
+  }
+]

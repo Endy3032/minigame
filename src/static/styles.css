@@ -11,3 +11,8 @@
 		display: block !important;
 	}
 }
+
+code {
+	display: inline-block;
+	text-align: left;
+}

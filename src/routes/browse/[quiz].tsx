@@ -30,7 +30,11 @@ export default function QuizPage(props: PageProps) {
 				<div key={i} class="flex flex-col gap-3 p-4 rounded-lg border border-zinc-700 shadow-md w-full">
 					<h2 class="text-xl whitespace-pre-wrap font-semibold leading-snug">
 						<span class="float-right ms-2 mb-2 text-sm text-zinc-400">#{q.id}</span>
-						<span>{q.question}</span>
+						<span
+							// deno-lint-ignore react-no-danger
+							dangerouslySetInnerHTML={{ __html: q.question.replace(/`([^`]+)`/g, "<code>$1</code>") }}
+						>
+						</span>
 					</h2>
 					{q.image && <img src={q.image} alt="Question Image" class="rounded-md max-w-[min(32rem,100%)] max-h-[32rem] mx-auto" />}
 					<ul class="grid grid-cols-1 md:grid-cols-2 gap-2">
@@ -41,7 +45,11 @@ export default function QuizPage(props: PageProps) {
 									? "bg-emerald-700"
 									: "bg-zinc-700/50",
 							)}>
-								<span>{choice}</span>
+								<span
+									// deno-lint-ignore react-no-danger
+									dangerouslySetInnerHTML={{ __html: choice.toString().replace(/`([^`]+)`/g, "<code>$1</code>") }}
+								>
+								</span>
 							</li>
 						))}
 					</ul>
